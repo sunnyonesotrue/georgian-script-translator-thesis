@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_ab104f39.png
+centerX: 0.9111
+centerY: 0.4690
+width: 0.0377
+height: 0.0308
+Area: 0.0007
+CentroidX: 0.9264
+CentroidY: 0.4840

@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_0429d588.png
+centerX: 0.5489
+centerY: 0.1612
+width: 0.0195
+height: 0.0153
+Area: 0.0001
+CentroidX: 0.5583
+CentroidY: 0.1681

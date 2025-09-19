@@ -1,0 +1,9 @@
+Location:2025-04-19_204725-1
+Component: 2025-04-19_204725-1_contour_afad3184.png
+centerX: 0.7438
+centerY: 0.0137
+width: 0.0300
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.7568
+CentroidY: 0.0274

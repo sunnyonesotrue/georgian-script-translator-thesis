@@ -1,0 +1,9 @@
+Location:2025-04-18_221256-1
+Component: 2025-04-18_221256-1_contour_6231afec.png
+centerX: 0.2933
+centerY: 0.8220
+width: 0.0318
+height: 0.0329
+Area: 0.0004
+CentroidX: 0.3092
+CentroidY: 0.8365

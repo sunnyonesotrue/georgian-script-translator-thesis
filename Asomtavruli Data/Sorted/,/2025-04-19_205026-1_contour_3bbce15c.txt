@@ -1,0 +1,9 @@
+Location:2025-04-19_205026-1
+Component: 2025-04-19_205026-1_contour_3bbce15c.png
+centerX: 0.0130
+centerY: 0.0064
+width: 0.9729
+height: 0.0030
+Area: 0.0005
+CentroidX: 0.5577
+CentroidY: 0.0068

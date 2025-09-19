@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_927d2edc.png
+centerX: 0.8816
+centerY: 0.0877
+width: 0.0283
+height: 0.0278
+Area: 0.0005
+CentroidX: 0.8934
+CentroidY: 0.1010

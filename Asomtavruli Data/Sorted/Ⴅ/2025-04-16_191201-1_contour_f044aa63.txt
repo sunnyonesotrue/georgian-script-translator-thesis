@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_f044aa63.png
+centerX: 0.3257
+centerY: 0.0736
+width: 0.0377
+height: 0.0391
+Area: 0.0004
+CentroidX: 0.3439
+CentroidY: 0.0895

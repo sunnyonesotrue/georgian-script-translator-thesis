@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_905defdb.png
+centerX: 0.3068
+centerY: 0.0419
+width: 0.0216
+height: 0.0532
+Area: 0.0005
+CentroidX: 0.3194
+CentroidY: 0.0674

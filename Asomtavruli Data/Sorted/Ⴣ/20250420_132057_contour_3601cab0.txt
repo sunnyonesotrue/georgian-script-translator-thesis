@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_3601cab0.png
+centerX: 0.9586
+centerY: 0.5430
+width: 0.0252
+height: 0.0606
+Area: 0.0006
+CentroidX: 0.9753
+CentroidY: 0.5708

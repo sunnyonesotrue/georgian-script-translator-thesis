@@ -1,0 +1,9 @@
+Location:2025-04-19_205840-1
+Component: 2025-04-19_205840-1_contour_6fc2ce22.png
+centerX: 0.1243
+centerY: 0.4715
+width: 0.0324
+height: 0.0261
+Area: 0.0004
+CentroidX: 0.1408
+CentroidY: 0.4844

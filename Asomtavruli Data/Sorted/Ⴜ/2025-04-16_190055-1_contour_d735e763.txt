@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_d735e763.png
+centerX: 0.6190
+centerY: 0.0860
+width: 0.0230
+height: 0.0312
+Area: 0.0005
+CentroidX: 0.6296
+CentroidY: 0.0988

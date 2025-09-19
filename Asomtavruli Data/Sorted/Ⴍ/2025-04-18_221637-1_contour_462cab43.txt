@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_462cab43.png
+centerX: 0.3345
+centerY: 0.4065
+width: 0.0312
+height: 0.0287
+Area: 0.0006
+CentroidX: 0.3481
+CentroidY: 0.4211

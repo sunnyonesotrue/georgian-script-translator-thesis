@@ -1,0 +1,9 @@
+Location:hard6_Otsu
+Component: hard6_Otsu_contour_4dbbedc3.png
+centerX: 0.8135
+centerY: 0.2605
+width: 0.0220
+height: 0.0287
+Area: 0.0001
+CentroidX: 0.8233
+CentroidY: 0.2746

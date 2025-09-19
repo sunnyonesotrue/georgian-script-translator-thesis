@@ -1,0 +1,9 @@
+Location:hard9_Otsu
+Component: hard9_Otsu_contour_3ce620bb.png
+centerX: 0.5573
+centerY: 0.4531
+width: 0.0085
+height: 0.0185
+Area: 0.0001
+CentroidX: 0.5615
+CentroidY: 0.4622

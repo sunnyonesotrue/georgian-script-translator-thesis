@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_b0faf272.png
+centerX: 0.0654
+centerY: 0.3671
+width: 0.0265
+height: 0.0270
+Area: 0.0004
+CentroidX: 0.0760
+CentroidY: 0.3800

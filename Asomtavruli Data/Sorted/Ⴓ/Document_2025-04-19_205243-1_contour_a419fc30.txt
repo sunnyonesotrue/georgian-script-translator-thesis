@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_a419fc30.png
+centerX: 0.5660
+centerY: 0.1249
+width: 0.0283
+height: 0.0257
+Area: 0.0004
+CentroidX: 0.5771
+CentroidY: 0.1374

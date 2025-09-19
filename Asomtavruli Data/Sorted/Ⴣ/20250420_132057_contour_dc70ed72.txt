@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_dc70ed72.png
+centerX: 0.8929
+centerY: 0.0074
+width: 0.0198
+height: 0.0600
+Area: 0.0005
+CentroidX: 0.9051
+CentroidY: 0.0334

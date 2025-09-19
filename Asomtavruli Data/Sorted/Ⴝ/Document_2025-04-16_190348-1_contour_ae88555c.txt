@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190348-1
+Component: Document_2025-04-16_190348-1_contour_ae88555c.png
+centerX: 0.3121
+centerY: 0.3573
+width: 0.0283
+height: 0.0342
+Area: 0.0005
+CentroidX: 0.3274
+CentroidY: 0.3740

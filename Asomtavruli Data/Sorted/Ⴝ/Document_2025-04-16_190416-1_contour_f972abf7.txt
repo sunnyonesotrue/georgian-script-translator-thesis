@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190416-1
+Component: Document_2025-04-16_190416-1_contour_f972abf7.png
+centerX: 0.3033
+centerY: 0.0137
+width: 0.0283
+height: 0.0351
+Area: 0.0005
+CentroidX: 0.3174
+CentroidY: 0.0308

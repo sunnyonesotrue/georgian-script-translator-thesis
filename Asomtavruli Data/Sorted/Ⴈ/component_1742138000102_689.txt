@@ -1,0 +1,9 @@
+Location: easy21_Mean-Medain.png
+Component: component_1744297380906_689.png
+centerX: 0.06532258064516129
+centerY: 0.5421455938697318
+width: 0.013709677419354839
+height: 0.014367816091954023
+Area: 6.64318378445186e-05
+CentroidX: 0.0750
+CentroidY: 0.5473

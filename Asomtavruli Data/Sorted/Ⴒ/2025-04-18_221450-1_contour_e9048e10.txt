@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_e9048e10.png
+centerX: 0.4641
+centerY: 0.1532
+width: 0.0347
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.4782
+CentroidY: 0.1639

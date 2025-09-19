@@ -1,0 +1,9 @@
+Location:2025-04-19_205938-1
+Component: 2025-04-19_205938-1_contour_bc0d17ca.png
+centerX: 0.8115
+centerY: 0.6282
+width: 0.0347
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.8310
+CentroidY: 0.6418

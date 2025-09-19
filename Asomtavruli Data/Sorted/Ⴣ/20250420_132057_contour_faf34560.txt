@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_faf34560.png
+centerX: 0.7265
+centerY: 0.0215
+width: 0.0207
+height: 0.0578
+Area: 0.0005
+CentroidX: 0.7391
+CentroidY: 0.0481

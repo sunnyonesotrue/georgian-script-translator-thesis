@@ -1,0 +1,9 @@
+Location:hard5_Mean-Medain
+Component: hard5_Mean-Medain_contour_001d64e6.png
+centerX: 0.3789
+centerY: 0.0965
+width: 0.0093
+height: 0.0177
+Area: 0.0001
+CentroidX: 0.3827
+CentroidY: 0.1052

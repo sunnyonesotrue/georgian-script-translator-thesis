@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_318137ca.png
+centerX: 0.1360
+centerY: 0.9645
+width: 0.0312
+height: 0.0355
+Area: 0.0005
+CentroidX: 0.1519
+CentroidY: 0.9812

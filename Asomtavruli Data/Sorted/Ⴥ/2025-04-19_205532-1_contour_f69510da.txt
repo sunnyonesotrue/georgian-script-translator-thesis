@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_f69510da.png
+centerX: 0.0872
+centerY: 0.7223
+width: 0.0289
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.1007
+CentroidY: 0.7377

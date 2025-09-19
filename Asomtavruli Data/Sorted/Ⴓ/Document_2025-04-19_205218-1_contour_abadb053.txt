@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_abadb053.png
+centerX: 0.6148
+centerY: 0.4168
+width: 0.0300
+height: 0.0270
+Area: 0.0005
+CentroidX: 0.6260
+CentroidY: 0.4300

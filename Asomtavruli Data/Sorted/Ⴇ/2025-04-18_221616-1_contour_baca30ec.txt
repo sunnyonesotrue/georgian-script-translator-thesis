@@ -1,0 +1,9 @@
+Location:2025-04-18_221616-1
+Component: 2025-04-18_221616-1_contour_baca30ec.png
+centerX: 0.3280
+centerY: 0.1023
+width: 0.0383
+height: 0.0342
+Area: 0.0005
+CentroidX: 0.3451
+CentroidY: 0.1185

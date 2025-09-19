@@ -1,0 +1,9 @@
+Location:2025-04-18_221802-1
+Component: 2025-04-18_221802-1_contour_ecb80924.png
+centerX: 0.8051
+centerY: 0.5002
+width: 0.0294
+height: 0.0347
+Area: 0.0004
+CentroidX: 0.8216
+CentroidY: 0.5186

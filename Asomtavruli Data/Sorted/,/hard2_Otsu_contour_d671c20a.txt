@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_dc683470.png
+centerX: 0.3516
+centerY: 0.8032
+width: 0.0190
+height: 0.0185
+Area: 0.0001
+CentroidX: 0.3596
+CentroidY: 0.8138

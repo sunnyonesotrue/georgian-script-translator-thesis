@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_dfa66003.png
+centerX: 0.5502
+centerY: 0.5232
+width: 0.0229
+height: 0.0634
+Area: 0.0007
+CentroidX: 0.5650
+CentroidY: 0.5515

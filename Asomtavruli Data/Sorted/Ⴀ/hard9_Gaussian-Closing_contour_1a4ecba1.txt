@@ -1,0 +1,9 @@
+Location:hard9_Gaussian-Closing
+Component: hard9_Gaussian-Closing_contour_cd993cab.png
+centerX: 0.2568
+centerY: 0.5612
+width: 0.0306
+height: 0.0224
+Area: 0.0002
+CentroidX: 0.2674
+CentroidY: 0.5715

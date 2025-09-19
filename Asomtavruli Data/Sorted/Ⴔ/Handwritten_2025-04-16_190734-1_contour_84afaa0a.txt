@@ -1,0 +1,9 @@
+Location:Handwritten_2025-04-16_190734-1
+Component: Handwritten_2025-04-16_190734-1_contour_84afaa0a.png
+centerX: 0.1502
+centerY: 0.0137
+width: 0.0324
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.1667
+CentroidY: 0.0274

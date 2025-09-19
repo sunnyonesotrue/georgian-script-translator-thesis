@@ -1,0 +1,9 @@
+Location:20250501_171350
+Component: 20250501_171350_contour_b3400a03.png
+centerX: 0.3281
+centerY: 0.1270
+width: 0.0499
+height: 0.2031
+Area: 0.0066
+CentroidX: 0.3540
+CentroidY: 0.2344

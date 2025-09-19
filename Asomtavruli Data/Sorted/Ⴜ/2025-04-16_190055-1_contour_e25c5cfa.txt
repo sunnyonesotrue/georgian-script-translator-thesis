@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_e25c5cfa.png
+centerX: 0.9547
+centerY: 0.4052
+width: 0.0236
+height: 0.0338
+Area: 0.0004
+CentroidX: 0.9647
+CentroidY: 0.4181

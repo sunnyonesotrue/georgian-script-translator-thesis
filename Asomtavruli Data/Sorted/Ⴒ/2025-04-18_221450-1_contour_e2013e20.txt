@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_e2013e20.png
+centerX: 0.7285
+centerY: 0.3697
+width: 0.0312
+height: 0.0252
+Area: 0.0004
+CentroidX: 0.7409
+CentroidY: 0.3808

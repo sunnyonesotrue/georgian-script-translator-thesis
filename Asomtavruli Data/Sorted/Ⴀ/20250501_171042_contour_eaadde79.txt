@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_eaadde79.png
+centerX: 0.0974
+centerY: 0.7198
+width: 0.0532
+height: 0.1068
+Area: 0.0015
+CentroidX: 0.1211
+CentroidY: 0.7706

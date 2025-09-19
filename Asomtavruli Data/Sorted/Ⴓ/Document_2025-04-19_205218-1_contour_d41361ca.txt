@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_d41361ca.png
+centerX: 0.2715
+centerY: 0.7955
+width: 0.0312
+height: 0.0274
+Area: 0.0005
+CentroidX: 0.2833
+CentroidY: 0.8087

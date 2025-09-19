@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_a71adbea.png
+centerX: 0.7020
+centerY: 0.8113
+width: 0.0289
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.7138
+CentroidY: 0.8263

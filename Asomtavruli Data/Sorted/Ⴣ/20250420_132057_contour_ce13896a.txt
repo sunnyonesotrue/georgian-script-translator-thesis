@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_ce13896a.png
+centerX: 0.2074
+centerY: 0.1489
+width: 0.0211
+height: 0.0544
+Area: 0.0005
+CentroidX: 0.2195
+CentroidY: 0.1750

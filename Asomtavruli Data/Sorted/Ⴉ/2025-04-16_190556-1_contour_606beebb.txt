@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_606beebb.png
+centerX: 0.8804
+centerY: 0.6076
+width: 0.0200
+height: 0.0372
+Area: 0.0004
+CentroidX: 0.8899
+CentroidY: 0.6243

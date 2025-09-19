@@ -1,0 +1,9 @@
+Location:hard4_Mean-Medain
+Component: hard4_Mean-Medain_contour_b8e20da1.png
+centerX: 0.7973
+centerY: 0.7572
+width: 0.0293
+height: 0.0175
+Area: 0.0003
+CentroidX: 0.8105
+CentroidY: 0.7659

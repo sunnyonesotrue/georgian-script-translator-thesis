@@ -1,0 +1,9 @@
+Location:Sandro_Ⴡ_2
+Component: Sandro_Ⴡ_2_contour_cf5526ab.png
+centerX: 0.4896
+centerY: 0.3123
+width: 0.0351
+height: 0.0314
+Area: 0.0004
+CentroidX: 0.5020
+CentroidY: 0.3288

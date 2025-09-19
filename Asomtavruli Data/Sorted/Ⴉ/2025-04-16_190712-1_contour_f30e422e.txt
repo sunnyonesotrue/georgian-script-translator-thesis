@@ -1,0 +1,9 @@
+Location:2025-04-16_190712-1
+Component: 2025-04-16_190712-1_contour_f30e422e.png
+centerX: 0.8251
+centerY: 0.9508
+width: 0.0224
+height: 0.0355
+Area: 0.0004
+CentroidX: 0.8357
+CentroidY: 0.9666

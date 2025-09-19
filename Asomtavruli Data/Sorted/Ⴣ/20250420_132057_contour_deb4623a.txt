@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_deb4623a.png
+centerX: 0.2843
+centerY: 0.2180
+width: 0.0207
+height: 0.0617
+Area: 0.0006
+CentroidX: 0.2964
+CentroidY: 0.2463

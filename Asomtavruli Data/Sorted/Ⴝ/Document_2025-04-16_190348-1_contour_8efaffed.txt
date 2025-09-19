@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190348-1
+Component: Document_2025-04-16_190348-1_contour_8efaffed.png
+centerX: 0.9446
+centerY: 0.3128
+width: 0.0259
+height: 0.0308
+Area: 0.0005
+CentroidX: 0.9570
+CentroidY: 0.3282

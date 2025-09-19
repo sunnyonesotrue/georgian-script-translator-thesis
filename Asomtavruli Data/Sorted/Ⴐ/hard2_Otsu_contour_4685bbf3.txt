@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_fd1bfa1d.png
+centerX: 0.1176
+centerY: 0.7999
+width: 0.0306
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.1319
+CentroidY: 0.8103

@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_e1809aca.png
+centerX: 0.0730
+centerY: 0.7167
+width: 0.0377
+height: 0.0278
+Area: 0.0006
+CentroidX: 0.0889
+CentroidY: 0.7317

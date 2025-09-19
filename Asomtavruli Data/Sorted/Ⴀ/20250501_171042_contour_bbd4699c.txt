@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_bbd4699c.png
+centerX: 0.5781
+centerY: 0.7566
+width: 0.0451
+height: 0.1016
+Area: 0.0013
+CentroidX: 0.5986
+CentroidY: 0.8039

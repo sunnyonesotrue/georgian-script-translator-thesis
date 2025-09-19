@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_535fa50e.png
+centerX: 0.0119
+centerY: 0.4956
+width: 0.0542
+height: 0.1016
+Area: 0.0016
+CentroidX: 0.0356
+CentroidY: 0.5429

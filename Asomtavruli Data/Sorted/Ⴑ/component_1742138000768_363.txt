@@ -1,0 +1,9 @@
+Location: easy26_Mean-Closing.png
+Component: component_1744297382019_363.png
+centerX: 0.646774193548387
+centerY: 0.2567049808429119
+width: 0.01532258064516129
+height: 0.01532567049808429
+Area: 9.230935607465084e-05
+CentroidX: 0.6526
+CentroidY: 0.2659

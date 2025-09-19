@@ -1,0 +1,9 @@
+Location:2025-04-16_190850-1
+Component: 2025-04-16_190850-1_contour_4dc301ad.png
+centerX: 0.6578
+centerY: 0.9315
+width: 0.0347
+height: 0.0261
+Area: 0.0004
+CentroidX: 0.6737
+CentroidY: 0.9422

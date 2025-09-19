@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_a36a8156.png
+centerX: 0.9523
+centerY: 0.5349
+width: 0.0241
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.9623
+CentroidY: 0.5456

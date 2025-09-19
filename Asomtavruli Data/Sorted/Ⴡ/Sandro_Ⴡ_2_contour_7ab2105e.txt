@@ -1,0 +1,9 @@
+Location:Sandro_Ⴡ_2
+Component: Sandro_Ⴡ_2_contour_7ab2105e.png
+centerX: 0.4713
+centerY: 0.6667
+width: 0.0361
+height: 0.0280
+Area: 0.0003
+CentroidX: 0.4842
+CentroidY: 0.6805

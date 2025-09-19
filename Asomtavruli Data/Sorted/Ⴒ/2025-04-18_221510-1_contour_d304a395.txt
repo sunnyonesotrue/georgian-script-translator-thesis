@@ -1,0 +1,9 @@
+Location:2025-04-18_221510-1
+Component: 2025-04-18_221510-1_contour_d304a395.png
+centerX: 0.1390
+centerY: 0.4621
+width: 0.0253
+height: 0.0218
+Area: 0.0004
+CentroidX: 0.1508
+CentroidY: 0.4720

@@ -1,0 +1,9 @@
+Location:2025-04-18_221049-1
+Component: 2025-04-18_221049-1_contour_f68961a1.png
+centerX: 0.1602
+centerY: 0.7736
+width: 0.0318
+height: 0.0295
+Area: 0.0004
+CentroidX: 0.1767
+CentroidY: 0.7861

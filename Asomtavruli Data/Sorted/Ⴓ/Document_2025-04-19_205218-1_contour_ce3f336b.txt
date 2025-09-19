@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_ce3f336b.png
+centerX: 0.7756
+centerY: 0.0175
+width: 0.0277
+height: 0.0235
+Area: 0.0004
+CentroidX: 0.7862
+CentroidY: 0.0287

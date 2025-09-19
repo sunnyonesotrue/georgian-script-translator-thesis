@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_61cfd021.png
+centerX: 0.7126
+centerY: 0.1623
+width: 0.0330
+height: 0.0386
+Area: 0.0004
+CentroidX: 0.7291
+CentroidY: 0.1773

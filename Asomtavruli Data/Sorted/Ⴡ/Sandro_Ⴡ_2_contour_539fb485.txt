@@ -1,0 +1,9 @@
+Location:Sandro_Ⴡ_2
+Component: Sandro_Ⴡ_2_contour_539fb485.png
+centerX: 0.1958
+centerY: 0.3585
+width: 0.0361
+height: 0.0349
+Area: 0.0005
+CentroidX: 0.2082
+CentroidY: 0.3755

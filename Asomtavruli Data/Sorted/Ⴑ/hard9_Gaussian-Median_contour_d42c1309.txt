@@ -1,0 +1,8 @@
+Component: 156
+centerX: 0.3085
+centerY: 0.4881
+width: 0.0083
+height: 0.0210
+Area: 0.0001
+CentroidX: 0.3122
+CentroidY: 0.4989

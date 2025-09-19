@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_b106fac5.png
+centerX: 0.5720
+centerY: 0.5464
+width: 0.0504
+height: 0.1121
+Area: 0.0013
+CentroidX: 0.5957
+CentroidY: 0.6007

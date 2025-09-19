@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_d14c172a.png
+centerX: 0.2385
+centerY: 0.3637
+width: 0.0312
+height: 0.0282
+Area: 0.0005
+CentroidX: 0.2509
+CentroidY: 0.3778

@@ -1,0 +1,9 @@
+Location:20250501_171350
+Component: 20250501_171350_contour_781dcace.png
+centerX: 0.7842
+centerY: 0.3438
+width: 0.0432
+height: 0.1816
+Area: 0.0019
+CentroidX: 0.8082
+CentroidY: 0.4258

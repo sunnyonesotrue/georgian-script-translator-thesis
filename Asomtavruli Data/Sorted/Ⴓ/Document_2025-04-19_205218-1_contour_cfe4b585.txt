@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_cfe4b585.png
+centerX: 0.7485
+centerY: 0.6239
+width: 0.0312
+height: 0.0270
+Area: 0.0005
+CentroidX: 0.7603
+CentroidY: 0.6367

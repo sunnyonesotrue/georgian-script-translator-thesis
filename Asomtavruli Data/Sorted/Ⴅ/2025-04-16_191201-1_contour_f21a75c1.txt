@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_f21a75c1.png
+centerX: 0.5224
+centerY: 0.1186
+width: 0.0336
+height: 0.0377
+Area: 0.0004
+CentroidX: 0.5395
+CentroidY: 0.1341

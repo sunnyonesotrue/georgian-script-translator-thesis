@@ -1,0 +1,9 @@
+Location:hard1_Otsu
+Component: hard1_Otsu_contour_eababe49.png
+centerX: 0.1895
+centerY: 0.4342
+width: 0.0386
+height: 0.0222
+Area: 0.0002
+CentroidX: 0.2102
+CentroidY: 0.4447

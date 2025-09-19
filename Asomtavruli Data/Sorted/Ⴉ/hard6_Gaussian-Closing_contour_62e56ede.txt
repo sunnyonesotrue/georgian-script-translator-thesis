@@ -1,0 +1,9 @@
+Location:hard6_Gaussian-Closing
+Component: hard6_Gaussian-Closing_contour_44bdda40.png
+centerX: 0.2939
+centerY: 0.7203
+width: 0.0156
+height: 0.0185
+Area: 0.0001
+CentroidX: 0.2995
+CentroidY: 0.7291

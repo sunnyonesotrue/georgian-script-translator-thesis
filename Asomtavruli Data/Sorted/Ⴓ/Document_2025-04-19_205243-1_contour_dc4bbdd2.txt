@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_dc4bbdd2.png
+centerX: 0.6608
+centerY: 0.2884
+width: 0.0300
+height: 0.0252
+Area: 0.0005
+CentroidX: 0.6737
+CentroidY: 0.3004

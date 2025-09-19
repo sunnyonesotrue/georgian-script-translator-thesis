@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_f22a2c2c.png
+centerX: 0.3451
+centerY: 0.8905
+width: 0.0212
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.3545
+CentroidY: 0.9029

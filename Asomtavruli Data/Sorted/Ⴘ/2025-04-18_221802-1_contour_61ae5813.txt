@@ -1,0 +1,9 @@
+Location:2025-04-18_221802-1
+Component: 2025-04-18_221802-1_contour_61ae5813.png
+centerX: 0.3357
+centerY: 0.6705
+width: 0.0277
+height: 0.0355
+Area: 0.0004
+CentroidX: 0.3516
+CentroidY: 0.6881

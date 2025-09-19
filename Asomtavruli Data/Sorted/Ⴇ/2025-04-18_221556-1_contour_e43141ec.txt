@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_e43141ec.png
+centerX: 0.5230
+centerY: 0.3346
+width: 0.0395
+height: 0.0312
+Area: 0.0008
+CentroidX: 0.5406
+CentroidY: 0.3509

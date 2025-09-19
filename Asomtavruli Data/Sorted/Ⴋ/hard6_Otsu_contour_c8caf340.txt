@@ -1,0 +1,9 @@
+Location:hard6_Otsu
+Component: hard6_Otsu_contour_fda4296c.png
+centerX: 0.4074
+centerY: 0.6481
+width: 0.0246
+height: 0.0175
+Area: 0.0002
+CentroidX: 0.4183
+CentroidY: 0.6574

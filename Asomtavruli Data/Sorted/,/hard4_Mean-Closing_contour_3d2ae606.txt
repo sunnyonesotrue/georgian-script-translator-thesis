@@ -1,0 +1,9 @@
+Location:hard4_Mean-Closing
+Component: hard4_Mean-Closing_contour_7ad71cf2.png
+centerX: 0.8047
+centerY: 0.6859
+width: 0.0243
+height: 0.0195
+Area: 0.0003
+CentroidX: 0.8142
+CentroidY: 0.6955

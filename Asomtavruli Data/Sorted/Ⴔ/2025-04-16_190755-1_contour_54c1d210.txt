@@ -1,0 +1,9 @@
+Location:2025-04-16_190755-1
+Component: 2025-04-16_190755-1_contour_54c1d210.png
+centerX: 0.3410
+centerY: 0.1284
+width: 0.0324
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.3575
+CentroidY: 0.1408

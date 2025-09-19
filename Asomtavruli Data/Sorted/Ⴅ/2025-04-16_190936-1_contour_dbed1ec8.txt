@@ -1,0 +1,9 @@
+Location:2025-04-16_190936-1
+Component: 2025-04-16_190936-1_contour_dbed1ec8.png
+centerX: 0.9199
+centerY: 0.6395
+width: 0.0383
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.9399
+CentroidY: 0.6514

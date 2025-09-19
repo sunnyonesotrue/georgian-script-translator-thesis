@@ -1,0 +1,9 @@
+Location:2025-04-18_221028-1
+Component: 2025-04-18_221028-1_contour_b653cfe4.png
+centerX: 0.5183
+centerY: 0.2225
+width: 0.0377
+height: 0.0334
+Area: 0.0004
+CentroidX: 0.5359
+CentroidY: 0.2383

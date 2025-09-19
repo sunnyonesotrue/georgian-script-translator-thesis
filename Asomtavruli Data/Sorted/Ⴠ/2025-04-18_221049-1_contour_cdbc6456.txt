@@ -1,0 +1,9 @@
+Location:2025-04-18_221049-1
+Component: 2025-04-18_221049-1_contour_cdbc6456.png
+centerX: 0.0241
+centerY: 0.6397
+width: 0.0318
+height: 0.0291
+Area: 0.0004
+CentroidX: 0.0406
+CentroidY: 0.6521

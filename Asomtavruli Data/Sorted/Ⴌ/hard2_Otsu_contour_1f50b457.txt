@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_3dc25040.png
+centerX: 0.8193
+centerY: 0.7710
+width: 0.0223
+height: 0.0236
+Area: 0.0002
+CentroidX: 0.8302
+CentroidY: 0.7822

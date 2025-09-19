@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190416-1
+Component: Document_2025-04-16_190416-1_contour_da59a589.png
+centerX: 0.5901
+centerY: 0.4048
+width: 0.0230
+height: 0.0300
+Area: 0.0004
+CentroidX: 0.6013
+CentroidY: 0.4198

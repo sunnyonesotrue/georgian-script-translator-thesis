@@ -1,0 +1,9 @@
+Location:hard3_Mean-Closing
+Component: hard3_Mean-Closing_contour_dc30ce49.png
+centerX: 0.4767
+centerY: 0.0330
+width: 0.0141
+height: 0.0383
+Area: 0.0002
+CentroidX: 0.4824
+CentroidY: 0.0519

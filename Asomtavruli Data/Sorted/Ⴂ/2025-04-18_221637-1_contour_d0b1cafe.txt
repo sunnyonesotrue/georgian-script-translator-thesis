@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_d0b1cafe.png
+centerX: 0.4823
+centerY: 0.3697
+width: 0.0365
+height: 0.0317
+Area: 0.0007
+CentroidX: 0.4971
+CentroidY: 0.3860

@@ -1,0 +1,9 @@
+Location: N_01-1.png_Gaussian-Closing.png
+Component: component_1744889757915_384.png
+centerX: 0.9492140266021766
+centerY: 0.7938408896492729
+width: 0.02176541717049577
+height: 0.02694610778443114
+Area: 0.0002071345303864546
+CentroidX: 0.9577
+CentroidY: 0.8087

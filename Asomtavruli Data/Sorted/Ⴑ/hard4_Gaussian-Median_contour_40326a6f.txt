@@ -1,0 +1,9 @@
+Location:hard4_Gaussian-Median
+Component: hard4_Gaussian-Median_contour_fd810da2.png
+centerX: 0.3024
+centerY: 0.7547
+width: 0.0193
+height: 0.0189
+Area: 0.0002
+CentroidX: 0.3098
+CentroidY: 0.7651

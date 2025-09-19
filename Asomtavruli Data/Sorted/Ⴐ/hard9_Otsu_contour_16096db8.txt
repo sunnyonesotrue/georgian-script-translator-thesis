@@ -1,0 +1,9 @@
+Location:hard9_Otsu
+Component: hard9_Otsu_contour_5f998dd4.png
+centerX: 0.5767
+centerY: 0.1392
+width: 0.0317
+height: 0.0210
+Area: 0.0003
+CentroidX: 0.5922
+CentroidY: 0.1504

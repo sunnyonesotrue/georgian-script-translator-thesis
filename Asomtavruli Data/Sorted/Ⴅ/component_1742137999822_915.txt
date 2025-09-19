@@ -1,0 +1,9 @@
+Location: easy43_Mean-Closing.png
+Component: component_1744297380660_915.png
+centerX: 0.43833131801692865
+centerY: 0.5664814023086789
+width: 0.012696493349455865
+height: 0.010260795211628902
+Area: 6.539654344372512e-05
+CentroidX: 0.4444
+CentroidY: 0.5707

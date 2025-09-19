@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_f2350c49.png
+centerX: 0.2610
+centerY: 0.8005
+width: 0.0197
+height: 0.0271
+Area: 0.0003
+CentroidX: 0.2721
+CentroidY: 0.8109

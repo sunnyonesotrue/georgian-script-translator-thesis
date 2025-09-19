@@ -1,0 +1,9 @@
+Location:Handwritten_2025-04-19_210009-1
+Component: Handwritten_2025-04-19_210009-1_contour_0ed8f2d1.png
+centerX: 0.1926
+centerY: 0.0167
+width: 0.0365
+height: 0.0261
+Area: 0.0004
+CentroidX: 0.2091
+CentroidY: 0.0270

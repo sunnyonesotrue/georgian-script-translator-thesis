@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_edcacd3e.png
+centerX: 0.5283
+centerY: 0.1627
+width: 0.0336
+height: 0.0382
+Area: 0.0004
+CentroidX: 0.5453
+CentroidY: 0.1777

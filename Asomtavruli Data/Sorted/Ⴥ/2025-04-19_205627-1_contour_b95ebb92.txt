@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_b95ebb92.png
+centerX: 0.1325
+centerY: 0.2319
+width: 0.0318
+height: 0.0355
+Area: 0.0005
+CentroidX: 0.1461
+CentroidY: 0.2486

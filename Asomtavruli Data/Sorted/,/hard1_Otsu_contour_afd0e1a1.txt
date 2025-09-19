@@ -1,0 +1,9 @@
+Location:hard1_Otsu
+Component: hard1_Otsu_contour_fc4cfaa0.png
+centerX: 0.6389
+centerY: 0.7319
+width: 0.0104
+height: 0.0185
+Area: 0.0001
+CentroidX: 0.6431
+CentroidY: 0.7417

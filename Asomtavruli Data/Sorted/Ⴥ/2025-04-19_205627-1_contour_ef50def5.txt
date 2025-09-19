@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_ef50def5.png
+centerX: 0.7627
+centerY: 0.4395
+width: 0.0371
+height: 0.0338
+Area: 0.0006
+CentroidX: 0.7786
+CentroidY: 0.4553

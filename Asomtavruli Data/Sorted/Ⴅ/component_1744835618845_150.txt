@@ -1,0 +1,9 @@
+Location: 2025-04-16_191201-1.png_Gaussian-Median.png
+Component: component_1744835618845_150.png
+centerX: 0.33568904593639576
+centerY: 0.29
+width: 0.028268551236749116
+height: 0.03954545454545454
+Area: 0.0004181389870435807
+CentroidX: 0.3500
+CentroidY: 0.3069

@@ -1,0 +1,9 @@
+Location:20250501_171350
+Component: 20250501_171350_contour_cadb40dd.png
+centerX: 0.3751
+centerY: 0.4004
+width: 0.0412
+height: 0.1504
+Area: 0.0034
+CentroidX: 0.3938
+CentroidY: 0.4863

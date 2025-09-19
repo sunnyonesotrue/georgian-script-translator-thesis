@@ -1,0 +1,9 @@
+Location:2025-04-16_190850-1
+Component: 2025-04-16_190850-1_contour_ab8474af.png
+centerX: 0.0135
+centerY: 0.8066
+width: 0.0347
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.0306
+CentroidY: 0.8190

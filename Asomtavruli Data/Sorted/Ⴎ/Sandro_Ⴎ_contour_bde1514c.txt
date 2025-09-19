@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_bde1514c.png
+centerX: 0.1631
+centerY: 0.4285
+width: 0.0363
+height: 0.0309
+Area: 0.0005
+CentroidX: 0.1824
+CentroidY: 0.4430

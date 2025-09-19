@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_7c103bab.png
+centerX: 0.4881
+centerY: 0.2356
+width: 0.0229
+height: 0.0612
+Area: 0.0006
+CentroidX: 0.5011
+CentroidY: 0.2610

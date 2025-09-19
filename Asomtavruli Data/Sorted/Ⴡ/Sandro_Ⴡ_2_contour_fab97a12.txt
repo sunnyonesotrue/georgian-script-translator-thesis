@@ -1,0 +1,9 @@
+Location:Sandro_Ⴡ_2
+Component: Sandro_Ⴡ_2_contour_fab97a12.png
+centerX: 0.3966
+centerY: 0.1095
+width: 0.0356
+height: 0.0314
+Area: 0.0004
+CentroidX: 0.4080
+CentroidY: 0.1261

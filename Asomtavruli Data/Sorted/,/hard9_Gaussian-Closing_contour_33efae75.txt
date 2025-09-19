@@ -1,0 +1,9 @@
+Location:hard9_Gaussian-Closing
+Component: hard9_Gaussian-Closing_contour_148fc09d.png
+centerX: 0.6489
+centerY: 0.3322
+width: 0.0069
+height: 0.0197
+Area: 0.0001
+CentroidX: 0.6521
+CentroidY: 0.3424

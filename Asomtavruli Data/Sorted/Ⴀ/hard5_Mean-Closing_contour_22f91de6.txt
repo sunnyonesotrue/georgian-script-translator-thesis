@@ -1,0 +1,9 @@
+Location:hard5_Mean-Closing
+Component: hard5_Mean-Closing_contour_fb24ee50.png
+centerX: 0.2471
+centerY: 0.2194
+width: 0.0225
+height: 0.0167
+Area: 0.0001
+CentroidX: 0.2562
+CentroidY: 0.2274

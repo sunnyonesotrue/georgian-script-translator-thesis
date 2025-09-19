@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_dc211932.png
+centerX: 0.6593
+centerY: 0.9214
+width: 0.0292
+height: 0.0252
+Area: 0.0004
+CentroidX: 0.6753
+CentroidY: 0.9329

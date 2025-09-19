@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_bc50ab30.png
+centerX: 0.7326
+centerY: 0.3012
+width: 0.0365
+height: 0.0295
+Area: 0.0007
+CentroidX: 0.7479
+CentroidY: 0.3162

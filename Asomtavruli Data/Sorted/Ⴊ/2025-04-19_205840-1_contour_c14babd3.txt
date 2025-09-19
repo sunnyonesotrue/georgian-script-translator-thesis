@@ -1,0 +1,9 @@
+Location:2025-04-19_205840-1
+Component: 2025-04-19_205840-1_contour_c14babd3.png
+centerX: 0.4399
+centerY: 0.1921
+width: 0.0353
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.4582
+CentroidY: 0.2062

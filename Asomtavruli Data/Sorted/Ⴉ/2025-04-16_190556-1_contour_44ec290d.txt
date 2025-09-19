@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_44ec290d.png
+centerX: 0.6914
+centerY: 0.8994
+width: 0.0218
+height: 0.0398
+Area: 0.0005
+CentroidX: 0.7026
+CentroidY: 0.9170

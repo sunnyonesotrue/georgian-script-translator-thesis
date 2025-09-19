@@ -1,0 +1,9 @@
+Location:2025-04-18_221216-1
+Component: 2025-04-18_221216-1_contour_ebc40ca5.png
+centerX: 0.5565
+centerY: 0.9538
+width: 0.0365
+height: 0.0445
+Area: 0.0006
+CentroidX: 0.5748
+CentroidY: 0.9735

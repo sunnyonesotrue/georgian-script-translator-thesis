@@ -1,0 +1,9 @@
+Location:hard1_Gaussian-Closing
+Component: hard1_Gaussian-Closing_contour_77e1f0ee.png
+centerX: 0.3082
+centerY: 0.6637
+width: 0.0220
+height: 0.0175
+Area: 0.0001
+CentroidX: 0.3201
+CentroidY: 0.6707

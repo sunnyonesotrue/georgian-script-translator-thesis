@@ -1,0 +1,9 @@
+Location:2025-04-19_205938-1
+Component: 2025-04-19_205938-1_contour_6aa1982e.png
+centerX: 0.0889
+centerY: 0.6008
+width: 0.0324
+height: 0.0265
+Area: 0.0004
+CentroidX: 0.1060
+CentroidY: 0.6136

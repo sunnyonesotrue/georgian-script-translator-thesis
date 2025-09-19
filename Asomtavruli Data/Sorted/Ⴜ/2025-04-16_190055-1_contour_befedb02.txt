@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_befedb02.png
+centerX: 0.4941
+centerY: 0.5109
+width: 0.0236
+height: 0.0304
+Area: 0.0004
+CentroidX: 0.5053
+CentroidY: 0.5229

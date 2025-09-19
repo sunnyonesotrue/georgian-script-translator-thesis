@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_3cab98d6.png
+centerX: 0.1493
+centerY: 0.7246
+width: 0.0187
+height: 0.0185
+Area: 0.0001
+CentroidX: 0.1594
+CentroidY: 0.7323

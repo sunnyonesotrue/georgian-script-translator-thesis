@@ -1,0 +1,9 @@
+Location:2025-04-18_221616-1
+Component: 2025-04-18_221616-1_contour_f762bc50.png
+centerX: 0.7055
+centerY: 0.2794
+width: 0.0353
+height: 0.0282
+Area: 0.0006
+CentroidX: 0.7203
+CentroidY: 0.2935

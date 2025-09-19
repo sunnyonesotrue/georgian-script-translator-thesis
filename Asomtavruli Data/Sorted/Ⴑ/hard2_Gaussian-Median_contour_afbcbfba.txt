@@ -1,0 +1,9 @@
+Location:hard2_Gaussian-Median
+Component: hard2_Gaussian-Median_contour_f2060abb.png
+centerX: 0.7437
+centerY: 0.7348
+width: 0.0239
+height: 0.0232
+Area: 0.0002
+CentroidX: 0.7549
+CentroidY: 0.7472

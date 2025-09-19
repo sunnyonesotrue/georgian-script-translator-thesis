@@ -1,0 +1,9 @@
+Location:2025-04-16_190936-1
+Component: 2025-04-16_190936-1_contour_40b30652.png
+centerX: 0.3357
+centerY: 0.9673
+width: 0.0377
+height: 0.0327
+Area: 0.0004
+CentroidX: 0.3539
+CentroidY: 0.9809

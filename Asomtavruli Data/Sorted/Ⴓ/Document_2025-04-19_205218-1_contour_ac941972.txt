@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_ac941972.png
+centerX: 0.9582
+centerY: 0.8284
+width: 0.0283
+height: 0.0248
+Area: 0.0005
+CentroidX: 0.9700
+CentroidY: 0.8408

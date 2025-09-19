@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_3a4dd77a.png
+centerX: 0.7945
+centerY: 0.1214
+width: 0.0318
+height: 0.0364
+Area: 0.0004
+CentroidX: 0.8121
+CentroidY: 0.1350

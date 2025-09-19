@@ -1,0 +1,9 @@
+Location:hard9_Gaussian-Median
+Component: hard9_Gaussian-Median_contour_59e5dba0.png
+centerX: 0.1593
+centerY: 0.2520
+width: 0.0208
+height: 0.0199
+Area: 0.0002
+CentroidX: 0.1678
+CentroidY: 0.2630

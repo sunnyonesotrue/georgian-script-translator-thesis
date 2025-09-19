@@ -1,0 +1,9 @@
+Location:2025-04-16_190650-1
+Component: 2025-04-16_190650-1_contour_e910f823.png
+centerX: 0.6048
+centerY: 0.3145
+width: 0.0230
+height: 0.0295
+Area: 0.0004
+CentroidX: 0.6160
+CentroidY: 0.3282

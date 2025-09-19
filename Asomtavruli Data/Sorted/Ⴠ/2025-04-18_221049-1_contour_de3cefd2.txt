@@ -1,0 +1,9 @@
+Location:2025-04-18_221049-1
+Component: 2025-04-18_221049-1_contour_de3cefd2.png
+centerX: 0.9376
+centerY: 0.9033
+width: 0.0353
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.9552
+CentroidY: 0.9170

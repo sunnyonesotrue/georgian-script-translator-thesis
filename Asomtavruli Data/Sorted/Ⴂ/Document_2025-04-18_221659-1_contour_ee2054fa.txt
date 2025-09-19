@@ -1,0 +1,9 @@
+Location:Document_2025-04-18_221659-1
+Component: Document_2025-04-18_221659-1_contour_ee2054fa.png
+centerX: 0.2179
+centerY: 0.1305
+width: 0.0347
+height: 0.0329
+Area: 0.0008
+CentroidX: 0.2332
+CentroidY: 0.1468

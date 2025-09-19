@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_bb861194.png
+centerX: 0.3269
+centerY: 0.8909
+width: 0.0477
+height: 0.0321
+Area: 0.0009
+CentroidX: 0.3457
+CentroidY: 0.9063

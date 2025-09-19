@@ -1,0 +1,9 @@
+Location:hard6_Mean-Closing
+Component: hard6_Mean-Closing_contour_f29ddb33.png
+centerX: 0.4759
+centerY: 0.6464
+width: 0.0304
+height: 0.0206
+Area: 0.0003
+CentroidX: 0.4892
+CentroidY: 0.6562

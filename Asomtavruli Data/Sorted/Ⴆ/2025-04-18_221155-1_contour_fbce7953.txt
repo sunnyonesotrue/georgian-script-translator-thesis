@@ -1,0 +1,9 @@
+Location:2025-04-18_221155-1
+Component: 2025-04-18_221155-1_contour_fbce7953.png
+centerX: 0.8934
+centerY: 0.9298
+width: 0.0512
+height: 0.0261
+Area: 0.0006
+CentroidX: 0.9205
+CentroidY: 0.9435

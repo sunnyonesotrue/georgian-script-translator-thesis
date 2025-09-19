@@ -1,0 +1,9 @@
+Location:2025-04-16_190936-1
+Component: 2025-04-16_190936-1_contour_d1d500c1.png
+centerX: 0.4258
+centerY: 0.6877
+width: 0.0377
+height: 0.0341
+Area: 0.0004
+CentroidX: 0.4452
+CentroidY: 0.7009

@@ -1,0 +1,9 @@
+Location:hard7_Otsu
+Component: hard7_Otsu_contour_e1adc600.png
+centerX: 0.4273
+centerY: 0.7425
+width: 0.0185
+height: 0.0287
+Area: 0.0002
+CentroidX: 0.4344
+CentroidY: 0.7545

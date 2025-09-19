@@ -1,0 +1,9 @@
+Location:2025-04-19_205840-1
+Component: 2025-04-19_205840-1_contour_dc699eaa.png
+centerX: 0.6066
+centerY: 0.3081
+width: 0.0342
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.6249
+CentroidY: 0.3226

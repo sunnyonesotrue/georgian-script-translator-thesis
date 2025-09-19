@@ -1,0 +1,9 @@
+Location:20250501_171350
+Component: 20250501_171350_contour_184f2add.png
+centerX: 0.8312
+centerY: 0.5605
+width: 0.0326
+height: 0.1816
+Area: 0.0034
+CentroidX: 0.8475
+CentroidY: 0.6680

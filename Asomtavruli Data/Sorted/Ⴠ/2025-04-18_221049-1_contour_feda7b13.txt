@@ -1,0 +1,9 @@
+Location:2025-04-18_221049-1
+Component: 2025-04-18_221049-1_contour_feda7b13.png
+centerX: 0.1131
+centerY: 0.8626
+width: 0.0377
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.1307
+CentroidY: 0.8755

@@ -1,0 +1,9 @@
+Location:20250501_171602
+Component: 20250501_171602_contour_1ed15c90.png
+centerX: 0.9590
+centerY: 0.0186
+width: 0.0198
+height: 0.2678
+Area: 0.0014
+CentroidX: 0.9670
+CentroidY: 0.1763

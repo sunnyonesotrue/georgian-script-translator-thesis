@@ -1,0 +1,9 @@
+Location:20250420_132057
+Component: 20250420_132057_contour_d06c8ac4.png
+centerX: 0.0945
+centerY: 0.2089
+width: 0.0189
+height: 0.0583
+Area: 0.0005
+CentroidX: 0.1062
+CentroidY: 0.2367

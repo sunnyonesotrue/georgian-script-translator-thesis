@@ -1,0 +1,9 @@
+Location: +7777777777777777777-1.png_Otsu.png
+Component: component_1744838262347_10.png
+centerX: 0.8635294117647059
+centerY: 0.04818181818181818
+width: 0.01
+height: 0.012272727272727272
+Area: 3.529411764705882e-05
+CentroidX: 0.8700
+CentroidY: 0.0528

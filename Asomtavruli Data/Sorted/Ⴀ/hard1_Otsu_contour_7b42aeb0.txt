@@ -1,0 +1,9 @@
+Location:hard1_Otsu
+Component: hard1_Otsu_contour_bf72c20b.png
+centerX: 0.6480
+centerY: 0.5481
+width: 0.0184
+height: 0.0165
+Area: 0.0001
+CentroidX: 0.6542
+CentroidY: 0.5571

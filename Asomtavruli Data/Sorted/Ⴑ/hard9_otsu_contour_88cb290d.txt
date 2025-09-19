@@ -1,0 +1,9 @@
+Location:hard9_Otsu
+Component: hard9_Otsu_contour_ec790ffa.png
+centerX: 0.3428
+centerY: 0.3688
+width: 0.0210
+height: 0.0228
+Area: 0.0002
+CentroidX: 0.3511
+CentroidY: 0.3816

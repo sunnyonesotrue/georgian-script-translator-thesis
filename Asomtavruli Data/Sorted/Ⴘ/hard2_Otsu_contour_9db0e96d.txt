@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_bc8771c2.png
+centerX: 0.8107
+centerY: 0.1555
+width: 0.0195
+height: 0.0222
+Area: 0.0001
+CentroidX: 0.8234
+CentroidY: 0.1665

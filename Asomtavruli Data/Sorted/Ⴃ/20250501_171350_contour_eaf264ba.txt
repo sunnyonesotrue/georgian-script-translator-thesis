@@ -1,0 +1,9 @@
+Location:20250501_171350
+Component: 20250501_171350_contour_eaf264ba.png
+centerX: 0.2177
+centerY: 0.4121
+width: 0.0465
+height: 0.1465
+Area: 0.0037
+CentroidX: 0.2360
+CentroidY: 0.4883

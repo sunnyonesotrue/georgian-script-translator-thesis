@@ -1,0 +1,9 @@
+Location:2025-04-19_214715-1
+Component: 2025-04-19_214715-1_contour_e8b92ca4.png
+centerX: 0.9087
+centerY: 0.1369
+width: 0.0336
+height: 0.0304
+Area: 0.0004
+CentroidX: 0.9258
+CentroidY: 0.1536

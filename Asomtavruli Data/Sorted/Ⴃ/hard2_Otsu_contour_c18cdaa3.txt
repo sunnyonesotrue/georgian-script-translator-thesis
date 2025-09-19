@@ -1,0 +1,9 @@
+Location:hard2_Otsu
+Component: hard2_Otsu_contour_199cb79e.png
+centerX: 0.4316
+centerY: 0.8032
+width: 0.0273
+height: 0.0187
+Area: 0.0003
+CentroidX: 0.4453
+CentroidY: 0.8127

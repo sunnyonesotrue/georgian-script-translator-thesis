@@ -1,0 +1,9 @@
+Location:20250501_171602
+Component: 20250501_171602_contour_cba4a1f8.png
+centerX: 0.9218
+centerY: 0.0356
+width: 0.0240
+height: 0.2559
+Area: 0.0013
+CentroidX: 0.9308
+CentroidY: 0.1881

@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190348-1
+Component: Document_2025-04-16_190348-1_contour_80cf7bac.png
+centerX: 0.9311
+centerY: 0.9551
+width: 0.0230
+height: 0.0321
+Area: 0.0005
+CentroidX: 0.9423
+CentroidY: 0.9705

@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_c12f2bfc.png
+centerX: 0.6973
+centerY: 0.1249
+width: 0.0247
+height: 0.0300
+Area: 0.0004
+CentroidX: 0.7073
+CentroidY: 0.1365

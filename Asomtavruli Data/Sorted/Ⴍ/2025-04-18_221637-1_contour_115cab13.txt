@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_115cab13.png
+centerX: 0.6702
+centerY: 0.0244
+width: 0.0347
+height: 0.0317
+Area: 0.0007
+CentroidX: 0.6849
+CentroidY: 0.0402

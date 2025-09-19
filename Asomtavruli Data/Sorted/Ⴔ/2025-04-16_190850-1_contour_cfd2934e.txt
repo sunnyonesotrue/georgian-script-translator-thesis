@@ -1,0 +1,9 @@
+Location:2025-04-16_190850-1
+Component: 2025-04-16_190850-1_contour_cfd2934e.png
+centerX: 0.8775
+centerY: 0.7433
+width: 0.0318
+height: 0.0295
+Area: 0.0004
+CentroidX: 0.8928
+CentroidY: 0.7552

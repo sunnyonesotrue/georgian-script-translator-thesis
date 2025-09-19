@@ -1,0 +1,9 @@
+Location:2025-04-18_221510-1
+Component: 2025-04-18_221510-1_contour_8bdc70c1.png
+centerX: 0.6331
+centerY: 0.0813
+width: 0.0324
+height: 0.0223
+Area: 0.0004
+CentroidX: 0.6496
+CentroidY: 0.0911

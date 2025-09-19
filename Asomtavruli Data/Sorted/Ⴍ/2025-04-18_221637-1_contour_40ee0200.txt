@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_40ee0200.png
+centerX: 0.1955
+centerY: 0.4750
+width: 0.0318
+height: 0.0295
+Area: 0.0006
+CentroidX: 0.2073
+CentroidY: 0.4895

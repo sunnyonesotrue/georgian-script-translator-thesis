@@ -1,0 +1,9 @@
+Location:2025-04-18_221256-1
+Component: 2025-04-18_221256-1_contour_c24ccd0a.png
+centerX: 0.3375
+centerY: 0.7120
+width: 0.0324
+height: 0.0372
+Area: 0.0004
+CentroidX: 0.3534
+CentroidY: 0.7283

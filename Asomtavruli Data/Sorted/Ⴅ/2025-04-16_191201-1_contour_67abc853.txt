@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_67abc853.png
+centerX: 0.4246
+centerY: 0.1218
+width: 0.0353
+height: 0.0345
+Area: 0.0004
+CentroidX: 0.4435
+CentroidY: 0.1350

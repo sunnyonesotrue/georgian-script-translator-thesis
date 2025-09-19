@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_d30124ca.png
+centerX: 0.6402
+centerY: 0.0860
+width: 0.0330
+height: 0.0270
+Area: 0.0005
+CentroidX: 0.6525
+CentroidY: 0.0988

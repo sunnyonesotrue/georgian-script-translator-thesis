@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_3fa93ac3.png
+centerX: 0.6378
+centerY: 0.5451
+width: 0.0277
+height: 0.0282
+Area: 0.0005
+CentroidX: 0.6484
+CentroidY: 0.5593

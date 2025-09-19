@@ -1,0 +1,9 @@
+Location: Y_01-1.png_Gaussian-Median.png
+Component: component_1744890207994_344.png
+centerX: 0.5792019347037485
+centerY: 0.6663815226689478
+width: 0.021160822249093107
+height: 0.026090675791274595
+Area: 0.0001810164435337306
+CentroidX: 0.5905
+CentroidY: 0.6769

@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205243-1
+Component: Document_2025-04-19_205243-1_contour_adc89457.png
+centerX: 0.2479
+centerY: 0.8875
+width: 0.0330
+height: 0.0312
+Area: 0.0006
+CentroidX: 0.2603
+CentroidY: 0.9029

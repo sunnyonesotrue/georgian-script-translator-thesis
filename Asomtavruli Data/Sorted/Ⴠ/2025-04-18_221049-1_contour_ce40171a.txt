@@ -1,0 +1,9 @@
+Location:2025-04-18_221049-1
+Component: 2025-04-18_221049-1_contour_ce40171a.png
+centerX: 0.6590
+centerY: 0.8186
+width: 0.0342
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.6749
+CentroidY: 0.8323

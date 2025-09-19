@@ -1,0 +1,9 @@
+Location:2025-04-19_205840-1
+Component: 2025-04-19_205840-1_contour_bfcc8cd2.png
+centerX: 0.6360
+centerY: 0.5918
+width: 0.0389
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.6578
+CentroidY: 0.6063

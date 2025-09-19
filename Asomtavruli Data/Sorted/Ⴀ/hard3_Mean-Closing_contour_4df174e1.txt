@@ -1,0 +1,9 @@
+Location:hard3_Mean-Closing
+Component: hard3_Mean-Closing_contour_753a2cab.png
+centerX: 0.4028
+centerY: 0.2094
+width: 0.0529
+height: 0.0216
+Area: 0.0003
+CentroidX: 0.4205
+CentroidY: 0.2223

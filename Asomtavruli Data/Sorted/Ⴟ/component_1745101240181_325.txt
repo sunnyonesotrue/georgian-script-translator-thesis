@@ -1,0 +1,9 @@
+Location: Handwritten_2025-04-19_210009-1.png_Gaussian-Closing.png
+Component: component_1745101240181_325.png
+centerX: 0.43404004711425204
+centerY: 0.8562259306803595
+width: 0.03651354534746761
+height: 0.026529738981600343
+Area: 0.00038707472810268367
+CentroidX: 0.4512
+CentroidY: 0.8660

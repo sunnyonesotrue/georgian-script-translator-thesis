@@ -1,0 +1,9 @@
+Location:hard1_Gaussian-Closing
+Component: hard1_Gaussian-Closing_contour_fee10885.png
+centerX: 0.8504
+centerY: 0.5080
+width: 0.0319
+height: 0.0232
+Area: 0.0002
+CentroidX: 0.8634
+CentroidY: 0.5215

@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190416-1
+Component: Document_2025-04-16_190416-1_contour_15d32a0e.png
+centerX: 0.6667
+centerY: 0.4775
+width: 0.0289
+height: 0.0329
+Area: 0.0004
+CentroidX: 0.6820
+CentroidY: 0.4942

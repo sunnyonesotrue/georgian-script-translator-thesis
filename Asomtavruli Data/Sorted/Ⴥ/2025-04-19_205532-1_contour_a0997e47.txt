@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_a0997e47.png
+centerX: 0.5347
+centerY: 0.0573
+width: 0.0312
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.5512
+CentroidY: 0.0723

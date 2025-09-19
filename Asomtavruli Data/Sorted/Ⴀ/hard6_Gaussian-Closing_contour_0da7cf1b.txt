@@ -1,0 +1,9 @@
+Location:hard6_Gaussian-Closing
+Component: hard6_Gaussian-Closing_contour_ebed737c.png
+centerX: 0.7857
+centerY: 0.1846
+width: 0.0365
+height: 0.0173
+Area: 0.0002
+CentroidX: 0.8013
+CentroidY: 0.1917

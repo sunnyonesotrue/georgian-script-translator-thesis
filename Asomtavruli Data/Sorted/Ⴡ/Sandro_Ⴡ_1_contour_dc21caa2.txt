@@ -1,0 +1,9 @@
+Location:Sandro_Ⴡ_1
+Component: Sandro_Ⴡ_1_contour_dc21caa2.png
+centerX: 0.3351
+centerY: 0.4516
+width: 0.0235
+height: 0.0431
+Area: 0.0004
+CentroidX: 0.3428
+CentroidY: 0.4739

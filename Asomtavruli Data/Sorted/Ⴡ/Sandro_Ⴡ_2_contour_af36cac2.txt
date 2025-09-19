@@ -1,0 +1,9 @@
+Location:Sandro_Ⴡ_2
+Component: Sandro_Ⴡ_2_contour_af36cac2.png
+centerX: 0.1034
+centerY: 0.0577
+width: 0.0371
+height: 0.0297
+Area: 0.0004
+CentroidX: 0.1172
+CentroidY: 0.0715

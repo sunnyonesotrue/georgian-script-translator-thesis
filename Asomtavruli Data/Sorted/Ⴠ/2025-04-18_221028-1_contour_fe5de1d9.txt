@@ -1,0 +1,9 @@
+Location:2025-04-18_221028-1
+Component: 2025-04-18_221028-1_contour_fe5de1d9.png
+centerX: 0.3863
+centerY: 0.0064
+width: 0.0342
+height: 0.0372
+Area: 0.0004
+CentroidX: 0.4011
+CentroidY: 0.0248

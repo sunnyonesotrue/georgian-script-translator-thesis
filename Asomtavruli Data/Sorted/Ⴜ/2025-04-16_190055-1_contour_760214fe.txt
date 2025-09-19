@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_760214fe.png
+centerX: 0.2874
+centerY: 0.4771
+width: 0.0241
+height: 0.0321
+Area: 0.0004
+CentroidX: 0.2974
+CentroidY: 0.4891

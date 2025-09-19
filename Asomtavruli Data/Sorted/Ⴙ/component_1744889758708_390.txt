@@ -1,0 +1,9 @@
+Location: N_01-1.png_Mean-Closing.png
+Component: component_1744889758708_390.png
+centerX: 0.1457073760580411
+centerY: 0.7968349016253208
+width: 0.02539298669891173
+height: 0.02566295979469632
+Area: 0.00020144544216110877
+CentroidX: 0.1571
+CentroidY: 0.8110

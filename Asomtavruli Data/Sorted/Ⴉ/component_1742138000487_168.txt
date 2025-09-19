@@ -1,0 +1,9 @@
+Location: easy16_Gaussian-Median.png
+Component: component_1744297381673_168.png
+centerX: 0.4137096774193548
+centerY: 0.11302681992337164
+width: 0.01532258064516129
+height: 0.014367816091954023
+Area: 9.424051415152639e-05
+CentroidX: 0.4210
+CentroidY: 0.1205

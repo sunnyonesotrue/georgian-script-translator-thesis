@@ -1,0 +1,9 @@
+Location:2025-04-19_205938-1
+Component: 2025-04-19_205938-1_contour_80baf462.png
+centerX: 0.7803
+centerY: 0.0800
+width: 0.0359
+height: 0.0300
+Area: 0.0004
+CentroidX: 0.7998
+CentroidY: 0.0937

@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_c774e10e.png
+centerX: 0.8280
+centerY: 0.8952
+width: 0.0342
+height: 0.0257
+Area: 0.0005
+CentroidX: 0.8439
+CentroidY: 0.9080

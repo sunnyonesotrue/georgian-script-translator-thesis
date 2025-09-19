@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_f526fb90.png
+centerX: 0.9488
+centerY: 0.3860
+width: 0.0300
+height: 0.0300
+Area: 0.0006
+CentroidX: 0.9635
+CentroidY: 0.3997

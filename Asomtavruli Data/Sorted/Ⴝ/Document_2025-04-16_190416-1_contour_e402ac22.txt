@@ -1,0 +1,9 @@
+Location:Document_2025-04-16_190416-1
+Component: Document_2025-04-16_190416-1_contour_e402ac22.png
+centerX: 0.3640
+centerY: 0.5593
+width: 0.0236
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.3757
+CentroidY: 0.5721

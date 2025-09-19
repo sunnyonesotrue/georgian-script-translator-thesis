@@ -1,0 +1,9 @@
+Location:2025-04-16_191433-1
+Component: 2025-04-16_191433-1_contour_67f8a432.png
+centerX: 0.9382
+centerY: 0.9067
+width: 0.0342
+height: 0.0248
+Area: 0.0004
+CentroidX: 0.9535
+CentroidY: 0.9191

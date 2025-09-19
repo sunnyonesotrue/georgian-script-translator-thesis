@@ -1,0 +1,9 @@
+Location:2025-04-16_190936-1
+Component: 2025-04-16_190936-1_contour_fd218003.png
+centerX: 0.8816
+centerY: 0.6818
+width: 0.0342
+height: 0.0318
+Area: 0.0004
+CentroidX: 0.8981
+CentroidY: 0.6941

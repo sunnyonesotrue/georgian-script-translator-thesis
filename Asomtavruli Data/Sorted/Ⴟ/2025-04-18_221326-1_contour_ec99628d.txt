@@ -1,0 +1,9 @@
+Location:2025-04-18_221326-1
+Component: 2025-04-18_221326-1_contour_ec99628d.png
+centerX: 0.6696
+centerY: 0.0261
+width: 0.0342
+height: 0.0270
+Area: 0.0004
+CentroidX: 0.6832
+CentroidY: 0.0368

@@ -1,0 +1,9 @@
+Location:2025-04-18_221256-1
+Component: 2025-04-18_221256-1_contour_f791b466.png
+centerX: 0.6955
+centerY: 0.7073
+width: 0.0318
+height: 0.0359
+Area: 0.0005
+CentroidX: 0.7114
+CentroidY: 0.7236

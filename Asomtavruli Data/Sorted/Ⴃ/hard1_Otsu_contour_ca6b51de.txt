@@ -1,0 +1,9 @@
+Location:hard1_Otsu
+Component: hard1_Otsu_contour_dc14802e.png
+centerX: 0.8232
+centerY: 0.2815
+width: 0.0171
+height: 0.0189
+Area: 0.0001
+CentroidX: 0.8307
+CentroidY: 0.2913

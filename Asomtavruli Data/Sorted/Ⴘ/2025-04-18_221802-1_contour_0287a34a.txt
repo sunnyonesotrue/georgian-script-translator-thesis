@@ -1,0 +1,9 @@
+Location:2025-04-18_221802-1
+Component: 2025-04-18_221802-1_contour_0287a34a.png
+centerX: 0.1378
+centerY: 0.1630
+width: 0.0271
+height: 0.0347
+Area: 0.0004
+CentroidX: 0.1537
+CentroidY: 0.1801

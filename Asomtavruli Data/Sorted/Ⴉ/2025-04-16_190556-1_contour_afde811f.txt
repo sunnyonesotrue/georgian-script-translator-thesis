@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_afde811f.png
+centerX: 0.4541
+centerY: 0.5195
+width: 0.0241
+height: 0.0372
+Area: 0.0005
+CentroidX: 0.4664
+CentroidY: 0.5374

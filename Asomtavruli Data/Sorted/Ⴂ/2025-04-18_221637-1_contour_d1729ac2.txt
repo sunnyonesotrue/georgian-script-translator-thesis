@@ -1,0 +1,9 @@
+Location:2025-04-18_221637-1
+Component: 2025-04-18_221637-1_contour_d1729ac2.png
+centerX: 0.1525
+centerY: 0.2691
+width: 0.0336
+height: 0.0308
+Area: 0.0007
+CentroidX: 0.1667
+CentroidY: 0.2850

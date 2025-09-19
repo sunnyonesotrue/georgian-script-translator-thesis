@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_a2df5275.png
+centerX: 0.8392
+centerY: 0.2529
+width: 0.0212
+height: 0.0355
+Area: 0.0004
+CentroidX: 0.8486
+CentroidY: 0.2657

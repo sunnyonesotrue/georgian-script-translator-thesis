@@ -1,0 +1,9 @@
+Location:hard7_Otsu
+Component: hard7_Otsu_contour_e39520c5.png
+centerX: 0.3473
+centerY: 0.1728
+width: 0.0167
+height: 0.0208
+Area: 0.0001
+CentroidX: 0.3528
+CentroidY: 0.1840

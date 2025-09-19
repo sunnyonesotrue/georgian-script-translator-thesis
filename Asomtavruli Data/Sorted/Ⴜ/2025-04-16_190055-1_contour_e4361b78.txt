@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_e4361b78.png
+centerX: 0.1184
+centerY: 0.7775
+width: 0.0224
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.1284
+CentroidY: 0.7899

@@ -1,0 +1,9 @@
+Location:2025-04-18_221155-1
+Component: 2025-04-18_221155-1_contour_27e37caf.png
+centerX: 0.9187
+centerY: 0.0278
+width: 0.0442
+height: 0.0218
+Area: 0.0004
+CentroidX: 0.9423
+CentroidY: 0.0394

@@ -1,0 +1,9 @@
+Location:2025-04-16_190936-1
+Component: 2025-04-16_190936-1_contour_c90f902a.png
+centerX: 0.0465
+centerY: 0.6523
+width: 0.0371
+height: 0.0295
+Area: 0.0004
+CentroidX: 0.0642
+CentroidY: 0.6636

@@ -1,0 +1,9 @@
+Location:2025-04-18_221216-1
+Component: 2025-04-18_221216-1_contour_fe42c796.png
+centerX: 0.8975
+centerY: 0.9012
+width: 0.0312
+height: 0.0385
+Area: 0.0004
+CentroidX: 0.9128
+CentroidY: 0.9174

@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_f30ae705.png
+centerX: 0.4676
+centerY: 0.6016
+width: 0.0294
+height: 0.0300
+Area: 0.0005
+CentroidX: 0.4812
+CentroidY: 0.6119

@@ -1,0 +1,9 @@
+Location:2025-04-16_191201-1
+Component: 2025-04-16_191201-1_contour_a84ca988.png
+centerX: 0.7038
+centerY: 0.1200
+width: 0.0318
+height: 0.0373
+Area: 0.0004
+CentroidX: 0.7203
+CentroidY: 0.1355

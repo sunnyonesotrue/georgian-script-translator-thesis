@@ -1,0 +1,9 @@
+Location:hard4_Mean-Medain
+Component: hard4_Mean-Medain_contour_becd210e.png
+centerX: 0.6738
+centerY: 0.1726
+width: 0.0410
+height: 0.0222
+Area: 0.0003
+CentroidX: 0.6939
+CentroidY: 0.1832

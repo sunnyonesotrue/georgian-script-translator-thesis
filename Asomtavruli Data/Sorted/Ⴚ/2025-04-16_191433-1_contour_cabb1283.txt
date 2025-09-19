@@ -1,0 +1,9 @@
+Location:2025-04-16_191433-1
+Component: 2025-04-16_191433-1_contour_cabb1283.png
+centerX: 0.7515
+centerY: 0.7077
+width: 0.0424
+height: 0.0270
+Area: 0.0004
+CentroidX: 0.7709
+CentroidY: 0.7219

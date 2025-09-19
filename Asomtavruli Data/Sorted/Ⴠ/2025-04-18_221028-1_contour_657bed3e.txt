@@ -1,0 +1,9 @@
+Location:2025-04-18_221028-1
+Component: 2025-04-18_221028-1_contour_657bed3e.png
+centerX: 0.5347
+centerY: 0.3145
+width: 0.0371
+height: 0.0329
+Area: 0.0004
+CentroidX: 0.5518
+CentroidY: 0.3295

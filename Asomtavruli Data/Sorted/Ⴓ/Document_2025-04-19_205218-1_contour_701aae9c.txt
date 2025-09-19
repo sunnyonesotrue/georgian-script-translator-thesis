@@ -1,0 +1,9 @@
+Location:Document_2025-04-19_205218-1
+Component: Document_2025-04-19_205218-1_contour_701aae9c.png
+centerX: 0.5565
+centerY: 0.4510
+width: 0.0353
+height: 0.0235
+Area: 0.0005
+CentroidX: 0.5707
+CentroidY: 0.4626

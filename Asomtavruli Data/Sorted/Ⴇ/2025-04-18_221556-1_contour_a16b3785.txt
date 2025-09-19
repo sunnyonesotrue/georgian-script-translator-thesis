@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_a16b3785.png
+centerX: 0.4535
+centerY: 0.8879
+width: 0.0424
+height: 0.0278
+Area: 0.0007
+CentroidX: 0.4717
+CentroidY: 0.9024
