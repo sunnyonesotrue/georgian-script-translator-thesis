@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_fb7147c3.png
+centerX: 0.7718
+centerY: 0.0929
+width: 0.0577
+height: 0.0177
+Area: 0.0003
+CentroidX: 0.7988
+CentroidY: 0.1049

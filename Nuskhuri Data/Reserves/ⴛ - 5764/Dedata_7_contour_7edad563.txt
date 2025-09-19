@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_7edad563.png
+centerX: 0.5423
+centerY: 0.2893
+width: 0.0391
+height: 0.0271
+Area: 0.0004
+CentroidX: 0.5645
+CentroidY: 0.3052

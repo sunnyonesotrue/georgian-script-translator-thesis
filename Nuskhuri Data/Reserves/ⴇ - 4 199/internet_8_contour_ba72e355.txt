@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_ba72e355.png
+centerX: 0.3422
+centerY: 0.1283
+width: 0.0625
+height: 0.0211
+Area: 0.0007
+CentroidX: 0.3704
+CentroidY: 0.1383

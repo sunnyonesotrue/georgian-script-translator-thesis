@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ad57fa30.png
+centerX: 0.1391
+centerY: 0.6572
+width: 0.0214
+height: 0.0436
+Area: 0.0003
+CentroidX: 0.1504
+CentroidY: 0.6760

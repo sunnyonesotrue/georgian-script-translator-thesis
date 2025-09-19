@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_dd2bbca6.png
+centerX: 0.7823
+centerY: 0.7052
+width: 0.0568
+height: 0.0171
+Area: 0.0005
+CentroidX: 0.8057
+CentroidY: 0.7131

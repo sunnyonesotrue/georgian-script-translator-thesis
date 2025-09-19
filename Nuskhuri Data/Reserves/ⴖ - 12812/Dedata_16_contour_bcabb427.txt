@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_bcabb427.png
+centerX: 0.7452
+centerY: 0.7962
+width: 0.0294
+height: 0.0205
+Area: 0.0002
+CentroidX: 0.7605
+CentroidY: 0.8051

@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_bca78bb2.png
+centerX: 0.2782
+centerY: 0.7700
+width: 0.0202
+height: 0.0410
+Area: 0.0003
+CentroidX: 0.2895
+CentroidY: 0.7885

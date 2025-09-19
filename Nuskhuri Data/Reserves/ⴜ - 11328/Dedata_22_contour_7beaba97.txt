@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_7beaba97.png
+centerX: 0.4440
+centerY: 0.7224
+width: 0.0278
+height: 0.0390
+Area: 0.0004
+CentroidX: 0.4536
+CentroidY: 0.7364

@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_c4800a72.png
+centerX: 0.7024
+centerY: 0.1847
+width: 0.0234
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.7133
+CentroidY: 0.1966

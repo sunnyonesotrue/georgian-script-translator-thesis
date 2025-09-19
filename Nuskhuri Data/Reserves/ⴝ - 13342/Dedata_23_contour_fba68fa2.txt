@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_fba68fa2.png
+centerX: 0.8073
+centerY: 0.3725
+width: 0.0206
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.8185
+CentroidY: 0.3850

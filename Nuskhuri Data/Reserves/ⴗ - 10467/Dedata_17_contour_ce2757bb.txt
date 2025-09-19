@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ce2757bb.png
+centerX: 0.4879
+centerY: 0.0157
+width: 0.0254
+height: 0.0328
+Area: 0.0002
+CentroidX: 0.5004
+CentroidY: 0.0296

@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_caa28222.png
+centerX: 0.9234
+centerY: 0.0123
+width: 0.0286
+height: 0.0328
+Area: 0.0003
+CentroidX: 0.9359
+CentroidY: 0.0279

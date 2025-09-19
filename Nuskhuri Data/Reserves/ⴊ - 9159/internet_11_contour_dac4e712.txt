@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_dac4e712.png
+centerX: 0.9049
+centerY: 0.9438
+width: 0.0443
+height: 0.0265
+Area: 0.0007
+CentroidX: 0.9303
+CentroidY: 0.9555

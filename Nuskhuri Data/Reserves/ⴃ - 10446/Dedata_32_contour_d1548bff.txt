@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_d1548bff.png
+centerX: 0.5699
+centerY: 0.0071
+width: 0.0351
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.5861
+CentroidY: 0.0251

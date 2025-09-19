@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_cb1806d0.png
+centerX: 0.5165
+centerY: 0.6252
+width: 0.0298
+height: 0.0325
+Area: 0.0003
+CentroidX: 0.5294
+CentroidY: 0.6455

@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fb157cb5.png
+centerX: 0.0113
+centerY: 0.5452
+width: 0.0290
+height: 0.0385
+Area: 0.0006
+CentroidX: 0.0246
+CentroidY: 0.5657

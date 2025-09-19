@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_fc87daba.png
+centerX: 0.9327
+centerY: 0.1121
+width: 0.0637
+height: 0.0163
+Area: 0.0006
+CentroidX: 0.9629
+CentroidY: 0.1200

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_c720b053.png
+centerX: 0.8044
+centerY: 0.7769
+width: 0.0218
+height: 0.0368
+Area: 0.0003
+CentroidX: 0.8161
+CentroidY: 0.7942

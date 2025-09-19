@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_4c141fad.png
+centerX: 0.2347
+centerY: 0.2536
+width: 0.0343
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.2540
+CentroidY: 0.2625

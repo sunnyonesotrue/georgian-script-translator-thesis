@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_bc749feb.png
+centerX: 0.7654
+centerY: 0.1044
+width: 0.0504
+height: 0.0262
+Area: 0.0004
+CentroidX: 0.7932
+CentroidY: 0.1161

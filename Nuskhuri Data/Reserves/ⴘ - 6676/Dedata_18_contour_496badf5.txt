@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_496badf5.png
+centerX: 0.6613
+centerY: 0.7270
+width: 0.0206
+height: 0.0376
+Area: 0.0003
+CentroidX: 0.6722
+CentroidY: 0.7455

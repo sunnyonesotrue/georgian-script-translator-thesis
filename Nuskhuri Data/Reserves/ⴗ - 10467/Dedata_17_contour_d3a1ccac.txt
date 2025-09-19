@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_d3a1ccac.png
+centerX: 0.3181
+centerY: 0.7045
+width: 0.0177
+height: 0.0422
+Area: 0.0003
+CentroidX: 0.3274
+CentroidY: 0.7227

@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_d21106ec.png
+centerX: 0.0206
+centerY: 0.7126
+width: 0.0351
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.0383
+CentroidY: 0.7277

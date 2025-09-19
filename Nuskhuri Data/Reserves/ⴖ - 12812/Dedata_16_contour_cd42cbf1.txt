@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_cd42cbf1.png
+centerX: 0.0306
+centerY: 0.7142
+width: 0.0282
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.0423
+CentroidY: 0.7224

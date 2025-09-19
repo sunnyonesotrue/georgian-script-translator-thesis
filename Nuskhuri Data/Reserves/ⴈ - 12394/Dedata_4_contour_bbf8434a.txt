@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_bbf8434a.png
+centerX: 0.0948
+centerY: 0.2368
+width: 0.0250
+height: 0.0231
+Area: 0.0002
+CentroidX: 0.1097
+CentroidY: 0.2448

@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_ecc35dad.png
+centerX: 0.9331
+centerY: 0.4357
+width: 0.0262
+height: 0.0228
+Area: 0.0003
+CentroidX: 0.9472
+CentroidY: 0.4466

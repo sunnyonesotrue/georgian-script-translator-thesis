@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_c3158ca8.png
+centerX: 0.5694
+centerY: 0.3391
+width: 0.0282
+height: 0.0427
+Area: 0.0003
+CentroidX: 0.5835
+CentroidY: 0.3599

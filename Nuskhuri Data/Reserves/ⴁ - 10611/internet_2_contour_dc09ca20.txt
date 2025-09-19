@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_dc09ca20.png
+centerX: 0.8928
+centerY: 0.1468
+width: 0.0266
+height: 0.0314
+Area: 0.0004
+CentroidX: 0.9065
+CentroidY: 0.1628

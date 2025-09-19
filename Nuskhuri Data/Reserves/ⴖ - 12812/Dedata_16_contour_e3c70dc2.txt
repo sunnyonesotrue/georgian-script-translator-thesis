@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_e3c70dc2.png
+centerX: 0.7887
+centerY: 0.7922
+width: 0.0294
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.8044
+CentroidY: 0.8002

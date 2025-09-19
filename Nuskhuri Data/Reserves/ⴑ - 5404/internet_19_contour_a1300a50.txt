@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_a1300a50.png
+centerX: 0.2874
+centerY: 0.0585
+width: 0.0258
+height: 0.0257
+Area: 0.0002
+CentroidX: 0.2967
+CentroidY: 0.0750

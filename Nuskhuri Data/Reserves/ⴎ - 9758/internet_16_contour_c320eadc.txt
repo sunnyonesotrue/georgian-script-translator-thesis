@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_c320eadc.png
+centerX: 0.7513
+centerY: 0.7171
+width: 0.0572
+height: 0.0262
+Area: 0.0006
+CentroidX: 0.7759
+CentroidY: 0.7311

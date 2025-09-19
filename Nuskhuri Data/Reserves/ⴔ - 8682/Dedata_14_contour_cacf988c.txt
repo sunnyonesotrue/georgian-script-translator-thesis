@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_cacf988c.png
+centerX: 0.0879
+centerY: 0.5529
+width: 0.0431
+height: 0.0279
+Area: 0.0007
+CentroidX: 0.1097
+CentroidY: 0.5640

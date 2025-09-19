@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_bb239cfe.png
+centerX: 0.5953
+centerY: 0.1066
+width: 0.0351
+height: 0.0291
+Area: 0.0002
+CentroidX: 0.6147
+CentroidY: 0.1175

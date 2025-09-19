@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_fda2213c.png
+centerX: 0.8944
+centerY: 0.5480
+width: 0.0363
+height: 0.0416
+Area: 0.0002
+CentroidX: 0.9129
+CentroidY: 0.5697

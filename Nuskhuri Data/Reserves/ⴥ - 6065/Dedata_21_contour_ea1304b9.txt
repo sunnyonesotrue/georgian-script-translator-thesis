@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_ea1304b9.png
+centerX: 0.5024
+centerY: 0.1012
+width: 0.0286
+height: 0.0271
+Area: 0.0003
+CentroidX: 0.5165
+CentroidY: 0.1183

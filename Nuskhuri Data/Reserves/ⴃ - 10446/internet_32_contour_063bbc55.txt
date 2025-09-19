@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_063bbc55.png
+centerX: 0.0649
+centerY: 0.3807
+width: 0.0375
+height: 0.0365
+Area: 0.0008
+CentroidX: 0.0826
+CentroidY: 0.4003

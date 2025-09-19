@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_caffb631.png
+centerX: 0.2543
+centerY: 0.7411
+width: 0.0363
+height: 0.0237
+Area: 0.0002
+CentroidX: 0.2753
+CentroidY: 0.7545

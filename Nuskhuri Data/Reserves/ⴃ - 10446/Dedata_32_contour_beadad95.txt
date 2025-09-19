@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_beadad95.png
+centerX: 0.1415
+centerY: 0.1295
+width: 0.0355
+height: 0.0288
+Area: 0.0005
+CentroidX: 0.1592
+CentroidY: 0.1434

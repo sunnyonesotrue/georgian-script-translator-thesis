@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_da447f20.png
+centerX: 0.4226
+centerY: 0.5093
+width: 0.0512
+height: 0.0228
+Area: 0.0004
+CentroidX: 0.4472
+CentroidY: 0.5221

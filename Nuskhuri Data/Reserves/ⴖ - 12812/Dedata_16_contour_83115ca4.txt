@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_83115ca4.png
+centerX: 0.7625
+centerY: 0.4728
+width: 0.0258
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.7750
+CentroidY: 0.4802

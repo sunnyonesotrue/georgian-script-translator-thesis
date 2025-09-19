@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_3c4316ea.png
+centerX: 0.4847
+centerY: 0.0063
+width: 0.0270
+height: 0.0333
+Area: 0.0003
+CentroidX: 0.4952
+CentroidY: 0.0171

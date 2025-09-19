@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_7e5f6e73.png
+centerX: 0.6790
+centerY: 0.3069
+width: 0.0315
+height: 0.0427
+Area: 0.0007
+CentroidX: 0.6931
+CentroidY: 0.3292

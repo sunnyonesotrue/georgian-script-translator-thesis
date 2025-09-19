@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_af357daf.png
+centerX: 0.8476
+centerY: 0.1582
+width: 0.0351
+height: 0.0265
+Area: 0.0004
+CentroidX: 0.8637
+CentroidY: 0.1681

@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_a7351fbe.png
+centerX: 0.4004
+centerY: 0.2901
+width: 0.0359
+height: 0.0345
+Area: 0.0003
+CentroidX: 0.4190
+CentroidY: 0.3081

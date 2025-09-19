@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_b1219df2.png
+centerX: 0.3790
+centerY: 0.8840
+width: 0.0435
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.4052
+CentroidY: 0.9011

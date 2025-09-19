@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_2d3187fb.png
+centerX: 0.4653
+centerY: 0.7917
+width: 0.0379
+height: 0.0427
+Area: 0.0008
+CentroidX: 0.4823
+CentroidY: 0.8131

@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_bc493a23.png
+centerX: 0.7056
+centerY: 0.0553
+width: 0.0230
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.7177
+CentroidY: 0.0675

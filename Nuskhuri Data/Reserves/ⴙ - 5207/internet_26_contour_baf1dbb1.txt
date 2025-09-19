@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_baf1dbb1.png
+centerX: 0.5038
+centerY: 0.0054
+width: 0.0363
+height: 0.0428
+Area: 0.0004
+CentroidX: 0.5204
+CentroidY: 0.0242

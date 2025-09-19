@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_acbb673f.png
+centerX: 0.2524
+centerY: 0.1670
+width: 0.0484
+height: 0.0180
+Area: 0.0003
+CentroidX: 0.2758
+CentroidY: 0.1733

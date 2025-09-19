@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_a61adab7.png
+centerX: 0.1983
+centerY: 0.6835
+width: 0.0431
+height: 0.0356
+Area: 0.0003
+CentroidX: 0.2197
+CentroidY: 0.7003

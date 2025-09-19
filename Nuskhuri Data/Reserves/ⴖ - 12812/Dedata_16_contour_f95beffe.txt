@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_f95beffe.png
+centerX: 0.4480
+centerY: 0.6469
+width: 0.0302
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.4629
+CentroidY: 0.6540

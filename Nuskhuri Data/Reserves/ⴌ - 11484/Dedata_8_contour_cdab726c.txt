@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_cdab726c.png
+centerX: 0.4456
+centerY: 0.7979
+width: 0.0222
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.4544
+CentroidY: 0.8162

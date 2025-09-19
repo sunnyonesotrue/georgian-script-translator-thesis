@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_f6e6acc9.png
+centerX: 0.2366
+centerY: 0.5130
+width: 0.0411
+height: 0.0228
+Area: 0.0003
+CentroidX: 0.2568
+CentroidY: 0.5261

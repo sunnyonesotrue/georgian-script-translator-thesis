@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_e1caff08.png
+centerX: 0.3676
+centerY: 0.0516
+width: 0.0435
+height: 0.0214
+Area: 0.0002
+CentroidX: 0.3898
+CentroidY: 0.0616

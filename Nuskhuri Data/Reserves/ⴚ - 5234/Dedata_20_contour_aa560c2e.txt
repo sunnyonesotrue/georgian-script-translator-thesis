@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_aa560c2e.png
+centerX: 0.8363
+centerY: 0.5953
+width: 0.0306
+height: 0.0345
+Area: 0.0002
+CentroidX: 0.8516
+CentroidY: 0.6093

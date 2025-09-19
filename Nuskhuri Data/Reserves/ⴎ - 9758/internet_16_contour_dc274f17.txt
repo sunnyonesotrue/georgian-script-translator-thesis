@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_dc274f17.png
+centerX: 0.4450
+centerY: 0.0875
+width: 0.0431
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.4684
+CentroidY: 0.1018

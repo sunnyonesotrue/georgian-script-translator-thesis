@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_ba3a400b.png
+centerX: 0.0242
+centerY: 0.3269
+width: 0.0347
+height: 0.0256
+Area: 0.0003
+CentroidX: 0.0431
+CentroidY: 0.3374

@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_caf75d5f.png
+centerX: 0.4907
+centerY: 0.6908
+width: 0.0173
+height: 0.0436
+Area: 0.0003
+CentroidX: 0.4988
+CentroidY: 0.7090

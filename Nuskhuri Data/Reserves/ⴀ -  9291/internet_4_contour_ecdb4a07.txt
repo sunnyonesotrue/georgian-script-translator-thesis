@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_ecdb4a07.png
+centerX: 0.4607
+centerY: 0.0114
+width: 0.0472
+height: 0.0274
+Area: 0.0005
+CentroidX: 0.4869
+CentroidY: 0.0225

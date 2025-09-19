@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_fed10de0.png
+centerX: 0.5155
+centerY: 0.2809
+width: 0.0657
+height: 0.0493
+Area: 0.0009
+CentroidX: 0.5550
+CentroidY: 0.3080

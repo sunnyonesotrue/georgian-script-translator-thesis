@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_bcab928c.png
+centerX: 0.1621
+centerY: 0.0741
+width: 0.0226
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.1722
+CentroidY: 0.0821

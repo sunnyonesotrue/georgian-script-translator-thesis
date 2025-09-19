@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_deb59a45.png
+centerX: 0.3464
+centerY: 0.5457
+width: 0.0270
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.3581
+CentroidY: 0.5603

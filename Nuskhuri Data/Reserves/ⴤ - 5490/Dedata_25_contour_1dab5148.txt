@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_1dab5148.png
+centerX: 0.7347
+centerY: 0.4431
+width: 0.0387
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.7565
+CentroidY: 0.4557

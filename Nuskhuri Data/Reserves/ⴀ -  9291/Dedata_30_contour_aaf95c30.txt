@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_aaf95c30.png
+centerX: 0.3774
+centerY: 0.1778
+width: 0.0339
+height: 0.0242
+Area: 0.0002
+CentroidX: 0.3944
+CentroidY: 0.1878

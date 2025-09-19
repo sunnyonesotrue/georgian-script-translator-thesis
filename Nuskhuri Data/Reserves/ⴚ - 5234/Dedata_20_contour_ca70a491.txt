@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_ca70a491.png
+centerX: 0.4431
+centerY: 0.4124
+width: 0.0302
+height: 0.0333
+Area: 0.0003
+CentroidX: 0.4585
+CentroidY: 0.4255

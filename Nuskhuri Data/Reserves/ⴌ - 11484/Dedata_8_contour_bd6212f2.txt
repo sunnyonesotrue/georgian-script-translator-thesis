@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_bd6212f2.png
+centerX: 0.3190
+centerY: 0.5979
+width: 0.0262
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.3294
+CentroidY: 0.6158

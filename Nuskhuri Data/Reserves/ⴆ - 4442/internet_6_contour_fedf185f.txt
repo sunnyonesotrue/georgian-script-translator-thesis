@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_fedf185f.png
+centerX: 0.4301
+centerY: 0.1836
+width: 0.0500
+height: 0.0331
+Area: 0.0008
+CentroidX: 0.4563
+CentroidY: 0.2007

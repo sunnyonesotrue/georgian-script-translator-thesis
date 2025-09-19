@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_b952db28.png
+centerX: 0.4101
+centerY: 0.4745
+width: 0.0520
+height: 0.0194
+Area: 0.0003
+CentroidX: 0.4343
+CentroidY: 0.4865

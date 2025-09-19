@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ada901dd.png
+centerX: 0.6012
+centerY: 0.7429
+width: 0.0194
+height: 0.0390
+Area: 0.0003
+CentroidX: 0.6121
+CentroidY: 0.7592

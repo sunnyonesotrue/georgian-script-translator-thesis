@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_df9248c8.png
+centerX: 0.1060
+centerY: 0.3072
+width: 0.0262
+height: 0.0465
+Area: 0.0003
+CentroidX: 0.1181
+CentroidY: 0.3294

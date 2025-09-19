@@ -1,0 +1,9 @@
+Location: internet_10.png_Otsu.png
+Component: component_1755091713986_425.png
+centerX: 0.6964933494558646
+centerY: 0.8269175933846592
+width: 0.03345425231761386
+height: 0.03592814371257485
+Area: 0.0003615731627664232
+CentroidX: 0.7114
+CentroidY: 0.8446

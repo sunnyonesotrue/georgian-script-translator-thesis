@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_252d2dfa.png
+centerX: 0.1435
+centerY: 0.1767
+width: 0.0230
+height: 0.0365
+Area: 0.0003
+CentroidX: 0.1556
+CentroidY: 0.1952

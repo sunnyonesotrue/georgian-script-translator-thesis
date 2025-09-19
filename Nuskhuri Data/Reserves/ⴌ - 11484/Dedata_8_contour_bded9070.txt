@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_bded9070.png
+centerX: 0.2524
+centerY: 0.4135
+width: 0.0266
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.2641
+CentroidY: 0.4309

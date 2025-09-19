@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_fdfd2ced.png
+centerX: 0.9464
+centerY: 0.1761
+width: 0.0226
+height: 0.0251
+Area: 0.0002
+CentroidX: 0.9585
+CentroidY: 0.1872

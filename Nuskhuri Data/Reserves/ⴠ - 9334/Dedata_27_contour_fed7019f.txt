@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_fed7019f.png
+centerX: 0.9113
+centerY: 0.7851
+width: 0.0484
+height: 0.0256
+Area: 0.0004
+CentroidX: 0.9339
+CentroidY: 0.7988

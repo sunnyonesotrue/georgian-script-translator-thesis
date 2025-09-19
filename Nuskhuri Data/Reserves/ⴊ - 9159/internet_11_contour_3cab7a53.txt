@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_3cab7a53.png
+centerX: 0.1870
+centerY: 0.2090
+width: 0.0512
+height: 0.0297
+Area: 0.0010
+CentroidX: 0.2164
+CentroidY: 0.2233

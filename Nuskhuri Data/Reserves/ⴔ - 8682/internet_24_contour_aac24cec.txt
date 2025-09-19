@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_aac24cec.png
+centerX: 0.3611
+centerY: 0.1112
+width: 0.0476
+height: 0.0365
+Area: 0.0007
+CentroidX: 0.3785
+CentroidY: 0.1243

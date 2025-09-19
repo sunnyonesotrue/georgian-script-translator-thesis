@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fb22179b.png
+centerX: 0.2584
+centerY: 0.0034
+width: 0.0391
+height: 0.0356
+Area: 0.0006
+CentroidX: 0.2733
+CentroidY: 0.0208

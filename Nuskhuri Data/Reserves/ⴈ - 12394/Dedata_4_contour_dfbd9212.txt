@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_dfbd9212.png
+centerX: 0.8992
+centerY: 0.3140
+width: 0.0310
+height: 0.0191
+Area: 0.0003
+CentroidX: 0.9149
+CentroidY: 0.3209

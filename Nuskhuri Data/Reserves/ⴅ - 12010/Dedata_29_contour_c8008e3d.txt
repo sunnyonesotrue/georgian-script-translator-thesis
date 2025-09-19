@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_c8008e3d.png
+centerX: 0.7109
+centerY: 0.3237
+width: 0.0452
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.7323
+CentroidY: 0.3340

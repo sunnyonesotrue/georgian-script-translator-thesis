@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_fee438d2.png
+centerX: 0.4073
+centerY: 0.6723
+width: 0.0254
+height: 0.0365
+Area: 0.0004
+CentroidX: 0.4161
+CentroidY: 0.6851

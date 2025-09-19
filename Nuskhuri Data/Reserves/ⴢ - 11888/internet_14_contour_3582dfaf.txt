@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_3582dfaf.png
+centerX: 0.2394
+centerY: 0.0131
+width: 0.0363
+height: 0.0231
+Area: 0.0003
+CentroidX: 0.2568
+CentroidY: 0.0259

@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_dad2fb10.png
+centerX: 0.1995
+centerY: 0.4950
+width: 0.0379
+height: 0.0291
+Area: 0.0002
+CentroidX: 0.2197
+CentroidY: 0.5061

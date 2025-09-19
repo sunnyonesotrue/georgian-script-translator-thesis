@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_de3eddad.png
+centerX: 0.4849
+centerY: 0.0673
+width: 0.0520
+height: 0.0277
+Area: 0.0003
+CentroidX: 0.5103
+CentroidY: 0.0796

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_c1d131c9.png
+centerX: 0.0157
+centerY: 0.2317
+width: 0.0262
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.0282
+CentroidY: 0.2494

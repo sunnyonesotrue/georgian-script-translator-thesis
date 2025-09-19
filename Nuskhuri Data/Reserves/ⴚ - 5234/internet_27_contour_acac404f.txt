@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_acac404f.png
+centerX: 0.8182
+centerY: 0.1372
+width: 0.0375
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.8368
+CentroidY: 0.1494

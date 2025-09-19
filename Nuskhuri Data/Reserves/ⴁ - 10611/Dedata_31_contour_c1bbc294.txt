@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_c1bbc294.png
+centerX: 0.5403
+centerY: 0.4343
+width: 0.0387
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.5589
+CentroidY: 0.4508

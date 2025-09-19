@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_624fcdeb.png
+centerX: 0.5985
+centerY: 0.5999
+width: 0.0335
+height: 0.0257
+Area: 0.0002
+CentroidX: 0.6159
+CentroidY: 0.6153

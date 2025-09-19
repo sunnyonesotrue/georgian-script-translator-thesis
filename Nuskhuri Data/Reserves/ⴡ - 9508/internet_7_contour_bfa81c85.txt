@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_bfa81c85.png
+centerX: 0.4313
+centerY: 0.7599
+width: 0.0270
+height: 0.0451
+Area: 0.0004
+CentroidX: 0.4422
+CentroidY: 0.7810

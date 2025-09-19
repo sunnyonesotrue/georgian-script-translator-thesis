@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_abad0685.png
+centerX: 0.1734
+centerY: 0.1553
+width: 0.0331
+height: 0.0256
+Area: 0.0002
+CentroidX: 0.1915
+CentroidY: 0.1650

@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_d703ca3c.png
+centerX: 0.7437
+centerY: 0.3547
+width: 0.0472
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.7694
+CentroidY: 0.3667

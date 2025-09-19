@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_47caabd2.png
+centerX: 0.4115
+centerY: 0.0582
+width: 0.0419
+height: 0.0339
+Area: 0.0004
+CentroidX: 0.4321
+CentroidY: 0.0724

@@ -1,0 +1,9 @@
+Location:Kondaki_1824_page_10
+Component: Kondaki_1824_page_10_contour_faad0513.png
+centerX: 0.0556
+centerY: 0.9408
+width: 0.0671
+height: 0.0289
+Area: 0.0012
+CentroidX: 0.0911
+CentroidY: 0.9544

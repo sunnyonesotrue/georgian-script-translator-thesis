@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ba15347a.png
+centerX: 0.5609
+centerY: 0.7461
+width: 0.0177
+height: 0.0373
+Area: 0.0002
+CentroidX: 0.5714
+CentroidY: 0.7618

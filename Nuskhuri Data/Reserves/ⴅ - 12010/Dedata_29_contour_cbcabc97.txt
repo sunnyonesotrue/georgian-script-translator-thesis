@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_cbcabc97.png
+centerX: 0.9250
+centerY: 0.3061
+width: 0.0440
+height: 0.0291
+Area: 0.0004
+CentroidX: 0.9480
+CentroidY: 0.3172

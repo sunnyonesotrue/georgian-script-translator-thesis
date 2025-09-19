@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_fee966cf.png
+centerX: 0.4520
+centerY: 0.6093
+width: 0.0552
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.4786
+CentroidY: 0.6204

@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_dd03086a.png
+centerX: 0.8416
+centerY: 0.1642
+width: 0.0351
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.8573
+CentroidY: 0.1765

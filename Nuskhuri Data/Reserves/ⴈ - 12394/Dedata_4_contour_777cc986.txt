@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_777cc986.png
+centerX: 0.5512
+centerY: 0.4839
+width: 0.0250
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.5645
+CentroidY: 0.4907

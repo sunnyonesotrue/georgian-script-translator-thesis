@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_f242ddca.png
+centerX: 0.6681
+centerY: 0.0738
+width: 0.0331
+height: 0.0182
+Area: 0.0003
+CentroidX: 0.6855
+CentroidY: 0.0832

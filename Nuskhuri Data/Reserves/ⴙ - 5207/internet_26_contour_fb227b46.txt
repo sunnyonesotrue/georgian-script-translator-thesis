@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_fb227b46.png
+centerX: 0.4039
+centerY: 0.0582
+width: 0.0286
+height: 0.0393
+Area: 0.0003
+CentroidX: 0.4176
+CentroidY: 0.0761

@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_2fafee2d.png
+centerX: 0.8634
+centerY: 0.1605
+width: 0.0520
+height: 0.0317
+Area: 0.0009
+CentroidX: 0.8932
+CentroidY: 0.1739

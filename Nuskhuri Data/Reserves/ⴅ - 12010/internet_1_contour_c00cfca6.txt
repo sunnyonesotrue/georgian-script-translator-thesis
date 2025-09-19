@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_c00cfca6.png
+centerX: 0.6683
+centerY: 0.5971
+width: 0.0403
+height: 0.0282
+Area: 0.0006
+CentroidX: 0.6892
+CentroidY: 0.6088

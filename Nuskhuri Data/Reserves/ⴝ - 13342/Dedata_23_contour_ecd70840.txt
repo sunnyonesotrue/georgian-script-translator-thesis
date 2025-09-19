@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_ecd70840.png
+centerX: 0.9460
+centerY: 0.1758
+width: 0.0238
+height: 0.0256
+Area: 0.0003
+CentroidX: 0.9585
+CentroidY: 0.1881

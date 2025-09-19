@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_dafe1c92.png
+centerX: 0.6449
+centerY: 0.7089
+width: 0.0387
+height: 0.0339
+Area: 0.0004
+CentroidX: 0.6655
+CentroidY: 0.7251

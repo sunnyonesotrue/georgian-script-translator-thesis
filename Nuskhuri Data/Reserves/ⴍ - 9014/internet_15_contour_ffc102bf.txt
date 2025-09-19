@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_ffc102bf.png
+centerX: 0.0113
+centerY: 0.0961
+width: 0.0447
+height: 0.0197
+Area: 0.0003
+CentroidX: 0.0310
+CentroidY: 0.1084

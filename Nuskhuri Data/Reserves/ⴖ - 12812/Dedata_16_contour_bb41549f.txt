@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_bb41549f.png
+centerX: 0.5722
+centerY: 0.1790
+width: 0.0254
+height: 0.0162
+Area: 0.0002
+CentroidX: 0.5835
+CentroidY: 0.1861

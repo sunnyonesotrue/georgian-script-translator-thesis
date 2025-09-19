@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_8252ad50.png
+centerX: 0.8996
+centerY: 0.7672
+width: 0.0431
+height: 0.0302
+Area: 0.0008
+CentroidX: 0.9198
+CentroidY: 0.7803

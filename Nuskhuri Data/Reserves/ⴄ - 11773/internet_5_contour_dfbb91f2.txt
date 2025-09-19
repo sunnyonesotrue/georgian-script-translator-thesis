@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_dfbb91f2.png
+centerX: 0.7078
+centerY: 0.0103
+width: 0.0480
+height: 0.0348
+Area: 0.0006
+CentroidX: 0.7328
+CentroidY: 0.0254

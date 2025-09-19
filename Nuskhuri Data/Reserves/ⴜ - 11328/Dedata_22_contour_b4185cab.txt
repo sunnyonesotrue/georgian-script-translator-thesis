@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_b4185cab.png
+centerX: 0.5738
+centerY: 0.1439
+width: 0.0234
+height: 0.0348
+Area: 0.0002
+CentroidX: 0.5835
+CentroidY: 0.1562

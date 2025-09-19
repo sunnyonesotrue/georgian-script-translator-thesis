@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_eac5110a.png
+centerX: 0.1790
+centerY: 0.5503
+width: 0.0270
+height: 0.0148
+Area: 0.0002
+CentroidX: 0.1935
+CentroidY: 0.5554

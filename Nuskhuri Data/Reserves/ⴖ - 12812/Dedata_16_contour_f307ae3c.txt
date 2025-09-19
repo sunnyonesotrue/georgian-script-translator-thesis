@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_f307ae3c.png
+centerX: 0.3056
+centerY: 0.0265
+width: 0.0258
+height: 0.0202
+Area: 0.0002
+CentroidX: 0.3181
+CentroidY: 0.0356

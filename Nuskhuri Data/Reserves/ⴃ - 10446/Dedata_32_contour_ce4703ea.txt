@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_ce4703ea.png
+centerX: 0.6792
+centerY: 0.3504
+width: 0.0359
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.6989
+CentroidY: 0.3621

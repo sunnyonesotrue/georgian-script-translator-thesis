@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_d22ea913.png
+centerX: 0.8323
+centerY: 0.2258
+width: 0.0343
+height: 0.0419
+Area: 0.0004
+CentroidX: 0.8489
+CentroidY: 0.2455

@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_e60ea52d.png
+centerX: 0.6105
+centerY: 0.1684
+width: 0.0323
+height: 0.0239
+Area: 0.0004
+CentroidX: 0.6274
+CentroidY: 0.1787

@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_5bfeadb4.png
+centerX: 0.5534
+centerY: 0.0887
+width: 0.0286
+height: 0.0277
+Area: 0.0002
+CentroidX: 0.5675
+CentroidY: 0.0964

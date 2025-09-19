@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_fa3490f5.png
+centerX: 0.3994
+centerY: 0.0094
+width: 0.0443
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.4200
+CentroidY: 0.0185

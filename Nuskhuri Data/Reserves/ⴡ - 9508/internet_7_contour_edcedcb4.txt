@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_edcedcb4.png
+centerX: 0.9017
+centerY: 0.2780
+width: 0.0371
+height: 0.0468
+Area: 0.0004
+CentroidX: 0.9206
+CentroidY: 0.3008

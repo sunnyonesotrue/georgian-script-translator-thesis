@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_ac9010c4.png
+centerX: 0.5151
+centerY: 0.2230
+width: 0.0314
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.5337
+CentroidY: 0.2338

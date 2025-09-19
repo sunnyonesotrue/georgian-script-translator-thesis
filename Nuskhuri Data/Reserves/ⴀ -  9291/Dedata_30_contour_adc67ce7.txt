@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_adc67ce7.png
+centerX: 0.2419
+centerY: 0.0077
+width: 0.0359
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.2565
+CentroidY: 0.0188

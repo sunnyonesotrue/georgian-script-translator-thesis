@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_e2010fbc.png
+centerX: 0.7602
+centerY: 0.1725
+width: 0.0415
+height: 0.0234
+Area: 0.0004
+CentroidX: 0.7799
+CentroidY: 0.1851

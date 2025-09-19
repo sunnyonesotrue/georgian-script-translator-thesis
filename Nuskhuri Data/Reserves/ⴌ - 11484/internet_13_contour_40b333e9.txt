@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_40b333e9.png
+centerX: 0.3688
+centerY: 0.4722
+width: 0.0302
+height: 0.0359
+Area: 0.0005
+CentroidX: 0.3825
+CentroidY: 0.4882

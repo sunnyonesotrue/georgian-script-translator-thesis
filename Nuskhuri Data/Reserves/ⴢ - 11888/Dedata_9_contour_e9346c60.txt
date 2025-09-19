@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_e9346c60.png
+centerX: 0.6165
+centerY: 0.7190
+width: 0.0290
+height: 0.0274
+Area: 0.0002
+CentroidX: 0.6323
+CentroidY: 0.7353

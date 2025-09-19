@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_f201bbbc.png
+centerX: 0.0859
+centerY: 0.0545
+width: 0.0399
+height: 0.0374
+Area: 0.0004
+CentroidX: 0.1088
+CentroidY: 0.0693

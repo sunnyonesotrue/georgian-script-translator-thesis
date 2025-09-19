@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_adb3af3b.png
+centerX: 0.7226
+centerY: 0.5925
+width: 0.0516
+height: 0.0219
+Area: 0.0005
+CentroidX: 0.7476
+CentroidY: 0.6010

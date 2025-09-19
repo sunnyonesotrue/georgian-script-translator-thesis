@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_ea45aedc.png
+centerX: 0.6066
+centerY: 0.5144
+width: 0.0415
+height: 0.0331
+Area: 0.0005
+CentroidX: 0.6312
+CentroidY: 0.5284

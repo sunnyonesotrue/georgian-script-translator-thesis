@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_61df7425.png
+centerX: 0.6852
+centerY: 0.2236
+width: 0.0528
+height: 0.0277
+Area: 0.0004
+CentroidX: 0.7126
+CentroidY: 0.2375

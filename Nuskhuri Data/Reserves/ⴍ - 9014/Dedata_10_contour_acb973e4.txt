@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_acb973e4.png
+centerX: 0.3399
+centerY: 0.2089
+width: 0.0528
+height: 0.0177
+Area: 0.0004
+CentroidX: 0.3637
+CentroidY: 0.2192

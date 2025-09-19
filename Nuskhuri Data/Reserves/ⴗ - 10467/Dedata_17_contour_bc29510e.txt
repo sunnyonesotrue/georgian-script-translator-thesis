@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_bc29510e.png
+centerX: 0.1851
+centerY: 0.6557
+width: 0.0202
+height: 0.0396
+Area: 0.0003
+CentroidX: 0.1956
+CentroidY: 0.6723

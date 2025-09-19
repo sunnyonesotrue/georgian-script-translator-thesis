@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_a0b4abad.png
+centerX: 0.9359
+centerY: 0.2368
+width: 0.0298
+height: 0.0356
+Area: 0.0004
+CentroidX: 0.9516
+CentroidY: 0.2522

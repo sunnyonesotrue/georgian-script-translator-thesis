@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_c61f16d9.png
+centerX: 0.8331
+centerY: 0.5982
+width: 0.0266
+height: 0.0305
+Area: 0.0002
+CentroidX: 0.8444
+CentroidY: 0.6122

@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_db97cd25.png
+centerX: 0.1395
+centerY: 0.1941
+width: 0.0476
+height: 0.0219
+Area: 0.0003
+CentroidX: 0.1621
+CentroidY: 0.2066

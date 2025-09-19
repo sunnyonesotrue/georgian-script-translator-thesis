@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_accac4b6.png
+centerX: 0.0125
+centerY: 0.5212
+width: 0.0258
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.0230
+CentroidY: 0.5323

@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_fc3f2626.png
+centerX: 0.5421
+centerY: 0.7203
+width: 0.0331
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.5627
+CentroidY: 0.7345

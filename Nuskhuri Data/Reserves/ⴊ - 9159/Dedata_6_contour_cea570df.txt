@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_cea570df.png
+centerX: 0.4875
+centerY: 0.7307
+width: 0.0492
+height: 0.0228
+Area: 0.0007
+CentroidX: 0.5141
+CentroidY: 0.7410

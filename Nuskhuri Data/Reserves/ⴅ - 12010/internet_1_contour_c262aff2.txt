@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_c262aff2.png
+centerX: 0.6215
+centerY: 0.4554
+width: 0.0504
+height: 0.0259
+Area: 0.0004
+CentroidX: 0.6473
+CentroidY: 0.4642

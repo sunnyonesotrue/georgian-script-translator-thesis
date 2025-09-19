@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_b2b6051b.png
+centerX: 0.8235
+centerY: 0.0961
+width: 0.0351
+height: 0.0334
+Area: 0.0003
+CentroidX: 0.8404
+CentroidY: 0.1138

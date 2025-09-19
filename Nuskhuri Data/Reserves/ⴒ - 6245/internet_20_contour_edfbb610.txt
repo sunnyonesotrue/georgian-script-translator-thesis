@@ -1,0 +1,9 @@
+Location:internet_20
+Component: internet_20_contour_edfbb610.png
+centerX: 0.1455
+centerY: 0.6493
+width: 0.0427
+height: 0.0319
+Area: 0.0007
+CentroidX: 0.1616
+CentroidY: 0.6638

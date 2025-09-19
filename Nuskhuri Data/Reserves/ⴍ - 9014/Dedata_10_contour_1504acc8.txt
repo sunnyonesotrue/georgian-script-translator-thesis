@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_1504acc8.png
+centerX: 0.7234
+centerY: 0.5839
+width: 0.0544
+height: 0.0211
+Area: 0.0004
+CentroidX: 0.7480
+CentroidY: 0.5962

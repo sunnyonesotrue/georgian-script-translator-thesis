@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_e4a6facb.png
+centerX: 0.2294
+centerY: 0.8672
+width: 0.0351
+height: 0.0165
+Area: 0.0002
+CentroidX: 0.2456
+CentroidY: 0.8732

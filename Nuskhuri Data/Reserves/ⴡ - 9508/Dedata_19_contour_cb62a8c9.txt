@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_cb62a8c9.png
+centerX: 0.0194
+centerY: 0.2035
+width: 0.0210
+height: 0.0422
+Area: 0.0003
+CentroidX: 0.0262
+CentroidY: 0.2220

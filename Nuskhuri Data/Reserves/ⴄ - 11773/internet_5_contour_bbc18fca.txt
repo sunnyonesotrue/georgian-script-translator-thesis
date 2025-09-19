@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_bbc18fca.png
+centerX: 0.2338
+centerY: 0.7382
+width: 0.0419
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.2572
+CentroidY: 0.7502

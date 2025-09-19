@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_d832de15.png
+centerX: 0.4339
+centerY: 0.7566
+width: 0.0190
+height: 0.0442
+Area: 0.0003
+CentroidX: 0.4456
+CentroidY: 0.7751

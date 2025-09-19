@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_bd75f596.png
+centerX: 0.3539
+centerY: 0.3296
+width: 0.0488
+height: 0.0268
+Area: 0.0005
+CentroidX: 0.3793
+CentroidY: 0.3385

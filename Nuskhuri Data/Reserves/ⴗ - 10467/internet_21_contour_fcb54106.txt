@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_fcb54106.png
+centerX: 0.1657
+centerY: 0.4078
+width: 0.0262
+height: 0.0433
+Area: 0.0002
+CentroidX: 0.1810
+CentroidY: 0.4294

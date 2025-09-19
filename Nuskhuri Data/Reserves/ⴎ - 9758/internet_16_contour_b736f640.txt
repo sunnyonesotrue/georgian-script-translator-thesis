@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_b736f640.png
+centerX: 0.0802
+centerY: 0.4688
+width: 0.0472
+height: 0.0282
+Area: 0.0006
+CentroidX: 0.1036
+CentroidY: 0.4825

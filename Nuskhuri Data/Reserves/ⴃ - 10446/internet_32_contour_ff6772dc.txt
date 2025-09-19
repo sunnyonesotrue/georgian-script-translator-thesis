@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_ff6772dc.png
+centerX: 0.9484
+centerY: 0.0048
+width: 0.0314
+height: 0.0319
+Area: 0.0006
+CentroidX: 0.9613
+CentroidY: 0.0217

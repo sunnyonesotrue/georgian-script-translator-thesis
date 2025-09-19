@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_aa403086.png
+centerX: 0.7565
+centerY: 0.0593
+width: 0.0274
+height: 0.0356
+Area: 0.0003
+CentroidX: 0.7706
+CentroidY: 0.0815

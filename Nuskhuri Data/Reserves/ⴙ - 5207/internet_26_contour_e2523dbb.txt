@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_e2523dbb.png
+centerX: 0.5611
+centerY: 0.5637
+width: 0.0254
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.5707
+CentroidY: 0.5783

@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_b4315fec.png
+centerX: 0.0129
+centerY: 0.1671
+width: 0.0375
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.0294
+CentroidY: 0.1785

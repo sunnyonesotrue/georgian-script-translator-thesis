@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_fdfe340b.png
+centerX: 0.6098
+centerY: 0.5349
+width: 0.0447
+height: 0.0208
+Area: 0.0003
+CentroidX: 0.6320
+CentroidY: 0.5472

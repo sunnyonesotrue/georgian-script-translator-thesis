@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_8c07936e.png
+centerX: 0.7670
+centerY: 0.1069
+width: 0.0435
+height: 0.0274
+Area: 0.0007
+CentroidX: 0.7908
+CentroidY: 0.1189

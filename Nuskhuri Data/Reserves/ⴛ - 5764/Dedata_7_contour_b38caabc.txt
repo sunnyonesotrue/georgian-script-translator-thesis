@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_b38caabc.png
+centerX: 0.3117
+centerY: 0.8832
+width: 0.0460
+height: 0.0285
+Area: 0.0004
+CentroidX: 0.3383
+CentroidY: 0.8988

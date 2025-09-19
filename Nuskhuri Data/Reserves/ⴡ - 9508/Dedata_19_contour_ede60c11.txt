@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_ede60c11.png
+centerX: 0.2077
+centerY: 0.8207
+width: 0.0214
+height: 0.0442
+Area: 0.0004
+CentroidX: 0.2157
+CentroidY: 0.8413

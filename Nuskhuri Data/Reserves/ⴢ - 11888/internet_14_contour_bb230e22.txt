@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_bb230e22.png
+centerX: 0.2950
+centerY: 0.1001
+width: 0.0258
+height: 0.0237
+Area: 0.0002
+CentroidX: 0.3075
+CentroidY: 0.1135

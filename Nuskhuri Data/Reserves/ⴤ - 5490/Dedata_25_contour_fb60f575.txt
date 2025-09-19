@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_fb60f575.png
+centerX: 0.9581
+centerY: 0.4828
+width: 0.0254
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.9730
+CentroidY: 0.4950

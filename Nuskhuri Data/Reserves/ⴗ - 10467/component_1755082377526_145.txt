@@ -1,0 +1,9 @@
+Location: internet_21.png_Gaussian-Closing.png
+Component: component_1755082377526_145.png
+centerX: 0.18137847642079807
+centerY: 0.3473053892215569
+width: 0.027005239822652155
+height: 0.04419731964642144
+Area: 0.0003638717842716134
+CentroidX: 0.1962
+CentroidY: 0.3684

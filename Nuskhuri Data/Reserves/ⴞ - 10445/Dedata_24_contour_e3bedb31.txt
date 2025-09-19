@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_e3bedb31.png
+centerX: 0.0661
+centerY: 0.4081
+width: 0.0391
+height: 0.0308
+Area: 0.0005
+CentroidX: 0.0847
+CentroidY: 0.4235

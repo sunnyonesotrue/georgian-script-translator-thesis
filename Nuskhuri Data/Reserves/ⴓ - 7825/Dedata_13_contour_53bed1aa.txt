@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_53bed1aa.png
+centerX: 0.0202
+centerY: 0.0664
+width: 0.0347
+height: 0.0308
+Area: 0.0002
+CentroidX: 0.0407
+CentroidY: 0.0764

@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_436caffb.png
+centerX: 0.7665
+centerY: 0.7301
+width: 0.0411
+height: 0.0296
+Area: 0.0003
+CentroidX: 0.7923
+CentroidY: 0.7469

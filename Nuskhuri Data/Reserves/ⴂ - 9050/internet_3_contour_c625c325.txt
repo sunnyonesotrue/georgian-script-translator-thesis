@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_c625c325.png
+centerX: 0.5873
+centerY: 0.6983
+width: 0.0403
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.6090
+CentroidY: 0.7117

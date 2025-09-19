@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_bad91673.png
+centerX: 0.9298
+centerY: 0.5355
+width: 0.0456
+height: 0.0251
+Area: 0.0007
+CentroidX: 0.9540
+CentroidY: 0.5469

@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_dda127de.png
+centerX: 0.1810
+centerY: 0.1637
+width: 0.0697
+height: 0.0391
+Area: 0.0013
+CentroidX: 0.2189
+CentroidY: 0.1788

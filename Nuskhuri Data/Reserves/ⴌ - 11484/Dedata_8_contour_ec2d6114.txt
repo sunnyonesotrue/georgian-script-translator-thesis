@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_ec2d6114.png
+centerX: 0.4181
+centerY: 0.4514
+width: 0.0218
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.4266
+CentroidY: 0.4662

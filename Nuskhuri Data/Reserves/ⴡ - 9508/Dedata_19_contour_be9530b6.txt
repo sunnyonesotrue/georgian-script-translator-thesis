@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_be9530b6.png
+centerX: 0.9464
+centerY: 0.2354
+width: 0.0254
+height: 0.0467
+Area: 0.0004
+CentroidX: 0.9560
+CentroidY: 0.2562

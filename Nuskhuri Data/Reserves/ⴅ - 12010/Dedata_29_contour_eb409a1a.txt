@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_eb409a1a.png
+centerX: 0.8669
+centerY: 0.2448
+width: 0.0387
+height: 0.0282
+Area: 0.0004
+CentroidX: 0.8879
+CentroidY: 0.2542

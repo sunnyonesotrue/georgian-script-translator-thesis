@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_baabdc50.png
+centerX: 0.2890
+centerY: 0.1129
+width: 0.0314
+height: 0.0362
+Area: 0.0005
+CentroidX: 0.3027
+CentroidY: 0.1317

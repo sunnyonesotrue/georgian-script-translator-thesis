@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_f4019aff.png
+centerX: 0.6581
+centerY: 0.4206
+width: 0.0270
+height: 0.0382
+Area: 0.0004
+CentroidX: 0.6698
+CentroidY: 0.4343

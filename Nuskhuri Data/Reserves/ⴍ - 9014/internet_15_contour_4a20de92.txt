@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_4a20de92.png
+centerX: 0.0826
+centerY: 0.5960
+width: 0.0455
+height: 0.0194
+Area: 0.0004
+CentroidX: 0.1048
+CentroidY: 0.6074

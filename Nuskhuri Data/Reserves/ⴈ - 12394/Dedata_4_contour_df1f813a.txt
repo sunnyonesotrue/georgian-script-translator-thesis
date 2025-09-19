@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_df1f813a.png
+centerX: 0.5234
+centerY: 0.5702
+width: 0.0254
+height: 0.0214
+Area: 0.0002
+CentroidX: 0.5371
+CentroidY: 0.5802

@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_bbec2391.png
+centerX: 0.5609
+centerY: 0.5879
+width: 0.0452
+height: 0.0248
+Area: 0.0007
+CentroidX: 0.5855
+CentroidY: 0.5993

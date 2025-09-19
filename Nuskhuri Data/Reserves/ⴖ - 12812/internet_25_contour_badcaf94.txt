@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_badcaf94.png
+centerX: 0.2801
+centerY: 0.5854
+width: 0.0411
+height: 0.0220
+Area: 0.0003
+CentroidX: 0.3015
+CentroidY: 0.5937

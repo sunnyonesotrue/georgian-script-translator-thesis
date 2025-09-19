@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_fa2a82de.png
+centerX: 0.6040
+centerY: 0.1248
+width: 0.0508
+height: 0.0174
+Area: 0.0003
+CentroidX: 0.6282
+CentroidY: 0.1305

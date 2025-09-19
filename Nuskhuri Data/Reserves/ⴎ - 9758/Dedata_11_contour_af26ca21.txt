@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_af26ca21.png
+centerX: 0.8996
+centerY: 0.2103
+width: 0.0613
+height: 0.0217
+Area: 0.0004
+CentroidX: 0.9274
+CentroidY: 0.2229

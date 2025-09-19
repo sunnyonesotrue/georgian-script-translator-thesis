@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_64abaca1.png
+centerX: 0.1839
+centerY: 0.2496
+width: 0.0339
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.2004
+CentroidY: 0.2645

@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_eb86b205.png
+centerX: 0.7012
+centerY: 0.1929
+width: 0.0347
+height: 0.0356
+Area: 0.0006
+CentroidX: 0.7161
+CentroidY: 0.2109

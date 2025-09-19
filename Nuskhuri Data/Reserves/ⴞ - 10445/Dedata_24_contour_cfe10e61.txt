@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_cfe10e61.png
+centerX: 0.7875
+centerY: 0.0083
+width: 0.0371
+height: 0.0305
+Area: 0.0002
+CentroidX: 0.8040
+CentroidY: 0.0205

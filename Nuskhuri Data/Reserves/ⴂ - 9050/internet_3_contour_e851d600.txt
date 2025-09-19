@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_e851d600.png
+centerX: 0.5191
+centerY: 0.0160
+width: 0.0621
+height: 0.0442
+Area: 0.0006
+CentroidX: 0.5538
+CentroidY: 0.0356

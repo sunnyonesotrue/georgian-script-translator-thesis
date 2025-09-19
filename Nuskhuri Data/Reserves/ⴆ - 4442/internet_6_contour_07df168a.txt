@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_07df168a.png
+centerX: 0.6038
+centerY: 0.1317
+width: 0.0512
+height: 0.0354
+Area: 0.0008
+CentroidX: 0.6300
+CentroidY: 0.1500

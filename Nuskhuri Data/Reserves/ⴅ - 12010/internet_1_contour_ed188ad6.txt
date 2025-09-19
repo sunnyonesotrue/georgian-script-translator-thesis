@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_ed188ad6.png
+centerX: 0.8976
+centerY: 0.1121
+width: 0.0367
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.9170
+CentroidY: 0.1215

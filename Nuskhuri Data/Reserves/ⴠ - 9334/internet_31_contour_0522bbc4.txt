@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_0522bbc4.png
+centerX: 0.1491
+centerY: 0.5979
+width: 0.0536
+height: 0.0291
+Area: 0.0007
+CentroidX: 0.1790
+CentroidY: 0.6113

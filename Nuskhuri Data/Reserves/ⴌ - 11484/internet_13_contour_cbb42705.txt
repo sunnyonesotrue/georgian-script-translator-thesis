@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_cbb42705.png
+centerX: 0.5675
+centerY: 0.2324
+width: 0.0250
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.5776
+CentroidY: 0.2452

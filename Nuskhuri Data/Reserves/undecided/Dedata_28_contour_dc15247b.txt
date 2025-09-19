@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_dc15247b.png
+centerX: 0.3129
+centerY: 0.3235
+width: 0.0343
+height: 0.0413
+Area: 0.0007
+CentroidX: 0.3278
+CentroidY: 0.3440

@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_450fc180.png
+centerX: 0.6827
+centerY: 0.8304
+width: 0.0468
+height: 0.0231
+Area: 0.0002
+CentroidX: 0.7133
+CentroidY: 0.8453

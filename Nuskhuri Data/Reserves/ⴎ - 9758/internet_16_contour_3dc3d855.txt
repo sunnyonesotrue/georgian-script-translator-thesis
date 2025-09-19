@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_3dc3d855.png
+centerX: 0.4651
+centerY: 0.2207
+width: 0.0508
+height: 0.0248
+Area: 0.0005
+CentroidX: 0.4901
+CentroidY: 0.2332

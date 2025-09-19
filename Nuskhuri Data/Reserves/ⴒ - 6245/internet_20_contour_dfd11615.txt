@@ -1,0 +1,9 @@
+Location:internet_20
+Component: internet_20_contour_dfd11615.png
+centerX: 0.2644
+centerY: 0.8018
+width: 0.0395
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.2801
+CentroidY: 0.8178

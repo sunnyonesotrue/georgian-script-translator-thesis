@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_401bed7c.png
+centerX: 0.5532
+centerY: 0.5569
+width: 0.0335
+height: 0.0368
+Area: 0.0004
+CentroidX: 0.5702
+CentroidY: 0.5731

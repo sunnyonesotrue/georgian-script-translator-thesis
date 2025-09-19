@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_cad69a31.png
+centerX: 0.0738
+centerY: 0.4443
+width: 0.0585
+height: 0.0191
+Area: 0.0003
+CentroidX: 0.1004
+CentroidY: 0.4548

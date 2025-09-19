@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_cb404b04.png
+centerX: 0.6685
+centerY: 0.4355
+width: 0.0222
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.6794
+CentroidY: 0.4423

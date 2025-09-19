@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_f320f308.png
+centerX: 0.4585
+centerY: 0.6361
+width: 0.0327
+height: 0.0331
+Area: 0.0003
+CentroidX: 0.4762
+CentroidY: 0.6489

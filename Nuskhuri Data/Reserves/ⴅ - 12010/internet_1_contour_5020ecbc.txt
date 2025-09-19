@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_5020ecbc.png
+centerX: 0.5022
+centerY: 0.0470
+width: 0.0439
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.5244
+CentroidY: 0.0567

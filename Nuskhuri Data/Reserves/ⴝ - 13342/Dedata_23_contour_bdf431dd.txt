@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_bdf431dd.png
+centerX: 0.4827
+centerY: 0.4298
+width: 0.0242
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.4952
+CentroidY: 0.4429

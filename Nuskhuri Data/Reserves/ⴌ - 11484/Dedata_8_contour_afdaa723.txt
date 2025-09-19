@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_afdaa723.png
+centerX: 0.9476
+centerY: 0.6475
+width: 0.0202
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.9565
+CentroidY: 0.6666

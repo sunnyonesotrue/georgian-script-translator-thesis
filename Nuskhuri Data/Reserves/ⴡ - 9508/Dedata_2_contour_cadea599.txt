@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_cadea599.png
+centerX: 0.9444
+centerY: 0.3542
+width: 0.0302
+height: 0.0396
+Area: 0.0004
+CentroidX: 0.9556
+CentroidY: 0.3722

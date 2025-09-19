@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_daf96a54.png
+centerX: 0.2399
+centerY: 0.0142
+width: 0.0222
+height: 0.0313
+Area: 0.0004
+CentroidX: 0.2512
+CentroidY: 0.0282

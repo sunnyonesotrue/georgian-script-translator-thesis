@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_6cb631c1.png
+centerX: 0.3560
+centerY: 0.4625
+width: 0.0234
+height: 0.0427
+Area: 0.0003
+CentroidX: 0.3653
+CentroidY: 0.4808

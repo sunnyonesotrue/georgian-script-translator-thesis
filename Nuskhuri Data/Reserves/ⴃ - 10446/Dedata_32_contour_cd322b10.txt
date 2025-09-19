@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_cd322b10.png
+centerX: 0.1387
+centerY: 0.6099
+width: 0.0375
+height: 0.0299
+Area: 0.0005
+CentroidX: 0.1608
+CentroidY: 0.6230

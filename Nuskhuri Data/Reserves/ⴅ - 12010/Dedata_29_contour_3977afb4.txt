@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_3977afb4.png
+centerX: 0.1214
+centerY: 0.7008
+width: 0.0319
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.1391
+CentroidY: 0.7093

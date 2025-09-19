@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_be2850fe.png
+centerX: 0.5827
+centerY: 0.1773
+width: 0.0589
+height: 0.0177
+Area: 0.0003
+CentroidX: 0.6109
+CentroidY: 0.1878

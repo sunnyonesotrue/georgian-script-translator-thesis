@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_ad54595e.png
+centerX: 0.8932
+centerY: 0.1705
+width: 0.0351
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.9113
+CentroidY: 0.1873

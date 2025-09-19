@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_adfa3ae5.png
+centerX: 0.9363
+centerY: 0.3023
+width: 0.0431
+height: 0.0336
+Area: 0.0008
+CentroidX: 0.9601
+CentroidY: 0.3162

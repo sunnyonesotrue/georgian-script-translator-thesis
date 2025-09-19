@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_ca650c89.png
+centerX: 0.3452
+centerY: 0.0083
+width: 0.0270
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.3585
+CentroidY: 0.0151

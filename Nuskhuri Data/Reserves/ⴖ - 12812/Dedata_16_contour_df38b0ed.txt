@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_df38b0ed.png
+centerX: 0.5855
+centerY: 0.3685
+width: 0.0367
+height: 0.0145
+Area: 0.0002
+CentroidX: 0.6056
+CentroidY: 0.3742

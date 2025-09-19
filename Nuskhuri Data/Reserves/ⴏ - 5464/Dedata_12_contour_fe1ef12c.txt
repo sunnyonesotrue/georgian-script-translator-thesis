@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_fe1ef12c.png
+centerX: 0.8169
+centerY: 0.3309
+width: 0.0367
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.8359
+CentroidY: 0.3448

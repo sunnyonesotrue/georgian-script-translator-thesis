@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_1d300adc.png
+centerX: 0.0157
+centerY: 0.0607
+width: 0.0290
+height: 0.0265
+Area: 0.0003
+CentroidX: 0.0274
+CentroidY: 0.0735

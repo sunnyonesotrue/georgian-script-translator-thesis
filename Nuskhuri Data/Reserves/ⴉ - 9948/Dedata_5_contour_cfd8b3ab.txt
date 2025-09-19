@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_cfd8b3ab.png
+centerX: 0.2000
+centerY: 0.3007
+width: 0.0230
+height: 0.0436
+Area: 0.0004
+CentroidX: 0.2101
+CentroidY: 0.3235

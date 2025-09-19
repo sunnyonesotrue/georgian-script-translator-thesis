@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_741bd425.png
+centerX: 0.8935
+centerY: 0.2365
+width: 0.0383
+height: 0.0259
+Area: 0.0003
+CentroidX: 0.9149
+CentroidY: 0.2468

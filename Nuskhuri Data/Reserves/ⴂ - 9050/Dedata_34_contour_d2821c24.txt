@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_d2821c24.png
+centerX: 0.0137
+centerY: 0.2937
+width: 0.0427
+height: 0.0297
+Area: 0.0006
+CentroidX: 0.0375
+CentroidY: 0.3062

@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_b759ca46.png
+centerX: 0.1322
+centerY: 0.7722
+width: 0.0242
+height: 0.0371
+Area: 0.0002
+CentroidX: 0.1471
+CentroidY: 0.7856

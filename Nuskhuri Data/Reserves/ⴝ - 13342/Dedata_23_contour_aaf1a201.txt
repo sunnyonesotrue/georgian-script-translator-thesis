@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_aaf1a201.png
+centerX: 0.2419
+centerY: 0.4913
+width: 0.0206
+height: 0.0259
+Area: 0.0003
+CentroidX: 0.2520
+CentroidY: 0.5027

@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_d5bbc293.png
+centerX: 0.4157
+centerY: 0.0943
+width: 0.0544
+height: 0.0191
+Area: 0.0004
+CentroidX: 0.4427
+CentroidY: 0.1015

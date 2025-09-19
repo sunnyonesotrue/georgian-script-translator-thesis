@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_a638fafd.png
+centerX: 0.3371
+centerY: 0.2838
+width: 0.0226
+height: 0.0313
+Area: 0.0003
+CentroidX: 0.3476
+CentroidY: 0.2989

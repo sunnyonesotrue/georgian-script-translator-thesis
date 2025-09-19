@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_f165cad2.png
+centerX: 0.4325
+centerY: 0.2498
+width: 0.0367
+height: 0.0388
+Area: 0.0009
+CentroidX: 0.4502
+CentroidY: 0.2709

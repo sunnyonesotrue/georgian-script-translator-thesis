@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_dcd1381a.png
+centerX: 0.6629
+centerY: 0.0804
+width: 0.0407
+height: 0.0265
+Area: 0.0003
+CentroidX: 0.6855
+CentroidY: 0.0892

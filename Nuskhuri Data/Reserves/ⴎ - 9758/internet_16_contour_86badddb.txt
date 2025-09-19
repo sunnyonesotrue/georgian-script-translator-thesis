@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_86badddb.png
+centerX: 0.2918
+centerY: 0.5957
+width: 0.0532
+height: 0.0248
+Area: 0.0005
+CentroidX: 0.3160
+CentroidY: 0.6088

@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_13fa522c.png
+centerX: 0.5526
+centerY: 0.0074
+width: 0.0447
+height: 0.0248
+Area: 0.0003
+CentroidX: 0.5760
+CentroidY: 0.0188

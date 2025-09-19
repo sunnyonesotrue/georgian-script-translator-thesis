@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_bc510646.png
+centerX: 0.3297
+centerY: 0.4266
+width: 0.0355
+height: 0.0297
+Area: 0.0004
+CentroidX: 0.3486
+CentroidY: 0.4386

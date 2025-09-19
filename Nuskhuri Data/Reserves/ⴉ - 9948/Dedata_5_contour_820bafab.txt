@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_820bafab.png
+centerX: 0.1927
+centerY: 0.7310
+width: 0.0250
+height: 0.0453
+Area: 0.0005
+CentroidX: 0.2048
+CentroidY: 0.7532

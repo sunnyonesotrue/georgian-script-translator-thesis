@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_bb778e54.png
+centerX: 0.1653
+centerY: 0.5939
+width: 0.0347
+height: 0.0208
+Area: 0.0004
+CentroidX: 0.1827
+CentroidY: 0.6025

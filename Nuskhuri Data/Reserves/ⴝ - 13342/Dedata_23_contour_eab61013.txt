@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_eab61013.png
+centerX: 0.3379
+centerY: 0.4850
+width: 0.0262
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.3500
+CentroidY: 0.4981

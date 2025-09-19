@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_caafb850.png
+centerX: 0.1879
+centerY: 0.4201
+width: 0.0230
+height: 0.0439
+Area: 0.0004
+CentroidX: 0.1992
+CentroidY: 0.4431

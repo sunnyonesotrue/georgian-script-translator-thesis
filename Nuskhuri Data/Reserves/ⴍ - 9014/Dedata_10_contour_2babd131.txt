@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_2babd131.png
+centerX: 0.6427
+centerY: 0.3163
+width: 0.0544
+height: 0.0168
+Area: 0.0003
+CentroidX: 0.6673
+CentroidY: 0.3263

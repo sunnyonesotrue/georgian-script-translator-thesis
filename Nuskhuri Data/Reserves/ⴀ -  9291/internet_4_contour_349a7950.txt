@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_349a7950.png
+centerX: 0.2148
+centerY: 0.2489
+width: 0.0447
+height: 0.0228
+Area: 0.0003
+CentroidX: 0.2366
+CentroidY: 0.2595

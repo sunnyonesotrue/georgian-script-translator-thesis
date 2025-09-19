@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_feb7d813.png
+centerX: 0.8762
+centerY: 0.5563
+width: 0.0218
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.8871
+CentroidY: 0.5651

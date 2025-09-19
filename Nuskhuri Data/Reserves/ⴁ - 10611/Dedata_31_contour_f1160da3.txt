@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_f1160da3.png
+centerX: 0.0641
+centerY: 0.3984
+width: 0.0319
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.0802
+CentroidY: 0.4158

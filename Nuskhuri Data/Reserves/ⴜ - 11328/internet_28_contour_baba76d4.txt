@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_baba76d4.png
+centerX: 0.0189
+centerY: 0.5341
+width: 0.0355
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.0335
+CentroidY: 0.5452

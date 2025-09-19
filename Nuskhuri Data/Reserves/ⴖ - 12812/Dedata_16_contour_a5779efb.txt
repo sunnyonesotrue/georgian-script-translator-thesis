@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_a5779efb.png
+centerX: 0.1048
+centerY: 0.1174
+width: 0.0258
+height: 0.0185
+Area: 0.0002
+CentroidX: 0.1169
+CentroidY: 0.1248

@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_fea83665.png
+centerX: 0.1488
+centerY: 0.0781
+width: 0.0347
+height: 0.0214
+Area: 0.0003
+CentroidX: 0.1698
+CentroidY: 0.0881

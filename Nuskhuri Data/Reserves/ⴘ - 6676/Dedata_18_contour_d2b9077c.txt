@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_d2b9077c.png
+centerX: 0.6484
+centerY: 0.3294
+width: 0.0238
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.6609
+CentroidY: 0.3451

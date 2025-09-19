@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_e2de6887.png
+centerX: 0.5328
+centerY: 0.0593
+width: 0.0423
+height: 0.0279
+Area: 0.0003
+CentroidX: 0.5574
+CentroidY: 0.0713

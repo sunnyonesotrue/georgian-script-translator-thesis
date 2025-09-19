@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_becf7953.png
+centerX: 0.0230
+centerY: 0.0730
+width: 0.0496
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.0476
+CentroidY: 0.0821

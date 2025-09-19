@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_cade9a52.png
+centerX: 0.2262
+centerY: 0.0513
+width: 0.0407
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.2440
+CentroidY: 0.0607

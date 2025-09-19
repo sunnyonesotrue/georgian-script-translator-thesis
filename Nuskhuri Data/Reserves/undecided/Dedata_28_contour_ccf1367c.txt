@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_ccf1367c.png
+centerX: 0.3359
+centerY: 0.1094
+width: 0.0415
+height: 0.0402
+Area: 0.0006
+CentroidX: 0.3540
+CentroidY: 0.1291

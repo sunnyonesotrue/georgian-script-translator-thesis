@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_c1fe552e.png
+centerX: 0.3556
+centerY: 0.4625
+width: 0.0242
+height: 0.0425
+Area: 0.0003
+CentroidX: 0.3657
+CentroidY: 0.4802

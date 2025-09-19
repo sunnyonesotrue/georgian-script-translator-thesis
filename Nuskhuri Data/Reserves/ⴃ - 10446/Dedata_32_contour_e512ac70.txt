@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_e512ac70.png
+centerX: 0.4361
+centerY: 0.0898
+width: 0.0302
+height: 0.0294
+Area: 0.0004
+CentroidX: 0.4526
+CentroidY: 0.1044

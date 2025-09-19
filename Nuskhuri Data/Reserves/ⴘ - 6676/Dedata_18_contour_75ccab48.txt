@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_75ccab48.png
+centerX: 0.5815
+centerY: 0.7278
+width: 0.0246
+height: 0.0379
+Area: 0.0003
+CentroidX: 0.5972
+CentroidY: 0.7458

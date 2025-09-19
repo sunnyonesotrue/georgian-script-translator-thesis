@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_f8338bab.png
+centerX: 0.5478
+centerY: 0.2549
+width: 0.0351
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.5671
+CentroidY: 0.2692

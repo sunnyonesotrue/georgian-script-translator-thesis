@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_aa36414f.png
+centerX: 0.5468
+centerY: 0.4625
+width: 0.0286
+height: 0.0467
+Area: 0.0003
+CentroidX: 0.5597
+CentroidY: 0.4845

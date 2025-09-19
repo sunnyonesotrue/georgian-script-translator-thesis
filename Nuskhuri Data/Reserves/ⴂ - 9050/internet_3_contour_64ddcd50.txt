@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_64ddcd50.png
+centerX: 0.5187
+centerY: 0.0160
+width: 0.0625
+height: 0.0448
+Area: 0.0006
+CentroidX: 0.5542
+CentroidY: 0.0362

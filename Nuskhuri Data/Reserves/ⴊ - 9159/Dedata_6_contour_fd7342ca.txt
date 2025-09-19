@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_fd7342ca.png
+centerX: 0.1448
+centerY: 0.3901
+width: 0.0379
+height: 0.0225
+Area: 0.0006
+CentroidX: 0.1641
+CentroidY: 0.3998

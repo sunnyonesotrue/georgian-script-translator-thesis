@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_a5321c18.png
+centerX: 0.2274
+centerY: 0.6925
+width: 0.0290
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.2423
+CentroidY: 0.7002

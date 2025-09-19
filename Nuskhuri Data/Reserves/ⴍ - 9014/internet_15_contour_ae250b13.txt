@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_ae250b13.png
+centerX: 0.0971
+centerY: 0.0106
+width: 0.0552
+height: 0.0220
+Area: 0.0004
+CentroidX: 0.1217
+CentroidY: 0.0237

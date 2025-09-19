@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_c123230e.png
+centerX: 0.0117
+centerY: 0.1833
+width: 0.0363
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.0314
+CentroidY: 0.1985

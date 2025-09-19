@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_efab26cc.png
+centerX: 0.2093
+centerY: 0.3938
+width: 0.0359
+height: 0.0399
+Area: 0.0007
+CentroidX: 0.2238
+CentroidY: 0.4146

@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_abbf7161.png
+centerX: 0.6691
+centerY: 0.1871
+width: 0.0351
+height: 0.0308
+Area: 0.0002
+CentroidX: 0.6852
+CentroidY: 0.1985

@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_acab62bb.png
+centerX: 0.0867
+centerY: 0.2491
+width: 0.0516
+height: 0.0168
+Area: 0.0004
+CentroidX: 0.1105
+CentroidY: 0.2588

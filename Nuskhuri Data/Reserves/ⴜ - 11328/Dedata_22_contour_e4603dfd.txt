@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_e4603dfd.png
+centerX: 0.2746
+centerY: 0.4768
+width: 0.0242
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.2843
+CentroidY: 0.4896

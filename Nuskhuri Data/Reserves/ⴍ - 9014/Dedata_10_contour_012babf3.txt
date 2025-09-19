@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_012babf3.png
+centerX: 0.5782
+centerY: 0.4369
+width: 0.0536
+height: 0.0174
+Area: 0.0003
+CentroidX: 0.6032
+CentroidY: 0.4480

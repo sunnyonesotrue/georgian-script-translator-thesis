@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_cfb2a54d.png
+centerX: 0.6925
+centerY: 0.3698
+width: 0.0226
+height: 0.0362
+Area: 0.0003
+CentroidX: 0.7046
+CentroidY: 0.3844

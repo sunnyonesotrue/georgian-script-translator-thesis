@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_bcd329c3.png
+centerX: 0.3374
+centerY: 0.2524
+width: 0.0407
+height: 0.0388
+Area: 0.0003
+CentroidX: 0.3559
+CentroidY: 0.2652

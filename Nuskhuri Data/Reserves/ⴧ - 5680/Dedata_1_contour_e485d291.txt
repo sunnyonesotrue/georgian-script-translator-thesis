@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_e485d291.png
+centerX: 0.2323
+centerY: 0.2229
+width: 0.0306
+height: 0.0399
+Area: 0.0006
+CentroidX: 0.2484
+CentroidY: 0.2422

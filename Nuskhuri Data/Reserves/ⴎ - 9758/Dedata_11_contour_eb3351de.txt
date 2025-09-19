@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_eb3351de.png
+centerX: 0.3254
+centerY: 0.1094
+width: 0.0472
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.3480
+CentroidY: 0.1214

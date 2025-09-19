@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_bec2a052.png
+centerX: 0.3919
+centerY: 0.2619
+width: 0.0359
+height: 0.0239
+Area: 0.0003
+CentroidX: 0.4133
+CentroidY: 0.2724

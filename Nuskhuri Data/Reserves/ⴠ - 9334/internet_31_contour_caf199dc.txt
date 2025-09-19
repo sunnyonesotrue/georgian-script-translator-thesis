@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_caf199dc.png
+centerX: 0.4293
+centerY: 0.7936
+width: 0.0528
+height: 0.0322
+Area: 0.0006
+CentroidX: 0.4547
+CentroidY: 0.8090

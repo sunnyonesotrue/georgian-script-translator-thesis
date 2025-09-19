@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_e2cb8189.png
+centerX: 0.5169
+centerY: 0.3796
+width: 0.0351
+height: 0.0268
+Area: 0.0006
+CentroidX: 0.5347
+CentroidY: 0.3921

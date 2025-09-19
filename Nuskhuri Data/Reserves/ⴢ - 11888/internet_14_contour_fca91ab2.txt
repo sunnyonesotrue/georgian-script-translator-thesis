@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_fca91ab2.png
+centerX: 0.6280
+centerY: 0.5520
+width: 0.0270
+height: 0.0231
+Area: 0.0002
+CentroidX: 0.6405
+CentroidY: 0.5657

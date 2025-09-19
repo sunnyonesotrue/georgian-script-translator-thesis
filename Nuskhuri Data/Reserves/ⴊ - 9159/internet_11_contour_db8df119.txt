@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_db8df119.png
+centerX: 0.7626
+centerY: 0.6881
+width: 0.0520
+height: 0.0348
+Area: 0.0009
+CentroidX: 0.7908
+CentroidY: 0.7026

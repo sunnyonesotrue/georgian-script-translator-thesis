@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_be88de22.png
+centerX: 0.5268
+centerY: 0.0197
+width: 0.0363
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.5445
+CentroidY: 0.0314

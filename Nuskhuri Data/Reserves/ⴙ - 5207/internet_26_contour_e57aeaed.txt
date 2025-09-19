@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_e57aeaed.png
+centerX: 0.7666
+centerY: 0.2124
+width: 0.0278
+height: 0.0416
+Area: 0.0003
+CentroidX: 0.7787
+CentroidY: 0.2315

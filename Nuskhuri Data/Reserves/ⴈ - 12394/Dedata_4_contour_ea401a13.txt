@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_ea401a13.png
+centerX: 0.5859
+centerY: 0.4372
+width: 0.0282
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.6000
+CentroidY: 0.4437

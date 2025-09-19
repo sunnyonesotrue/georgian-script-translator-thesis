@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_bd12975a.png
+centerX: 0.3039
+centerY: 0.7553
+width: 0.0202
+height: 0.0371
+Area: 0.0003
+CentroidX: 0.3152
+CentroidY: 0.7702

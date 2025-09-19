@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_dfcf17fc.png
+centerX: 0.3692
+centerY: 0.0972
+width: 0.0331
+height: 0.0314
+Area: 0.0007
+CentroidX: 0.3849
+CentroidY: 0.1135

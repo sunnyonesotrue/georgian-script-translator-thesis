@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_b4040b4c.png
+centerX: 0.3108
+centerY: 0.2244
+width: 0.0468
+height: 0.0271
+Area: 0.0005
+CentroidX: 0.3341
+CentroidY: 0.2375

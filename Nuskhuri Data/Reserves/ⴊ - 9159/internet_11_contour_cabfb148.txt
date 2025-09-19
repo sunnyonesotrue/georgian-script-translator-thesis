@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_cabfb148.png
+centerX: 0.5244
+centerY: 0.3040
+width: 0.0605
+height: 0.0336
+Area: 0.0011
+CentroidX: 0.5611
+CentroidY: 0.3191

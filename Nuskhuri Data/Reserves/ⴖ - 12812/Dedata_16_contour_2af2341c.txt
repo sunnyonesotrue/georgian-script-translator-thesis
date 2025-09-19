@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_2af2341c.png
+centerX: 0.2907
+centerY: 0.6569
+width: 0.0310
+height: 0.0188
+Area: 0.0003
+CentroidX: 0.3052
+CentroidY: 0.6643

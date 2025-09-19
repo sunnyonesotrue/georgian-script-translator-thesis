@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_fda9470a.png
+centerX: 0.6427
+centerY: 0.7860
+width: 0.0238
+height: 0.0425
+Area: 0.0004
+CentroidX: 0.6520
+CentroidY: 0.8054

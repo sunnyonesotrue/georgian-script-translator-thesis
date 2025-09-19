@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_cfdae963.png
+centerX: 0.8629
+centerY: 0.5930
+width: 0.0327
+height: 0.0228
+Area: 0.0003
+CentroidX: 0.8802
+CentroidY: 0.6010

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_da3f980a.png
+centerX: 0.1713
+centerY: 0.3442
+width: 0.0230
+height: 0.0368
+Area: 0.0003
+CentroidX: 0.1854
+CentroidY: 0.3661

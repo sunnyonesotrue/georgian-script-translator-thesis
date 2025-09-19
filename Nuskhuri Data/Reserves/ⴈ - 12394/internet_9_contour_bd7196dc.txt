@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_bd7196dc.png
+centerX: 0.1169
+centerY: 0.2883
+width: 0.0282
+height: 0.0305
+Area: 0.0003
+CentroidX: 0.1334
+CentroidY: 0.3025

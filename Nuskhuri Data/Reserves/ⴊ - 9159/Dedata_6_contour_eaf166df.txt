@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_eaf166df.png
+centerX: 0.2052
+centerY: 0.2565
+width: 0.0351
+height: 0.0219
+Area: 0.0005
+CentroidX: 0.2234
+CentroidY: 0.2665

@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_ca2dc35f.png
+centerX: 0.9319
+centerY: 0.8236
+width: 0.0403
+height: 0.0285
+Area: 0.0003
+CentroidX: 0.9573
+CentroidY: 0.8404

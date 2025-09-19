@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_253ccfad.png
+centerX: 0.8521
+centerY: 0.0921
+width: 0.0258
+height: 0.0234
+Area: 0.0002
+CentroidX: 0.8634
+CentroidY: 0.1058

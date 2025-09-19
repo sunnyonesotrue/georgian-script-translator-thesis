@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_ac407537.png
+centerX: 0.9508
+centerY: 0.0772
+width: 0.0335
+height: 0.0450
+Area: 0.0008
+CentroidX: 0.9673
+CentroidY: 0.0983

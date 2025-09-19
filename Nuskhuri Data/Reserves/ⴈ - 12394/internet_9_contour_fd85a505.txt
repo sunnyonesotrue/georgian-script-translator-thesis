@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_fd85a505.png
+centerX: 0.4583
+centerY: 0.1762
+width: 0.0266
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.4724
+CentroidY: 0.1879

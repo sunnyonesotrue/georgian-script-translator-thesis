@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_db345c46.png
+centerX: 0.8940
+centerY: 0.2374
+width: 0.0282
+height: 0.0165
+Area: 0.0002
+CentroidX: 0.9097
+CentroidY: 0.2428

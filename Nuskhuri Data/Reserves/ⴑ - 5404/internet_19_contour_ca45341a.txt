@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_ca45341a.png
+centerX: 0.4184
+centerY: 0.3470
+width: 0.0274
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.4285
+CentroidY: 0.3650

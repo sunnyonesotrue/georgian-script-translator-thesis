@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_d2fa2427.png
+centerX: 0.9133
+centerY: 0.3237
+width: 0.0210
+height: 0.0316
+Area: 0.0003
+CentroidX: 0.9238
+CentroidY: 0.3397

@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_1fabb2d1.png
+centerX: 0.6542
+centerY: 0.1913
+width: 0.0407
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.6767
+CentroidY: 0.2082

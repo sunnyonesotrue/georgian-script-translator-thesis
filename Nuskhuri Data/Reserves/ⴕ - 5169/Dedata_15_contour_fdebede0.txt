@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_fdebede0.png
+centerX: 0.3980
+centerY: 0.1724
+width: 0.0359
+height: 0.0422
+Area: 0.0003
+CentroidX: 0.4165
+CentroidY: 0.1918

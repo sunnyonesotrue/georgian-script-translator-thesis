@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_d52460ab.png
+centerX: 0.2573
+centerY: 0.0704
+width: 0.0246
+height: 0.0408
+Area: 0.0004
+CentroidX: 0.2698
+CentroidY: 0.0909

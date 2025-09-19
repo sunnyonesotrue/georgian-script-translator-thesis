@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_baaec305.png
+centerX: 0.1343
+centerY: 0.7934
+width: 0.0383
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.1569
+CentroidY: 0.8102

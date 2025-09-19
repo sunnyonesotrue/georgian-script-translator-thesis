@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_480a4133.png
+centerX: 0.1516
+centerY: 0.3730
+width: 0.0476
+height: 0.0254
+Area: 0.0005
+CentroidX: 0.1757
+CentroidY: 0.3849

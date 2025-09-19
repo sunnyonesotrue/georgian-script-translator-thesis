@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_52ca9200.png
+centerX: 0.2008
+centerY: 0.0584
+width: 0.0238
+height: 0.0333
+Area: 0.0003
+CentroidX: 0.2097
+CentroidY: 0.0698

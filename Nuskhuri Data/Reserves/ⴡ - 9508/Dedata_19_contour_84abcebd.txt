@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_84abcebd.png
+centerX: 0.7516
+centerY: 0.0658
+width: 0.0214
+height: 0.0436
+Area: 0.0003
+CentroidX: 0.7593
+CentroidY: 0.0852

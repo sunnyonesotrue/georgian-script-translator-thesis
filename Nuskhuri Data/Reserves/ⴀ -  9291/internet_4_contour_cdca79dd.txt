@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_cdca79dd.png
+centerX: 0.6058
+centerY: 0.5250
+width: 0.0435
+height: 0.0262
+Area: 0.0004
+CentroidX: 0.6264
+CentroidY: 0.5369

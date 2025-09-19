@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_47bc2084.png
+centerX: 0.7843
+centerY: 0.0037
+width: 0.0306
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.8004
+CentroidY: 0.0168

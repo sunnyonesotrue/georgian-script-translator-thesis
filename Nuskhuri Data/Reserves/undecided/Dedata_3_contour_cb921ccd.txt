@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_cb921ccd.png
+centerX: 0.2508
+centerY: 0.5440
+width: 0.0435
+height: 0.0208
+Area: 0.0005
+CentroidX: 0.2710
+CentroidY: 0.5531

@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_ea918b85.png
+centerX: 0.6707
+centerY: 0.0448
+width: 0.0399
+height: 0.0277
+Area: 0.0003
+CentroidX: 0.6937
+CentroidY: 0.0539

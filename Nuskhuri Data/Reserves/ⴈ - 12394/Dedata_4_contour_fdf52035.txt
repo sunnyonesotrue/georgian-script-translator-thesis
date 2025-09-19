@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_fdf52035.png
+centerX: 0.3165
+centerY: 0.3748
+width: 0.0262
+height: 0.0174
+Area: 0.0002
+CentroidX: 0.3306
+CentroidY: 0.3810

@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_9070fca3.png
+centerX: 0.0246
+centerY: 0.4839
+width: 0.0435
+height: 0.0217
+Area: 0.0006
+CentroidX: 0.0476
+CentroidY: 0.4936

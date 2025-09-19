@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_f5ca193a.png
+centerX: 0.3160
+centerY: 0.2221
+width: 0.0423
+height: 0.0225
+Area: 0.0004
+CentroidX: 0.3349
+CentroidY: 0.2347

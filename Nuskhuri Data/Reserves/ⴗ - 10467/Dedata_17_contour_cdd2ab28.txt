@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_cdd2ab28.png
+centerX: 0.7867
+centerY: 0.0613
+width: 0.0234
+height: 0.0373
+Area: 0.0003
+CentroidX: 0.7968
+CentroidY: 0.0764

@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_d4f55200.png
+centerX: 0.8476
+centerY: 0.3696
+width: 0.0391
+height: 0.0373
+Area: 0.0005
+CentroidX: 0.8665
+CentroidY: 0.3864

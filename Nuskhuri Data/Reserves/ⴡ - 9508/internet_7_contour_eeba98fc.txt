@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_eeba98fc.png
+centerX: 0.3100
+centerY: 0.4933
+width: 0.0290
+height: 0.0459
+Area: 0.0003
+CentroidX: 0.3216
+CentroidY: 0.5107

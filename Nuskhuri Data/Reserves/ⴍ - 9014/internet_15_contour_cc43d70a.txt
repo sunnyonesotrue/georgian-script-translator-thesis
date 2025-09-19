@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_cc43d70a.png
+centerX: 0.4688
+centerY: 0.6581
+width: 0.0399
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.4857
+CentroidY: 0.6701

@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_db54ab1b.png
+centerX: 0.1617
+centerY: 0.3933
+width: 0.0331
+height: 0.0331
+Area: 0.0006
+CentroidX: 0.1758
+CentroidY: 0.4095

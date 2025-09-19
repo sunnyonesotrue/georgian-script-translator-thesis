@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_fb3abc27.png
+centerX: 0.5734
+centerY: 0.2519
+width: 0.0577
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.6020
+CentroidY: 0.2645

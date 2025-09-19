@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_acb21954.png
+centerX: 0.4827
+centerY: 0.1926
+width: 0.0185
+height: 0.0462
+Area: 0.0003
+CentroidX: 0.4891
+CentroidY: 0.2140

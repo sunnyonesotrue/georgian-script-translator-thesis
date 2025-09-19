@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_fcaec883.png
+centerX: 0.5032
+centerY: 0.0658
+width: 0.0210
+height: 0.0479
+Area: 0.0004
+CentroidX: 0.5105
+CentroidY: 0.0878

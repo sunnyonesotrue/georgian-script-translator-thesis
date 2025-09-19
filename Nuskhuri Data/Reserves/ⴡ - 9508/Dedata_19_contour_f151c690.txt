@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_f151c690.png
+centerX: 0.5540
+centerY: 0.6193
+width: 0.0286
+height: 0.0470
+Area: 0.0004
+CentroidX: 0.5645
+CentroidY: 0.6415

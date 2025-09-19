@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_c484ab23.png
+centerX: 0.8121
+centerY: 0.0222
+width: 0.0230
+height: 0.0271
+Area: 0.0002
+CentroidX: 0.8234
+CentroidY: 0.0319

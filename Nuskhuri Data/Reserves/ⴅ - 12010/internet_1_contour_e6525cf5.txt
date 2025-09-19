@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_e6525cf5.png
+centerX: 0.1314
+centerY: 0.7508
+width: 0.0476
+height: 0.0299
+Area: 0.0005
+CentroidX: 0.1564
+CentroidY: 0.7613

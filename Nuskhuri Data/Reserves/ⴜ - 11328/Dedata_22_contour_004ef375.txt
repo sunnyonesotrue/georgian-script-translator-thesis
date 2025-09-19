@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_004ef375.png
+centerX: 0.6710
+centerY: 0.5748
+width: 0.0315
+height: 0.0368
+Area: 0.0004
+CentroidX: 0.6827
+CentroidY: 0.5871

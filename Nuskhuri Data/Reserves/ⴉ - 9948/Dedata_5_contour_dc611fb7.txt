@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_dc611fb7.png
+centerX: 0.3742
+centerY: 0.7224
+width: 0.0238
+height: 0.0476
+Area: 0.0005
+CentroidX: 0.3863
+CentroidY: 0.7467

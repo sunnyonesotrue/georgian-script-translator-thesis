@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_618dfdcc.png
+centerX: 0.2516
+centerY: 0.0966
+width: 0.0524
+height: 0.0202
+Area: 0.0004
+CentroidX: 0.2758
+CentroidY: 0.1046

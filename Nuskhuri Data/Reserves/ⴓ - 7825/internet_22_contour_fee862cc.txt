@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_fee862cc.png
+centerX: 0.2072
+centerY: 0.4753
+width: 0.0568
+height: 0.0528
+Area: 0.0007
+CentroidX: 0.2394
+CentroidY: 0.5096

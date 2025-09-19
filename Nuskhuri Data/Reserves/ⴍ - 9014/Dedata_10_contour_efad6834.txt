@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_efad6834.png
+centerX: 0.5367
+centerY: 0.5284
+width: 0.0452
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.5573
+CentroidY: 0.5392

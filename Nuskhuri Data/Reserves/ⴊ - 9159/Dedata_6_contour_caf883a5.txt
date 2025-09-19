@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_caf883a5.png
+centerX: 0.3956
+centerY: 0.3799
+width: 0.0411
+height: 0.0228
+Area: 0.0007
+CentroidX: 0.4173
+CentroidY: 0.3904

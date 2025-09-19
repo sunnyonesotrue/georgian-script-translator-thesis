@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_cb20e072.png
+centerX: 0.1435
+centerY: 0.1935
+width: 0.0500
+height: 0.0254
+Area: 0.0006
+CentroidX: 0.1653
+CentroidY: 0.2032

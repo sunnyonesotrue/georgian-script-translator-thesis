@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_f24150e7.png
+centerX: 0.6090
+centerY: 0.0499
+width: 0.0310
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.6231
+CentroidY: 0.0633

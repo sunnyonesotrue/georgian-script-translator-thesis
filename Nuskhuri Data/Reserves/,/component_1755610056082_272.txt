@@ -1,0 +1,9 @@
+Location: Samociqulo_1709_page_10.png_Gaussian-Median.png
+Component: component_1755610056082_272.png
+centerX: 0.11498771498771498
+centerY: 0.03375
+width: 0.008845208845208846
+height: 0.0046875
+Area: 1.335995085995086e-05
+CentroidX: 0.1180
+CentroidY: 0.0354

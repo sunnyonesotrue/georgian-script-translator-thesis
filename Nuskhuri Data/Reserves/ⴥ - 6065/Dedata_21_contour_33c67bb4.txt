@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_33c67bb4.png
+centerX: 0.9609
+centerY: 0.0524
+width: 0.0315
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.9766
+CentroidY: 0.0667

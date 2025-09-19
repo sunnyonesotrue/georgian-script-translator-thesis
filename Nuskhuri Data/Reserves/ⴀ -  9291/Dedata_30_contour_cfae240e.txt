@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_cfae240e.png
+centerX: 0.5867
+centerY: 0.2702
+width: 0.0403
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.6056
+CentroidY: 0.2784

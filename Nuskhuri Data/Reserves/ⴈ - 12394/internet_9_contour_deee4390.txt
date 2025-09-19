@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_deee4390.png
+centerX: 0.3551
+centerY: 0.5449
+width: 0.0250
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.3704
+CentroidY: 0.5566

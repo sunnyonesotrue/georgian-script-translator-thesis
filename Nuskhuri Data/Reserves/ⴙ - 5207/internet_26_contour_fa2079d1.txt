@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_fa2079d1.png
+centerX: 0.6538
+centerY: 0.3969
+width: 0.0254
+height: 0.0305
+Area: 0.0002
+CentroidX: 0.6642
+CentroidY: 0.4098

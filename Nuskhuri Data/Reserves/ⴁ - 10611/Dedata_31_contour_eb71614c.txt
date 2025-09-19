@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_eb71614c.png
+centerX: 0.6536
+centerY: 0.7942
+width: 0.0343
+height: 0.0359
+Area: 0.0005
+CentroidX: 0.6718
+CentroidY: 0.8131

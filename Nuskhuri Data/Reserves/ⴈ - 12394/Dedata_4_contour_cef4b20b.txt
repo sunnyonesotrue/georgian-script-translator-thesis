@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_cef4b20b.png
+centerX: 0.7504
+centerY: 0.2824
+width: 0.0290
+height: 0.0148
+Area: 0.0002
+CentroidX: 0.7669
+CentroidY: 0.2875

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_fdc62101.png
+centerX: 0.2076
+centerY: 0.1392
+width: 0.0322
+height: 0.0391
+Area: 0.0005
+CentroidX: 0.2253
+CentroidY: 0.1577

@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_dc37180c.png
+centerX: 0.5585
+centerY: 0.5514
+width: 0.0452
+height: 0.0242
+Area: 0.0007
+CentroidX: 0.5823
+CentroidY: 0.5617

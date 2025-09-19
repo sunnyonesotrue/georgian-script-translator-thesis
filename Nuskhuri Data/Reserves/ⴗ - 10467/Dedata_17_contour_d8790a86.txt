@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_d8790a86.png
+centerX: 0.6508
+centerY: 0.3320
+width: 0.0254
+height: 0.0373
+Area: 0.0003
+CentroidX: 0.6621
+CentroidY: 0.3474

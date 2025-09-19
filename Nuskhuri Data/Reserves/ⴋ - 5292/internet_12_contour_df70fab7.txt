@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_df70fab7.png
+centerX: 0.6626
+centerY: 0.6042
+width: 0.0318
+height: 0.0351
+Area: 0.0004
+CentroidX: 0.6788
+CentroidY: 0.6239

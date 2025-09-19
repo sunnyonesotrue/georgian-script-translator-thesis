@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_cab0439f.png
+centerX: 0.8339
+centerY: 0.4201
+width: 0.0319
+height: 0.0296
+Area: 0.0003
+CentroidX: 0.8492
+CentroidY: 0.4332

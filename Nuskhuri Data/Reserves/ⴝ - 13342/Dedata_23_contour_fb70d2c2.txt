@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_fb70d2c2.png
+centerX: 0.8798
+centerY: 0.0094
+width: 0.0181
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.8887
+CentroidY: 0.0237

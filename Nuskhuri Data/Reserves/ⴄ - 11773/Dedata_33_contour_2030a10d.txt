@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_2030a10d.png
+centerX: 0.4115
+centerY: 0.1905
+width: 0.0318
+height: 0.0342
+Area: 0.0003
+CentroidX: 0.4297
+CentroidY: 0.2019

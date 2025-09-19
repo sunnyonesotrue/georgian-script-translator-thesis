@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_fc184ccb.png
+centerX: 0.4468
+centerY: 0.3973
+width: 0.0298
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.4633
+CentroidY: 0.4109

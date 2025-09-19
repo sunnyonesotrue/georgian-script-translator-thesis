@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_fcbea215.png
+centerX: 0.5815
+centerY: 0.6215
+width: 0.0242
+height: 0.0370
+Area: 0.0004
+CentroidX: 0.5911
+CentroidY: 0.6344

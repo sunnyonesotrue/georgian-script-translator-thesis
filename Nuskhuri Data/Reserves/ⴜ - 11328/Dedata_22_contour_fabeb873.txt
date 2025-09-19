@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_fabeb873.png
+centerX: 0.3569
+centerY: 0.0596
+width: 0.0230
+height: 0.0302
+Area: 0.0002
+CentroidX: 0.3653
+CentroidY: 0.0698

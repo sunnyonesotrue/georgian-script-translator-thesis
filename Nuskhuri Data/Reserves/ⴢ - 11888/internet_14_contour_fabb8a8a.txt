@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_fabb8a8a.png
+centerX: 0.8585
+centerY: 0.7716
+width: 0.0254
+height: 0.0202
+Area: 0.0002
+CentroidX: 0.8714
+CentroidY: 0.7833

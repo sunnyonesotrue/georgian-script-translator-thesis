@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_54ddbab1.png
+centerX: 0.2210
+centerY: 0.5417
+width: 0.0415
+height: 0.0268
+Area: 0.0007
+CentroidX: 0.2419
+CentroidY: 0.5534

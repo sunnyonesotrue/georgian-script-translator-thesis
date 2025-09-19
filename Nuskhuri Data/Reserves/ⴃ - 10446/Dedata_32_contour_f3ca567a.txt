@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_f3ca567a.png
+centerX: 0.0193
+centerY: 0.3291
+width: 0.0326
+height: 0.0191
+Area: 0.0003
+CentroidX: 0.0355
+CentroidY: 0.3379

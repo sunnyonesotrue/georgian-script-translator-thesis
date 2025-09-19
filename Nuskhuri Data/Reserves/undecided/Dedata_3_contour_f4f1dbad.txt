@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_f4f1dbad.png
+centerX: 0.2565
+centerY: 0.6295
+width: 0.0460
+height: 0.0231
+Area: 0.0006
+CentroidX: 0.2782
+CentroidY: 0.6386

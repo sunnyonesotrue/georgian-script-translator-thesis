@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_facb897c.png
+centerX: 0.8376
+centerY: 0.5971
+width: 0.0359
+height: 0.0322
+Area: 0.0005
+CentroidX: 0.8529
+CentroidY: 0.6085

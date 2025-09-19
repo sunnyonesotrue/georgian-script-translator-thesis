@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_fb3f14fe.png
+centerX: 0.6802
+centerY: 0.2482
+width: 0.0306
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.6968
+CentroidY: 0.2548

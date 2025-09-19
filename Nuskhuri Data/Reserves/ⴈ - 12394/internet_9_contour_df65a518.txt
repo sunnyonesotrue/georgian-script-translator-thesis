@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_df65a518.png
+centerX: 0.2942
+centerY: 0.4517
+width: 0.0335
+height: 0.0254
+Area: 0.0002
+CentroidX: 0.3136
+CentroidY: 0.4639

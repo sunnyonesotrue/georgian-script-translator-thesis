@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_bacb275b.png
+centerX: 0.4415
+centerY: 0.5768
+width: 0.0266
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.4540
+CentroidY: 0.5856

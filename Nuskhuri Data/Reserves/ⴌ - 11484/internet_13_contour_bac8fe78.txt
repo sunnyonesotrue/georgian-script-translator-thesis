@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_bac8fe78.png
+centerX: 0.1169
+centerY: 0.5361
+width: 0.0266
+height: 0.0391
+Area: 0.0004
+CentroidX: 0.1286
+CentroidY: 0.5543

@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_eba2fac8.png
+centerX: 0.6223
+centerY: 0.2923
+width: 0.0270
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.6320
+CentroidY: 0.3100

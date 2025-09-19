@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_bfa130ba.png
+centerX: 0.6105
+centerY: 0.1687
+width: 0.0310
+height: 0.0231
+Area: 0.0003
+CentroidX: 0.6274
+CentroidY: 0.1784

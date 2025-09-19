@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_fd732aae.png
+centerX: 0.8109
+centerY: 0.7555
+width: 0.0266
+height: 0.0433
+Area: 0.0005
+CentroidX: 0.8214
+CentroidY: 0.7743

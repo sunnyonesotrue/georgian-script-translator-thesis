@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_da475e33.png
+centerX: 0.1717
+centerY: 0.7208
+width: 0.0363
+height: 0.0322
+Area: 0.0007
+CentroidX: 0.1886
+CentroidY: 0.7391

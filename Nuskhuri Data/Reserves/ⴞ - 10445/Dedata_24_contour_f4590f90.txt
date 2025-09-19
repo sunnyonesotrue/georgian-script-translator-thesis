@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_f4590f90.png
+centerX: 0.3665
+centerY: 0.6774
+width: 0.0347
+height: 0.0379
+Area: 0.0004
+CentroidX: 0.3827
+CentroidY: 0.6942

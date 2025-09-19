@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_dfec224a.png
+centerX: 0.0822
+centerY: 0.5595
+width: 0.0447
+height: 0.0185
+Area: 0.0003
+CentroidX: 0.1028
+CentroidY: 0.5703

@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_f115a2b2.png
+centerX: 0.6605
+centerY: 0.3292
+width: 0.0391
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.6815
+CentroidY: 0.3391

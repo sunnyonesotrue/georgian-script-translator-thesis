@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_dc7c350e.png
+centerX: 0.8282
+centerY: 0.7039
+width: 0.0488
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.8488
+CentroidY: 0.7164

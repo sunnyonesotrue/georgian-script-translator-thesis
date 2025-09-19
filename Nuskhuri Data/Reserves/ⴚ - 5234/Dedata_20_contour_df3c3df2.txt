@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_df3c3df2.png
+centerX: 0.7903
+centerY: 0.2058
+width: 0.0383
+height: 0.0331
+Area: 0.0004
+CentroidX: 0.8105
+CentroidY: 0.2206

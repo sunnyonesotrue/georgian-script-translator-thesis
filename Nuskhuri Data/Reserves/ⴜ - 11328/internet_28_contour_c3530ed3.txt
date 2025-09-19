@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_c3530ed3.png
+centerX: 0.7787
+centerY: 0.4927
+width: 0.0326
+height: 0.0339
+Area: 0.0004
+CentroidX: 0.7908
+CentroidY: 0.5044

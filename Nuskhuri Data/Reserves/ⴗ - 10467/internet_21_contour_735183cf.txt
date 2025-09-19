@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_735183cf.png
+centerX: 0.8900
+centerY: 0.3045
+width: 0.0282
+height: 0.0462
+Area: 0.0003
+CentroidX: 0.9073
+CentroidY: 0.3273

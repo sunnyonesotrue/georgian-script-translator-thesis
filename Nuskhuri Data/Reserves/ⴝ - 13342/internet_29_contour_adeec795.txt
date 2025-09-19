@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_adeec795.png
+centerX: 0.0552
+centerY: 0.2658
+width: 0.0318
+height: 0.0382
+Area: 0.0004
+CentroidX: 0.0705
+CentroidY: 0.2843

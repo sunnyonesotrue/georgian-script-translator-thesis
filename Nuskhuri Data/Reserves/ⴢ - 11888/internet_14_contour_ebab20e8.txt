@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_ebab20e8.png
+centerX: 0.8577
+centerY: 0.1309
+width: 0.0314
+height: 0.0254
+Area: 0.0002
+CentroidX: 0.8734
+CentroidY: 0.1443

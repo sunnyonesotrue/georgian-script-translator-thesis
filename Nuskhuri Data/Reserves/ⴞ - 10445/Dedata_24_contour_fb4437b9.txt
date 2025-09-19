@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_fb4437b9.png
+centerX: 0.7758
+centerY: 0.2038
+width: 0.0319
+height: 0.0333
+Area: 0.0004
+CentroidX: 0.7919
+CentroidY: 0.2177

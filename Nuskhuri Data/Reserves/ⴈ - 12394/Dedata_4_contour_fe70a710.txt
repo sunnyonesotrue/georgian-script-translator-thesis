@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_fe70a710.png
+centerX: 0.7411
+centerY: 0.1693
+width: 0.0234
+height: 0.0197
+Area: 0.0002
+CentroidX: 0.7540
+CentroidY: 0.1764

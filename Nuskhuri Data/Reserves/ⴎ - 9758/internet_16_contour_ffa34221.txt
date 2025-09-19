@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_ffa34221.png
+centerX: 0.1576
+centerY: 0.1377
+width: 0.0407
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.1810
+CentroidY: 0.1494

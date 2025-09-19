@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_cb2ec713.png
+centerX: 0.2439
+centerY: 0.0097
+width: 0.0443
+height: 0.0371
+Area: 0.0006
+CentroidX: 0.2680
+CentroidY: 0.0254

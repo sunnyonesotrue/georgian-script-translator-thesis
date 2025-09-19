@@ -1,0 +1,9 @@
+Location:Kurtxevani_1713_page_10
+Component: Kurtxevani_1713_page_10_contour_cc818eae.png
+centerX: 0.5176
+centerY: 0.8595
+width: 0.0399
+height: 0.0226
+Area: 0.0005
+CentroidX: 0.5365
+CentroidY: 0.8680

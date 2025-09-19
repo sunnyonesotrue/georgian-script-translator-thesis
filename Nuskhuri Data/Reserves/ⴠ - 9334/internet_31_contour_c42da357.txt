@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_c42da357.png
+centerX: 0.2435
+centerY: 0.1138
+width: 0.0556
+height: 0.0257
+Area: 0.0003
+CentroidX: 0.2696
+CentroidY: 0.1269

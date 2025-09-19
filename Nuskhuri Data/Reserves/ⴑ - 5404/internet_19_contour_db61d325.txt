@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_db61d325.png
+centerX: 0.8444
+centerY: 0.5512
+width: 0.0250
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.8541
+CentroidY: 0.5694

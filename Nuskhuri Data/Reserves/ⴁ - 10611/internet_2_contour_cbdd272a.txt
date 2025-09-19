@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_cbdd272a.png
+centerX: 0.9166
+centerY: 0.2047
+width: 0.0226
+height: 0.0325
+Area: 0.0002
+CentroidX: 0.9303
+CentroidY: 0.2236

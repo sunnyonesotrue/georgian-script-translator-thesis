@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_bb2fbc24.png
+centerX: 0.6944
+centerY: 0.2374
+width: 0.0234
+height: 0.0413
+Area: 0.0004
+CentroidX: 0.7052
+CentroidY: 0.2596

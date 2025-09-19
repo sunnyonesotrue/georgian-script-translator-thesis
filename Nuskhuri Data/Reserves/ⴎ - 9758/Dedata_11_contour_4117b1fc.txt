@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_4117b1fc.png
+centerX: 0.5242
+centerY: 0.0758
+width: 0.0359
+height: 0.0199
+Area: 0.0003
+CentroidX: 0.5407
+CentroidY: 0.0872

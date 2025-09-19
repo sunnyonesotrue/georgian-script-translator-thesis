@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_18729cad.png
+centerX: 0.8012
+centerY: 0.2291
+width: 0.0331
+height: 0.0242
+Area: 0.0003
+CentroidX: 0.8145
+CentroidY: 0.2402

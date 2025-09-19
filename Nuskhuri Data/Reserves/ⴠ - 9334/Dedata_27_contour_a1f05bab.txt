@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_a1f05bab.png
+centerX: 0.3548
+centerY: 0.1838
+width: 0.0452
+height: 0.0239
+Area: 0.0003
+CentroidX: 0.3750
+CentroidY: 0.1961

@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_dd67bafa.png
+centerX: 0.4692
+centerY: 0.1868
+width: 0.0411
+height: 0.0297
+Area: 0.0004
+CentroidX: 0.4917
+CentroidY: 0.2005

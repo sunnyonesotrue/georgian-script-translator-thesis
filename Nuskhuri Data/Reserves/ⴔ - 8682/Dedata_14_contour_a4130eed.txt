@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_a4130eed.png
+centerX: 0.6069
+centerY: 0.7236
+width: 0.0496
+height: 0.0311
+Area: 0.0009
+CentroidX: 0.6310
+CentroidY: 0.7375

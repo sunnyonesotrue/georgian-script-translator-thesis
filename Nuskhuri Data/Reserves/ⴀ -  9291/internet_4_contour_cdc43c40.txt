@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_cdc43c40.png
+centerX: 0.4768
+centerY: 0.4887
+width: 0.0443
+height: 0.0297
+Area: 0.0005
+CentroidX: 0.4998
+CentroidY: 0.5019

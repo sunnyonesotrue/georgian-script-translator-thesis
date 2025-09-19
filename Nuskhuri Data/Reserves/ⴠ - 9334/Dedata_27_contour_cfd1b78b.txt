@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_cfd1b78b.png
+centerX: 0.5129
+centerY: 0.0168
+width: 0.0484
+height: 0.0299
+Area: 0.0006
+CentroidX: 0.5351
+CentroidY: 0.0313

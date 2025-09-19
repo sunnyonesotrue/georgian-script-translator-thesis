@@ -1,0 +1,9 @@
+Location:Kurtxevani_1794_page_10
+Component: Kurtxevani_1794_page_10_contour_060d2831.png
+centerX: 0.1251
+centerY: 0.6219
+width: 0.1099
+height: 0.0688
+Area: 0.0033
+CentroidX: 0.1695
+CentroidY: 0.6509

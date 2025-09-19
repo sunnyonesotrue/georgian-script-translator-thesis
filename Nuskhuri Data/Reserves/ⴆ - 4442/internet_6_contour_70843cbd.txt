@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_70843cbd.png
+centerX: 0.4986
+centerY: 0.2230
+width: 0.0496
+height: 0.0294
+Area: 0.0007
+CentroidX: 0.5244
+CentroidY: 0.2381

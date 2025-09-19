@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_c80c194a.png
+centerX: 0.3528
+centerY: 0.2653
+width: 0.0403
+height: 0.0245
+Area: 0.0002
+CentroidX: 0.3754
+CentroidY: 0.2761

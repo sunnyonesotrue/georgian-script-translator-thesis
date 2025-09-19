@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_eb6131cb.png
+centerX: 0.9166
+centerY: 0.1645
+width: 0.0347
+height: 0.0425
+Area: 0.0004
+CentroidX: 0.9319
+CentroidY: 0.1853

@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_bf1075d1.png
+centerX: 0.3249
+centerY: 0.2991
+width: 0.0290
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.3358
+CentroidY: 0.3185

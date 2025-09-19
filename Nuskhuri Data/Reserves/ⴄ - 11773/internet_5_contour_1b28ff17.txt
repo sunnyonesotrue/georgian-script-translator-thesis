@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_1b28ff17.png
+centerX: 0.3861
+centerY: 0.2703
+width: 0.0391
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.4091
+CentroidY: 0.2803

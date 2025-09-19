@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_e9923b24.png
+centerX: 0.1931
+centerY: 0.0935
+width: 0.0419
+height: 0.0265
+Area: 0.0003
+CentroidX: 0.2157
+CentroidY: 0.1015

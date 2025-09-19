@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_cc432d72.png
+centerX: 0.5653
+centerY: 0.4543
+width: 0.0319
+height: 0.0353
+Area: 0.0004
+CentroidX: 0.5802
+CentroidY: 0.4762

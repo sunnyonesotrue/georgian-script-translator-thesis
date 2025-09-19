@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_13135fee.png
+centerX: 0.2234
+centerY: 0.2585
+width: 0.0440
+height: 0.0234
+Area: 0.0004
+CentroidX: 0.2444
+CentroidY: 0.2713

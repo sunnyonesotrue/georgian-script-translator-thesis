@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_fc241516.png
+centerX: 0.9492
+centerY: 0.7694
+width: 0.0222
+height: 0.0396
+Area: 0.0003
+CentroidX: 0.9577
+CentroidY: 0.7880

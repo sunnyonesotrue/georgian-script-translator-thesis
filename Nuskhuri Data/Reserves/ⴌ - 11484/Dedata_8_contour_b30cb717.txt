@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_b30cb717.png
+centerX: 0.7843
+centerY: 0.1781
+width: 0.0411
+height: 0.0351
+Area: 0.0005
+CentroidX: 0.8032
+CentroidY: 0.1946

@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_f3227de6.png
+centerX: 0.5889
+centerY: 0.1945
+width: 0.0222
+height: 0.0305
+Area: 0.0002
+CentroidX: 0.5977
+CentroidY: 0.2144

@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_da295255.png
+centerX: 0.6659
+centerY: 0.6179
+width: 0.0189
+height: 0.0362
+Area: 0.0003
+CentroidX: 0.6767
+CentroidY: 0.6322

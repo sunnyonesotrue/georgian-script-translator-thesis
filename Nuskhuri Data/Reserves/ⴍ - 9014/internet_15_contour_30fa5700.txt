@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_30fa5700.png
+centerX: 0.5365
+centerY: 0.7802
+width: 0.0455
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.5582
+CentroidY: 0.7921

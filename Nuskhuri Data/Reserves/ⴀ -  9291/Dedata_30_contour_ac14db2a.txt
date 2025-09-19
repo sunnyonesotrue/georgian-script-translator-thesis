@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_ac14db2a.png
+centerX: 0.3625
+centerY: 0.6549
+width: 0.0387
+height: 0.0276
+Area: 0.0004
+CentroidX: 0.3782
+CentroidY: 0.6663

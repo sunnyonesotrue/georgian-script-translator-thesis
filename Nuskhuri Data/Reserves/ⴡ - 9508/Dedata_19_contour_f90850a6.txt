@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_f90850a6.png
+centerX: 0.7460
+centerY: 0.5417
+width: 0.0242
+height: 0.0413
+Area: 0.0004
+CentroidX: 0.7548
+CentroidY: 0.5614

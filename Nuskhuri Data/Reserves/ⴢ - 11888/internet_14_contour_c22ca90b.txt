@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_c22ca90b.png
+centerX: 0.6671
+centerY: 0.3684
+width: 0.0282
+height: 0.0240
+Area: 0.0002
+CentroidX: 0.6804
+CentroidY: 0.3818

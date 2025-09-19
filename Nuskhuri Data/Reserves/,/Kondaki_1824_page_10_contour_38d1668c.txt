@@ -1,0 +1,9 @@
+Location:Kondaki_1824_page_10
+Component: Kondaki_1824_page_10_contour_38d1668c.png
+centerX: 0.7766
+centerY: 0.9461
+width: 0.1687
+height: 0.0334
+Area: 0.0030
+CentroidX: 0.8677
+CentroidY: 0.9643

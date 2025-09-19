@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_fa3a713c.png
+centerX: 0.7868
+centerY: 0.0297
+width: 0.0427
+height: 0.0254
+Area: 0.0004
+CentroidX: 0.8098
+CentroidY: 0.0393

@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_f515f20f.png
+centerX: 0.1919
+centerY: 0.4540
+width: 0.0359
+height: 0.0422
+Area: 0.0007
+CentroidX: 0.2077
+CentroidY: 0.4756

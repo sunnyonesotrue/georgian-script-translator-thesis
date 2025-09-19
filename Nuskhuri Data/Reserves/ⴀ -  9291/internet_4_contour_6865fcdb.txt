@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_6865fcdb.png
+centerX: 0.2793
+centerY: 0.3174
+width: 0.0508
+height: 0.0254
+Area: 0.0004
+CentroidX: 0.3039
+CentroidY: 0.3291

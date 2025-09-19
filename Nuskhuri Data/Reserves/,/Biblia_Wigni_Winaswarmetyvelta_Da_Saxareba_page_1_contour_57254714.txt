@@ -1,0 +1,9 @@
+Location:Biblia_Wigni_Winaswarmetyvelta_Da_Saxareba_page_1
+Component: Biblia_Wigni_Winaswarmetyvelta_Da_Saxareba_page_1_contour_57254714.png
+centerX: 0.7000
+centerY: 0.1350
+width: 0.1773
+height: 0.1186
+Area: 0.0015
+CentroidX: 0.7727
+CentroidY: 0.1900

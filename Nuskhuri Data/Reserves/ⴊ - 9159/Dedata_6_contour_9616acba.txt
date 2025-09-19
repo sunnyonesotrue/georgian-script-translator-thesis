@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_9616acba.png
+centerX: 0.2722
+centerY: 0.2152
+width: 0.0383
+height: 0.0197
+Area: 0.0006
+CentroidX: 0.2927
+CentroidY: 0.2243

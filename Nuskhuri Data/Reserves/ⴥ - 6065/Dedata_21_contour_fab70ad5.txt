@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_fab70ad5.png
+centerX: 0.0718
+centerY: 0.6475
+width: 0.0258
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.0843
+CentroidY: 0.6674

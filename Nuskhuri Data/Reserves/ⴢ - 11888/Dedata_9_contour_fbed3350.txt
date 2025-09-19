@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_fbed3350.png
+centerX: 0.8073
+centerY: 0.3893
+width: 0.0242
+height: 0.0251
+Area: 0.0002
+CentroidX: 0.8210
+CentroidY: 0.4030

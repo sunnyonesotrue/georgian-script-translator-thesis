@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_a77695fb.png
+centerX: 0.4165
+centerY: 0.5227
+width: 0.0282
+height: 0.0405
+Area: 0.0004
+CentroidX: 0.4266
+CentroidY: 0.5363

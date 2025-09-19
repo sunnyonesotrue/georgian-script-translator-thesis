@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_cd12568e.png
+centerX: 0.3375
+centerY: 0.7612
+width: 0.0319
+height: 0.0211
+Area: 0.0002
+CentroidX: 0.3544
+CentroidY: 0.7689

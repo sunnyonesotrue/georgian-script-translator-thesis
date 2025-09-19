@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_dc1a985a.png
+centerX: 0.0580
+centerY: 0.7494
+width: 0.0355
+height: 0.0285
+Area: 0.0003
+CentroidX: 0.0778
+CentroidY: 0.7625

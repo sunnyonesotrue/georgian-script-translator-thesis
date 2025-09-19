@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_c728fedb.png
+centerX: 0.1581
+centerY: 0.1374
+width: 0.0355
+height: 0.0199
+Area: 0.0004
+CentroidX: 0.1786
+CentroidY: 0.1465

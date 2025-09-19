@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_d1cab87c.png
+centerX: 0.6331
+centerY: 0.1661
+width: 0.0403
+height: 0.0234
+Area: 0.0003
+CentroidX: 0.6565
+CentroidY: 0.1784

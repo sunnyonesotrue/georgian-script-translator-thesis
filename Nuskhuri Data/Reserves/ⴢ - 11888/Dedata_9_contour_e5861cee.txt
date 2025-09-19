@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_e5861cee.png
+centerX: 0.5702
+centerY: 0.7182
+width: 0.0274
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.5847
+CentroidY: 0.7367

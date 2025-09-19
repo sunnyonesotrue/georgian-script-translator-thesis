@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_6861fecc.png
+centerX: 0.8020
+centerY: 0.2263
+width: 0.0331
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.8181
+CentroidY: 0.2468

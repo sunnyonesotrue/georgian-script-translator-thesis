@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_1816acad.png
+centerX: 0.3402
+centerY: 0.2415
+width: 0.0411
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.3595
+CentroidY: 0.2515

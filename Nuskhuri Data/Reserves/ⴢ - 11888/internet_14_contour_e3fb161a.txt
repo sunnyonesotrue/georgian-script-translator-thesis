@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_e3fb161a.png
+centerX: 0.7614
+centerY: 0.2227
+width: 0.0318
+height: 0.0251
+Area: 0.0002
+CentroidX: 0.7775
+CentroidY: 0.2372

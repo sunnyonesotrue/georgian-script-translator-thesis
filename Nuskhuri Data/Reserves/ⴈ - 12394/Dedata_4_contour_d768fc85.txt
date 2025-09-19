@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_d768fc85.png
+centerX: 0.3444
+centerY: 0.6261
+width: 0.0298
+height: 0.0174
+Area: 0.0003
+CentroidX: 0.3601
+CentroidY: 0.6327

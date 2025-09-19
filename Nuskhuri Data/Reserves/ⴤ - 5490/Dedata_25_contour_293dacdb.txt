@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_293dacdb.png
+centerX: 0.1802
+centerY: 0.0177
+width: 0.0367
+height: 0.0353
+Area: 0.0005
+CentroidX: 0.1992
+CentroidY: 0.0322

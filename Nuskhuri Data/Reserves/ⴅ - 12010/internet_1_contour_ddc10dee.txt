@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_ddc10dee.png
+centerX: 0.2241
+centerY: 0.8323
+width: 0.0439
+height: 0.0331
+Area: 0.0006
+CentroidX: 0.2479
+CentroidY: 0.8446

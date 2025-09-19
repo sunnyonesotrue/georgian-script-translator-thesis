@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_cdcc8081.png
+centerX: 0.7505
+centerY: 0.6433
+width: 0.0359
+height: 0.0339
+Area: 0.0002
+CentroidX: 0.7682
+CentroidY: 0.6567

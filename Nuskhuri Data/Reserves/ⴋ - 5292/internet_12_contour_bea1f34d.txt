@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_bea1f34d.png
+centerX: 0.8360
+centerY: 0.1032
+width: 0.0331
+height: 0.0362
+Area: 0.0005
+CentroidX: 0.8513
+CentroidY: 0.1206

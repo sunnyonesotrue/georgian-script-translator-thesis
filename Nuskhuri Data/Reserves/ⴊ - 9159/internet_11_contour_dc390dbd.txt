@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_dc390dbd.png
+centerX: 0.8654
+centerY: 0.4289
+width: 0.0488
+height: 0.0305
+Area: 0.0009
+CentroidX: 0.8928
+CentroidY: 0.4420

@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_aaba8973.png
+centerX: 0.5964
+centerY: 0.1556
+width: 0.0427
+height: 0.0160
+Area: 0.0003
+CentroidX: 0.6190
+CentroidY: 0.1616

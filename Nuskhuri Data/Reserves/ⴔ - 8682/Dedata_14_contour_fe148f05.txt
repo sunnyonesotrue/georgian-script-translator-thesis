@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_fe148f05.png
+centerX: 0.6867
+centerY: 0.2824
+width: 0.0395
+height: 0.0256
+Area: 0.0005
+CentroidX: 0.7081
+CentroidY: 0.2944

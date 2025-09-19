@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_db2c0d20.png
+centerX: 0.3728
+centerY: 0.7613
+width: 0.0250
+height: 0.0445
+Area: 0.0003
+CentroidX: 0.3833
+CentroidY: 0.7816

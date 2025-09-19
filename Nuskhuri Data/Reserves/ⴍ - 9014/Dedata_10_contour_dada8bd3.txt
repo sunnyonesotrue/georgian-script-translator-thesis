@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_dada8bd3.png
+centerX: 0.3964
+centerY: 0.4089
+width: 0.0524
+height: 0.0191
+Area: 0.0003
+CentroidX: 0.4202
+CentroidY: 0.4198

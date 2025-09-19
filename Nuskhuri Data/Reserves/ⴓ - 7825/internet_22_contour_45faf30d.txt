@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_45faf30d.png
+centerX: 0.3087
+centerY: 0.2849
+width: 0.0617
+height: 0.0522
+Area: 0.0008
+CentroidX: 0.3446
+CentroidY: 0.3137

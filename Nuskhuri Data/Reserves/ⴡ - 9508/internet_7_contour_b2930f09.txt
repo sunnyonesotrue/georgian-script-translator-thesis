@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_b2930f09.png
+centerX: 0.8323
+centerY: 0.2255
+width: 0.0343
+height: 0.0425
+Area: 0.0004
+CentroidX: 0.8489
+CentroidY: 0.2455

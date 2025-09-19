@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_dfd58ced.png
+centerX: 0.7968
+centerY: 0.4095
+width: 0.0387
+height: 0.0288
+Area: 0.0004
+CentroidX: 0.8149
+CentroidY: 0.4218

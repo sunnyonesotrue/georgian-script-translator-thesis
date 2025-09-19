@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_03faace5.png
+centerX: 0.4456
+centerY: 0.1528
+width: 0.0327
+height: 0.0256
+Area: 0.0002
+CentroidX: 0.4645
+CentroidY: 0.1627

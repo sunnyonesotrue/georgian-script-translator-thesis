@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_e2350d4c.png
+centerX: 0.5073
+centerY: 0.8709
+width: 0.0250
+height: 0.0530
+Area: 0.0004
+CentroidX: 0.5206
+CentroidY: 0.8985

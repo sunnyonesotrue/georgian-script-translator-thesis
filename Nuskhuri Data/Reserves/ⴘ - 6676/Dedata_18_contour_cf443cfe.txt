@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_cf443cfe.png
+centerX: 0.8081
+centerY: 0.2231
+width: 0.0266
+height: 0.0396
+Area: 0.0004
+CentroidX: 0.8210
+CentroidY: 0.2428

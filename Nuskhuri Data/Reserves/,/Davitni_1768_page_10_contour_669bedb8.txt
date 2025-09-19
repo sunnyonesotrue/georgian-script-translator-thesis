@@ -1,0 +1,9 @@
+Location:Davitni_1768_page_10
+Component: Davitni_1768_page_10_contour_669bedb8.png
+centerX: 0.0628
+centerY: 0.0350
+width: 0.8943
+height: 0.8967
+Area: 0.0073
+CentroidX: 0.7473
+CentroidY: 0.2965

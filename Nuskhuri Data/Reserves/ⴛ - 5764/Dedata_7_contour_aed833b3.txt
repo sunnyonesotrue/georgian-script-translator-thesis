@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_aed833b3.png
+centerX: 0.8823
+centerY: 0.1912
+width: 0.0379
+height: 0.0276
+Area: 0.0004
+CentroidX: 0.9040
+CentroidY: 0.2052

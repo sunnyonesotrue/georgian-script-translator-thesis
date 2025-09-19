@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_d821c720.png
+centerX: 0.1383
+centerY: 0.0453
+width: 0.0298
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.1552
+CentroidY: 0.0602

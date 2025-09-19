@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_bbc11805.png
+centerX: 0.5695
+centerY: 0.0941
+width: 0.0504
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.5945
+CentroidY: 0.1041

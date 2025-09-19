@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ffaeca79.png
+centerX: 0.8157
+centerY: 0.5982
+width: 0.0234
+height: 0.0459
+Area: 0.0003
+CentroidX: 0.8266
+CentroidY: 0.6178

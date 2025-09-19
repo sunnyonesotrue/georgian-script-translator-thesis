@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_df4283bc.png
+centerX: 0.7097
+centerY: 0.4753
+width: 0.0294
+height: 0.0388
+Area: 0.0004
+CentroidX: 0.7206
+CentroidY: 0.4916

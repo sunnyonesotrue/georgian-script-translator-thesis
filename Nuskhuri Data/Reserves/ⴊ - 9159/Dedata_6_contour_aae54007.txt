@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_aae54007.png
+centerX: 0.1327
+centerY: 0.3035
+width: 0.0387
+height: 0.0214
+Area: 0.0006
+CentroidX: 0.1528
+CentroidY: 0.3138

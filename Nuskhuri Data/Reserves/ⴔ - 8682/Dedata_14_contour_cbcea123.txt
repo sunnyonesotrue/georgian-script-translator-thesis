@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_cbcea123.png
+centerX: 0.7508
+centerY: 0.2793
+width: 0.0395
+height: 0.0262
+Area: 0.0005
+CentroidX: 0.7706
+CentroidY: 0.2915

@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_2038ce53.png
+centerX: 0.5941
+centerY: 0.5121
+width: 0.0375
+height: 0.0262
+Area: 0.0002
+CentroidX: 0.6135
+CentroidY: 0.5218

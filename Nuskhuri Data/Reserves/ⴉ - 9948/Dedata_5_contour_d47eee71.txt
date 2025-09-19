@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_d47eee71.png
+centerX: 0.3706
+centerY: 0.7945
+width: 0.0294
+height: 0.0465
+Area: 0.0005
+CentroidX: 0.3843
+CentroidY: 0.8170

@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_23beed67.png
+centerX: 0.4748
+centerY: 0.0083
+width: 0.0258
+height: 0.0391
+Area: 0.0003
+CentroidX: 0.4877
+CentroidY: 0.0265

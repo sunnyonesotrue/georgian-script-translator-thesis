@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_db47516c.png
+centerX: 0.2560
+centerY: 0.4434
+width: 0.0222
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.2673
+CentroidY: 0.4554

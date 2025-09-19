@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_dcdb715d.png
+centerX: 0.2677
+centerY: 0.0618
+width: 0.0403
+height: 0.0162
+Area: 0.0002
+CentroidX: 0.2871
+CentroidY: 0.0698

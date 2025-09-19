@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_cedda2c8.png
+centerX: 0.6536
+centerY: 0.3614
+width: 0.0274
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.6677
+CentroidY: 0.3682

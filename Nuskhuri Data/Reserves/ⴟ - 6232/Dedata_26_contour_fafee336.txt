@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_fafee336.png
+centerX: 0.3488
+centerY: 0.0145
+width: 0.0407
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.3706
+CentroidY: 0.0291

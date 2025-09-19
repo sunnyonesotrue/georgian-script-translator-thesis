@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_545ca081.png
+centerX: 0.2234
+centerY: 0.8359
+width: 0.0169
+height: 0.0393
+Area: 0.0003
+CentroidX: 0.2339
+CentroidY: 0.8529

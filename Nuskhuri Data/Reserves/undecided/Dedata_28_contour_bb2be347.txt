@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_bb2be347.png
+centerX: 0.0919
+centerY: 0.2893
+width: 0.0306
+height: 0.0419
+Area: 0.0005
+CentroidX: 0.1048
+CentroidY: 0.3106

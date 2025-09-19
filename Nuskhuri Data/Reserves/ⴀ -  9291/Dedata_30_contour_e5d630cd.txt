@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_e5d630cd.png
+centerX: 0.3706
+centerY: 0.1402
+width: 0.0407
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.3887
+CentroidY: 0.1490

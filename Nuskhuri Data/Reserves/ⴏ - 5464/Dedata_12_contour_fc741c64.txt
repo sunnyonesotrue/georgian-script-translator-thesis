@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_fc741c64.png
+centerX: 0.7411
+centerY: 0.6176
+width: 0.0310
+height: 0.0393
+Area: 0.0003
+CentroidX: 0.7585
+CentroidY: 0.6349

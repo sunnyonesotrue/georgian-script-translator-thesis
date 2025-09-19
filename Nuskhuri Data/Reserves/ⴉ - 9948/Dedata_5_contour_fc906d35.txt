@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_fc906d35.png
+centerX: 0.9145
+centerY: 0.2913
+width: 0.0214
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.9246
+CentroidY: 0.3103

@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_bb50ed60.png
+centerX: 0.5349
+centerY: 0.1771
+width: 0.0423
+height: 0.0476
+Area: 0.0005
+CentroidX: 0.5562
+CentroidY: 0.1993

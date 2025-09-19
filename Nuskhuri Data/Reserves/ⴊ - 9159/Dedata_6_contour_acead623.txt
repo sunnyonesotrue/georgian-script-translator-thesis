@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_acead623.png
+centerX: 0.9270
+centerY: 0.1066
+width: 0.0343
+height: 0.0191
+Area: 0.0004
+CentroidX: 0.9472
+CentroidY: 0.1157

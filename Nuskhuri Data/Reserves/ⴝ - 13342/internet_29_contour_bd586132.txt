@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_bd586132.png
+centerX: 0.8888
+centerY: 0.0037
+width: 0.0343
+height: 0.0336
+Area: 0.0005
+CentroidX: 0.9073
+CentroidY: 0.0191

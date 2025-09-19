@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_dbc6946a.png
+centerX: 0.3786
+centerY: 0.5708
+width: 0.0355
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.3972
+CentroidY: 0.5774

@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_d3255bc1.png
+centerX: 0.8198
+centerY: 0.0852
+width: 0.0323
+height: 0.0345
+Area: 0.0004
+CentroidX: 0.8347
+CentroidY: 0.1017

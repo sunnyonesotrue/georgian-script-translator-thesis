@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_9f8f01df.png
+centerX: 0.7239
+centerY: 0.2007
+width: 0.0689
+height: 0.0182
+Area: 0.0006
+CentroidX: 0.7505
+CentroidY: 0.2093

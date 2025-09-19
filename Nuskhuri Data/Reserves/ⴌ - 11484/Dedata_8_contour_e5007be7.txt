@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_e5007be7.png
+centerX: 0.8976
+centerY: 0.4070
+width: 0.0286
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.9101
+CentroidY: 0.4241

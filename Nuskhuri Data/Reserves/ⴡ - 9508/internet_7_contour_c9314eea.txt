@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_c9314eea.png
+centerX: 0.6062
+centerY: 0.0636
+width: 0.0347
+height: 0.0470
+Area: 0.0003
+CentroidX: 0.6207
+CentroidY: 0.0861

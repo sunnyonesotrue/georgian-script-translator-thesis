@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_a867df45.png
+centerX: 0.8500
+centerY: 0.5349
+width: 0.0403
+height: 0.0279
+Area: 0.0007
+CentroidX: 0.8698
+CentroidY: 0.5472

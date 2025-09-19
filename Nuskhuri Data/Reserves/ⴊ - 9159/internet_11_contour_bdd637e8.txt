@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_bdd637e8.png
+centerX: 0.2741
+centerY: 0.3000
+width: 0.0484
+height: 0.0328
+Area: 0.0009
+CentroidX: 0.3011
+CentroidY: 0.3157

@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_f1592fba.png
+centerX: 0.5782
+centerY: 0.5759
+width: 0.0234
+height: 0.0356
+Area: 0.0002
+CentroidX: 0.5899
+CentroidY: 0.5925

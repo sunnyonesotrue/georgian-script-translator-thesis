@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_aa503a88.png
+centerX: 0.6774
+centerY: 0.4058
+width: 0.0310
+height: 0.0353
+Area: 0.0004
+CentroidX: 0.6923
+CentroidY: 0.4218

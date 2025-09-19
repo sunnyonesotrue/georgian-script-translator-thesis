@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_ced1043d.png
+centerX: 0.8646
+centerY: 0.0114
+width: 0.0254
+height: 0.0217
+Area: 0.0002
+CentroidX: 0.8755
+CentroidY: 0.0225

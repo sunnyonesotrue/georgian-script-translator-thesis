@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_df4aea28.png
+centerX: 0.9198
+centerY: 0.3152
+width: 0.0403
+height: 0.0262
+Area: 0.0007
+CentroidX: 0.9395
+CentroidY: 0.3263

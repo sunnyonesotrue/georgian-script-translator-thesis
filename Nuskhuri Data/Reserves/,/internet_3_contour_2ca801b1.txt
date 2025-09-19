@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_2ca801b1.png
+centerX: 0.0000
+centerY: 0.0029
+width: 0.5107
+height: 0.0020
+Area: 0.0003
+CentroidX: 0.2293
+CentroidY: 0.0037

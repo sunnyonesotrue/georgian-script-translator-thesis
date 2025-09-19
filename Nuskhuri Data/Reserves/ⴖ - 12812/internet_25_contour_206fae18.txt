@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_206fae18.png
+centerX: 0.5365
+centerY: 0.0701
+width: 0.0359
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.5566
+CentroidY: 0.0827

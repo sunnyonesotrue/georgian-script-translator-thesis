@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_bfe40c65.png
+centerX: 0.4569
+centerY: 0.4038
+width: 0.0214
+height: 0.0447
+Area: 0.0003
+CentroidX: 0.4661
+CentroidY: 0.4229

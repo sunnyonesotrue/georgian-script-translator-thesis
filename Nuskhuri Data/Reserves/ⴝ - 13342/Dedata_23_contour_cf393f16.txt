@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_cf393f16.png
+centerX: 0.8637
+centerY: 0.3286
+width: 0.0222
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.8738
+CentroidY: 0.3434

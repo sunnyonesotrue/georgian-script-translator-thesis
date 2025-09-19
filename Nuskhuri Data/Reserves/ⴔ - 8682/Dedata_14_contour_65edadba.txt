@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_65edadba.png
+centerX: 0.8290
+centerY: 0.0812
+width: 0.0351
+height: 0.0237
+Area: 0.0004
+CentroidX: 0.8452
+CentroidY: 0.0903

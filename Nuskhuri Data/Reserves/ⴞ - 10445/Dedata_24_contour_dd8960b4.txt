@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_dd8960b4.png
+centerX: 0.3964
+centerY: 0.3217
+width: 0.0351
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.4137
+CentroidY: 0.3368

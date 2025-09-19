@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_cebec4ae.png
+centerX: 0.3758
+centerY: 0.0111
+width: 0.0395
+height: 0.0342
+Area: 0.0003
+CentroidX: 0.3976
+CentroidY: 0.0225

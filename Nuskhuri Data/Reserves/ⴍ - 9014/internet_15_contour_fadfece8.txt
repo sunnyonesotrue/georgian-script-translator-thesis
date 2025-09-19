@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_fadfece8.png
+centerX: 0.8948
+centerY: 0.3154
+width: 0.0504
+height: 0.0234
+Area: 0.0004
+CentroidX: 0.9178
+CentroidY: 0.3299

@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_bea6abce.png
+centerX: 0.2319
+centerY: 0.7900
+width: 0.0476
+height: 0.0225
+Area: 0.0003
+CentroidX: 0.2532
+CentroidY: 0.8019

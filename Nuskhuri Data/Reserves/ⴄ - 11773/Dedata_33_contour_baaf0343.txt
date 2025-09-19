@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_baaf0343.png
+centerX: 0.8759
+centerY: 0.2270
+width: 0.0210
+height: 0.0331
+Area: 0.0002
+CentroidX: 0.8871
+CentroidY: 0.2390

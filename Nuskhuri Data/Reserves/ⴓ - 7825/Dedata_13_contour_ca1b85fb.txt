@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_ca1b85fb.png
+centerX: 0.0290
+centerY: 0.4323
+width: 0.0363
+height: 0.0288
+Area: 0.0002
+CentroidX: 0.0484
+CentroidY: 0.4417

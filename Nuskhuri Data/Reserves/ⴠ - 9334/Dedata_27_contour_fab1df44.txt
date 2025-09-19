@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_fab1df44.png
+centerX: 0.7613
+centerY: 0.7934
+width: 0.0532
+height: 0.0256
+Area: 0.0004
+CentroidX: 0.7859
+CentroidY: 0.8071

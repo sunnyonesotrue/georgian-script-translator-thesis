@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_dc99337e.png
+centerX: 0.6264
+centerY: 0.0955
+width: 0.0355
+height: 0.0334
+Area: 0.0004
+CentroidX: 0.6445
+CentroidY: 0.1115

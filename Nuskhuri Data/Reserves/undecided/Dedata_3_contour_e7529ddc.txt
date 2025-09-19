@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_e7529ddc.png
+centerX: 0.6524
+centerY: 0.5113
+width: 0.0444
+height: 0.0228
+Area: 0.0005
+CentroidX: 0.6730
+CentroidY: 0.5209

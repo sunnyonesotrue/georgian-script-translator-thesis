@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_fb7000d8.png
+centerX: 0.2080
+centerY: 0.2640
+width: 0.0403
+height: 0.0362
+Area: 0.0003
+CentroidX: 0.2257
+CentroidY: 0.2760

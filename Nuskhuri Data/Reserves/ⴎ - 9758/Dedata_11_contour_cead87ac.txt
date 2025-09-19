@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_cead87ac.png
+centerX: 0.2778
+centerY: 0.0103
+width: 0.0411
+height: 0.0199
+Area: 0.0002
+CentroidX: 0.2980
+CentroidY: 0.0217

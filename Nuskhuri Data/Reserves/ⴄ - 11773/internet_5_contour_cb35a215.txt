@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_cb35a215.png
+centerX: 0.5349
+centerY: 0.0539
+width: 0.0459
+height: 0.0371
+Area: 0.0007
+CentroidX: 0.5611
+CentroidY: 0.0676

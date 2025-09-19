@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_eb7712ee.png
+centerX: 0.3903
+centerY: 0.7475
+width: 0.0262
+height: 0.0365
+Area: 0.0004
+CentroidX: 0.4012
+CentroidY: 0.7669

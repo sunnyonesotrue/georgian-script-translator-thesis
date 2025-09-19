@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_e30c248c.png
+centerX: 0.2213
+centerY: 0.3955
+width: 0.0234
+height: 0.0405
+Area: 0.0003
+CentroidX: 0.2350
+CentroidY: 0.4120

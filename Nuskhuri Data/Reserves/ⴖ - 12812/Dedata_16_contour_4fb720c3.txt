@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_4fb720c3.png
+centerX: 0.0560
+centerY: 0.0747
+width: 0.0254
+height: 0.0185
+Area: 0.0002
+CentroidX: 0.0665
+CentroidY: 0.0821

@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_45de1dcd.png
+centerX: 0.8984
+centerY: 0.7324
+width: 0.0431
+height: 0.0322
+Area: 0.0005
+CentroidX: 0.9230
+CentroidY: 0.7441

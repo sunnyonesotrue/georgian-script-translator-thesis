@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_bd9522b3.png
+centerX: 0.3972
+centerY: 0.4936
+width: 0.0540
+height: 0.0202
+Area: 0.0004
+CentroidX: 0.4234
+CentroidY: 0.5036

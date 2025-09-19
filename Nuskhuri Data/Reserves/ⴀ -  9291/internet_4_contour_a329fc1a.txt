@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_a329fc1a.png
+centerX: 0.1471
+centerY: 0.1449
+width: 0.0355
+height: 0.0242
+Area: 0.0003
+CentroidX: 0.1653
+CentroidY: 0.1545

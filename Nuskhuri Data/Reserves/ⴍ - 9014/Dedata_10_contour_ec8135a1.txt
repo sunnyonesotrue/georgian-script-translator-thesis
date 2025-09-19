@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_ec8135a1.png
+centerX: 0.5577
+centerY: 0.3722
+width: 0.0492
+height: 0.0182
+Area: 0.0003
+CentroidX: 0.5794
+CentroidY: 0.3839

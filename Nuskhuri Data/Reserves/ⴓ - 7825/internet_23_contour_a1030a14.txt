@@ -1,0 +1,9 @@
+Location:internet_23
+Component: internet_23_contour_a1030a14.png
+centerX: 0.6340
+centerY: 0.0605
+width: 0.0641
+height: 0.0451
+Area: 0.0007
+CentroidX: 0.6691
+CentroidY: 0.0844

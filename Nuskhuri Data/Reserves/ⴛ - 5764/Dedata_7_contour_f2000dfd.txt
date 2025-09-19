@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_f2000dfd.png
+centerX: 0.8298
+centerY: 0.3266
+width: 0.0488
+height: 0.0245
+Area: 0.0004
+CentroidX: 0.8585
+CentroidY: 0.3391

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_db5711ac.png
+centerX: 0.9069
+centerY: 0.3051
+width: 0.0318
+height: 0.0334
+Area: 0.0004
+CentroidX: 0.9242
+CentroidY: 0.3219

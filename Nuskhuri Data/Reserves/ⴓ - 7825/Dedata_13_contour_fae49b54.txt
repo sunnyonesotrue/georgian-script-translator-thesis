@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_fae49b54.png
+centerX: 0.0952
+centerY: 0.7589
+width: 0.0419
+height: 0.0254
+Area: 0.0004
+CentroidX: 0.1185
+CentroidY: 0.7672

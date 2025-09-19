@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_c1bc56fc.png
+centerX: 0.7021
+centerY: 0.4391
+width: 0.0468
+height: 0.0220
+Area: 0.0003
+CentroidX: 0.7231
+CentroidY: 0.4522

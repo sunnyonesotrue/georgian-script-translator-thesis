@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_a3438c05.png
+centerX: 0.4948
+centerY: 0.2129
+width: 0.0327
+height: 0.0382
+Area: 0.0007
+CentroidX: 0.5105
+CentroidY: 0.2314

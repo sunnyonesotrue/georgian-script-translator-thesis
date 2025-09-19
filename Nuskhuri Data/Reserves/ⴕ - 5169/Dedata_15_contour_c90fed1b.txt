@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_c90fed1b.png
+centerX: 0.8226
+centerY: 0.2089
+width: 0.0323
+height: 0.0442
+Area: 0.0004
+CentroidX: 0.8371
+CentroidY: 0.2291

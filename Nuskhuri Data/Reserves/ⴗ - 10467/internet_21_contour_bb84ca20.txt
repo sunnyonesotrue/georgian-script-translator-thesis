@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_bb84ca20.png
+centerX: 0.4301
+centerY: 0.3929
+width: 0.0302
+height: 0.0416
+Area: 0.0004
+CentroidX: 0.4462
+CentroidY: 0.4135

@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_88914cac.png
+centerX: 0.8621
+centerY: 0.6649
+width: 0.0286
+height: 0.0185
+Area: 0.0002
+CentroidX: 0.8750
+CentroidY: 0.6723

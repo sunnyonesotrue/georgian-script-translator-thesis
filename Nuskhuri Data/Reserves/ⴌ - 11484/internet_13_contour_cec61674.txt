@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_cec61674.png
+centerX: 0.5107
+centerY: 0.5663
+width: 0.0294
+height: 0.0359
+Area: 0.0005
+CentroidX: 0.5236
+CentroidY: 0.5831

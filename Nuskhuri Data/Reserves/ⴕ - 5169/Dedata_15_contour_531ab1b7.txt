@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_531ab1b7.png
+centerX: 0.9504
+centerY: 0.3842
+width: 0.0282
+height: 0.0410
+Area: 0.0003
+CentroidX: 0.9633
+CentroidY: 0.4032

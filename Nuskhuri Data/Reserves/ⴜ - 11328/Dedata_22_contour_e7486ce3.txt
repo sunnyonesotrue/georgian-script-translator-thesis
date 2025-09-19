@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_e7486ce3.png
+centerX: 0.7673
+centerY: 0.3750
+width: 0.0234
+height: 0.0333
+Area: 0.0002
+CentroidX: 0.7766
+CentroidY: 0.3861

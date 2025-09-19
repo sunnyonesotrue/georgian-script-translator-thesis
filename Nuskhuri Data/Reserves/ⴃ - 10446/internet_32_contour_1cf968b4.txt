@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_1cf968b4.png
+centerX: 0.7489
+centerY: 0.5247
+width: 0.0318
+height: 0.0342
+Area: 0.0006
+CentroidX: 0.7642
+CentroidY: 0.5438

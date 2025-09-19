@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_fe28131e.png
+centerX: 0.3835
+centerY: 0.6891
+width: 0.0569
+height: 0.0319
+Area: 0.0006
+CentroidX: 0.4185
+CentroidY: 0.7065

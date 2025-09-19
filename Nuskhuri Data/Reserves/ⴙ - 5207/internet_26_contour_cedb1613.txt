@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_cedb1613.png
+centerX: 0.5179
+centerY: 0.5150
+width: 0.0266
+height: 0.0311
+Area: 0.0002
+CentroidX: 0.5288
+CentroidY: 0.5278

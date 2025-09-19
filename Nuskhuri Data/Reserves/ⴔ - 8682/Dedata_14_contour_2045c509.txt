@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_2045c509.png
+centerX: 0.6081
+centerY: 0.4161
+width: 0.0375
+height: 0.0265
+Area: 0.0006
+CentroidX: 0.6270
+CentroidY: 0.4269

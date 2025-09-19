@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_280a2219.png
+centerX: 0.8145
+centerY: 0.8475
+width: 0.0238
+height: 0.0402
+Area: 0.0003
+CentroidX: 0.8258
+CentroidY: 0.8646

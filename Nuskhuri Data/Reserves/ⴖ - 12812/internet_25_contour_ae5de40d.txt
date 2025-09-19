@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_ae5de40d.png
+centerX: 0.6421
+centerY: 0.3704
+width: 0.0544
+height: 0.0225
+Area: 0.0004
+CentroidX: 0.6703
+CentroidY: 0.3792

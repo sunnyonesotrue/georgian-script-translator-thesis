@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_abd1370b.png
+centerX: 0.7650
+centerY: 0.2002
+width: 0.0318
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.7848
+CentroidY: 0.2150

@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_ca2404d5.png
+centerX: 0.6139
+centerY: 0.4494
+width: 0.0278
+height: 0.0382
+Area: 0.0003
+CentroidX: 0.6243
+CentroidY: 0.4665

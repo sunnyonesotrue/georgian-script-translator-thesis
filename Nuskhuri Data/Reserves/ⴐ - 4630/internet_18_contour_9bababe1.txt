@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_9bababe1.png
+centerX: 0.1483
+centerY: 0.2164
+width: 0.0443
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.1721
+CentroidY: 0.2364

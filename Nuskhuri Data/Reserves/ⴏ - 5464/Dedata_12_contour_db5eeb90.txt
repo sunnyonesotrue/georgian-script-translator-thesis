@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_db5eeb90.png
+centerX: 0.5492
+centerY: 0.1718
+width: 0.0407
+height: 0.0322
+Area: 0.0004
+CentroidX: 0.5706
+CentroidY: 0.1864

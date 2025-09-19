@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_4cac4dbc.png
+centerX: 0.1919
+centerY: 0.6929
+width: 0.0423
+height: 0.0636
+Area: 0.0007
+CentroidX: 0.2177
+CentroidY: 0.7251

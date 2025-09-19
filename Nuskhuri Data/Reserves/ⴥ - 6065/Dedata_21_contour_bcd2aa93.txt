@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_bcd2aa93.png
+centerX: 0.4940
+centerY: 0.2431
+width: 0.0335
+height: 0.0368
+Area: 0.0004
+CentroidX: 0.5097
+CentroidY: 0.2670

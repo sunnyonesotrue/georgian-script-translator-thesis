@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_edd7dfa2.png
+centerX: 0.9286
+centerY: 0.3269
+width: 0.0331
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.9460
+CentroidY: 0.3417

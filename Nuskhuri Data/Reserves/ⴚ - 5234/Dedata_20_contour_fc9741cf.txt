@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_fc9741cf.png
+centerX: 0.3198
+centerY: 0.5016
+width: 0.0310
+height: 0.0345
+Area: 0.0003
+CentroidX: 0.3351
+CentroidY: 0.5150

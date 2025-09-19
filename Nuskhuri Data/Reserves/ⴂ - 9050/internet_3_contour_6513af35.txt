@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_6513af35.png
+centerX: 0.9012
+centerY: 0.3755
+width: 0.0391
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.9218
+CentroidY: 0.3901

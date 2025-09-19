@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_cd4fadd5.png
+centerX: 0.1419
+centerY: 0.3465
+width: 0.0395
+height: 0.0239
+Area: 0.0007
+CentroidX: 0.1629
+CentroidY: 0.3577

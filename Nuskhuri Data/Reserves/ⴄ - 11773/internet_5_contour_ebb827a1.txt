@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_ebb827a1.png
+centerX: 0.7332
+centerY: 0.2575
+width: 0.0363
+height: 0.0291
+Area: 0.0004
+CentroidX: 0.7557
+CentroidY: 0.2675

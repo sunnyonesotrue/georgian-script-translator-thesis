@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_dedce909.png
+centerX: 0.2568
+centerY: 0.5329
+width: 0.0266
+height: 0.0317
+Area: 0.0003
+CentroidX: 0.2672
+CentroidY: 0.5500

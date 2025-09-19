@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_dbfc4aaf.png
+centerX: 0.2906
+centerY: 0.3379
+width: 0.0371
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.3091
+CentroidY: 0.3536

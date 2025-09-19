@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_ecb708a7.png
+centerX: 0.8048
+centerY: 0.4178
+width: 0.0238
+height: 0.0447
+Area: 0.0005
+CentroidX: 0.8145
+CentroidY: 0.4380

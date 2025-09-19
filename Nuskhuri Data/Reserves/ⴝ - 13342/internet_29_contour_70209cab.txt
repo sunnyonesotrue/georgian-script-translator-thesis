@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_70209cab.png
+centerX: 0.3700
+centerY: 0.6262
+width: 0.0367
+height: 0.0282
+Area: 0.0003
+CentroidX: 0.3902
+CentroidY: 0.6390

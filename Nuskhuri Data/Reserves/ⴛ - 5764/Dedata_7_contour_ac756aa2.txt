@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_ac756aa2.png
+centerX: 0.8431
+centerY: 0.8755
+width: 0.0411
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.8669
+CentroidY: 0.8940

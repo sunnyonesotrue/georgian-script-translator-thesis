@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_b27520e3.png
+centerX: 0.3391
+centerY: 0.1750
+width: 0.0218
+height: 0.0399
+Area: 0.0003
+CentroidX: 0.3492
+CentroidY: 0.1909

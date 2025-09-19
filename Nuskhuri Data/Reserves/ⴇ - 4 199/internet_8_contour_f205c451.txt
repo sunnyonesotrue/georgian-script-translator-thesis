@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_f205c451.png
+centerX: 0.6848
+centerY: 0.1169
+width: 0.0794
+height: 0.0200
+Area: 0.0009
+CentroidX: 0.7211
+CentroidY: 0.1263

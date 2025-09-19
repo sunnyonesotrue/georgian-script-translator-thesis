@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_50ef2926.png
+centerX: 0.5151
+centerY: 0.7696
+width: 0.0496
+height: 0.0254
+Area: 0.0005
+CentroidX: 0.5413
+CentroidY: 0.7784

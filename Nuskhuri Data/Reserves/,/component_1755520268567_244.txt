@@ -1,0 +1,9 @@
+Location: Dedata_13.png_Otsu.png
+Component: component_1755520268567_244.png
+centerX: 0.31451612903225806
+centerY: 0.36990595611285265
+width: 0.008064516129032258
+height: 0.010259333143345683
+Area: 3.9299864863622577e-05
+CentroidX: 0.3173
+CentroidY: 0.3750

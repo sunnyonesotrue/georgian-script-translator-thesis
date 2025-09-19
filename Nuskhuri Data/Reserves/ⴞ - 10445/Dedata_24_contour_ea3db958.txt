@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_ea3db958.png
+centerX: 0.1294
+centerY: 0.2115
+width: 0.0290
+height: 0.0311
+Area: 0.0002
+CentroidX: 0.1444
+CentroidY: 0.2257

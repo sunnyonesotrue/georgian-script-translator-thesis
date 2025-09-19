@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_f532de1c.png
+centerX: 0.1641
+centerY: 0.8133
+width: 0.0238
+height: 0.0436
+Area: 0.0005
+CentroidX: 0.1734
+CentroidY: 0.8333

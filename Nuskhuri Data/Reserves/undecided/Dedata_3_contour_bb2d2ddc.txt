@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_bb2d2ddc.png
+centerX: 0.7992
+centerY: 0.7618
+width: 0.0496
+height: 0.0251
+Area: 0.0006
+CentroidX: 0.8250
+CentroidY: 0.7726

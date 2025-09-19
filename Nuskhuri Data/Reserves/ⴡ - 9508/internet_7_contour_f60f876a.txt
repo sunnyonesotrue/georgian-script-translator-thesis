@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_f60f876a.png
+centerX: 0.5462
+centerY: 0.8215
+width: 0.0335
+height: 0.0488
+Area: 0.0005
+CentroidX: 0.5599
+CentroidY: 0.8446

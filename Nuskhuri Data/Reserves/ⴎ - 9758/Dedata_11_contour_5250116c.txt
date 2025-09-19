@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_5250116c.png
+centerX: 0.4863
+centerY: 0.3953
+width: 0.0460
+height: 0.0182
+Area: 0.0004
+CentroidX: 0.5073
+CentroidY: 0.4052

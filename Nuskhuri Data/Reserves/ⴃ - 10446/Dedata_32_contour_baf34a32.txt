@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_baf34a32.png
+centerX: 0.1975
+centerY: 0.5711
+width: 0.0427
+height: 0.0311
+Area: 0.0005
+CentroidX: 0.2201
+CentroidY: 0.5848

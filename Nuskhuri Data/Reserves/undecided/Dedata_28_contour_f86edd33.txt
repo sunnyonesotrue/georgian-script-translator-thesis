@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_f86edd33.png
+centerX: 0.9230
+centerY: 0.1807
+width: 0.0282
+height: 0.0351
+Area: 0.0005
+CentroidX: 0.9343
+CentroidY: 0.1986

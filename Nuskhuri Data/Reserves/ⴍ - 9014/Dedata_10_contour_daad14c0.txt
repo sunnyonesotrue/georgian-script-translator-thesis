@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_daad14c0.png
+centerX: 0.0992
+centerY: 0.0479
+width: 0.0605
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.1274
+CentroidY: 0.0590

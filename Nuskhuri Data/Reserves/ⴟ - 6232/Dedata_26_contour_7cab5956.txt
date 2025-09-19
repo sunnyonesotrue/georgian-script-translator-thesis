@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_7cab5956.png
+centerX: 0.0165
+centerY: 0.1365
+width: 0.0359
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.0335
+CentroidY: 0.1505

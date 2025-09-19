@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_c44cabb7.png
+centerX: 0.9569
+centerY: 0.1545
+width: 0.0306
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.9718
+CentroidY: 0.1668

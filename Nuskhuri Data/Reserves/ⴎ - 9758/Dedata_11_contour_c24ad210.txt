@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_c24ad210.png
+centerX: 0.8827
+centerY: 0.0117
+width: 0.0468
+height: 0.0208
+Area: 0.0003
+CentroidX: 0.9060
+CentroidY: 0.0231

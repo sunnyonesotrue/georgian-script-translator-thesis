@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_71ddc2ca.png
+centerX: 0.5466
+centerY: 0.7579
+width: 0.0306
+height: 0.0451
+Area: 0.0003
+CentroidX: 0.5623
+CentroidY: 0.7779

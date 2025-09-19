@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_dbc1268a.png
+centerX: 0.8202
+centerY: 0.6153
+width: 0.0371
+height: 0.0408
+Area: 0.0003
+CentroidX: 0.8416
+CentroidY: 0.6367

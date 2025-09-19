@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_af4038fa.png
+centerX: 0.1532
+centerY: 0.0502
+width: 0.0270
+height: 0.0251
+Area: 0.0002
+CentroidX: 0.1661
+CentroidY: 0.0633

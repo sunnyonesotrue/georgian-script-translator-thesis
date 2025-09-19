@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_cab4ed5a.png
+centerX: 0.6169
+centerY: 0.7147
+width: 0.0282
+height: 0.0465
+Area: 0.0005
+CentroidX: 0.6315
+CentroidY: 0.7372

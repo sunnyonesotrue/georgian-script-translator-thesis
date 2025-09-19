@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_f40abeed.png
+centerX: 0.8525
+centerY: 0.1902
+width: 0.0193
+height: 0.0285
+Area: 0.0002
+CentroidX: 0.8601
+CentroidY: 0.2079

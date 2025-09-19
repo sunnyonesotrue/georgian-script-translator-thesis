@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_a4620e21.png
+centerX: 0.8617
+centerY: 0.7773
+width: 0.0435
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.8847
+CentroidY: 0.7947

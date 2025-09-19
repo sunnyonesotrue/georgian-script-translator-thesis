@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_ef1a2358.png
+centerX: 0.9008
+centerY: 0.4072
+width: 0.0359
+height: 0.0356
+Area: 0.0006
+CentroidX: 0.9165
+CentroidY: 0.4258

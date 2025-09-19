@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_ffba4180.png
+centerX: 0.6917
+centerY: 0.0989
+width: 0.0367
+height: 0.0314
+Area: 0.0003
+CentroidX: 0.7126
+CentroidY: 0.1121

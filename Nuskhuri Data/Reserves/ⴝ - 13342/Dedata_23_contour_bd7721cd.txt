@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_bd7721cd.png
+centerX: 0.9044
+centerY: 0.0476
+width: 0.0194
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.9141
+CentroidY: 0.0618

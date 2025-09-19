@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_0590f60e.png
+centerX: 0.1790
+centerY: 0.8672
+width: 0.0274
+height: 0.0217
+Area: 0.0002
+CentroidX: 0.1919
+CentroidY: 0.8760

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_bf9624de.png
+centerX: 0.6852
+centerY: 0.1591
+width: 0.0326
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.7033
+CentroidY: 0.1745

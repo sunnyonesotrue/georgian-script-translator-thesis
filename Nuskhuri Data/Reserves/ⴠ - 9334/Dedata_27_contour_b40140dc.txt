@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_b40140dc.png
+centerX: 0.7843
+centerY: 0.6261
+width: 0.0565
+height: 0.0231
+Area: 0.0004
+CentroidX: 0.8085
+CentroidY: 0.6378

@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_dadfc619.png
+centerX: 0.4192
+centerY: 0.5010
+width: 0.0326
+height: 0.0348
+Area: 0.0006
+CentroidX: 0.4361
+CentroidY: 0.5201

@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_df2140bd.png
+centerX: 0.2960
+centerY: 0.7412
+width: 0.0343
+height: 0.0313
+Area: 0.0003
+CentroidX: 0.3161
+CentroidY: 0.7543

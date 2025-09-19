@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_de1eb460.png
+centerX: 0.2100
+centerY: 0.3151
+width: 0.0322
+height: 0.0317
+Area: 0.0003
+CentroidX: 0.2233
+CentroidY: 0.3251

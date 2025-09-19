@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_afc69f01.png
+centerX: 0.3355
+centerY: 0.3776
+width: 0.0415
+height: 0.0296
+Area: 0.0004
+CentroidX: 0.3589
+CentroidY: 0.3944

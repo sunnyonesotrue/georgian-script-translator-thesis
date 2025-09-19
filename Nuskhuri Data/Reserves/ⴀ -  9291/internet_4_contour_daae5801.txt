@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_daae5801.png
+centerX: 0.0955
+centerY: 0.2920
+width: 0.0387
+height: 0.0257
+Area: 0.0004
+CentroidX: 0.1141
+CentroidY: 0.3040

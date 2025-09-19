@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_d2062b8c.png
+centerX: 0.4726
+centerY: 0.0798
+width: 0.0218
+height: 0.0333
+Area: 0.0002
+CentroidX: 0.4839
+CentroidY: 0.0972

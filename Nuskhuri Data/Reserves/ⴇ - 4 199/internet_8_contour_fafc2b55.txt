@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_fafc2b55.png
+centerX: 0.6445
+centerY: 0.8010
+width: 0.0508
+height: 0.0214
+Area: 0.0006
+CentroidX: 0.6679
+CentroidY: 0.8115

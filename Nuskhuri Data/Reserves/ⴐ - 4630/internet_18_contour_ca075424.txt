@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_ca075424.png
+centerX: 0.4341
+centerY: 0.2951
+width: 0.0443
+height: 0.0248
+Area: 0.0003
+CentroidX: 0.4571
+CentroidY: 0.3091

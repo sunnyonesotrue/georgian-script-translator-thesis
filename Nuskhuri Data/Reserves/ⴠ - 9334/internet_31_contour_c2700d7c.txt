@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_c2700d7c.png
+centerX: 0.2233
+centerY: 0.4953
+width: 0.0468
+height: 0.0285
+Area: 0.0004
+CentroidX: 0.2495
+CentroidY: 0.5078

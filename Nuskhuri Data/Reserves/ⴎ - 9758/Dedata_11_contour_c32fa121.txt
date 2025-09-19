@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_c32fa121.png
+centerX: 0.6036
+centerY: 0.0519
+width: 0.0435
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.6262
+CentroidY: 0.0630

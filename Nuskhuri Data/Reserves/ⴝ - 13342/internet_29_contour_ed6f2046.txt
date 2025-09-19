@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_ed6f2046.png
+centerX: 0.2789
+centerY: 0.5902
+width: 0.0387
+height: 0.0277
+Area: 0.0003
+CentroidX: 0.3007
+CentroidY: 0.6025

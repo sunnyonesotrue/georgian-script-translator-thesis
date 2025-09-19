@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_ca94f700.png
+centerX: 0.3867
+centerY: 0.3001
+width: 0.0214
+height: 0.0408
+Area: 0.0004
+CentroidX: 0.3964
+CentroidY: 0.3217

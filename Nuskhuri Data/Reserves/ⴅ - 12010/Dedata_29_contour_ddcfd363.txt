@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_ddcfd363.png
+centerX: 0.1298
+centerY: 0.1385
+width: 0.0375
+height: 0.0268
+Area: 0.0002
+CentroidX: 0.1508
+CentroidY: 0.1471

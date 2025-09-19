@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_90ade335.png
+centerX: 0.3351
+centerY: 0.7985
+width: 0.0484
+height: 0.0214
+Area: 0.0004
+CentroidX: 0.3597
+CentroidY: 0.8068

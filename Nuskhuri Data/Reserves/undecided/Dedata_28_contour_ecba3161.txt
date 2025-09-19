@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_ecba3161.png
+centerX: 0.4411
+centerY: 0.4360
+width: 0.0339
+height: 0.0365
+Area: 0.0006
+CentroidX: 0.4560
+CentroidY: 0.4545

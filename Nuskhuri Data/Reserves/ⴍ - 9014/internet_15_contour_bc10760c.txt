@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_bc10760c.png
+centerX: 0.4619
+centerY: 0.5806
+width: 0.0443
+height: 0.0228
+Area: 0.0003
+CentroidX: 0.4833
+CentroidY: 0.5940

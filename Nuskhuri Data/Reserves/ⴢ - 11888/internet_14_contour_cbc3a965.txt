@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_cbc3a965.png
+centerX: 0.1491
+centerY: 0.1420
+width: 0.0278
+height: 0.0205
+Area: 0.0002
+CentroidX: 0.1640
+CentroidY: 0.1517

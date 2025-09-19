@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_e401f1c1.png
+centerX: 0.3391
+centerY: 0.0750
+width: 0.0202
+height: 0.0413
+Area: 0.0003
+CentroidX: 0.3488
+CentroidY: 0.0923

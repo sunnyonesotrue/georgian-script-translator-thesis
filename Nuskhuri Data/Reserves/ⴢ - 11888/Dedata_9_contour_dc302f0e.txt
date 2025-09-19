@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_dc302f0e.png
+centerX: 0.4367
+centerY: 0.2556
+width: 0.0347
+height: 0.0222
+Area: 0.0002
+CentroidX: 0.4589
+CentroidY: 0.2659

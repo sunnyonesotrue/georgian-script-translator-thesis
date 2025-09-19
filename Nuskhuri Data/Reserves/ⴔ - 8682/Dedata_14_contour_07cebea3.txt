@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_07cebea3.png
+centerX: 0.8956
+centerY: 0.3958
+width: 0.0403
+height: 0.0228
+Area: 0.0007
+CentroidX: 0.9161
+CentroidY: 0.4078

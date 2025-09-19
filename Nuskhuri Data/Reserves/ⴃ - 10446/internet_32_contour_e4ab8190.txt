@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_e4ab8190.png
+centerX: 0.7735
+centerY: 0.3433
+width: 0.0419
+height: 0.0365
+Area: 0.0008
+CentroidX: 0.7940
+CentroidY: 0.3616

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_aba30edf.png
+centerX: 0.5359
+centerY: 0.3833
+width: 0.0234
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.5480
+CentroidY: 0.4004

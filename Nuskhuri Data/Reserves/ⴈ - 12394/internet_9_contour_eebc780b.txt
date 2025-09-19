@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_eebc780b.png
+centerX: 0.6679
+centerY: 0.2415
+width: 0.0314
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.6852
+CentroidY: 0.2572

@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ea145946.png
+centerX: 0.7948
+centerY: 0.7808
+width: 0.0230
+height: 0.0399
+Area: 0.0003
+CentroidX: 0.8081
+CentroidY: 0.7971

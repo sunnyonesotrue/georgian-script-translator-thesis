@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_bd7c1856.png
+centerX: 0.8783
+centerY: 0.5552
+width: 0.0339
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.8976
+CentroidY: 0.5694

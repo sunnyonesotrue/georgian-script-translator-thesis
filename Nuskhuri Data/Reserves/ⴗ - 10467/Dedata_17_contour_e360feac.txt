@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_e360feac.png
+centerX: 0.2371
+centerY: 0.7749
+width: 0.0177
+height: 0.0379
+Area: 0.0003
+CentroidX: 0.2464
+CentroidY: 0.7908

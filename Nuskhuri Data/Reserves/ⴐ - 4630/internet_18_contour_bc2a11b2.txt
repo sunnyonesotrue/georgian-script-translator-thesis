@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_bc2a11b2.png
+centerX: 0.5071
+centerY: 0.0086
+width: 0.0431
+height: 0.0279
+Area: 0.0003
+CentroidX: 0.5292
+CentroidY: 0.0254

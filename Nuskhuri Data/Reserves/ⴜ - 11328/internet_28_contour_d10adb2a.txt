@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_d10adb2a.png
+centerX: 0.0863
+centerY: 0.0120
+width: 0.0395
+height: 0.0345
+Area: 0.0004
+CentroidX: 0.1040
+CentroidY: 0.0231

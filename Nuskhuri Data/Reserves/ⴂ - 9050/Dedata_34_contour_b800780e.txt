@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_b800780e.png
+centerX: 0.4579
+centerY: 0.3359
+width: 0.0427
+height: 0.0334
+Area: 0.0005
+CentroidX: 0.4833
+CentroidY: 0.3499

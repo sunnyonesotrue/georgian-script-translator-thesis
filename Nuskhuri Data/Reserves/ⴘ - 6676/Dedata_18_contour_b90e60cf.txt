@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_b90e60cf.png
+centerX: 0.3218
+centerY: 0.7885
+width: 0.0222
+height: 0.0353
+Area: 0.0003
+CentroidX: 0.3335
+CentroidY: 0.8059

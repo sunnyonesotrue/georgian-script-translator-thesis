@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_c3702a42.png
+centerX: 0.5897
+centerY: 0.4776
+width: 0.0230
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.6038
+CentroidY: 0.4904

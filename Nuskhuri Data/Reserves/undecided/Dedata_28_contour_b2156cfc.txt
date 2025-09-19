@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_b2156cfc.png
+centerX: 0.3823
+centerY: 0.2653
+width: 0.0315
+height: 0.0362
+Area: 0.0004
+CentroidX: 0.3944
+CentroidY: 0.2836

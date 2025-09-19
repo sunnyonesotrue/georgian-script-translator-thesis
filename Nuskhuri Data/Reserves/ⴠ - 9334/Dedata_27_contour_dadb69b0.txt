@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_dadb69b0.png
+centerX: 0.5940
+centerY: 0.0123
+width: 0.0419
+height: 0.0311
+Area: 0.0007
+CentroidX: 0.6121
+CentroidY: 0.0285

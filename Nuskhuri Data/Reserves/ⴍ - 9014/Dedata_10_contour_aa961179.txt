@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_aa961179.png
+centerX: 0.7234
+centerY: 0.0376
+width: 0.0528
+height: 0.0168
+Area: 0.0002
+CentroidX: 0.7500
+CentroidY: 0.0479

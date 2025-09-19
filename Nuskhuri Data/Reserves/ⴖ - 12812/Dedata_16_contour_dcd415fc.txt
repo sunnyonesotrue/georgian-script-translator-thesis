@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_dcd415fc.png
+centerX: 0.8669
+centerY: 0.7050
+width: 0.0323
+height: 0.0211
+Area: 0.0002
+CentroidX: 0.8827
+CentroidY: 0.7130

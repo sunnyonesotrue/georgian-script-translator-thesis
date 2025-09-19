@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_b67625ca.png
+centerX: 0.2940
+centerY: 0.2571
+width: 0.0472
+height: 0.0199
+Area: 0.0003
+CentroidX: 0.3169
+CentroidY: 0.2685

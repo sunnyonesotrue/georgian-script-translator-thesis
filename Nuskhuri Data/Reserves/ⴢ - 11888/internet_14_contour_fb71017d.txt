@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_fb71017d.png
+centerX: 0.9416
+centerY: 0.6393
+width: 0.0274
+height: 0.0202
+Area: 0.0002
+CentroidX: 0.9553
+CentroidY: 0.6504

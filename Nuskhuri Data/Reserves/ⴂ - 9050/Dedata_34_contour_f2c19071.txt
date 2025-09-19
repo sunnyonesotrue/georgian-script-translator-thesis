@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_f2c19071.png
+centerX: 0.7916
+centerY: 0.0590
+width: 0.0387
+height: 0.0302
+Area: 0.0002
+CentroidX: 0.8130
+CentroidY: 0.0699

@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_52951ca3.png
+centerX: 0.5024
+centerY: 0.3329
+width: 0.0460
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.5302
+CentroidY: 0.3474

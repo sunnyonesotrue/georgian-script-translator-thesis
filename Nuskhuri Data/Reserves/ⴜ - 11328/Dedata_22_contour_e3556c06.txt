@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_e3556c06.png
+centerX: 0.8492
+centerY: 0.2796
+width: 0.0278
+height: 0.0336
+Area: 0.0002
+CentroidX: 0.8609
+CentroidY: 0.2913

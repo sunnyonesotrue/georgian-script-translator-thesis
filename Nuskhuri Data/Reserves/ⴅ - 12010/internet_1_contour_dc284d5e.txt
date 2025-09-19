@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_dc284d5e.png
+centerX: 0.3152
+centerY: 0.4314
+width: 0.0435
+height: 0.0268
+Area: 0.0005
+CentroidX: 0.3390
+CentroidY: 0.4411

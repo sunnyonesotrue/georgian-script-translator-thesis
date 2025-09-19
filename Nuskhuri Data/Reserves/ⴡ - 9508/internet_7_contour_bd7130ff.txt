@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_bd7130ff.png
+centerX: 0.0903
+centerY: 0.0143
+width: 0.0355
+height: 0.0459
+Area: 0.0004
+CentroidX: 0.1052
+CentroidY: 0.0368

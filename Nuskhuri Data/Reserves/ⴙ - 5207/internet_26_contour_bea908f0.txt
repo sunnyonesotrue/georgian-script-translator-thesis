@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_bea908f0.png
+centerX: 0.8331
+centerY: 0.5985
+width: 0.0262
+height: 0.0302
+Area: 0.0002
+CentroidX: 0.8440
+CentroidY: 0.6122

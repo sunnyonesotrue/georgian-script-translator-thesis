@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_dc14aad7.png
+centerX: 0.9012
+centerY: 0.5292
+width: 0.0234
+height: 0.0442
+Area: 0.0003
+CentroidX: 0.9129
+CentroidY: 0.5477

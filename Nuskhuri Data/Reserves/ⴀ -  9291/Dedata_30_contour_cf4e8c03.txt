@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_cf4e8c03.png
+centerX: 0.0972
+centerY: 0.7506
+width: 0.0355
+height: 0.0279
+Area: 0.0003
+CentroidX: 0.1109
+CentroidY: 0.7618

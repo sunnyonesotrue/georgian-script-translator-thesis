@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_cadcacae.png
+centerX: 0.8545
+centerY: 0.1805
+width: 0.0419
+height: 0.0294
+Area: 0.0004
+CentroidX: 0.8755
+CentroidY: 0.1930

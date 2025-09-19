@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_a06400dc.png
+centerX: 0.9024
+centerY: 0.2180
+width: 0.0310
+height: 0.0325
+Area: 0.0003
+CentroidX: 0.9185
+CentroidY: 0.2397

@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_2bed25db.png
+centerX: 0.2810
+centerY: 0.3836
+width: 0.0222
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.2907
+CentroidY: 0.3958

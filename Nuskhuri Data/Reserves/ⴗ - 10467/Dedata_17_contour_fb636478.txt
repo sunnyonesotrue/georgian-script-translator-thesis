@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_fb636478.png
+centerX: 0.6173
+centerY: 0.5569
+width: 0.0185
+height: 0.0465
+Area: 0.0003
+CentroidX: 0.6274
+CentroidY: 0.5768

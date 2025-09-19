@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_ab0821a1.png
+centerX: 0.9069
+centerY: 0.3456
+width: 0.0476
+height: 0.0259
+Area: 0.0005
+CentroidX: 0.9307
+CentroidY: 0.3573

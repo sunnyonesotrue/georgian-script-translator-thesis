@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_fbab1970.png
+centerX: 0.5935
+centerY: 0.6968
+width: 0.0323
+height: 0.0316
+Area: 0.0003
+CentroidX: 0.6109
+CentroidY: 0.7096

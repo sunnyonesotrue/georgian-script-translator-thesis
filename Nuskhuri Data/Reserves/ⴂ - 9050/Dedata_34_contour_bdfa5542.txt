@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_bdfa5542.png
+centerX: 0.1314
+centerY: 0.8118
+width: 0.0455
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.1572
+CentroidY: 0.8275

@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_ca3177dc.png
+centerX: 0.2101
+centerY: 0.7940
+width: 0.0310
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.2250
+CentroidY: 0.8156

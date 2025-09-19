@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_77505fad.png
+centerX: 0.3891
+centerY: 0.0077
+width: 0.0234
+height: 0.0231
+Area: 0.0003
+CentroidX: 0.4000
+CentroidY: 0.0162

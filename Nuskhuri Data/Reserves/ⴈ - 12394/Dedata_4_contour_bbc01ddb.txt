@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_bbc01ddb.png
+centerX: 0.7210
+centerY: 0.4736
+width: 0.0214
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.7319
+CentroidY: 0.4808

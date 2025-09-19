@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_df16148d.png
+centerX: 0.3722
+centerY: 0.0969
+width: 0.0319
+height: 0.0219
+Area: 0.0002
+CentroidX: 0.3851
+CentroidY: 0.1083

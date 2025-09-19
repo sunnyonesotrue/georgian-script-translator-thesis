@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_07b102fc.png
+centerX: 0.3075
+centerY: 0.5500
+width: 0.0367
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.3233
+CentroidY: 0.5614

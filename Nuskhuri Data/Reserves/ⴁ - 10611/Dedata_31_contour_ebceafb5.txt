@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_ebceafb5.png
+centerX: 0.8802
+centerY: 0.5583
+width: 0.0290
+height: 0.0313
+Area: 0.0002
+CentroidX: 0.8944
+CentroidY: 0.5734

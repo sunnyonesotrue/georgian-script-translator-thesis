@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_ed48fbd2.png
+centerX: 0.7960
+centerY: 0.0673
+width: 0.0536
+height: 0.0248
+Area: 0.0005
+CentroidX: 0.8247
+CentroidY: 0.0787

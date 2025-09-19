@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_baac9956.png
+centerX: 0.0967
+centerY: 0.1095
+width: 0.0540
+height: 0.0331
+Area: 0.0010
+CentroidX: 0.1282
+CentroidY: 0.1266

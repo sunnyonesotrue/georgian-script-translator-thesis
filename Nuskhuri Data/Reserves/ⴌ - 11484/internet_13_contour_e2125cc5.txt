@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_e2125cc5.png
+centerX: 0.1677
+centerY: 0.0690
+width: 0.0282
+height: 0.0237
+Area: 0.0002
+CentroidX: 0.1802
+CentroidY: 0.0813

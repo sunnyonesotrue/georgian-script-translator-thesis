@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_e3f62599.png
+centerX: 0.1060
+centerY: 0.5532
+width: 0.0347
+height: 0.0308
+Area: 0.0004
+CentroidX: 0.1254
+CentroidY: 0.5691

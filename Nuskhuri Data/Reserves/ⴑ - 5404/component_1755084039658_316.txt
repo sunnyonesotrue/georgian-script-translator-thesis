@@ -1,0 +1,9 @@
+Location: internet_19.png_Gaussian-Median.png
+Component: component_1755084039658_316.png
+centerX: 0.011688835147118097
+centerY: 0.5166809238665526
+width: 0.027408303103587262
+height: 0.036213287710293696
+Area: 0.0003561714022292261
+CentroidX: 0.0227
+CentroidY: 0.5383

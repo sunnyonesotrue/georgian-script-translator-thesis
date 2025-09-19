@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_a4902fc3.png
+centerX: 0.1802
+centerY: 0.8293
+width: 0.0290
+height: 0.0202
+Area: 0.0002
+CentroidX: 0.1931
+CentroidY: 0.8376

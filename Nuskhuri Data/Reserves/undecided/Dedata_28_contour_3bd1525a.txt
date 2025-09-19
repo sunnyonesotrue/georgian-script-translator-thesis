@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_3bd1525a.png
+centerX: 0.6593
+centerY: 0.1969
+width: 0.0319
+height: 0.0356
+Area: 0.0005
+CentroidX: 0.6726
+CentroidY: 0.2152

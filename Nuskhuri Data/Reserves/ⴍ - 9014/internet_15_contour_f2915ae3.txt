@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_f2915ae3.png
+centerX: 0.2362
+centerY: 0.5127
+width: 0.0419
+height: 0.0231
+Area: 0.0004
+CentroidX: 0.2568
+CentroidY: 0.5258

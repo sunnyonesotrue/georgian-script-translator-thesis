@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_5b10bacf.png
+centerX: 0.8275
+centerY: 0.1423
+width: 0.0294
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.8436
+CentroidY: 0.1600

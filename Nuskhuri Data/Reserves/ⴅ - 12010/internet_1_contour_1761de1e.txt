@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_1761de1e.png
+centerX: 0.3785
+centerY: 0.7337
+width: 0.0468
+height: 0.0240
+Area: 0.0005
+CentroidX: 0.4035
+CentroidY: 0.7425

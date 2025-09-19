@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_d5033da8.png
+centerX: 0.8980
+centerY: 0.1188
+width: 0.0185
+height: 0.0470
+Area: 0.0004
+CentroidX: 0.9056
+CentroidY: 0.1405

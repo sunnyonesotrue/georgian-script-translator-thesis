@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_fa46eb2e.png
+centerX: 0.6569
+centerY: 0.6891
+width: 0.0335
+height: 0.0219
+Area: 0.0003
+CentroidX: 0.6746
+CentroidY: 0.6973

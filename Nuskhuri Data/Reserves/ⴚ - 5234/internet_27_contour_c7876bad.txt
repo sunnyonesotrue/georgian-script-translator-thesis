@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_c7876bad.png
+centerX: 0.6900
+centerY: 0.6088
+width: 0.0343
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.7054
+CentroidY: 0.6210

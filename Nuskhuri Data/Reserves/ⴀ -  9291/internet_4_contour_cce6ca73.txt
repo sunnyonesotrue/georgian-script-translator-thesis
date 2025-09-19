@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_cce6ca73.png
+centerX: 0.2781
+centerY: 0.2438
+width: 0.0468
+height: 0.0237
+Area: 0.0003
+CentroidX: 0.3003
+CentroidY: 0.2546

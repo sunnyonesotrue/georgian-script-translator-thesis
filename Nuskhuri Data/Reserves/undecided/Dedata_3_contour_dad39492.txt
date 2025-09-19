@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_dad39492.png
+centerX: 0.0883
+centerY: 0.0128
+width: 0.0440
+height: 0.0259
+Area: 0.0007
+CentroidX: 0.1093
+CentroidY: 0.0242

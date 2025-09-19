@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_db1f1713.png
+centerX: 0.3688
+centerY: 0.2789
+width: 0.0447
+height: 0.0285
+Area: 0.0006
+CentroidX: 0.3918
+CentroidY: 0.2891

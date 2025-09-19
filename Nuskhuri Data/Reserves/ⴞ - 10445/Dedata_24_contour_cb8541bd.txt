@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_cb8541bd.png
+centerX: 0.1302
+centerY: 0.3505
+width: 0.0319
+height: 0.0308
+Area: 0.0004
+CentroidX: 0.1468
+CentroidY: 0.3645

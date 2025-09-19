@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_dccfce87.png
+centerX: 0.1902
+centerY: 0.1163
+width: 0.0560
+height: 0.0362
+Area: 0.0012
+CentroidX: 0.2164
+CentroidY: 0.1289

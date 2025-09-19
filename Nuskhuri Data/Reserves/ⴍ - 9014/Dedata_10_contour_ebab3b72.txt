@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_ebab3b72.png
+centerX: 0.1762
+centerY: 0.2115
+width: 0.0476
+height: 0.0177
+Area: 0.0003
+CentroidX: 0.1968
+CentroidY: 0.2217

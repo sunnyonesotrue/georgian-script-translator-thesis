@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_dfd0736b.png
+centerX: 0.8613
+centerY: 0.3511
+width: 0.0222
+height: 0.0182
+Area: 0.0002
+CentroidX: 0.8718
+CentroidY: 0.3588

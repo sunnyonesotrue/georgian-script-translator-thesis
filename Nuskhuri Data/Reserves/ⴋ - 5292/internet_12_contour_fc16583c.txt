@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fc16583c.png
+centerX: 0.8303
+centerY: 0.1440
+width: 0.0343
+height: 0.0399
+Area: 0.0006
+CentroidX: 0.8452
+CentroidY: 0.1648

@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_1acd180c.png
+centerX: 0.2805
+centerY: 0.4160
+width: 0.0326
+height: 0.0376
+Area: 0.0004
+CentroidX: 0.2987
+CentroidY: 0.4323

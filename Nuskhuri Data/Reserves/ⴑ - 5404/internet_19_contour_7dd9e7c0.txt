@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_7dd9e7c0.png
+centerX: 0.1947
+centerY: 0.2019
+width: 0.0262
+height: 0.0325
+Area: 0.0002
+CentroidX: 0.2048
+CentroidY: 0.2227

@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_2bab3848.png
+centerX: 0.1077
+centerY: 0.7863
+width: 0.0190
+height: 0.0410
+Area: 0.0003
+CentroidX: 0.1185
+CentroidY: 0.8039

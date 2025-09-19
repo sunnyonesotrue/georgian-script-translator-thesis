@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_cecadeb9.png
+centerX: 0.9440
+centerY: 0.4346
+width: 0.0323
+height: 0.0296
+Area: 0.0003
+CentroidX: 0.9617
+CentroidY: 0.4477

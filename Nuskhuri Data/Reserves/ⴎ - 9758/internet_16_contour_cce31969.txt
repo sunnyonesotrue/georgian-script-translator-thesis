@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_cce31969.png
+centerX: 0.6002
+centerY: 0.5783
+width: 0.0419
+height: 0.0302
+Area: 0.0005
+CentroidX: 0.6203
+CentroidY: 0.5942

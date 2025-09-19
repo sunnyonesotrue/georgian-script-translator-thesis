@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_f2138a2e.png
+centerX: 0.1552
+centerY: 0.5686
+width: 0.0270
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.1689
+CentroidY: 0.5788

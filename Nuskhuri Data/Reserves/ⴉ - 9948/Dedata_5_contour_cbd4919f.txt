@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_cbd4919f.png
+centerX: 0.4992
+centerY: 0.1767
+width: 0.0258
+height: 0.0450
+Area: 0.0005
+CentroidX: 0.5109
+CentroidY: 0.2001

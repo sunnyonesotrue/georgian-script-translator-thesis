@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_c8277e50.png
+centerX: 0.8827
+centerY: 0.2793
+width: 0.0210
+height: 0.0333
+Area: 0.0003
+CentroidX: 0.8935
+CentroidY: 0.2932

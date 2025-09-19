@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_cb7133e0.png
+centerX: 0.2362
+centerY: 0.1523
+width: 0.0427
+height: 0.0388
+Area: 0.0004
+CentroidX: 0.2580
+CentroidY: 0.1717

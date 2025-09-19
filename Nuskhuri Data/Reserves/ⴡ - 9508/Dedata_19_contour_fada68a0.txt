@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_fada68a0.png
+centerX: 0.5161
+centerY: 0.7960
+width: 0.0210
+height: 0.0453
+Area: 0.0004
+CentroidX: 0.5246
+CentroidY: 0.8170

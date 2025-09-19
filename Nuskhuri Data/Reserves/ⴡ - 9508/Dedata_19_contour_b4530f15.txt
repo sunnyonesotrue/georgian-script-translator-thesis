@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_b4530f15.png
+centerX: 0.5347
+centerY: 0.6788
+width: 0.0226
+height: 0.0462
+Area: 0.0004
+CentroidX: 0.5440
+CentroidY: 0.7002

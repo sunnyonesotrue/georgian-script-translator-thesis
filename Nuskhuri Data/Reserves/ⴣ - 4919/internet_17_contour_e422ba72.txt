@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_e422ba72.png
+centerX: 0.9565
+centerY: 0.4773
+width: 0.0367
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.9766
+CentroidY: 0.4916

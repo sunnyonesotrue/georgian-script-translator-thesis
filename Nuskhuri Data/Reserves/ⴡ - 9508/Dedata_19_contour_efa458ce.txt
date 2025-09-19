@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_efa458ce.png
+centerX: 0.8500
+centerY: 0.4155
+width: 0.0254
+height: 0.0436
+Area: 0.0004
+CentroidX: 0.8601
+CentroidY: 0.4355

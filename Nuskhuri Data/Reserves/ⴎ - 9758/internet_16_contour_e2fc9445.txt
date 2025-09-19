@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_e2fc9445.png
+centerX: 0.3108
+centerY: 0.2244
+width: 0.0468
+height: 0.0271
+Area: 0.0005
+CentroidX: 0.3345
+CentroidY: 0.2375

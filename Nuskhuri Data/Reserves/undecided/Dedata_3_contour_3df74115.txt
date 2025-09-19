@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_3df74115.png
+centerX: 0.4831
+centerY: 0.5694
+width: 0.0427
+height: 0.0219
+Area: 0.0005
+CentroidX: 0.5040
+CentroidY: 0.5788

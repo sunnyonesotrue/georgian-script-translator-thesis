@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_e514bebb.png
+centerX: 0.1717
+centerY: 0.5178
+width: 0.0355
+height: 0.0297
+Area: 0.0004
+CentroidX: 0.1919
+CentroidY: 0.5312

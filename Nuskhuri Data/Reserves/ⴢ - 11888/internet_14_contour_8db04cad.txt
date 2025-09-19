@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_8db04cad.png
+centerX: 0.2531
+centerY: 0.4260
+width: 0.0347
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.2725
+CentroidY: 0.4346

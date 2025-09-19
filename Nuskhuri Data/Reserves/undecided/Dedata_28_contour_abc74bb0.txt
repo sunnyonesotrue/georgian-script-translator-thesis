@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_abc74bb0.png
+centerX: 0.6790
+centerY: 0.4192
+width: 0.0347
+height: 0.0351
+Area: 0.0006
+CentroidX: 0.6931
+CentroidY: 0.4372

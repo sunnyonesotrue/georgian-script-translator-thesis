@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_5bb8071b.png
+centerX: 0.7070
+centerY: 0.5512
+width: 0.0306
+height: 0.0411
+Area: 0.0005
+CentroidX: 0.7215
+CentroidY: 0.5703

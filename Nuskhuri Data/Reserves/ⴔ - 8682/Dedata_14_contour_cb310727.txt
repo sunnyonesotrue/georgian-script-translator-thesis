@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_cb310727.png
+centerX: 0.0254
+centerY: 0.2468
+width: 0.0343
+height: 0.0234
+Area: 0.0003
+CentroidX: 0.0435
+CentroidY: 0.2556

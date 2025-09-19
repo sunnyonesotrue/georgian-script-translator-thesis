@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_e39fc60b.png
+centerX: 0.6089
+centerY: 0.0638
+width: 0.0238
+height: 0.0356
+Area: 0.0004
+CentroidX: 0.6202
+CentroidY: 0.0829

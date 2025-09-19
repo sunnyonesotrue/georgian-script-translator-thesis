@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_da50d912.png
+centerX: 0.8617
+centerY: 0.6492
+width: 0.0250
+height: 0.0379
+Area: 0.0003
+CentroidX: 0.8718
+CentroidY: 0.6697

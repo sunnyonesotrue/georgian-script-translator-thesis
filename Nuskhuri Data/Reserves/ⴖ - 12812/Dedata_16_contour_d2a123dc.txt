@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_d2a123dc.png
+centerX: 0.8484
+centerY: 0.6241
+width: 0.0302
+height: 0.0214
+Area: 0.0003
+CentroidX: 0.8633
+CentroidY: 0.6324

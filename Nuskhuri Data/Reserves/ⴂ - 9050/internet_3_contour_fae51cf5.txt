@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_fae51cf5.png
+centerX: 0.8908
+centerY: 0.6858
+width: 0.0347
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.9081
+CentroidY: 0.7006

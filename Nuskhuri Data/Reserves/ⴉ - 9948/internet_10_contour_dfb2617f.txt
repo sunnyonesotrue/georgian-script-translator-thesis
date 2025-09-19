@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_dfb2617f.png
+centerX: 0.7884
+centerY: 0.7687
+width: 0.0314
+height: 0.0299
+Area: 0.0005
+CentroidX: 0.8021
+CentroidY: 0.7839

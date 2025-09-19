@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_7783adaf.png
+centerX: 0.7210
+centerY: 0.3428
+width: 0.0512
+height: 0.0180
+Area: 0.0004
+CentroidX: 0.7435
+CentroidY: 0.3542

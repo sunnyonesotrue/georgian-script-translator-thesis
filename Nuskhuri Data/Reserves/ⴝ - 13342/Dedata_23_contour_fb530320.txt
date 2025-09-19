@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_fb530320.png
+centerX: 0.3383
+centerY: 0.3520
+width: 0.0177
+height: 0.0291
+Area: 0.0002
+CentroidX: 0.3480
+CentroidY: 0.3648

@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_cc40c242.png
+centerX: 0.4488
+centerY: 0.1072
+width: 0.0254
+height: 0.0199
+Area: 0.0002
+CentroidX: 0.4601
+CentroidY: 0.1166

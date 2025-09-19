@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_bd7610a5.png
+centerX: 0.2746
+centerY: 0.0140
+width: 0.0294
+height: 0.0462
+Area: 0.0006
+CentroidX: 0.2863
+CentroidY: 0.0351

@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_ad3812fc.png
+centerX: 0.4869
+centerY: 0.2601
+width: 0.0375
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.5042
+CentroidY: 0.2729

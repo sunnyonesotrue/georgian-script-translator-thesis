@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_ca102147.png
+centerX: 0.4992
+centerY: 0.4694
+width: 0.0492
+height: 0.0217
+Area: 0.0004
+CentroidX: 0.5230
+CentroidY: 0.4813

@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_b9994bed.png
+centerX: 0.7004
+centerY: 0.0077
+width: 0.0250
+height: 0.0313
+Area: 0.0003
+CentroidX: 0.7105
+CentroidY: 0.0185

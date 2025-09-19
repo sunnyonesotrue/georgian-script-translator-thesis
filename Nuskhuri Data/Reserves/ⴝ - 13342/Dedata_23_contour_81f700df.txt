@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_81f700df.png
+centerX: 0.6625
+centerY: 0.4252
+width: 0.0242
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.6750
+CentroidY: 0.4355

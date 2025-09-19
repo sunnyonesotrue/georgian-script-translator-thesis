@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_fb23368a.png
+centerX: 0.7203
+centerY: 0.0664
+width: 0.0528
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.7457
+CentroidY: 0.0767

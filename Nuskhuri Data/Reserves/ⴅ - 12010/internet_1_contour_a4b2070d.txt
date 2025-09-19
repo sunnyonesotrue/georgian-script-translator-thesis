@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_a4b2070d.png
+centerX: 0.2894
+centerY: 0.3359
+width: 0.0391
+height: 0.0305
+Area: 0.0005
+CentroidX: 0.3087
+CentroidY: 0.3470

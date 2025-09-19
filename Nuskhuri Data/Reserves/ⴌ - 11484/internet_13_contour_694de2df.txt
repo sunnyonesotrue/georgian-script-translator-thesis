@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_694de2df.png
+centerX: 0.2636
+centerY: 0.0681
+width: 0.0290
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.2757
+CentroidY: 0.0813

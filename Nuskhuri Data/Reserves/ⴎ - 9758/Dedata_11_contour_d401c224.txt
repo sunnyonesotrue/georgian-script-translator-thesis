@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_d401c224.png
+centerX: 0.1468
+centerY: 0.4765
+width: 0.0556
+height: 0.0234
+Area: 0.0005
+CentroidX: 0.1734
+CentroidY: 0.4899

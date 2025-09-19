@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_f1963bed.png
+centerX: 0.9101
+centerY: 0.3151
+width: 0.0488
+height: 0.0590
+Area: 0.0009
+CentroidX: 0.9407
+CentroidY: 0.3482

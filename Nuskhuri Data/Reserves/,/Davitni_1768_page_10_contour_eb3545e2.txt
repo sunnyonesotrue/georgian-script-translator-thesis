@@ -1,0 +1,9 @@
+Location:Davitni_1768_page_10
+Component: Davitni_1768_page_10_contour_eb3545e2.png
+centerX: 0.8407
+centerY: 0.1123
+width: 0.0230
+height: 0.7844
+Area: 0.0032
+CentroidX: 0.8515
+CentroidY: 0.5175

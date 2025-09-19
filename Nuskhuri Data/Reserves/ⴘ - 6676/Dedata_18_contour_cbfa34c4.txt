@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_cbfa34c4.png
+centerX: 0.5145
+centerY: 0.0071
+width: 0.0306
+height: 0.0390
+Area: 0.0003
+CentroidX: 0.5298
+CentroidY: 0.0265

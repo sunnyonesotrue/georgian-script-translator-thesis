@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_edcad366.png
+centerX: 0.8516
+centerY: 0.4682
+width: 0.0331
+height: 0.0276
+Area: 0.0002
+CentroidX: 0.8694
+CentroidY: 0.4828

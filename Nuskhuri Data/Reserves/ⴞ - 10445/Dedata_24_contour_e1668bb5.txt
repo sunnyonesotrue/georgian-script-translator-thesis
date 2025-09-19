@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_e1668bb5.png
+centerX: 0.6270
+centerY: 0.4765
+width: 0.0423
+height: 0.0376
+Area: 0.0004
+CentroidX: 0.6468
+CentroidY: 0.4936

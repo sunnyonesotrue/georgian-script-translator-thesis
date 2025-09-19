@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_55f98ef4.png
+centerX: 0.8666
+centerY: 0.2159
+width: 0.0306
+height: 0.0362
+Area: 0.0002
+CentroidX: 0.8803
+CentroidY: 0.2287

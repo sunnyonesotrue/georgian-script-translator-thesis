@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_e51909ce.png
+centerX: 0.6904
+centerY: 0.1799
+width: 0.0290
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.7021
+CentroidY: 0.1936

@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_f21f321b.png
+centerX: 0.0992
+centerY: 0.2792
+width: 0.0302
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.1141
+CentroidY: 0.2957

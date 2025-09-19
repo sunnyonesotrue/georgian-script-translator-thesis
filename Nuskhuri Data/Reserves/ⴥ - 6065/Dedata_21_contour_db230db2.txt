@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_db230db2.png
+centerX: 0.8298
+centerY: 0.7615
+width: 0.0266
+height: 0.0276
+Area: 0.0003
+CentroidX: 0.8419
+CentroidY: 0.7783

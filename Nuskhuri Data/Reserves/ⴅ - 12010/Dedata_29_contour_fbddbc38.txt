@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_fbddbc38.png
+centerX: 0.2859
+centerY: 0.7261
+width: 0.0327
+height: 0.0239
+Area: 0.0003
+CentroidX: 0.3032
+CentroidY: 0.7350

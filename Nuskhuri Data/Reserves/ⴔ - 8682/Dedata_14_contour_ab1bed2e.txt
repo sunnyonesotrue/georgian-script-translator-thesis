@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_ab1bed2e.png
+centerX: 0.9000
+centerY: 0.7672
+width: 0.0423
+height: 0.0299
+Area: 0.0008
+CentroidX: 0.9194
+CentroidY: 0.7800

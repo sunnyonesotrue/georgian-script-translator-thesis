@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_e170ed45.png
+centerX: 0.3853
+centerY: 0.8774
+width: 0.0605
+height: 0.0605
+Area: 0.0008
+CentroidX: 0.4204
+CentroidY: 0.9076

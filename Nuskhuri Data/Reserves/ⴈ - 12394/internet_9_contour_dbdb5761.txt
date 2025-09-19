@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_dbdb5761.png
+centerX: 0.9137
+centerY: 0.8272
+width: 0.0270
+height: 0.0277
+Area: 0.0003
+CentroidX: 0.9287
+CentroidY: 0.8395

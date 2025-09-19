@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_4babb956.png
+centerX: 0.6252
+centerY: 0.2769
+width: 0.0431
+height: 0.0336
+Area: 0.0003
+CentroidX: 0.6477
+CentroidY: 0.2891

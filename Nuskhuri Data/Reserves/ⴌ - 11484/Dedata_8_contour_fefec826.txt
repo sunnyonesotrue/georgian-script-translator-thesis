@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_fefec826.png
+centerX: 0.9536
+centerY: 0.7122
+width: 0.0218
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.9633
+CentroidY: 0.7318

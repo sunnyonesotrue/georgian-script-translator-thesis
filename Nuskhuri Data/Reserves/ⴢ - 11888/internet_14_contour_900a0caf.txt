@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_900a0caf.png
+centerX: 0.5002
+centerY: 0.1420
+width: 0.0250
+height: 0.0214
+Area: 0.0002
+CentroidX: 0.5123
+CentroidY: 0.1545

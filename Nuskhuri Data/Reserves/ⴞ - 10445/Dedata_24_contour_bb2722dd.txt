@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_bb2722dd.png
+centerX: 0.6113
+centerY: 0.7581
+width: 0.0464
+height: 0.0396
+Area: 0.0006
+CentroidX: 0.6331
+CentroidY: 0.7754

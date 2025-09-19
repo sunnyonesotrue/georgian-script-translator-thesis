@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_fc63bafb.png
+centerX: 0.1378
+centerY: 0.3909
+width: 0.0391
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.1576
+CentroidY: 0.4058

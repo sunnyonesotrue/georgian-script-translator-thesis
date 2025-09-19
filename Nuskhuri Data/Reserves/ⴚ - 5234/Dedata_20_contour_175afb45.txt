@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_175afb45.png
+centerX: 0.2190
+centerY: 0.5110
+width: 0.0290
+height: 0.0336
+Area: 0.0003
+CentroidX: 0.2343
+CentroidY: 0.5247

@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_a64273f1.png
+centerX: 0.5804
+centerY: 0.1919
+width: 0.0314
+height: 0.0314
+Area: 0.0002
+CentroidX: 0.5937
+CentroidY: 0.2044

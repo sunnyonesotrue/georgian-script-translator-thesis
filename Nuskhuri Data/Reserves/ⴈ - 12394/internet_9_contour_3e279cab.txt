@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_3e279cab.png
+centerX: 0.5143
+centerY: 0.8326
+width: 0.0331
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.5333
+CentroidY: 0.8466

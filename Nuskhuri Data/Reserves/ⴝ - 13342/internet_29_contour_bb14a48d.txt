@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_bb14a48d.png
+centerX: 0.3386
+centerY: 0.6838
+width: 0.0415
+height: 0.0297
+Area: 0.0003
+CentroidX: 0.3624
+CentroidY: 0.6963

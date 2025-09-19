@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_e30cf698.png
+centerX: 0.3603
+centerY: 0.7439
+width: 0.0318
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.3785
+CentroidY: 0.7605

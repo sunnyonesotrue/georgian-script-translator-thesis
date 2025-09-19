@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_fcc7d810.png
+centerX: 0.8758
+centerY: 0.7843
+width: 0.0302
+height: 0.0197
+Area: 0.0002
+CentroidX: 0.8915
+CentroidY: 0.7925

@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_df4da271.png
+centerX: 0.7223
+centerY: 0.1451
+width: 0.0326
+height: 0.0265
+Area: 0.0002
+CentroidX: 0.7332
+CentroidY: 0.1605

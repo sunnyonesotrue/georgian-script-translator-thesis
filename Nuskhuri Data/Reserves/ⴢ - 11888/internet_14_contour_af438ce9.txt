@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_af438ce9.png
+centerX: 0.1890
+centerY: 0.0972
+width: 0.0306
+height: 0.0237
+Area: 0.0003
+CentroidX: 0.2040
+CentroidY: 0.1106

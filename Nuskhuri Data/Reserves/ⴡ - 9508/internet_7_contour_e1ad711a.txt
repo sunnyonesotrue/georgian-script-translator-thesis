@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_e1ad711a.png
+centerX: 0.1310
+centerY: 0.4970
+width: 0.0347
+height: 0.0485
+Area: 0.0004
+CentroidX: 0.1463
+CentroidY: 0.5190

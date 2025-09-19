@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_dc893724.png
+centerX: 0.0540
+centerY: 0.5463
+width: 0.0222
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.0649
+CentroidY: 0.5594

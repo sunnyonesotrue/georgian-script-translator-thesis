@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_fbca258a.png
+centerX: 0.1371
+centerY: 0.7068
+width: 0.0435
+height: 0.0379
+Area: 0.0005
+CentroidX: 0.1577
+CentroidY: 0.7227

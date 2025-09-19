@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_cace056f.png
+centerX: 0.6480
+centerY: 0.2274
+width: 0.0238
+height: 0.0376
+Area: 0.0004
+CentroidX: 0.6605
+CentroidY: 0.2454

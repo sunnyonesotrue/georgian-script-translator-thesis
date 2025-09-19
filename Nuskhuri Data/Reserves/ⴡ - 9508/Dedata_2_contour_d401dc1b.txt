@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_d401dc1b.png
+centerX: 0.7315
+centerY: 0.1177
+width: 0.0266
+height: 0.0376
+Area: 0.0004
+CentroidX: 0.7415
+CentroidY: 0.1342

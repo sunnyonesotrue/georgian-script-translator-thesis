@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_6243aedc.png
+centerX: 0.4827
+centerY: 0.0265
+width: 0.0254
+height: 0.0211
+Area: 0.0002
+CentroidX: 0.4960
+CentroidY: 0.0365

@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_c1651bfa.png
+centerX: 0.2894
+centerY: 0.5458
+width: 0.0484
+height: 0.0516
+Area: 0.0006
+CentroidX: 0.3184
+CentroidY: 0.5743

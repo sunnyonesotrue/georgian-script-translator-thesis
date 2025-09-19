@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_fecea5f9.png
+centerX: 0.6578
+centerY: 0.8925
+width: 0.0459
+height: 0.0262
+Area: 0.0008
+CentroidX: 0.6828
+CentroidY: 0.9042

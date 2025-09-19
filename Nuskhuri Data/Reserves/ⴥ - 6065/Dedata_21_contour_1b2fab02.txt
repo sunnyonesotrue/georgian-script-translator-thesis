@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_1b2fab02.png
+centerX: 0.2173
+centerY: 0.6443
+width: 0.0254
+height: 0.0296
+Area: 0.0003
+CentroidX: 0.2290
+CentroidY: 0.6623

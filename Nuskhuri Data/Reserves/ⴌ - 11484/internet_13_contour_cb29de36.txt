@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_cb29de36.png
+centerX: 0.7699
+centerY: 0.3023
+width: 0.0274
+height: 0.0334
+Area: 0.0004
+CentroidX: 0.7811
+CentroidY: 0.3182

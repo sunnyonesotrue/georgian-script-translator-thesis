@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_f300fea1.png
+centerX: 0.9109
+centerY: 0.5677
+width: 0.0415
+height: 0.0237
+Area: 0.0004
+CentroidX: 0.9282
+CentroidY: 0.5771

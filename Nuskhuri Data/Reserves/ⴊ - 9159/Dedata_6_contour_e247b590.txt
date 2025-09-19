@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_e247b590.png
+centerX: 0.4185
+centerY: 0.5571
+width: 0.0444
+height: 0.0242
+Area: 0.0007
+CentroidX: 0.4431
+CentroidY: 0.5685

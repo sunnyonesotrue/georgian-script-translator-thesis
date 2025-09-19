@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_fb524790.png
+centerX: 0.5643
+centerY: 0.3282
+width: 0.0677
+height: 0.0182
+Area: 0.0006
+CentroidX: 0.5941
+CentroidY: 0.3365

@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_fdac95c9.png
+centerX: 0.8008
+centerY: 0.4434
+width: 0.0375
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.8210
+CentroidY: 0.4523

@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_acb93a42.png
+centerX: 0.4788
+centerY: 0.4172
+width: 0.0302
+height: 0.0245
+Area: 0.0002
+CentroidX: 0.4946
+CentroidY: 0.4300

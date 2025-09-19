@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_b975c907.png
+centerX: 0.9021
+centerY: 0.7610
+width: 0.0403
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.9186
+CentroidY: 0.7767

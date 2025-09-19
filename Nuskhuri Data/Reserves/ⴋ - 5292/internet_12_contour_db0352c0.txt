@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_db0352c0.png
+centerX: 0.2322
+centerY: 0.3687
+width: 0.0250
+height: 0.0399
+Area: 0.0004
+CentroidX: 0.2443
+CentroidY: 0.3898

@@ -1,0 +1,9 @@
+Location:Kurtxevani_1713_page_10
+Component: Kurtxevani_1713_page_10_contour_45abf022.png
+centerX: 0.4162
+centerY: 0.1763
+width: 0.0399
+height: 0.0325
+Area: 0.0005
+CentroidX: 0.4358
+CentroidY: 0.1928

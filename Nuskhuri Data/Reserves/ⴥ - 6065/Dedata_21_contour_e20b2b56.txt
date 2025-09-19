@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_e20b2b56.png
+centerX: 0.9548
+centerY: 0.4289
+width: 0.0274
+height: 0.0313
+Area: 0.0004
+CentroidX: 0.9673
+CentroidY: 0.4483

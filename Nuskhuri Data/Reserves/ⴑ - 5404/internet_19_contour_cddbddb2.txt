@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_cddbddb2.png
+centerX: 0.3245
+centerY: 0.5076
+width: 0.0258
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.3349
+CentroidY: 0.5269

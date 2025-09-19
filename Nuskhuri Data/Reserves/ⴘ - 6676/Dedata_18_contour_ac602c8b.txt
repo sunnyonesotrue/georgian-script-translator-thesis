@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_ac602c8b.png
+centerX: 0.8911
+centerY: 0.5437
+width: 0.0214
+height: 0.0356
+Area: 0.0003
+CentroidX: 0.9024
+CentroidY: 0.5611

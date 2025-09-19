@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_adf961bb.png
+centerX: 0.5796
+centerY: 0.1468
+width: 0.0262
+height: 0.0402
+Area: 0.0006
+CentroidX: 0.5929
+CentroidY: 0.1677

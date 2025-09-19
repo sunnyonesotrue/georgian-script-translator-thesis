@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_aceea2b2.png
+centerX: 0.0121
+centerY: 0.6233
+width: 0.0282
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.0302
+CentroidY: 0.6379

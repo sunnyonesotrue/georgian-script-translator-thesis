@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_f2995f25.png
+centerX: 0.2633
+centerY: 0.4175
+width: 0.0294
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.2782
+CentroidY: 0.4249

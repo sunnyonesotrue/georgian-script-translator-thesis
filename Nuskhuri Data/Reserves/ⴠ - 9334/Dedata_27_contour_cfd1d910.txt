@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_cfd1d910.png
+centerX: 0.6270
+centerY: 0.1795
+width: 0.0427
+height: 0.0219
+Area: 0.0003
+CentroidX: 0.6464
+CentroidY: 0.1909

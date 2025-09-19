@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_facff74b.png
+centerX: 0.9065
+centerY: 0.1584
+width: 0.0339
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.9254
+CentroidY: 0.1667

@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_dd335e82.png
+centerX: 0.6038
+centerY: 0.3256
+width: 0.0455
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.6284
+CentroidY: 0.3413

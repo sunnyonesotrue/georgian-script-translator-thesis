@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_abb71485.png
+centerX: 0.8863
+centerY: 0.0530
+width: 0.0367
+height: 0.0268
+Area: 0.0002
+CentroidX: 0.9048
+CentroidY: 0.0630

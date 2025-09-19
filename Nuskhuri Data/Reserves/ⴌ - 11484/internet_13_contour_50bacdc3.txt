@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_50bacdc3.png
+centerX: 0.4071
+centerY: 0.1044
+width: 0.0226
+height: 0.0257
+Area: 0.0002
+CentroidX: 0.4160
+CentroidY: 0.1178

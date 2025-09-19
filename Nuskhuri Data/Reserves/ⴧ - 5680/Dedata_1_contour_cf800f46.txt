@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_cf800f46.png
+centerX: 0.1206
+centerY: 0.2918
+width: 0.0238
+height: 0.0319
+Area: 0.0005
+CentroidX: 0.1327
+CentroidY: 0.3066

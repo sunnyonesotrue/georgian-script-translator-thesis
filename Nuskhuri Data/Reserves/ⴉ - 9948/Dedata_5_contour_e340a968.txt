@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_e340a968.png
+centerX: 0.3000
+centerY: 0.2474
+width: 0.0210
+height: 0.0390
+Area: 0.0004
+CentroidX: 0.3097
+CentroidY: 0.2687

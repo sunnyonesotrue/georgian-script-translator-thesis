@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_eb561efc.png
+centerX: 0.5379
+centerY: 0.7441
+width: 0.0460
+height: 0.0319
+Area: 0.0005
+CentroidX: 0.5633
+CentroidY: 0.7561

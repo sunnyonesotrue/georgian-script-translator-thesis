@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_49749fee.png
+centerX: 0.0173
+centerY: 0.8027
+width: 0.0459
+height: 0.0282
+Area: 0.0006
+CentroidX: 0.0387
+CentroidY: 0.8158

@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_fd1d5420.png
+centerX: 0.9097
+centerY: 0.1981
+width: 0.0210
+height: 0.0262
+Area: 0.0002
+CentroidX: 0.9198
+CentroidY: 0.2115

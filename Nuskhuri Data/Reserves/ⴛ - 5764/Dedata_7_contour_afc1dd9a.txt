@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_afc1dd9a.png
+centerX: 0.5169
+centerY: 0.8840
+width: 0.0504
+height: 0.0237
+Area: 0.0004
+CentroidX: 0.5472
+CentroidY: 0.8948

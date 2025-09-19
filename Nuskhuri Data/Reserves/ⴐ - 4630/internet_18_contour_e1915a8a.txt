@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_e1915a8a.png
+centerX: 0.8497
+centerY: 0.3559
+width: 0.0439
+height: 0.0265
+Area: 0.0003
+CentroidX: 0.8722
+CentroidY: 0.3724

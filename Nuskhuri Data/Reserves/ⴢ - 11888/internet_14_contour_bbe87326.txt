@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_bbe87326.png
+centerX: 0.3535
+centerY: 0.3727
+width: 0.0250
+height: 0.0211
+Area: 0.0002
+CentroidX: 0.3664
+CentroidY: 0.3844

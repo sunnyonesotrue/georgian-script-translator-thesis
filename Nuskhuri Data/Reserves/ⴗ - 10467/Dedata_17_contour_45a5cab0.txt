@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_45a5cab0.png
+centerX: 0.0653
+centerY: 0.6064
+width: 0.0181
+height: 0.0459
+Area: 0.0003
+CentroidX: 0.0738
+CentroidY: 0.6244

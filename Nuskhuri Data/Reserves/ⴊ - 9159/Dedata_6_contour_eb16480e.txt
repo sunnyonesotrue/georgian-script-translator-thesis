@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_eb16480e.png
+centerX: 0.6294
+centerY: 0.5477
+width: 0.0411
+height: 0.0234
+Area: 0.0007
+CentroidX: 0.6512
+CentroidY: 0.5588

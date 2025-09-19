@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_ca33ab68.png
+centerX: 0.6514
+centerY: 0.5703
+width: 0.0411
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.6711
+CentroidY: 0.5803

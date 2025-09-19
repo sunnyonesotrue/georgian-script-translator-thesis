@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_1969c1d1.png
+centerX: 0.3309
+centerY: 0.4383
+width: 0.0214
+height: 0.0379
+Area: 0.0003
+CentroidX: 0.3434
+CentroidY: 0.4525

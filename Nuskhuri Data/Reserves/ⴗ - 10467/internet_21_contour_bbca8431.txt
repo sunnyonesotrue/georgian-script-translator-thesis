@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_bbca8431.png
+centerX: 0.2938
+centerY: 0.2293
+width: 0.0286
+height: 0.0416
+Area: 0.0003
+CentroidX: 0.3096
+CentroidY: 0.2509

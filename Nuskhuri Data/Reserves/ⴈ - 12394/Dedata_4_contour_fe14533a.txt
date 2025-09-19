@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_fe14533a.png
+centerX: 0.8460
+centerY: 0.0077
+width: 0.0226
+height: 0.0251
+Area: 0.0002
+CentroidX: 0.8573
+CentroidY: 0.0174

@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_bbea4cab.png
+centerX: 0.1605
+centerY: 0.7501
+width: 0.0395
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.1758
+CentroidY: 0.7618

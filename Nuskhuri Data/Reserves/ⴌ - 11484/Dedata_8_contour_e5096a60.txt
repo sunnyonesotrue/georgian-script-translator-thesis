@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_e5096a60.png
+centerX: 0.8198
+centerY: 0.0855
+width: 0.0323
+height: 0.0339
+Area: 0.0004
+CentroidX: 0.8351
+CentroidY: 0.1017

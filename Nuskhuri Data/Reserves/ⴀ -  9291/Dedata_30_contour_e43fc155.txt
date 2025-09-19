@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_e43fc155.png
+centerX: 0.9444
+centerY: 0.0997
+width: 0.0363
+height: 0.0225
+Area: 0.0002
+CentroidX: 0.9621
+CentroidY: 0.1083

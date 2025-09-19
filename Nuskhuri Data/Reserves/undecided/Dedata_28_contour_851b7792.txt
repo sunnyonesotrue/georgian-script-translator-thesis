@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_851b7792.png
+centerX: 0.3008
+centerY: 0.0653
+width: 0.0258
+height: 0.0313
+Area: 0.0004
+CentroidX: 0.3121
+CentroidY: 0.0821

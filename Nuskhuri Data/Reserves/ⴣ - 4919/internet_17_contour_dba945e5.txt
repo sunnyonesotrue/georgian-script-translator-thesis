@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_dba945e5.png
+centerX: 0.4841
+centerY: 0.1608
+width: 0.0403
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.5075
+CentroidY: 0.1731

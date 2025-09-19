@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_fbab8751.png
+centerX: 0.0863
+centerY: 0.5474
+width: 0.0234
+height: 0.0285
+Area: 0.0004
+CentroidX: 0.0980
+CentroidY: 0.5591

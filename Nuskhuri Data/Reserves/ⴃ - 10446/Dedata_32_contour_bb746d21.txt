@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_bb746d21.png
+centerX: 0.8763
+centerY: 0.3125
+width: 0.0472
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.9008
+CentroidY: 0.3259

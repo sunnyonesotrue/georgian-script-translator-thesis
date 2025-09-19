@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_fb8450da.png
+centerX: 0.5538
+centerY: 0.7408
+width: 0.0359
+height: 0.0336
+Area: 0.0003
+CentroidX: 0.5736
+CentroidY: 0.7576

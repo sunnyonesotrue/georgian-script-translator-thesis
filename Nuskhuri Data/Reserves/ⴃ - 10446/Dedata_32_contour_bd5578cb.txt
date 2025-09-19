@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_bd5578cb.png
+centerX: 0.6231
+centerY: 0.5449
+width: 0.0355
+height: 0.0291
+Area: 0.0005
+CentroidX: 0.6445
+CentroidY: 0.5592

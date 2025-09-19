@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_cfd857be.png
+centerX: 0.6316
+centerY: 0.2429
+width: 0.0242
+height: 0.0282
+Area: 0.0002
+CentroidX: 0.6409
+CentroidY: 0.2609

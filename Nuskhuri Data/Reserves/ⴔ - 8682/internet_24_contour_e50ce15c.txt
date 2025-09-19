@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_e50ce15c.png
+centerX: 0.9399
+centerY: 0.4214
+width: 0.0516
+height: 0.0299
+Area: 0.0008
+CentroidX: 0.9641
+CentroidY: 0.4314

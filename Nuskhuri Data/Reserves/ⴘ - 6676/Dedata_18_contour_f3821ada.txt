@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_f3821ada.png
+centerX: 0.6540
+centerY: 0.5474
+width: 0.0214
+height: 0.0373
+Area: 0.0003
+CentroidX: 0.6657
+CentroidY: 0.5654

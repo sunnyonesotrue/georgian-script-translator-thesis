@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ad940cc4.png
+centerX: 0.1851
+centerY: 0.5922
+width: 0.0214
+height: 0.0410
+Area: 0.0003
+CentroidX: 0.1948
+CentroidY: 0.6087

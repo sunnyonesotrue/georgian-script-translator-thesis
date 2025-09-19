@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_574bac3e.png
+centerX: 0.4899
+centerY: 0.5455
+width: 0.0242
+height: 0.0410
+Area: 0.0004
+CentroidX: 0.4988
+CentroidY: 0.5643

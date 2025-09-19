@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_7320ecbd.png
+centerX: 0.7597
+centerY: 0.2123
+width: 0.0520
+height: 0.0191
+Area: 0.0003
+CentroidX: 0.7843
+CentroidY: 0.2237

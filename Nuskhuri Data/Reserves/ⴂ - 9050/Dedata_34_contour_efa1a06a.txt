@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_efa1a06a.png
+centerX: 0.2781
+centerY: 0.0998
+width: 0.0407
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.3011
+CentroidY: 0.1146

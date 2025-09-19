@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_bba322d8.png
+centerX: 0.6532
+centerY: 0.8783
+width: 0.0460
+height: 0.0359
+Area: 0.0004
+CentroidX: 0.6810
+CentroidY: 0.9017

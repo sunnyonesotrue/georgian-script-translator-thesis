@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_afd6485e.png
+centerX: 0.1702
+centerY: 0.2685
+width: 0.0315
+height: 0.0345
+Area: 0.0004
+CentroidX: 0.1835
+CentroidY: 0.2856

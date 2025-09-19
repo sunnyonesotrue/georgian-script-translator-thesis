@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_db775df3.png
+centerX: 0.9113
+centerY: 0.1716
+width: 0.0254
+height: 0.0393
+Area: 0.0004
+CentroidX: 0.9254
+CentroidY: 0.1915

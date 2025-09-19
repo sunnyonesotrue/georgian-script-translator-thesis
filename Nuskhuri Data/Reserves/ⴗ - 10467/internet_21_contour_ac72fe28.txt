@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_ac72fe28.png
+centerX: 0.2858
+centerY: 0.3427
+width: 0.0347
+height: 0.0396
+Area: 0.0004
+CentroidX: 0.3015
+CentroidY: 0.3627

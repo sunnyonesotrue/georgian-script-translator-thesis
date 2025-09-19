@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_e2305a10.png
+centerX: 0.2270
+centerY: 0.3337
+width: 0.0234
+height: 0.0385
+Area: 0.0004
+CentroidX: 0.2395
+CentroidY: 0.3537

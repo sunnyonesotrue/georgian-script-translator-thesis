@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_dbc6984b.png
+centerX: 0.7985
+centerY: 0.4291
+width: 0.0395
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.8202
+CentroidY: 0.4437

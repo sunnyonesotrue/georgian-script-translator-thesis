@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_ac4ff680.png
+centerX: 0.2660
+centerY: 0.1417
+width: 0.0351
+height: 0.0351
+Area: 0.0005
+CentroidX: 0.2809
+CentroidY: 0.1580

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_9984abac.png
+centerX: 0.8557
+centerY: 0.3068
+width: 0.0331
+height: 0.0325
+Area: 0.0003
+CentroidX: 0.8742
+CentroidY: 0.3228

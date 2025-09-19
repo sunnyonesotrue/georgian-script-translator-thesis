@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_bab88d41.png
+centerX: 0.5195
+centerY: 0.3003
+width: 0.0322
+height: 0.0359
+Area: 0.0002
+CentroidX: 0.5312
+CentroidY: 0.3131

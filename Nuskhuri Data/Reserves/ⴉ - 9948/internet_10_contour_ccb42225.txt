@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_ccb42225.png
+centerX: 0.6759
+centerY: 0.1015
+width: 0.0363
+height: 0.0416
+Area: 0.0006
+CentroidX: 0.6909
+CentroidY: 0.1209

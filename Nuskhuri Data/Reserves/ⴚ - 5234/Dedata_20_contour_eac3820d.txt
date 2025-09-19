@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_eac3820d.png
+centerX: 0.7653
+centerY: 0.7350
+width: 0.0335
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.7823
+CentroidY: 0.7492

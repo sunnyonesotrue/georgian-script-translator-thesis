@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_fb77cf70.png
+centerX: 0.5895
+centerY: 0.4454
+width: 0.0298
+height: 0.0197
+Area: 0.0003
+CentroidX: 0.6060
+CentroidY: 0.4526

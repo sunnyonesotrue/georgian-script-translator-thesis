@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_ca6989b2.png
+centerX: 0.4313
+centerY: 0.0510
+width: 0.0294
+height: 0.0297
+Area: 0.0002
+CentroidX: 0.4410
+CentroidY: 0.0699

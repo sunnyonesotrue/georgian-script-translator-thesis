@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_b41ab217.png
+centerX: 0.5911
+centerY: 0.3525
+width: 0.0230
+height: 0.0390
+Area: 0.0004
+CentroidX: 0.6020
+CentroidY: 0.3733

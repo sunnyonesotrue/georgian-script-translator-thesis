@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_5c74020b.png
+centerX: 0.3577
+centerY: 0.8857
+width: 0.0218
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.3694
+CentroidY: 0.9005

@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_fefb1626.png
+centerX: 0.4270
+centerY: 0.2676
+width: 0.0351
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.4456
+CentroidY: 0.2813

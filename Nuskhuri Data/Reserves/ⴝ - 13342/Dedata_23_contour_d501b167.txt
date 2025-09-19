@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_d501b167.png
+centerX: 0.1706
+centerY: 0.4953
+width: 0.0230
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.1806
+CentroidY: 0.5093

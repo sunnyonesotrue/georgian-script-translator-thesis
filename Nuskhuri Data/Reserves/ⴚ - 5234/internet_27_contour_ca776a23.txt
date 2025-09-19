@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_ca776a23.png
+centerX: 0.7537
+centerY: 0.7032
+width: 0.0419
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.7739
+CentroidY: 0.7157

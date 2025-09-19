@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_2b9f6a87.png
+centerX: 0.2181
+centerY: 0.1240
+width: 0.0383
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.2347
+CentroidY: 0.1408

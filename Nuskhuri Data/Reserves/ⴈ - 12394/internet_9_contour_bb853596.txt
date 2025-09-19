@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_bb853596.png
+centerX: 0.4684
+centerY: 0.7856
+width: 0.0302
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.4857
+CentroidY: 0.7981

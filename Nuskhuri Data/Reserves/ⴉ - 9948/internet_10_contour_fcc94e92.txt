@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_fcc94e92.png
+centerX: 0.8142
+centerY: 0.1574
+width: 0.0343
+height: 0.0348
+Area: 0.0006
+CentroidX: 0.8299
+CentroidY: 0.1748

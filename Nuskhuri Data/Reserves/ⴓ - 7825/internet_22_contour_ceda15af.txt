@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_ceda15af.png
+centerX: 0.2072
+centerY: 0.4753
+width: 0.0568
+height: 0.0528
+Area: 0.0008
+CentroidX: 0.2398
+CentroidY: 0.5090

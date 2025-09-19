@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_ee24fb3d.png
+centerX: 0.0859
+centerY: 0.4277
+width: 0.0492
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.1064
+CentroidY: 0.4417

@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_dbb331df.png
+centerX: 0.2722
+centerY: 0.4426
+width: 0.0347
+height: 0.0274
+Area: 0.0006
+CentroidX: 0.2895
+CentroidY: 0.4534

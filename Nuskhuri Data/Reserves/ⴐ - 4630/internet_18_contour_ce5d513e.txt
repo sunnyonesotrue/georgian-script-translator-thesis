@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_ce5d513e.png
+centerX: 0.3116
+centerY: 0.3062
+width: 0.0435
+height: 0.0237
+Area: 0.0003
+CentroidX: 0.3333
+CentroidY: 0.3202

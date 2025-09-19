@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_854e2010.png
+centerX: 0.1085
+centerY: 0.5520
+width: 0.0266
+height: 0.0248
+Area: 0.0002
+CentroidX: 0.1230
+CentroidY: 0.5660

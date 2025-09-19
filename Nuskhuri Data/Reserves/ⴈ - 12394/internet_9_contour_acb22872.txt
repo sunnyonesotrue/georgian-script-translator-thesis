@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_acb22872.png
+centerX: 0.6453
+centerY: 0.1169
+width: 0.0331
+height: 0.0251
+Area: 0.0004
+CentroidX: 0.6638
+CentroidY: 0.1280

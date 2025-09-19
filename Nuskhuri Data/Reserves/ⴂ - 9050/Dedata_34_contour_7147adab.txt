@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_7147adab.png
+centerX: 0.8767
+centerY: 0.8158
+width: 0.0459
+height: 0.0354
+Area: 0.0005
+CentroidX: 0.9021
+CentroidY: 0.8323

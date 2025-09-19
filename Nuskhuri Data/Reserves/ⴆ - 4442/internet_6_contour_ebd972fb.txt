@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_ebd972fb.png
+centerX: 0.9085
+centerY: 0.0764
+width: 0.0472
+height: 0.0305
+Area: 0.0007
+CentroidX: 0.9335
+CentroidY: 0.0912

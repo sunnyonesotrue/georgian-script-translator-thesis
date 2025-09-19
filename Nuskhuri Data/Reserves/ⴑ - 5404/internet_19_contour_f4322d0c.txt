@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_f4322d0c.png
+centerX: 0.7243
+centerY: 0.3818
+width: 0.0262
+height: 0.0328
+Area: 0.0003
+CentroidX: 0.7344
+CentroidY: 0.4018

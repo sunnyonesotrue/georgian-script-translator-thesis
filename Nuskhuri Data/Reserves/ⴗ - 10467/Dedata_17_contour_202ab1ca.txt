@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_202ab1ca.png
+centerX: 0.4621
+centerY: 0.5694
+width: 0.0190
+height: 0.0442
+Area: 0.0003
+CentroidX: 0.4714
+CentroidY: 0.5871

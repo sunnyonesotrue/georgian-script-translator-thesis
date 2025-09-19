@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_ed43ceb6.png
+centerX: 0.9419
+centerY: 0.7028
+width: 0.0427
+height: 0.0268
+Area: 0.0007
+CentroidX: 0.9661
+CentroidY: 0.7147

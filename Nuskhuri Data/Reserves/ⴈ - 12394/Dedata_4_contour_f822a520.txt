@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_f822a520.png
+centerX: 0.8347
+centerY: 0.4209
+width: 0.0294
+height: 0.0174
+Area: 0.0002
+CentroidX: 0.8512
+CentroidY: 0.4272

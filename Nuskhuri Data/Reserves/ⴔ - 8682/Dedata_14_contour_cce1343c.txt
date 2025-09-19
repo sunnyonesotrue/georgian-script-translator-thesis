@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_cce1343c.png
+centerX: 0.6516
+centerY: 0.0881
+width: 0.0343
+height: 0.0228
+Area: 0.0005
+CentroidX: 0.6685
+CentroidY: 0.0975

@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_6367ca23.png
+centerX: 0.7565
+centerY: 0.6447
+width: 0.0435
+height: 0.0311
+Area: 0.0006
+CentroidX: 0.7791
+CentroidY: 0.6561

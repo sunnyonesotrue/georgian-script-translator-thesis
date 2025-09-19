@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_19fbc832.png
+centerX: 0.9008
+centerY: 0.2405
+width: 0.0258
+height: 0.0473
+Area: 0.0004
+CentroidX: 0.9105
+CentroidY: 0.2622

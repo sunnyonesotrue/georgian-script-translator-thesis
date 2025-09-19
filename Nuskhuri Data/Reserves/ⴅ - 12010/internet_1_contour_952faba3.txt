@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_952faba3.png
+centerX: 0.7832
+centerY: 0.2059
+width: 0.0415
+height: 0.0242
+Area: 0.0004
+CentroidX: 0.8045
+CentroidY: 0.2147

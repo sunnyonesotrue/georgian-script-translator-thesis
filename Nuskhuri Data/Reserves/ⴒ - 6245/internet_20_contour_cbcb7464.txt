@@ -1,0 +1,9 @@
+Location:internet_20
+Component: internet_20_contour_cbcb7464.png
+centerX: 0.7892
+centerY: 0.2076
+width: 0.0355
+height: 0.0362
+Area: 0.0006
+CentroidX: 0.8029
+CentroidY: 0.2213

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_598fafb3.png
+centerX: 0.7013
+centerY: 0.6165
+width: 0.0363
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.7211
+CentroidY: 0.6333

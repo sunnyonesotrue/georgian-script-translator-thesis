@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_43751ce4.png
+centerX: 0.4827
+centerY: 0.4355
+width: 0.0395
+height: 0.0316
+Area: 0.0004
+CentroidX: 0.5036
+CentroidY: 0.4517

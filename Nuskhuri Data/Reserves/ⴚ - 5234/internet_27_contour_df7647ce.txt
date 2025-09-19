@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_df7647ce.png
+centerX: 0.6929
+centerY: 0.5090
+width: 0.0363
+height: 0.0279
+Area: 0.0002
+CentroidX: 0.7114
+CentroidY: 0.5210

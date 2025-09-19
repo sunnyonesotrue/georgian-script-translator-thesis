@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_0000efbb.png
+centerX: 0.4827
+centerY: 0.5742
+width: 0.0262
+height: 0.0174
+Area: 0.0002
+CentroidX: 0.4948
+CentroidY: 0.5808

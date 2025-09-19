@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_9899adbc.png
+centerX: 0.6622
+centerY: 0.3393
+width: 0.0298
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.6731
+CentroidY: 0.3584

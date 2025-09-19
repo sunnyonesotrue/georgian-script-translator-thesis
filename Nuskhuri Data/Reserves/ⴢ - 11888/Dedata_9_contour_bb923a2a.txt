@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_bb923a2a.png
+centerX: 0.1181
+centerY: 0.5144
+width: 0.0282
+height: 0.0248
+Area: 0.0003
+CentroidX: 0.1339
+CentroidY: 0.5266

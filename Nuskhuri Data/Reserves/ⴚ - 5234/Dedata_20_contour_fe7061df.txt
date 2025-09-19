@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_fe7061df.png
+centerX: 0.4246
+centerY: 0.0889
+width: 0.0367
+height: 0.0356
+Area: 0.0004
+CentroidX: 0.4427
+CentroidY: 0.1032

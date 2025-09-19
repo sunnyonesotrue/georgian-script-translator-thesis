@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_adb0015c.png
+centerX: 0.6014
+centerY: 0.6826
+width: 0.0306
+height: 0.0336
+Area: 0.0006
+CentroidX: 0.6155
+CentroidY: 0.7017

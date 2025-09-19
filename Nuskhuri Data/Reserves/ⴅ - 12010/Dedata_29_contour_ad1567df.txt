@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_ad1567df.png
+centerX: 0.0157
+centerY: 0.2665
+width: 0.0423
+height: 0.0265
+Area: 0.0004
+CentroidX: 0.0383
+CentroidY: 0.2759

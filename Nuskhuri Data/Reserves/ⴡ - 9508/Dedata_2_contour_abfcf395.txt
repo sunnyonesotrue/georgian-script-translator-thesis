@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_abfcf395.png
+centerX: 0.6508
+centerY: 0.2146
+width: 0.0294
+height: 0.0405
+Area: 0.0004
+CentroidX: 0.6621
+CentroidY: 0.2320

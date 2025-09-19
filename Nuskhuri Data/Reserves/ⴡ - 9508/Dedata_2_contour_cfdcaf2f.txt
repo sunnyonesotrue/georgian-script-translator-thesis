@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_cfdcaf2f.png
+centerX: 0.4323
+centerY: 0.0681
+width: 0.0278
+height: 0.0416
+Area: 0.0005
+CentroidX: 0.4440
+CentroidY: 0.0863

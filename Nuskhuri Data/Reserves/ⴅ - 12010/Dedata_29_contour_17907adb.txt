@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_17907adb.png
+centerX: 0.7843
+centerY: 0.4916
+width: 0.0298
+height: 0.0285
+Area: 0.0004
+CentroidX: 0.8004
+CentroidY: 0.5019

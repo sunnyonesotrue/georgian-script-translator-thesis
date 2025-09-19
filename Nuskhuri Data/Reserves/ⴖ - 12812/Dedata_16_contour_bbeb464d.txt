@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_bbeb464d.png
+centerX: 0.7496
+centerY: 0.5492
+width: 0.0315
+height: 0.0180
+Area: 0.0002
+CentroidX: 0.7657
+CentroidY: 0.5554

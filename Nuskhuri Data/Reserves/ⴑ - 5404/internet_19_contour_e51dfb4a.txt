@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_e51dfb4a.png
+centerX: 0.1939
+centerY: 0.1038
+width: 0.0270
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.2027
+CentroidY: 0.1255

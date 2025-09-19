@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_df7b475e.png
+centerX: 0.1854
+centerY: 0.3727
+width: 0.0351
+height: 0.0362
+Area: 0.0007
+CentroidX: 0.2015
+CentroidY: 0.3924

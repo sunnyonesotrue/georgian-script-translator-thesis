@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_fd2ccf14.png
+centerX: 0.7399
+centerY: 0.6090
+width: 0.0391
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.7645
+CentroidY: 0.6224

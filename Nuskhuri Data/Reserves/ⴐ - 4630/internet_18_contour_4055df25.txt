@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_4055df25.png
+centerX: 0.3273
+centerY: 0.1135
+width: 0.0443
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.3511
+CentroidY: 0.1323

@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_a4caf13f.png
+centerX: 0.2825
+centerY: 0.9430
+width: 0.4974
+height: 0.0496
+Area: 0.0053
+CentroidX: 0.5357
+CentroidY: 0.9683

@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_df213a48.png
+centerX: 0.9165
+centerY: 0.2562
+width: 0.0387
+height: 0.0402
+Area: 0.0005
+CentroidX: 0.9335
+CentroidY: 0.2736

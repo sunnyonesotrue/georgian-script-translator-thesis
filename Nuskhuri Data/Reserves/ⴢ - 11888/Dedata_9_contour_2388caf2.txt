@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_2388caf2.png
+centerX: 0.3677
+centerY: 0.0408
+width: 0.0250
+height: 0.0182
+Area: 0.0002
+CentroidX: 0.3815
+CentroidY: 0.0487

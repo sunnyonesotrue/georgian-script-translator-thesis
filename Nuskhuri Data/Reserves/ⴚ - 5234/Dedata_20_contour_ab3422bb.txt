@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_ab3422bb.png
+centerX: 0.2020
+centerY: 0.3306
+width: 0.0383
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.2181
+CentroidY: 0.3445

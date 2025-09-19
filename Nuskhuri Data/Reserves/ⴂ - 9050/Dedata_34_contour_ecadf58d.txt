@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_ecadf58d.png
+centerX: 0.1318
+centerY: 0.3308
+width: 0.0427
+height: 0.0314
+Area: 0.0005
+CentroidX: 0.1556
+CentroidY: 0.3436

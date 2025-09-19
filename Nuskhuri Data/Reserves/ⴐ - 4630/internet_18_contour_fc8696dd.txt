@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_fc8696dd.png
+centerX: 0.5240
+centerY: 0.2415
+width: 0.0451
+height: 0.0274
+Area: 0.0003
+CentroidX: 0.5478
+CentroidY: 0.2581

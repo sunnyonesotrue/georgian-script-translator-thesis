@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_6b0a50cf.png
+centerX: 0.8673
+centerY: 0.5913
+width: 0.0258
+height: 0.0222
+Area: 0.0003
+CentroidX: 0.8815
+CentroidY: 0.6030

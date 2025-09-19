@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_1cab8fad.png
+centerX: 0.2298
+centerY: 0.8247
+width: 0.0327
+height: 0.0182
+Area: 0.0002
+CentroidX: 0.2456
+CentroidY: 0.8319

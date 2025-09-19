@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_6ffe6a25.png
+centerX: 0.2076
+centerY: 0.6199
+width: 0.0322
+height: 0.0297
+Area: 0.0006
+CentroidX: 0.2241
+CentroidY: 0.6359

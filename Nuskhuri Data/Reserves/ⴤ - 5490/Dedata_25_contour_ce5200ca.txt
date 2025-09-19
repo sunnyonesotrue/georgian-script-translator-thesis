@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_ce5200ca.png
+centerX: 0.5012
+centerY: 0.2263
+width: 0.0290
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.5177
+CentroidY: 0.2368

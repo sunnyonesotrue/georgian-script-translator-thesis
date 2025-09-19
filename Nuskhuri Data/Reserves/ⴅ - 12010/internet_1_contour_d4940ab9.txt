@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_d4940ab9.png
+centerX: 0.6820
+centerY: 0.2521
+width: 0.0395
+height: 0.0282
+Area: 0.0004
+CentroidX: 0.7029
+CentroidY: 0.2615

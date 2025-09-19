@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_3ca12212.png
+centerX: 0.8779
+centerY: 0.3584
+width: 0.0468
+height: 0.0294
+Area: 0.0005
+CentroidX: 0.9008
+CentroidY: 0.3715

@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_deeab517.png
+centerX: 0.8992
+centerY: 0.4890
+width: 0.0262
+height: 0.0316
+Area: 0.0003
+CentroidX: 0.9105
+CentroidY: 0.5056

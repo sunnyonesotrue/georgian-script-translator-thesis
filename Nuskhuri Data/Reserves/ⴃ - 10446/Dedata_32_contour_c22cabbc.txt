@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_c22cabbc.png
+centerX: 0.3474
+centerY: 0.2167
+width: 0.0472
+height: 0.0254
+Area: 0.0004
+CentroidX: 0.3700
+CentroidY: 0.2284

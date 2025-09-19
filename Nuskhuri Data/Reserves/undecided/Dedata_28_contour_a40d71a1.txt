@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_a40d71a1.png
+centerX: 0.5173
+centerY: 0.7905
+width: 0.0403
+height: 0.0402
+Area: 0.0008
+CentroidX: 0.5347
+CentroidY: 0.8116

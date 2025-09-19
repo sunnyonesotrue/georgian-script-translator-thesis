@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_dc63a465.png
+centerX: 0.4681
+centerY: 0.4654
+width: 0.0419
+height: 0.0271
+Area: 0.0008
+CentroidX: 0.4903
+CentroidY: 0.4785

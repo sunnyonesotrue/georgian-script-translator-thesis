@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_205fa3cc.png
+centerX: 0.7320
+centerY: 0.8070
+width: 0.0423
+height: 0.0302
+Area: 0.0005
+CentroidX: 0.7477
+CentroidY: 0.8221

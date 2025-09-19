@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_ca3f6150.png
+centerX: 0.8637
+centerY: 0.4289
+width: 0.0500
+height: 0.0242
+Area: 0.0003
+CentroidX: 0.8879
+CentroidY: 0.4412

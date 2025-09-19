@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_fe852fe1.png
+centerX: 0.8802
+centerY: 0.4594
+width: 0.0504
+height: 0.0168
+Area: 0.0004
+CentroidX: 0.9024
+CentroidY: 0.4694

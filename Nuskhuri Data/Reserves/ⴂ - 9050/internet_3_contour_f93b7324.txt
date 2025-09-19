@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_f93b7324.png
+centerX: 0.3853
+centerY: 0.1839
+width: 0.0399
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.4075
+CentroidY: 0.1993

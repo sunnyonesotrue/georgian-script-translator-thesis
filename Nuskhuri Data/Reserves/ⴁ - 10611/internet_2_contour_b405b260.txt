@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_b405b260.png
+centerX: 0.7638
+centerY: 0.6136
+width: 0.0326
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.7819
+CentroidY: 0.6296

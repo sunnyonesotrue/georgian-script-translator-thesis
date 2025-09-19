@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_fafc22c6.png
+centerX: 0.5089
+centerY: 0.7655
+width: 0.0343
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.5262
+CentroidY: 0.7791

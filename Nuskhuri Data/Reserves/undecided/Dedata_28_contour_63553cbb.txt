@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_63553cbb.png
+centerX: 0.3883
+centerY: 0.1616
+width: 0.0327
+height: 0.0336
+Area: 0.0005
+CentroidX: 0.4020
+CentroidY: 0.1784

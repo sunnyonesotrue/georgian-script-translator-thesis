@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_a40bcd40.png
+centerX: 0.5389
+centerY: 0.3450
+width: 0.0310
+height: 0.0393
+Area: 0.0004
+CentroidX: 0.5534
+CentroidY: 0.3661

@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_faef478a.png
+centerX: 0.6702
+centerY: 0.7811
+width: 0.0375
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.6919
+CentroidY: 0.7988

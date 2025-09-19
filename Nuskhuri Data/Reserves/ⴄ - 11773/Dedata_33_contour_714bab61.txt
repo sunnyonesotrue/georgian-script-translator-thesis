@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_714bab61.png
+centerX: 0.0923
+centerY: 0.4557
+width: 0.0202
+height: 0.0379
+Area: 0.0003
+CentroidX: 0.1040
+CentroidY: 0.4696

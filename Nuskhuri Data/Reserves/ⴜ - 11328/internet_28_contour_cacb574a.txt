@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_cacb574a.png
+centerX: 0.6892
+centerY: 0.7126
+width: 0.0355
+height: 0.0336
+Area: 0.0005
+CentroidX: 0.7033
+CentroidY: 0.7251

@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_e20f5008.png
+centerX: 0.8605
+centerY: 0.8426
+width: 0.0459
+height: 0.0325
+Area: 0.0007
+CentroidX: 0.8815
+CentroidY: 0.8577

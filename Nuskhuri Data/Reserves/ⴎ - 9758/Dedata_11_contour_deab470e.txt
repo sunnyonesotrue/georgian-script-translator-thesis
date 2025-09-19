@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_deab470e.png
+centerX: 0.8806
+centerY: 0.1730
+width: 0.0488
+height: 0.0219
+Area: 0.0003
+CentroidX: 0.9048
+CentroidY: 0.1861

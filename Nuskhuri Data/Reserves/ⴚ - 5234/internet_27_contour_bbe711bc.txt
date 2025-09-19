@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_bbe711bc.png
+centerX: 0.0145
+centerY: 0.1143
+width: 0.0347
+height: 0.0282
+Area: 0.0002
+CentroidX: 0.0331
+CentroidY: 0.1246

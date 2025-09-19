@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_e40800bf.png
+centerX: 0.8980
+centerY: 0.2951
+width: 0.0351
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.9178
+CentroidY: 0.3048

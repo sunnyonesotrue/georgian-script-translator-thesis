@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_8acab371.png
+centerX: 0.1894
+centerY: 0.1959
+width: 0.0262
+height: 0.0240
+Area: 0.0002
+CentroidX: 0.2048
+CentroidY: 0.2042

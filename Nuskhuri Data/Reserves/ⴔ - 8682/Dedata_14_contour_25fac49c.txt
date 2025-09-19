@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_25fac49c.png
+centerX: 0.6633
+centerY: 0.6104
+width: 0.0435
+height: 0.0251
+Area: 0.0007
+CentroidX: 0.6851
+CentroidY: 0.6218

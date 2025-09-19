@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_dda4568e.png
+centerX: 0.4571
+centerY: 0.1594
+width: 0.0423
+height: 0.0288
+Area: 0.0002
+CentroidX: 0.4768
+CentroidY: 0.1782

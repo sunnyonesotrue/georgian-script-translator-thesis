@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_bd9e0428.png
+centerX: 0.6593
+centerY: 0.0841
+width: 0.0351
+height: 0.0365
+Area: 0.0002
+CentroidX: 0.6754
+CentroidY: 0.1003

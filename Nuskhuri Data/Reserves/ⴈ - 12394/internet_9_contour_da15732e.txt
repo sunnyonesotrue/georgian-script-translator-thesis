@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_da15732e.png
+centerX: 0.5292
+centerY: 0.7841
+width: 0.0302
+height: 0.0285
+Area: 0.0003
+CentroidX: 0.5482
+CentroidY: 0.7967

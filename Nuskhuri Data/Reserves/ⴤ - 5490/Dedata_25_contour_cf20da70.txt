@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_cf20da70.png
+centerX: 0.6879
+centerY: 0.0174
+width: 0.0359
+height: 0.0313
+Area: 0.0004
+CentroidX: 0.7073
+CentroidY: 0.0308

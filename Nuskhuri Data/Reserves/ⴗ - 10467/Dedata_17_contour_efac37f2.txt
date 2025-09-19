@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_efac37f2.png
+centerX: 0.8206
+centerY: 0.4830
+width: 0.0202
+height: 0.0396
+Area: 0.0003
+CentroidX: 0.8298
+CentroidY: 0.4990

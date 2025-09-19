@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_8e811cff.png
+centerX: 0.1597
+centerY: 0.3046
+width: 0.0298
+height: 0.0430
+Area: 0.0003
+CentroidX: 0.1734
+CentroidY: 0.3257

@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_ac45dc22.png
+centerX: 0.8919
+centerY: 0.7144
+width: 0.0222
+height: 0.0402
+Area: 0.0003
+CentroidX: 0.9008
+CentroidY: 0.7327

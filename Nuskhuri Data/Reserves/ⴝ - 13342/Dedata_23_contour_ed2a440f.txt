@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_ed2a440f.png
+centerX: 0.6278
+centerY: 0.0573
+width: 0.0202
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.6379
+CentroidY: 0.0701

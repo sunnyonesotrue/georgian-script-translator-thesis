@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_35a5eafb.png
+centerX: 0.3581
+centerY: 0.1801
+width: 0.0423
+height: 0.0370
+Area: 0.0004
+CentroidX: 0.3786
+CentroidY: 0.1975

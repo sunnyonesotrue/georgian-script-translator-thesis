@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_d3faf30e.png
+centerX: 0.4746
+centerY: 0.0698
+width: 0.0206
+height: 0.0385
+Area: 0.0003
+CentroidX: 0.4835
+CentroidY: 0.0858

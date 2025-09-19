@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_4143bdfa.png
+centerX: 0.8267
+centerY: 0.0439
+width: 0.0411
+height: 0.0277
+Area: 0.0004
+CentroidX: 0.8480
+CentroidY: 0.0530

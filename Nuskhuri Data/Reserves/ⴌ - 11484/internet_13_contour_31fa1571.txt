@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_31fa1571.png
+centerX: 0.6554
+centerY: 0.0833
+width: 0.0355
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.6707
+CentroidY: 0.0969

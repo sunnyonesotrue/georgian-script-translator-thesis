@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_c165f205.png
+centerX: 0.2797
+centerY: 0.7006
+width: 0.0371
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.2991
+CentroidY: 0.7169

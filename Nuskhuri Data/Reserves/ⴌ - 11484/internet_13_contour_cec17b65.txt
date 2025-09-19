@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_cec17b65.png
+centerX: 0.4829
+centerY: 0.1814
+width: 0.0278
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.4962
+CentroidY: 0.1965

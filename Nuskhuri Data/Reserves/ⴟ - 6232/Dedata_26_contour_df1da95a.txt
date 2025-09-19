@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_df1da95a.png
+centerX: 0.3077
+centerY: 0.7598
+width: 0.0367
+height: 0.0376
+Area: 0.0004
+CentroidX: 0.3226
+CentroidY: 0.7771

@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_fb589615.png
+centerX: 0.7218
+centerY: 0.0453
+width: 0.0431
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.7456
+CentroidY: 0.0539

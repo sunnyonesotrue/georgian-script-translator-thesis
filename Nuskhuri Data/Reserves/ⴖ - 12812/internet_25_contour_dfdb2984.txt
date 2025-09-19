@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_dfdb2984.png
+centerX: 0.3938
+centerY: 0.4542
+width: 0.0419
+height: 0.0240
+Area: 0.0003
+CentroidX: 0.4164
+CentroidY: 0.4636

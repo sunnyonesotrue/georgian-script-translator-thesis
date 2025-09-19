@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_45bedb92.png
+centerX: 0.7306
+centerY: 0.3283
+width: 0.0391
+height: 0.0322
+Area: 0.0005
+CentroidX: 0.7504
+CentroidY: 0.3443

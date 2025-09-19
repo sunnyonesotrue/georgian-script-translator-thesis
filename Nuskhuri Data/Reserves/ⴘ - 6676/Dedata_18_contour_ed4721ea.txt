@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_ed4721ea.png
+centerX: 0.8798
+centerY: 0.6019
+width: 0.0222
+height: 0.0396
+Area: 0.0004
+CentroidX: 0.8911
+CentroidY: 0.6218

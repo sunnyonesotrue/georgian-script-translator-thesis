@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_d2027c9e.png
+centerX: 0.6532
+centerY: 0.7247
+width: 0.0484
+height: 0.0245
+Area: 0.0005
+CentroidX: 0.6774
+CentroidY: 0.7347

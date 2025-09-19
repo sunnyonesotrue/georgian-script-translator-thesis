@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_3ca81817.png
+centerX: 0.4530
+centerY: 0.2156
+width: 0.0391
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.4712
+CentroidY: 0.2287

@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_43979b6d.png
+centerX: 0.3547
+centerY: 0.3319
+width: 0.0326
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.3692
+CentroidY: 0.3467

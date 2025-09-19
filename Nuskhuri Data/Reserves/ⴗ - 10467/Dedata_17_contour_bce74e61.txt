@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_bce74e61.png
+centerX: 0.3581
+centerY: 0.8857
+width: 0.0214
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.3690
+CentroidY: 0.9003

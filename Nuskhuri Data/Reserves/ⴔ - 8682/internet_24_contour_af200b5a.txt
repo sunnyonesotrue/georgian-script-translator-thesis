@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_af200b5a.png
+centerX: 0.3680
+centerY: 0.7246
+width: 0.0423
+height: 0.0308
+Area: 0.0009
+CentroidX: 0.3881
+CentroidY: 0.7374

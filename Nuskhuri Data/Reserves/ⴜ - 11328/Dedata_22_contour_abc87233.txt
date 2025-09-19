@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_abc87233.png
+centerX: 0.4556
+centerY: 0.4759
+width: 0.0298
+height: 0.0379
+Area: 0.0004
+CentroidX: 0.4673
+CentroidY: 0.4887

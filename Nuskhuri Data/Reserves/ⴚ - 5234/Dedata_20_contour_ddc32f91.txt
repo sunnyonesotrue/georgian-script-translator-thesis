@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_ddc32f91.png
+centerX: 0.7379
+centerY: 0.1280
+width: 0.0371
+height: 0.0282
+Area: 0.0003
+CentroidX: 0.7565
+CentroidY: 0.1402

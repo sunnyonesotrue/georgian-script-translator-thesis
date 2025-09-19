@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_cdcfbe65.png
+centerX: 0.0762
+centerY: 0.8698
+width: 0.0351
+height: 0.0316
+Area: 0.0003
+CentroidX: 0.0935
+CentroidY: 0.8817

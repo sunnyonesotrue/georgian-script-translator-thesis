@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_ebd9721e.png
+centerX: 0.9557
+centerY: 0.0496
+width: 0.0375
+height: 0.0217
+Area: 0.0002
+CentroidX: 0.9758
+CentroidY: 0.0590

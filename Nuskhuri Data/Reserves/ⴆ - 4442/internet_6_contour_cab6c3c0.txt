@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_cab6c3c0.png
+centerX: 0.7985
+centerY: 0.1697
+width: 0.0484
+height: 0.0305
+Area: 0.0006
+CentroidX: 0.8222
+CentroidY: 0.1842

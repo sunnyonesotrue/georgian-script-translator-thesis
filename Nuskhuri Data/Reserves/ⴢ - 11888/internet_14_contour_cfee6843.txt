@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_cfee6843.png
+centerX: 0.2068
+centerY: 0.1816
+width: 0.0266
+height: 0.0245
+Area: 0.0002
+CentroidX: 0.2193
+CentroidY: 0.1962

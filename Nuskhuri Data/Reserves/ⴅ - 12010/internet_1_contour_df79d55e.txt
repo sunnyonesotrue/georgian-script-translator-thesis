@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_df79d55e.png
+centerX: 0.4849
+centerY: 0.1383
+width: 0.0359
+height: 0.0271
+Area: 0.0002
+CentroidX: 0.5038
+CentroidY: 0.1477

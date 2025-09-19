@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_ab7040cb.png
+centerX: 0.9331
+centerY: 0.6563
+width: 0.0472
+height: 0.0265
+Area: 0.0009
+CentroidX: 0.9560
+CentroidY: 0.6686

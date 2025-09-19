@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_420cb556.png
+centerX: 0.3520
+centerY: 0.9624
+width: 0.0226
+height: 0.0336
+Area: 0.0003
+CentroidX: 0.3621
+CentroidY: 0.9775

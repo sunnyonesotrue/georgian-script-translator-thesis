@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_bedc02b6.png
+centerX: 0.7097
+centerY: 0.3702
+width: 0.0399
+height: 0.0208
+Area: 0.0005
+CentroidX: 0.7306
+CentroidY: 0.3796

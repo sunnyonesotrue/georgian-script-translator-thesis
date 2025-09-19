@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_8cac714e.png
+centerX: 0.6364
+centerY: 0.2754
+width: 0.0468
+height: 0.0499
+Area: 0.0007
+CentroidX: 0.6634
+CentroidY: 0.3028

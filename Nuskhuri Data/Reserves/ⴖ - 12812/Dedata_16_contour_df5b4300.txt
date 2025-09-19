@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_df5b4300.png
+centerX: 0.9137
+centerY: 0.0242
+width: 0.0246
+height: 0.0180
+Area: 0.0002
+CentroidX: 0.9258
+CentroidY: 0.0319

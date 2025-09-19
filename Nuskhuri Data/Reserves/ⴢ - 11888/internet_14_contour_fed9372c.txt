@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_fed9372c.png
+centerX: 0.1503
+centerY: 0.4739
+width: 0.0266
+height: 0.0245
+Area: 0.0002
+CentroidX: 0.1628
+CentroidY: 0.4882

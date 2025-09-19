@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_212fee60.png
+centerX: 0.4024
+centerY: 0.4366
+width: 0.0238
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.4125
+CentroidY: 0.4477

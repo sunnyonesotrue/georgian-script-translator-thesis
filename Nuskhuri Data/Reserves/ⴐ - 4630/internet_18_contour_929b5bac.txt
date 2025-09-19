@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_929b5bac.png
+centerX: 0.4986
+centerY: 0.2894
+width: 0.0443
+height: 0.0231
+Area: 0.0003
+CentroidX: 0.5212
+CentroidY: 0.3031

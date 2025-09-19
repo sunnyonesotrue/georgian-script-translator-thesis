@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_e7960ca2.png
+centerX: 0.4472
+centerY: 0.2927
+width: 0.0427
+height: 0.0208
+Area: 0.0006
+CentroidX: 0.4694
+CentroidY: 0.3015

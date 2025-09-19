@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_ca87698b.png
+centerX: 0.9319
+centerY: 0.3119
+width: 0.0198
+height: 0.0331
+Area: 0.0002
+CentroidX: 0.9436
+CentroidY: 0.3236

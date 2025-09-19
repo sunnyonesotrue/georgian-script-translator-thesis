@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_ccc3a663.png
+centerX: 0.2024
+centerY: 0.6614
+width: 0.0290
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.2190
+CentroidY: 0.6751

@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_ea70f745.png
+centerX: 0.4004
+centerY: 0.2904
+width: 0.0359
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.4190
+CentroidY: 0.3083

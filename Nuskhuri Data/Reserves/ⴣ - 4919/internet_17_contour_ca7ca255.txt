@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_ca7ca255.png
+centerX: 0.2684
+centerY: 0.2278
+width: 0.0403
+height: 0.0297
+Area: 0.0003
+CentroidX: 0.2898
+CentroidY: 0.2421

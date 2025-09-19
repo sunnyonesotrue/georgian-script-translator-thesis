@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_cba4839c.png
+centerX: 0.2024
+centerY: 0.5893
+width: 0.0290
+height: 0.0373
+Area: 0.0005
+CentroidX: 0.2181
+CentroidY: 0.6084

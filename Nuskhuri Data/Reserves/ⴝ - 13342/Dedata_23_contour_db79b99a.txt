@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_db79b99a.png
+centerX: 0.7653
+centerY: 0.7156
+width: 0.0218
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.7758
+CentroidY: 0.7296

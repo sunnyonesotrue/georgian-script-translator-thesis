@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_ac592ea1.png
+centerX: 0.8388
+centerY: 0.4947
+width: 0.0443
+height: 0.0285
+Area: 0.0004
+CentroidX: 0.8630
+CentroidY: 0.5118

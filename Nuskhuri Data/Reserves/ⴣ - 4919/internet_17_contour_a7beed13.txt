@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_a7beed13.png
+centerX: 0.7529
+centerY: 0.1466
+width: 0.0351
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.7727
+CentroidY: 0.1611

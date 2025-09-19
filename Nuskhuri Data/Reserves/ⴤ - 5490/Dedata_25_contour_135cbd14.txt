@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_135cbd14.png
+centerX: 0.3512
+centerY: 0.3118
+width: 0.0315
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.3681
+CentroidY: 0.3235

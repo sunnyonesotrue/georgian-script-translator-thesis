@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_feaf36fe.png
+centerX: 0.6915
+centerY: 0.0527
+width: 0.0407
+height: 0.0279
+Area: 0.0002
+CentroidX: 0.7129
+CentroidY: 0.0633

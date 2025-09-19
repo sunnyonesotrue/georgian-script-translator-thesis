@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_b65f273a.png
+centerX: 0.3786
+centerY: 0.3445
+width: 0.0355
+height: 0.0265
+Area: 0.0006
+CentroidX: 0.3968
+CentroidY: 0.3557

@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_bb864dc5.png
+centerX: 0.4004
+centerY: 0.2106
+width: 0.0359
+height: 0.0211
+Area: 0.0002
+CentroidX: 0.4226
+CentroidY: 0.2203

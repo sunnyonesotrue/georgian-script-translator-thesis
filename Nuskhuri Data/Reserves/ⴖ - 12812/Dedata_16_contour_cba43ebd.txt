@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_cba43ebd.png
+centerX: 0.7754
+centerY: 0.1733
+width: 0.0270
+height: 0.0171
+Area: 0.0002
+CentroidX: 0.7871
+CentroidY: 0.1795

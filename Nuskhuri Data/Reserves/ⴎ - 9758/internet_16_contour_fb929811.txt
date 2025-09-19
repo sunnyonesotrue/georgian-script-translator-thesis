@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_fb929811.png
+centerX: 0.0081
+centerY: 0.4254
+width: 0.0415
+height: 0.0234
+Area: 0.0004
+CentroidX: 0.0294
+CentroidY: 0.4368

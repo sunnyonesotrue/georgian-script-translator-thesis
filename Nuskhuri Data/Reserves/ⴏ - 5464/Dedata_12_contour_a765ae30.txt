@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_a765ae30.png
+centerX: 0.1198
+centerY: 0.1015
+width: 0.0306
+height: 0.0390
+Area: 0.0003
+CentroidX: 0.1351
+CentroidY: 0.1186

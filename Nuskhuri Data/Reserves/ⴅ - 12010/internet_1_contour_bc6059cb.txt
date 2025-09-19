@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_bc6059cb.png
+centerX: 0.2451
+centerY: 0.2022
+width: 0.0399
+height: 0.0305
+Area: 0.0002
+CentroidX: 0.2648
+CentroidY: 0.2153

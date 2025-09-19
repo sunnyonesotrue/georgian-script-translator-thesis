@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_e247afda.png
+centerX: 0.7481
+centerY: 0.4323
+width: 0.0326
+height: 0.0291
+Area: 0.0004
+CentroidX: 0.7610
+CentroidY: 0.4457

@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_e460f94a.png
+centerX: 0.4153
+centerY: 0.3571
+width: 0.0222
+height: 0.0379
+Area: 0.0004
+CentroidX: 0.4254
+CentroidY: 0.3767

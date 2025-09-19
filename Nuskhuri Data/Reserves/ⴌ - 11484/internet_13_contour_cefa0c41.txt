@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_cefa0c41.png
+centerX: 0.7392
+centerY: 0.3513
+width: 0.0306
+height: 0.0385
+Area: 0.0005
+CentroidX: 0.7517
+CentroidY: 0.3701

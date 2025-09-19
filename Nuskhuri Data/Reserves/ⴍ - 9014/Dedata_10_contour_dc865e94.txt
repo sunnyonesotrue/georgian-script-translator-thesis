@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_dc865e94.png
+centerX: 0.8742
+centerY: 0.5762
+width: 0.0528
+height: 0.0197
+Area: 0.0004
+CentroidX: 0.8984
+CentroidY: 0.5882

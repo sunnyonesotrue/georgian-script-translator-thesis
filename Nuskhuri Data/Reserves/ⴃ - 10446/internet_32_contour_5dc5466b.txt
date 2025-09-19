@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_5dc5466b.png
+centerX: 0.3535
+centerY: 0.4602
+width: 0.0367
+height: 0.0354
+Area: 0.0008
+CentroidX: 0.3692
+CentroidY: 0.4785

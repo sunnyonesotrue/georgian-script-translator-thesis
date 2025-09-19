@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_db069030.png
+centerX: 0.0157
+centerY: 0.2161
+width: 0.0488
+height: 0.0305
+Area: 0.0004
+CentroidX: 0.0403
+CentroidY: 0.2270

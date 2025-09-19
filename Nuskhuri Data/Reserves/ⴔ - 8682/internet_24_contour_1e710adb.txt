@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_1e710adb.png
+centerX: 0.4031
+centerY: 0.8991
+width: 0.0556
+height: 0.0356
+Area: 0.0013
+CentroidX: 0.4301
+CentroidY: 0.9130

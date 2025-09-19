@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_ddd3172e.png
+centerX: 0.3996
+centerY: 0.2334
+width: 0.0581
+height: 0.0177
+Area: 0.0003
+CentroidX: 0.4262
+CentroidY: 0.2437

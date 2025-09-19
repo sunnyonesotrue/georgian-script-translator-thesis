@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_ec53813a.png
+centerX: 0.2330
+centerY: 0.3912
+width: 0.0443
+height: 0.0279
+Area: 0.0006
+CentroidX: 0.2559
+CentroidY: 0.4018

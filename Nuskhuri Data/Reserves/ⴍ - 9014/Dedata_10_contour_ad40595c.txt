@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_ad40595c.png
+centerX: 0.7798
+centerY: 0.4956
+width: 0.0480
+height: 0.0174
+Area: 0.0002
+CentroidX: 0.8020
+CentroidY: 0.5061

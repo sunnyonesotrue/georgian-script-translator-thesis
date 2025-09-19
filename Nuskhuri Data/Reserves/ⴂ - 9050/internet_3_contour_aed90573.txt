@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_aed90573.png
+centerX: 0.9589
+centerY: 0.5352
+width: 0.0347
+height: 0.0314
+Area: 0.0003
+CentroidX: 0.9782
+CentroidY: 0.5483

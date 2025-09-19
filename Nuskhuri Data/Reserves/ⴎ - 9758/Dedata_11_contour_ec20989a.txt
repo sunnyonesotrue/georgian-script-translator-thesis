@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_ec20989a.png
+centerX: 0.2085
+centerY: 0.0467
+width: 0.0407
+height: 0.0217
+Area: 0.0002
+CentroidX: 0.2294
+CentroidY: 0.0601

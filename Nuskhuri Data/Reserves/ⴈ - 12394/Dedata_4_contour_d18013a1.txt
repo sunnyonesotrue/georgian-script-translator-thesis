@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_d18013a1.png
+centerX: 0.6282
+centerY: 0.5680
+width: 0.0290
+height: 0.0194
+Area: 0.0002
+CentroidX: 0.6427
+CentroidY: 0.5757

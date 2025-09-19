@@ -1,0 +1,9 @@
+Location:Paraklitoni_1720_page_10
+Component: Paraklitoni_1720_page_10_contour_400e4846.png
+centerX: 0.1021
+centerY: 0.6040
+width: 0.1197
+height: 0.0411
+Area: 0.0013
+CentroidX: 0.1433
+CentroidY: 0.6211

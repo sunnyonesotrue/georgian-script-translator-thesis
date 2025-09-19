@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_3179dfcc.png
+centerX: 0.8484
+centerY: 0.2974
+width: 0.0407
+height: 0.0237
+Area: 0.0004
+CentroidX: 0.8698
+CentroidY: 0.3068

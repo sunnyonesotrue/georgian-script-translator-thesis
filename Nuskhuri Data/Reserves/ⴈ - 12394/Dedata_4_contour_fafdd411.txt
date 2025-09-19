@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_fafdd411.png
+centerX: 0.4109
+centerY: 0.2955
+width: 0.0262
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.4254
+CentroidY: 0.3027

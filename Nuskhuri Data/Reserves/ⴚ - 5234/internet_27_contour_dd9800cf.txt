@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_dd9800cf.png
+centerX: 0.5784
+centerY: 0.4619
+width: 0.0335
+height: 0.0265
+Area: 0.0003
+CentroidX: 0.5933
+CentroidY: 0.4731

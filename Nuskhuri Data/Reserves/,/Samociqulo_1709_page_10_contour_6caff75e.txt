@@ -1,0 +1,9 @@
+Location:Samociqulo_1709_page_10
+Component: Samociqulo_1709_page_10_contour_6caff75e.png
+centerX: 0.6555
+centerY: 0.1703
+width: 0.0403
+height: 0.0194
+Area: 0.0003
+CentroidX: 0.6771
+CentroidY: 0.1791

@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_e747328e.png
+centerX: 0.5333
+centerY: 0.4280
+width: 0.0468
+height: 0.0288
+Area: 0.0003
+CentroidX: 0.5578
+CentroidY: 0.4411

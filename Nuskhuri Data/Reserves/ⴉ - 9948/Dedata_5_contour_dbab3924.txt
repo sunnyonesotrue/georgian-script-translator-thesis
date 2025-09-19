@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_dbab3924.png
+centerX: 0.1802
+centerY: 0.5383
+width: 0.0214
+height: 0.0459
+Area: 0.0004
+CentroidX: 0.1911
+CentroidY: 0.5611

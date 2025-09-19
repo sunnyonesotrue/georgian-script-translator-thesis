@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_afa8304a.png
+centerX: 0.5401
+centerY: 0.6285
+width: 0.0339
+height: 0.0322
+Area: 0.0004
+CentroidX: 0.5599
+CentroidY: 0.6447

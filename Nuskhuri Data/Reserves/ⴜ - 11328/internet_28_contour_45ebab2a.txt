@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_45ebab2a.png
+centerX: 0.8049
+centerY: 0.7072
+width: 0.0363
+height: 0.0362
+Area: 0.0004
+CentroidX: 0.8198
+CentroidY: 0.7197

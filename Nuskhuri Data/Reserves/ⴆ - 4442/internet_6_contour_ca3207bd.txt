@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_ca3207bd.png
+centerX: 0.3849
+centerY: 0.4152
+width: 0.0484
+height: 0.0334
+Area: 0.0008
+CentroidX: 0.4115
+CentroidY: 0.4326

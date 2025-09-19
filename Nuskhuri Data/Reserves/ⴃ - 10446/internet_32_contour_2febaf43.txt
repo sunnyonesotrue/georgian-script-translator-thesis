@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_2febaf43.png
+centerX: 0.1185
+centerY: 0.7257
+width: 0.0375
+height: 0.0311
+Area: 0.0007
+CentroidX: 0.1362
+CentroidY: 0.7425

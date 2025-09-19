@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_cd1113fb.png
+centerX: 0.6348
+centerY: 0.6399
+width: 0.0407
+height: 0.0331
+Area: 0.0004
+CentroidX: 0.6558
+CentroidY: 0.6561

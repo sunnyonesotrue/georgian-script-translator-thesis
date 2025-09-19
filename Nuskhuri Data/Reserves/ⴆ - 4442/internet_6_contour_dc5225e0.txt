@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_dc5225e0.png
+centerX: 0.8545
+centerY: 0.4271
+width: 0.0419
+height: 0.0262
+Area: 0.0006
+CentroidX: 0.8767
+CentroidY: 0.4414

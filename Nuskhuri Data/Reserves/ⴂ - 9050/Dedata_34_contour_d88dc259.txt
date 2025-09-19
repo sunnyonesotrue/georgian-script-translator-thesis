@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_d88dc259.png
+centerX: 0.6848
+centerY: 0.6074
+width: 0.0423
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.7082
+CentroidY: 0.6210

@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_edfb1ab2.png
+centerX: 0.3656
+centerY: 0.2344
+width: 0.0310
+height: 0.0356
+Area: 0.0005
+CentroidX: 0.3801
+CentroidY: 0.2504

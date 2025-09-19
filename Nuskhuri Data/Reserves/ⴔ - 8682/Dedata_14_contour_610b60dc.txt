@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_610b60dc.png
+centerX: 0.6766
+centerY: 0.2465
+width: 0.0431
+height: 0.0242
+Area: 0.0005
+CentroidX: 0.6940
+CentroidY: 0.2568

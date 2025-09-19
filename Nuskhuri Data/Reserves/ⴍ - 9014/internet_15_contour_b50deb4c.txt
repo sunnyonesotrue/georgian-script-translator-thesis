@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_b50deb4c.png
+centerX: 0.6147
+centerY: 0.6145
+width: 0.0468
+height: 0.0208
+Area: 0.0003
+CentroidX: 0.6376
+CentroidY: 0.6265

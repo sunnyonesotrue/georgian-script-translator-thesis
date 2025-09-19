@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_d318dadb.png
+centerX: 0.7460
+centerY: 0.2921
+width: 0.0214
+height: 0.0351
+Area: 0.0004
+CentroidX: 0.7556
+CentroidY: 0.3115

@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_1cee2307.png
+centerX: 0.7046
+centerY: 0.5900
+width: 0.0528
+height: 0.0342
+Area: 0.0011
+CentroidX: 0.7299
+CentroidY: 0.6034

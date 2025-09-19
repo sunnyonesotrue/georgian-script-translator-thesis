@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_dee261fe.png
+centerX: 0.9552
+centerY: 0.4058
+width: 0.0206
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.9653
+CentroidY: 0.4178

@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_af24978e.png
+centerX: 0.3629
+centerY: 0.4571
+width: 0.0315
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.3778
+CentroidY: 0.4637

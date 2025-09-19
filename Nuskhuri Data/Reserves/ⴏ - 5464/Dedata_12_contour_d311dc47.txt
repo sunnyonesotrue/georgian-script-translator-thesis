@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_d311dc47.png
+centerX: 0.7133
+centerY: 0.2055
+width: 0.0347
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.7310
+CentroidY: 0.2197

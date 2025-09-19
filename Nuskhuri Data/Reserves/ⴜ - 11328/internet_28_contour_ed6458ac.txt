@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_ed6458ac.png
+centerX: 0.2692
+centerY: 0.2586
+width: 0.0395
+height: 0.0354
+Area: 0.0003
+CentroidX: 0.2878
+CentroidY: 0.2697

@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_cb3a724b.png
+centerX: 0.2875
+centerY: 0.5819
+width: 0.0452
+height: 0.0248
+Area: 0.0008
+CentroidX: 0.3085
+CentroidY: 0.5948

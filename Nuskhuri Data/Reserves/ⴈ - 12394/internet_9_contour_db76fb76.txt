@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_db76fb76.png
+centerX: 0.7699
+centerY: 0.5107
+width: 0.0278
+height: 0.0268
+Area: 0.0003
+CentroidX: 0.7876
+CentroidY: 0.5230

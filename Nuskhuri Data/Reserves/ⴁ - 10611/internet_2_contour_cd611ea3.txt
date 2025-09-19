@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_cd611ea3.png
+centerX: 0.2031
+centerY: 0.0855
+width: 0.0331
+height: 0.0371
+Area: 0.0004
+CentroidX: 0.2217
+CentroidY: 0.1041

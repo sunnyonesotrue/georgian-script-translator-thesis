@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_beef290f.png
+centerX: 0.4800
+centerY: 0.5566
+width: 0.0290
+height: 0.0211
+Area: 0.0002
+CentroidX: 0.4954
+CentroidY: 0.5680

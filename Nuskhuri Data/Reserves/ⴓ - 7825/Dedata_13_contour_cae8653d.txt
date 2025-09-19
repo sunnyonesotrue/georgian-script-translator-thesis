@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_cae8653d.png
+centerX: 0.1645
+centerY: 0.8578
+width: 0.0460
+height: 0.0370
+Area: 0.0005
+CentroidX: 0.1915
+CentroidY: 0.8729

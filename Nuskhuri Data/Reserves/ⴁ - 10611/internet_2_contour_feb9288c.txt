@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_feb9288c.png
+centerX: 0.8972
+centerY: 0.4032
+width: 0.0355
+height: 0.0339
+Area: 0.0004
+CentroidX: 0.9166
+CentroidY: 0.4206

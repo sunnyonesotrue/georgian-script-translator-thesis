@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_cfd7b2a6.png
+centerX: 0.5895
+centerY: 0.1094
+width: 0.0242
+height: 0.0177
+Area: 0.0002
+CentroidX: 0.6004
+CentroidY: 0.1166

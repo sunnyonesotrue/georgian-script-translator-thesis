@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_a875dc46.png
+centerX: 0.0177
+centerY: 0.0684
+width: 0.0318
+height: 0.0299
+Area: 0.0002
+CentroidX: 0.0326
+CentroidY: 0.0781

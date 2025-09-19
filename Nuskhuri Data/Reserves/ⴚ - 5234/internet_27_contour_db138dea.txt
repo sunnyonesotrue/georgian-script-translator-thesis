@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_db138dea.png
+centerX: 0.7445
+centerY: 0.6550
+width: 0.0387
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.7626
+CentroidY: 0.6658

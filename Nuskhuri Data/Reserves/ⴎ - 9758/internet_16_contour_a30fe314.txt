@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_a30fe314.png
+centerX: 0.4393
+centerY: 0.0516
+width: 0.0508
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.4655
+CentroidY: 0.0613

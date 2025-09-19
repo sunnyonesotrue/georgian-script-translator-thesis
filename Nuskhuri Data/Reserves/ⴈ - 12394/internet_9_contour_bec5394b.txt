@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_bec5394b.png
+centerX: 0.5062
+centerY: 0.1722
+width: 0.0254
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.5195
+CentroidY: 0.1865

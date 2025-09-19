@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_afb0a1ba.png
+centerX: 0.9484
+centerY: 0.0048
+width: 0.0306
+height: 0.0314
+Area: 0.0005
+CentroidX: 0.9609
+CentroidY: 0.0214

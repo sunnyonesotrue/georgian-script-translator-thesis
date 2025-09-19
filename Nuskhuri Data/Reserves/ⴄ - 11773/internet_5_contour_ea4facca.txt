@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_ea4facca.png
+centerX: 0.2910
+centerY: 0.7374
+width: 0.0383
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.3136
+CentroidY: 0.7491

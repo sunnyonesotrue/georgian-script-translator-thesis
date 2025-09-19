@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_15adbfac.png
+centerX: 0.3448
+centerY: 0.0108
+width: 0.0254
+height: 0.0413
+Area: 0.0005
+CentroidX: 0.3552
+CentroidY: 0.0299

@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_690abb1b.png
+centerX: 0.5770
+centerY: 0.4149
+width: 0.0444
+height: 0.0271
+Area: 0.0004
+CentroidX: 0.5984
+CentroidY: 0.4249

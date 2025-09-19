@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_fd9850de.png
+centerX: 0.9218
+centerY: 0.3835
+width: 0.0294
+height: 0.0356
+Area: 0.0002
+CentroidX: 0.9351
+CentroidY: 0.3975

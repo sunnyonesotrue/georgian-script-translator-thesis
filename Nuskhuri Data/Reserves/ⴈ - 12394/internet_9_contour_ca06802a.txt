@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_ca06802a.png
+centerX: 0.6340
+centerY: 0.4816
+width: 0.0270
+height: 0.0234
+Area: 0.0003
+CentroidX: 0.6497
+CentroidY: 0.4930

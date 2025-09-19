@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_da260b2c.png
+centerX: 0.7992
+centerY: 0.7620
+width: 0.0492
+height: 0.0248
+Area: 0.0005
+CentroidX: 0.8250
+CentroidY: 0.7726

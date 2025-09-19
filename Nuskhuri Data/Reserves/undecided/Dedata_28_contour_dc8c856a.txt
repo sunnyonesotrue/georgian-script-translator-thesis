@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_dc8c856a.png
+centerX: 0.6653
+centerY: 0.6537
+width: 0.0351
+height: 0.0356
+Area: 0.0007
+CentroidX: 0.6802
+CentroidY: 0.6726

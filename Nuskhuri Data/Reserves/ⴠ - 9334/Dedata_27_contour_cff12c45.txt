@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_cff12c45.png
+centerX: 0.2327
+centerY: 0.8336
+width: 0.0468
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.2524
+CentroidY: 0.8444

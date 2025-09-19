@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_a3274cfb.png
+centerX: 0.2366
+centerY: 0.1774
+width: 0.0443
+height: 0.0242
+Area: 0.0004
+CentroidX: 0.2584
+CentroidY: 0.1899

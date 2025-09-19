@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_a44cac01.png
+centerX: 0.6673
+centerY: 0.2687
+width: 0.0480
+height: 0.0211
+Area: 0.0005
+CentroidX: 0.6903
+CentroidY: 0.2767

@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_db52fe21.png
+centerX: 0.8085
+centerY: 0.3799
+width: 0.0351
+height: 0.0333
+Area: 0.0004
+CentroidX: 0.8262
+CentroidY: 0.3927

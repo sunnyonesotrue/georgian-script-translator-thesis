@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_132e1bee.png
+centerX: 0.6512
+centerY: 0.6600
+width: 0.0347
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.6681
+CentroidY: 0.6723

@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_a434dc31.png
+centerX: 0.6876
+centerY: 0.4140
+width: 0.0314
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.7054
+CentroidY: 0.4303

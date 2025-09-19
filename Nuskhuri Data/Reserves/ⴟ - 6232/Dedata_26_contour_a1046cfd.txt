@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_a1046cfd.png
+centerX: 0.4726
+centerY: 0.2476
+width: 0.0367
+height: 0.0294
+Area: 0.0004
+CentroidX: 0.4907
+CentroidY: 0.2608

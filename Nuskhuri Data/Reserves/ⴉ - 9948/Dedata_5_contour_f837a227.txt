@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_f837a227.png
+centerX: 0.2508
+centerY: 0.1203
+width: 0.0218
+height: 0.0436
+Area: 0.0004
+CentroidX: 0.2621
+CentroidY: 0.1442

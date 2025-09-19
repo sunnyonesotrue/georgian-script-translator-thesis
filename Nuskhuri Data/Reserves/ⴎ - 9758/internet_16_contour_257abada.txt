@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_257abada.png
+centerX: 0.2156
+centerY: 0.5982
+width: 0.0443
+height: 0.0254
+Area: 0.0005
+CentroidX: 0.2374
+CentroidY: 0.6113

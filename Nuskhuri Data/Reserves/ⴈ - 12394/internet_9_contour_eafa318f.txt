@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_eafa318f.png
+centerX: 0.3466
+centerY: 0.4465
+width: 0.0258
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.3628
+CentroidY: 0.4597

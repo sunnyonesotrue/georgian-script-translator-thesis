@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_a22ec810.png
+centerX: 0.6659
+centerY: 0.2096
+width: 0.0314
+height: 0.0279
+Area: 0.0004
+CentroidX: 0.6840
+CentroidY: 0.2224

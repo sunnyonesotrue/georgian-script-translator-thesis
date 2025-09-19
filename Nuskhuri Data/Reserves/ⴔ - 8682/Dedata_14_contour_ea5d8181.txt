@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_ea5d8181.png
+centerX: 0.0835
+centerY: 0.0647
+width: 0.0423
+height: 0.0245
+Area: 0.0006
+CentroidX: 0.1044
+CentroidY: 0.0744

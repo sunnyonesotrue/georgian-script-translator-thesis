@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_c42aac02.png
+centerX: 0.7965
+centerY: 0.0459
+width: 0.0407
+height: 0.0317
+Area: 0.0004
+CentroidX: 0.8166
+CentroidY: 0.0562

@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_dca853d3.png
+centerX: 0.7948
+centerY: 0.6675
+width: 0.0210
+height: 0.0314
+Area: 0.0002
+CentroidX: 0.8065
+CentroidY: 0.6795

@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_6684ecba.png
+centerX: 0.5738
+centerY: 0.0368
+width: 0.0540
+height: 0.0162
+Area: 0.0002
+CentroidX: 0.5984
+CentroidY: 0.0470

@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_cef9851b.png
+centerX: 0.3124
+centerY: 0.5746
+width: 0.0290
+height: 0.0285
+Area: 0.0002
+CentroidX: 0.3277
+CentroidY: 0.5871

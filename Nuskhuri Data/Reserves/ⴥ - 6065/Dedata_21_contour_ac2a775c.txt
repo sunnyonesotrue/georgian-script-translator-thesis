@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_ac2a775c.png
+centerX: 0.1887
+centerY: 0.0587
+width: 0.0323
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.2044
+CentroidY: 0.0775

@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_ccc8d90a.png
+centerX: 0.7109
+centerY: 0.3619
+width: 0.0343
+height: 0.0182
+Area: 0.0002
+CentroidX: 0.7282
+CentroidY: 0.3688

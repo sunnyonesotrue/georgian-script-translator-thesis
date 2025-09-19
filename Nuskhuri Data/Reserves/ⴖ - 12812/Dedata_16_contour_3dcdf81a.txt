@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_3dcdf81a.png
+centerX: 0.2710
+centerY: 0.5805
+width: 0.0327
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.2875
+CentroidY: 0.5868

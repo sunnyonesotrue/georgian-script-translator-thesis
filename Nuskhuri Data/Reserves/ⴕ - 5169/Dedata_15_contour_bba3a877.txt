@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_bba3a877.png
+centerX: 0.6222
+centerY: 0.2773
+width: 0.0306
+height: 0.0482
+Area: 0.0003
+CentroidX: 0.6363
+CentroidY: 0.3018

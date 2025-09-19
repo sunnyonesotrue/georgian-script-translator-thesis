@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_bd61971e.png
+centerX: 0.6798
+centerY: 0.5010
+width: 0.0359
+height: 0.0254
+Area: 0.0003
+CentroidX: 0.6964
+CentroidY: 0.5107

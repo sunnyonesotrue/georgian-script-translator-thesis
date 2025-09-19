@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_5350a60c.png
+centerX: 0.9145
+centerY: 0.0567
+width: 0.0306
+height: 0.0408
+Area: 0.0005
+CentroidX: 0.9274
+CentroidY: 0.0738

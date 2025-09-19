@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_ca1ac742.png
+centerX: 0.9298
+centerY: 0.5412
+width: 0.0210
+height: 0.0370
+Area: 0.0003
+CentroidX: 0.9415
+CentroidY: 0.5597

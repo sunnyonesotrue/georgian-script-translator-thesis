@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_ba5700bc.png
+centerX: 0.1097
+centerY: 0.0117
+width: 0.0298
+height: 0.0214
+Area: 0.0003
+CentroidX: 0.1226
+CentroidY: 0.0239

@@ -1,0 +1,9 @@
+Location: Dedata_16.png_Gaussian-Closing.png
+Component: component_1755519378677_96.png
+centerX: 0.6754032258064516
+centerY: 0.1786833855799373
+width: 0.025403225806451612
+height: 0.0176688515246509
+Area: 0.00020925454361595528
+CentroidX: 0.6875
+CentroidY: 0.1860

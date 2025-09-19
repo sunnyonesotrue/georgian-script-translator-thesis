@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_0421dcff.png
+centerX: 0.6073
+centerY: 0.7239
+width: 0.0488
+height: 0.0305
+Area: 0.0009
+CentroidX: 0.6310
+CentroidY: 0.7375

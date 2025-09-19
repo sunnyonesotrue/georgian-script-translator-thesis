@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_b1eadb2b.png
+centerX: 0.2696
+centerY: 0.2968
+width: 0.0403
+height: 0.0351
+Area: 0.0004
+CentroidX: 0.2894
+CentroidY: 0.3139

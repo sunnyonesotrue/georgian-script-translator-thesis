@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_ea730f86.png
+centerX: 0.2491
+centerY: 0.5703
+width: 0.0818
+height: 0.0211
+Area: 0.0007
+CentroidX: 0.2830
+CentroidY: 0.5806

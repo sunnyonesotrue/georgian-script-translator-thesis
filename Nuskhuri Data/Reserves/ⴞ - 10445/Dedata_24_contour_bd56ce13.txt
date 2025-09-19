@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_bd56ce13.png
+centerX: 0.1911
+centerY: 0.4924
+width: 0.0383
+height: 0.0376
+Area: 0.0005
+CentroidX: 0.2093
+CentroidY: 0.5101

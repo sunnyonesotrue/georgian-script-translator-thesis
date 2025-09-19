@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_abc99454.png
+centerX: 0.4794
+centerY: 0.6432
+width: 0.0423
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.5024
+CentroidY: 0.6580

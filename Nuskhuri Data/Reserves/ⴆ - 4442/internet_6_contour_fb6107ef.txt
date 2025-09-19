@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_fb6107ef.png
+centerX: 0.2842
+centerY: 0.0924
+width: 0.0459
+height: 0.0328
+Area: 0.0007
+CentroidX: 0.3079
+CentroidY: 0.1098

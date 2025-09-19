@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_dc27b570.png
+centerX: 0.4847
+centerY: 0.2505
+width: 0.0214
+height: 0.0291
+Area: 0.0004
+CentroidX: 0.4952
+CentroidY: 0.2628

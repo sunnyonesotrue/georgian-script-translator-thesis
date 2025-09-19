@@ -1,0 +1,9 @@
+Location: Dedata_16.png_Mean-Closing.png
+Component: component_1755519379237_2.png
+centerX: 0.9838709677419355
+centerY: 0.0005699629524080935
+width: 0.016129032258064516
+height: 0.009119407238529496
+Area: 3.252006361521985e-05
+CentroidX: 0.9885
+CentroidY: 0.0029

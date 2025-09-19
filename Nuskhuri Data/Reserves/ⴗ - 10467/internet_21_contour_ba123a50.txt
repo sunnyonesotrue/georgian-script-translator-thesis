@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_ba123a50.png
+centerX: 0.8738
+centerY: 0.1873
+width: 0.0302
+height: 0.0416
+Area: 0.0003
+CentroidX: 0.8892
+CentroidY: 0.2079

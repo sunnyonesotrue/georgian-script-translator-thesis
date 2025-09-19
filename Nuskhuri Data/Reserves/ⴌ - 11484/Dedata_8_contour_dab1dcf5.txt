@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_dab1dcf5.png
+centerX: 0.9415
+centerY: 0.4030
+width: 0.0290
+height: 0.0333
+Area: 0.0003
+CentroidX: 0.9540
+CentroidY: 0.4206

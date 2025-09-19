@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_b3500dcc.png
+centerX: 0.8678
+centerY: 0.1628
+width: 0.0524
+height: 0.0294
+Area: 0.0008
+CentroidX: 0.8944
+CentroidY: 0.1779

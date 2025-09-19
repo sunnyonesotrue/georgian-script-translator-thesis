@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_e830e360.png
+centerX: 0.0169
+centerY: 0.1049
+width: 0.0391
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.0375
+CentroidY: 0.1195

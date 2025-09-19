@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_c533c360.png
+centerX: 0.1746
+centerY: 0.4141
+width: 0.0508
+height: 0.0234
+Area: 0.0006
+CentroidX: 0.1976
+CentroidY: 0.4238

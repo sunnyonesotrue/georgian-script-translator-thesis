@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_f43fafa6.png
+centerX: 0.8364
+centerY: 0.5674
+width: 0.0214
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.8493
+CentroidY: 0.5800

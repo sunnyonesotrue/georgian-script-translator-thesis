@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_fa588030.png
+centerX: 0.9085
+centerY: 0.0100
+width: 0.0403
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.9270
+CentroidY: 0.0234

@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_6300dc3e.png
+centerX: 0.2762
+centerY: 0.5417
+width: 0.0214
+height: 0.0222
+Area: 0.0002
+CentroidX: 0.2875
+CentroidY: 0.5506

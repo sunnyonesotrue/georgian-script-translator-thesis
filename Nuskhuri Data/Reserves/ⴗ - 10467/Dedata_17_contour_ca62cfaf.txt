@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ca62cfaf.png
+centerX: 0.2242
+centerY: 0.6500
+width: 0.0230
+height: 0.0476
+Area: 0.0004
+CentroidX: 0.2363
+CentroidY: 0.6700

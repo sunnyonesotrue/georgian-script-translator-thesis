@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_caa875a4.png
+centerX: 0.3204
+centerY: 0.8936
+width: 0.0399
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.3426
+CentroidY: 0.9073

@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_0a410bbc.png
+centerX: 0.5266
+centerY: 0.2023
+width: 0.0335
+height: 0.0370
+Area: 0.0006
+CentroidX: 0.5415
+CentroidY: 0.2214

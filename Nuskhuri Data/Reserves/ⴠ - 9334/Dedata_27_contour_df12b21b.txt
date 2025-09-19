@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_df12b21b.png
+centerX: 0.6274
+centerY: 0.4805
+width: 0.0431
+height: 0.0239
+Area: 0.0003
+CentroidX: 0.6484
+CentroidY: 0.4924

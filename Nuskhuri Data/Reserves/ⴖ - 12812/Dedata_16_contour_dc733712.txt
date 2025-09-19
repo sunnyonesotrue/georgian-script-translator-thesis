@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_dc733712.png
+centerX: 0.6794
+centerY: 0.0274
+width: 0.0274
+height: 0.0182
+Area: 0.0002
+CentroidX: 0.6935
+CentroidY: 0.0351

@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_c831b840.png
+centerX: 0.6512
+centerY: 0.8014
+width: 0.0286
+height: 0.0180
+Area: 0.0002
+CentroidX: 0.6641
+CentroidY: 0.8079

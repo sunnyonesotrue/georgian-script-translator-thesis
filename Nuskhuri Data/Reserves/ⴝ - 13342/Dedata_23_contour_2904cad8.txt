@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_2904cad8.png
+centerX: 0.3786
+centerY: 0.0556
+width: 0.0214
+height: 0.0256
+Area: 0.0003
+CentroidX: 0.3883
+CentroidY: 0.0675

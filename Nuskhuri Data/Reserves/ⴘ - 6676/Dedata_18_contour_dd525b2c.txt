@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_dd525b2c.png
+centerX: 0.3919
+centerY: 0.1775
+width: 0.0270
+height: 0.0408
+Area: 0.0004
+CentroidX: 0.4048
+CentroidY: 0.1969

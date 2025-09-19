@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_ad562a94.png
+centerX: 0.9037
+centerY: 0.1660
+width: 0.0326
+height: 0.0365
+Area: 0.0007
+CentroidX: 0.9194
+CentroidY: 0.1859

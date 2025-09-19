@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_be515bdb.png
+centerX: 0.7190
+centerY: 0.8783
+width: 0.0484
+height: 0.0254
+Area: 0.0003
+CentroidX: 0.7472
+CentroidY: 0.8926

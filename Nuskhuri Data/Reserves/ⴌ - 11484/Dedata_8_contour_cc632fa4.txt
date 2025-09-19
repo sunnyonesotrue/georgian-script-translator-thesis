@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_cc632fa4.png
+centerX: 0.3464
+centerY: 0.5457
+width: 0.0250
+height: 0.0299
+Area: 0.0002
+CentroidX: 0.3548
+CentroidY: 0.5574

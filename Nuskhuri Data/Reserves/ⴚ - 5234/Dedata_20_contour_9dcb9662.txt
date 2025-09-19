@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_9dcb9662.png
+centerX: 0.8141
+centerY: 0.7293
+width: 0.0331
+height: 0.0342
+Area: 0.0003
+CentroidX: 0.8302
+CentroidY: 0.7421

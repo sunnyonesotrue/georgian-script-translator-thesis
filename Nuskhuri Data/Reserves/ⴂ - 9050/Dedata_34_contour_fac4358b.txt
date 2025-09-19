@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_fac4358b.png
+centerX: 0.4164
+centerY: 0.1965
+width: 0.0435
+height: 0.0302
+Area: 0.0005
+CentroidX: 0.4410
+CentroidY: 0.2082

@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_bf2bad52.png
+centerX: 0.8098
+centerY: 0.3624
+width: 0.0274
+height: 0.0254
+Area: 0.0002
+CentroidX: 0.8235
+CentroidY: 0.3775

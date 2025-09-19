@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_d8612fbe.png
+centerX: 0.2435
+centerY: 0.0097
+width: 0.0447
+height: 0.0374
+Area: 0.0006
+CentroidX: 0.2684
+CentroidY: 0.0254

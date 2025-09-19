@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_dfa664e4.png
+centerX: 0.0709
+centerY: 0.4885
+width: 0.0435
+height: 0.0285
+Area: 0.0004
+CentroidX: 0.0963
+CentroidY: 0.4987

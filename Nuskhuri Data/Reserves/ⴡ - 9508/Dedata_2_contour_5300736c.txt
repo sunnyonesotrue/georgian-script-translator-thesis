@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_5300736c.png
+centerX: 0.8133
+centerY: 0.4674
+width: 0.0218
+height: 0.0413
+Area: 0.0003
+CentroidX: 0.8218
+CentroidY: 0.4859

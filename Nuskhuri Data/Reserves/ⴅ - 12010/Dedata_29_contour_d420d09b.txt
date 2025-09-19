@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_d420d09b.png
+centerX: 0.7504
+centerY: 0.5668
+width: 0.0331
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.7661
+CentroidY: 0.5765

@@ -1,0 +1,9 @@
+Location:Samociqulo_1709_page_10
+Component: Samociqulo_1709_page_10_contour_d530ebd1.png
+centerX: 0.6526
+centerY: 0.2762
+width: 0.0541
+height: 0.0166
+Area: 0.0004
+CentroidX: 0.6796
+CentroidY: 0.2847

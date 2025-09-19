@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_dbb06de1.png
+centerX: 0.2894
+centerY: 0.7035
+width: 0.0427
+height: 0.0277
+Area: 0.0002
+CentroidX: 0.3039
+CentroidY: 0.7166

@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_04c41cad.png
+centerX: 0.1460
+centerY: 0.6150
+width: 0.0339
+height: 0.0496
+Area: 0.0004
+CentroidX: 0.1625
+CentroidY: 0.6406

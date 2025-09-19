@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_ca86921b.png
+centerX: 0.0149
+centerY: 0.3581
+width: 0.0524
+height: 0.0496
+Area: 0.0008
+CentroidX: 0.0435
+CentroidY: 0.3858

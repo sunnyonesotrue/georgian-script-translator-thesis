@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_e180baa2.png
+centerX: 0.8258
+centerY: 0.3269
+width: 0.0290
+height: 0.0365
+Area: 0.0003
+CentroidX: 0.8395
+CentroidY: 0.3428

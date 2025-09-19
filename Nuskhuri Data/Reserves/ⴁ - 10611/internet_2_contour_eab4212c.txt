@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_eab4212c.png
+centerX: 0.5728
+centerY: 0.0758
+width: 0.0331
+height: 0.0345
+Area: 0.0004
+CentroidX: 0.5917
+CentroidY: 0.0930

@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_c980afaf.png
+centerX: 0.1569
+centerY: 0.1148
+width: 0.0270
+height: 0.0180
+Area: 0.0002
+CentroidX: 0.1694
+CentroidY: 0.1220

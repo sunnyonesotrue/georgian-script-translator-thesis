@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_ffca2edb.png
+centerX: 0.7735
+centerY: 0.1628
+width: 0.0198
+height: 0.0371
+Area: 0.0002
+CentroidX: 0.7795
+CentroidY: 0.1799

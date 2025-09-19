@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_cb99950d.png
+centerX: 0.8246
+centerY: 0.0023
+width: 0.0250
+height: 0.0239
+Area: 0.0002
+CentroidX: 0.8367
+CentroidY: 0.0154

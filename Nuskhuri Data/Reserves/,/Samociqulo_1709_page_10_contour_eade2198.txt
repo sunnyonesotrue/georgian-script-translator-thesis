@@ -1,0 +1,9 @@
+Location:Samociqulo_1709_page_10
+Component: Samociqulo_1709_page_10_contour_eade2198.png
+centerX: 0.3302
+centerY: 0.5878
+width: 0.0555
+height: 0.0172
+Area: 0.0003
+CentroidX: 0.3558
+CentroidY: 0.5959

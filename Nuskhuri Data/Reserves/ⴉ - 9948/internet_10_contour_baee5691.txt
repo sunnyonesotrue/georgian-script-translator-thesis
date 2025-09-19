@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_baee5691.png
+centerX: 0.2386
+centerY: 0.6239
+width: 0.0298
+height: 0.0322
+Area: 0.0004
+CentroidX: 0.2523
+CentroidY: 0.6393

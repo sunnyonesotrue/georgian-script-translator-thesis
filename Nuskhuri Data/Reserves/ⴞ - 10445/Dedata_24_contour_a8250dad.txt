@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_a8250dad.png
+centerX: 0.8540
+centerY: 0.4563
+width: 0.0363
+height: 0.0365
+Area: 0.0004
+CentroidX: 0.8718
+CentroidY: 0.4725

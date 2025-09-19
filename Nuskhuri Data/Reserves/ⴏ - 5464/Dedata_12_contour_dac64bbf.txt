@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_dac64bbf.png
+centerX: 0.5452
+centerY: 0.2152
+width: 0.0327
+height: 0.0333
+Area: 0.0003
+CentroidX: 0.5629
+CentroidY: 0.2303
