@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_e820ada0.png
+centerX: 0.3599
+centerY: 0.0607
+width: 0.0278
+height: 0.0393
+Area: 0.0003
+CentroidX: 0.3712
+CentroidY: 0.0784

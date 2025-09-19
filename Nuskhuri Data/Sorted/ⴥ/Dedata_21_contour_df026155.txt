@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_df026155.png
+centerX: 0.1625
+centerY: 0.7948
+width: 0.0282
+height: 0.0396
+Area: 0.0004
+CentroidX: 0.1762
+CentroidY: 0.8190

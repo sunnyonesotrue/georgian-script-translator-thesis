@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_52dc8014.png
+centerX: 0.8291
+centerY: 0.0202
+width: 0.0395
+height: 0.0393
+Area: 0.0006
+CentroidX: 0.8489
+CentroidY: 0.0396

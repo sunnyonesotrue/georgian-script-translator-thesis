@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_bdf3599d.png
+centerX: 0.9375
+centerY: 0.2323
+width: 0.0242
+height: 0.0439
+Area: 0.0005
+CentroidX: 0.9492
+CentroidY: 0.2559

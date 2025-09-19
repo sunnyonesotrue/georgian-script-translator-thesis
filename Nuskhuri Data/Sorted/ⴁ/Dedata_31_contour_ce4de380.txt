@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_ce4de380.png
+centerX: 0.3440
+centerY: 0.5232
+width: 0.0323
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.3597
+CentroidY: 0.5395

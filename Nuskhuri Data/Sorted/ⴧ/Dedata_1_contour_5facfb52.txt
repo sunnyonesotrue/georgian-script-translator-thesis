@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_5facfb52.png
+centerX: 0.1589
+centerY: 0.2904
+width: 0.0298
+height: 0.0305
+Area: 0.0005
+CentroidX: 0.1742
+CentroidY: 0.3044

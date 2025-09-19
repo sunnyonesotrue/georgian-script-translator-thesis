@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_bfadcbb7.png
+centerX: 0.9339
+centerY: 0.5443
+width: 0.0399
+height: 0.0351
+Area: 0.0005
+CentroidX: 0.9500
+CentroidY: 0.5623

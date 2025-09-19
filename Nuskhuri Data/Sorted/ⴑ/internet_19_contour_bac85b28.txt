@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_bac85b28.png
+centerX: 0.1455
+centerY: 0.5657
+width: 0.0254
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.1552
+CentroidY: 0.5865

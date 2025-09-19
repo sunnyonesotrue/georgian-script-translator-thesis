@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_ccbadf71.png
+centerX: 0.6766
+centerY: 0.1733
+width: 0.0222
+height: 0.0390
+Area: 0.0003
+CentroidX: 0.6887
+CentroidY: 0.1932

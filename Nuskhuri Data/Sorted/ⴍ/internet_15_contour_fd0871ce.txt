@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_fd0871ce.png
+centerX: 0.5433
+centerY: 0.6544
+width: 0.0508
+height: 0.0225
+Area: 0.0003
+CentroidX: 0.5659
+CentroidY: 0.6664

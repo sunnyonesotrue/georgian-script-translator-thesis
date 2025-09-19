@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_b509efda.png
+centerX: 0.0988
+centerY: 0.7475
+width: 0.0492
+height: 0.0328
+Area: 0.0010
+CentroidX: 0.1226
+CentroidY: 0.7606

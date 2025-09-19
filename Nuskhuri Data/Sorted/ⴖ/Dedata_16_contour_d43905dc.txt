@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_d43905dc.png
+centerX: 0.8427
+centerY: 0.3522
+width: 0.0319
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.8613
+CentroidY: 0.3596

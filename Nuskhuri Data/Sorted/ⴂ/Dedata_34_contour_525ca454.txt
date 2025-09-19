@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_525ca454.png
+centerX: 0.2479
+centerY: 0.7054
+width: 0.0427
+height: 0.0399
+Area: 0.0005
+CentroidX: 0.2709
+CentroidY: 0.7234

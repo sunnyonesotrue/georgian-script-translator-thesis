@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_4ababae3.png
+centerX: 0.7900
+centerY: 0.6111
+width: 0.0383
+height: 0.0251
+Area: 0.0004
+CentroidX: 0.8053
+CentroidY: 0.6253

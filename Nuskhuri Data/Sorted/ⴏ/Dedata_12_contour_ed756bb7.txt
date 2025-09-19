@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_ed756bb7.png
+centerX: 0.5125
+centerY: 0.0009
+width: 0.0327
+height: 0.0316
+Area: 0.0004
+CentroidX: 0.5286
+CentroidY: 0.0151

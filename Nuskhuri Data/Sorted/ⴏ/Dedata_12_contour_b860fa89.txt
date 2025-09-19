@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_b860fa89.png
+centerX: 0.3351
+centerY: 0.5001
+width: 0.0286
+height: 0.0331
+Area: 0.0003
+CentroidX: 0.3512
+CentroidY: 0.5150

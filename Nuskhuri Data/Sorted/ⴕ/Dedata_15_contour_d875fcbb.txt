@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_d875fcbb.png
+centerX: 0.9024
+centerY: 0.5016
+width: 0.0310
+height: 0.0473
+Area: 0.0004
+CentroidX: 0.9190
+CentroidY: 0.5255

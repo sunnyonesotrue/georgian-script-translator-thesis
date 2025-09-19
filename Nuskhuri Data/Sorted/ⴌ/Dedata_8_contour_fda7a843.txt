@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_fda7a843.png
+centerX: 0.3492
+centerY: 0.1502
+width: 0.0347
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.3657
+CentroidY: 0.1656

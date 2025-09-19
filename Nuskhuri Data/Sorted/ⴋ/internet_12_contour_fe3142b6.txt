@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fe3142b6.png
+centerX: 0.6187
+centerY: 0.1919
+width: 0.0310
+height: 0.0368
+Area: 0.0005
+CentroidX: 0.6340
+CentroidY: 0.2110

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_dc21c219.png
+centerX: 0.5371
+centerY: 0.2818
+width: 0.0238
+height: 0.0333
+Area: 0.0002
+CentroidX: 0.5512
+CentroidY: 0.3015

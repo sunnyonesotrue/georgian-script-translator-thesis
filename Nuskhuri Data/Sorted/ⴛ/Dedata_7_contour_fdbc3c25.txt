@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_fdbc3c25.png
+centerX: 0.1488
+centerY: 0.1582
+width: 0.0323
+height: 0.0308
+Area: 0.0002
+CentroidX: 0.1645
+CentroidY: 0.1770

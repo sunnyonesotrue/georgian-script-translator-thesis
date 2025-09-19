@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_eb5a20db.png
+centerX: 0.6972
+centerY: 0.7196
+width: 0.0468
+height: 0.0211
+Area: 0.0006
+CentroidX: 0.7222
+CentroidY: 0.7287

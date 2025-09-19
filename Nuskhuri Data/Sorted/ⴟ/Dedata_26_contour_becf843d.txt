@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_becf843d.png
+centerX: 0.5157
+centerY: 0.0094
+width: 0.0448
+height: 0.0282
+Area: 0.0004
+CentroidX: 0.5351
+CentroidY: 0.0237

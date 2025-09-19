@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_bb7750a0.png
+centerX: 0.0734
+centerY: 0.4143
+width: 0.0439
+height: 0.0242
+Area: 0.0003
+CentroidX: 0.0947
+CentroidY: 0.4286

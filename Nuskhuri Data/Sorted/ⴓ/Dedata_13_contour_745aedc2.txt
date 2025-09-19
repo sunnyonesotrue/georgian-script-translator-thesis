@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_745aedc2.png
+centerX: 0.0923
+centerY: 0.4802
+width: 0.0367
+height: 0.0242
+Area: 0.0002
+CentroidX: 0.1089
+CentroidY: 0.4916

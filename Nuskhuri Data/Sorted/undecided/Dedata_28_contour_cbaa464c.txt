@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_cbaa464c.png
+centerX: 0.5879
+centerY: 0.1525
+width: 0.0355
+height: 0.0333
+Area: 0.0005
+CentroidX: 0.6016
+CentroidY: 0.1707

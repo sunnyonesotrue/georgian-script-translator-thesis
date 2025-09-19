@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_f331a242.png
+centerX: 0.9113
+centerY: 0.0097
+width: 0.0403
+height: 0.0237
+Area: 0.0002
+CentroidX: 0.9335
+CentroidY: 0.0208

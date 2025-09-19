@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_afb68c8e.png
+centerX: 0.7231
+centerY: 0.1437
+width: 0.0302
+height: 0.0302
+Area: 0.0002
+CentroidX: 0.7376
+CentroidY: 0.1554

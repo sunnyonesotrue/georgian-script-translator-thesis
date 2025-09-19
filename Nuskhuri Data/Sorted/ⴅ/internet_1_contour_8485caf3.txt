@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_8485caf3.png
+centerX: 0.4244
+centerY: 0.0508
+width: 0.0451
+height: 0.0262
+Area: 0.0004
+CentroidX: 0.4474
+CentroidY: 0.0607

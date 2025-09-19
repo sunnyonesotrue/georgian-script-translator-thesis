@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_107afddb.png
+centerX: 0.0145
+centerY: 0.3684
+width: 0.0371
+height: 0.0259
+Area: 0.0002
+CentroidX: 0.0339
+CentroidY: 0.3841

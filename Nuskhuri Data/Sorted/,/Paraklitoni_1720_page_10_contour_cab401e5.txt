@@ -1,0 +1,9 @@
+Location:Paraklitoni_1720_page_10
+Component: Paraklitoni_1720_page_10_contour_cab401e5.png
+centerX: 0.7607
+centerY: 0.9023
+width: 0.0595
+height: 0.0311
+Area: 0.0007
+CentroidX: 0.7843
+CentroidY: 0.9168

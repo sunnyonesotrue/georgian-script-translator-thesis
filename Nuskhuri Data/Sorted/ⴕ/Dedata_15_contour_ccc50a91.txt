@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_ccc50a91.png
+centerX: 0.0133
+centerY: 0.1399
+width: 0.0262
+height: 0.0353
+Area: 0.0003
+CentroidX: 0.0266
+CentroidY: 0.1570

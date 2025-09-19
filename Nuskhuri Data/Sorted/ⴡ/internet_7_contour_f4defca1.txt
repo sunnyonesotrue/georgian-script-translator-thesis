@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_f4defca1.png
+centerX: 0.6554
+centerY: 0.3502
+width: 0.0407
+height: 0.0525
+Area: 0.0004
+CentroidX: 0.6767
+CentroidY: 0.3761

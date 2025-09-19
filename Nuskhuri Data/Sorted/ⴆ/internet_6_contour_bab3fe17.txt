@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_bab3fe17.png
+centerX: 0.8472
+centerY: 0.5255
+width: 0.0375
+height: 0.0259
+Area: 0.0003
+CentroidX: 0.8658
+CentroidY: 0.5386

@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_dc2fb459.png
+centerX: 0.9545
+centerY: 0.0770
+width: 0.0387
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.9750
+CentroidY: 0.0870

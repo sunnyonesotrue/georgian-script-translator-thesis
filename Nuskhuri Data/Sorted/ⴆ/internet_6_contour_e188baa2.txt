@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_e188baa2.png
+centerX: 0.8448
+centerY: 0.2027
+width: 0.0423
+height: 0.0288
+Area: 0.0007
+CentroidX: 0.8662
+CentroidY: 0.2179

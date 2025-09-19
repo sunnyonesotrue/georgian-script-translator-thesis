@@ -1,0 +1,9 @@
+Location:internet_25
+Component: internet_25_contour_bfa2e532.png
+centerX: 0.6937
+centerY: 0.2623
+width: 0.0411
+height: 0.0257
+Area: 0.0004
+CentroidX: 0.7154
+CentroidY: 0.2723

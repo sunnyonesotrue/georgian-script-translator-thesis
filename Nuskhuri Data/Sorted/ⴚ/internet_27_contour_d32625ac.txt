@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_d32625ac.png
+centerX: 0.2809
+centerY: 0.1574
+width: 0.0359
+height: 0.0311
+Area: 0.0002
+CentroidX: 0.2995
+CentroidY: 0.1685

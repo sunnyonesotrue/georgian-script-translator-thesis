@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_baa005cc.png
+centerX: 0.6935
+centerY: 0.7826
+width: 0.0190
+height: 0.0368
+Area: 0.0003
+CentroidX: 0.7032
+CentroidY: 0.7997

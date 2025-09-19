@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_9a7ed3e2.png
+centerX: 0.0064
+centerY: 0.3938
+width: 0.0427
+height: 0.0279
+Area: 0.0007
+CentroidX: 0.0286
+CentroidY: 0.4078

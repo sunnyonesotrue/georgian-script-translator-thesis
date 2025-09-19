@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_bfd9573e.png
+centerX: 0.8879
+centerY: 0.4155
+width: 0.0516
+height: 0.0231
+Area: 0.0004
+CentroidX: 0.9137
+CentroidY: 0.4286

@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_f8610c0e.png
+centerX: 0.6921
+centerY: 0.2937
+width: 0.0347
+height: 0.0342
+Area: 0.0003
+CentroidX: 0.7054
+CentroidY: 0.3040

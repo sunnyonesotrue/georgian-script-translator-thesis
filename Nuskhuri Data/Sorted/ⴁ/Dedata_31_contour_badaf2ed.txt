@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_badaf2ed.png
+centerX: 0.2552
+centerY: 0.7150
+width: 0.0427
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.2782
+CentroidY: 0.7321

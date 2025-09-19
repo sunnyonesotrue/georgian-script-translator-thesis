@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_ed809a13.png
+centerX: 0.5054
+centerY: 0.6835
+width: 0.0218
+height: 0.0365
+Area: 0.0003
+CentroidX: 0.5187
+CentroidY: 0.6975

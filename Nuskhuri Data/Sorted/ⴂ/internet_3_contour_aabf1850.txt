@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_aabf1850.png
+centerX: 0.7912
+centerY: 0.0160
+width: 0.0512
+height: 0.0473
+Area: 0.0006
+CentroidX: 0.8198
+CentroidY: 0.0379

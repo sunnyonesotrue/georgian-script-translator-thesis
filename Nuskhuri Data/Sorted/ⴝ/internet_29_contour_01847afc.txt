@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_01847afc.png
+centerX: 0.5445
+centerY: 0.3119
+width: 0.0419
+height: 0.0362
+Area: 0.0004
+CentroidX: 0.5675
+CentroidY: 0.3282

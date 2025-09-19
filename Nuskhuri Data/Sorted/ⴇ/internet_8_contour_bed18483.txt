@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_bed18483.png
+centerX: 0.2281
+centerY: 0.2144
+width: 0.0661
+height: 0.0177
+Area: 0.0006
+CentroidX: 0.2572
+CentroidY: 0.2224

@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_dac026f1.png
+centerX: 0.0177
+centerY: 0.2078
+width: 0.0218
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.0282
+CentroidY: 0.2217

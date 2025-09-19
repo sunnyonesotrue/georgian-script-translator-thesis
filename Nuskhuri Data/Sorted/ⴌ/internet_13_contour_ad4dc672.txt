@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_ad4dc672.png
+centerX: 0.8118
+centerY: 0.5500
+width: 0.0294
+height: 0.0382
+Area: 0.0005
+CentroidX: 0.8251
+CentroidY: 0.5686

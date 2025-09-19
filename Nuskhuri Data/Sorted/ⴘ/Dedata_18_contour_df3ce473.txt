@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_df3ce473.png
+centerX: 0.8669
+centerY: 0.8373
+width: 0.0210
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.8778
+CentroidY: 0.8552

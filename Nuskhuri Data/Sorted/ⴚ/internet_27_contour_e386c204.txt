@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_e386c204.png
+centerX: 0.2181
+centerY: 0.2524
+width: 0.0298
+height: 0.0308
+Area: 0.0002
+CentroidX: 0.2322
+CentroidY: 0.2646

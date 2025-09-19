@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_a752edfc.png
+centerX: 0.4591
+centerY: 0.4115
+width: 0.0476
+height: 0.0356
+Area: 0.0004
+CentroidX: 0.4857
+CentroidY: 0.4263

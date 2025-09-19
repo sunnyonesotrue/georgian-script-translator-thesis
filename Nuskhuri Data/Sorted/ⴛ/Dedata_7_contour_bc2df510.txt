@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_bc2df510.png
+centerX: 0.3440
+centerY: 0.0088
+width: 0.0448
+height: 0.0402
+Area: 0.0005
+CentroidX: 0.3685
+CentroidY: 0.0322

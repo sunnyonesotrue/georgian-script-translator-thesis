@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_dc4295ae.png
+centerX: 0.5155
+centerY: 0.2261
+width: 0.0230
+height: 0.0382
+Area: 0.0002
+CentroidX: 0.5236
+CentroidY: 0.2427

@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_ed6580a6.png
+centerX: 0.6167
+centerY: 0.4930
+width: 0.0455
+height: 0.0297
+Area: 0.0004
+CentroidX: 0.6409
+CentroidY: 0.5081

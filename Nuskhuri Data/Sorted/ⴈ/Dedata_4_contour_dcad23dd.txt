@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_dcad23dd.png
+centerX: 0.0089
+centerY: 0.1399
+width: 0.0202
+height: 0.0208
+Area: 0.0002
+CentroidX: 0.0185
+CentroidY: 0.1479

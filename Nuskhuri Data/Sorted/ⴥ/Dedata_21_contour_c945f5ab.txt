@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_c945f5ab.png
+centerX: 0.8145
+centerY: 0.0516
+width: 0.0363
+height: 0.0259
+Area: 0.0003
+CentroidX: 0.8306
+CentroidY: 0.0673

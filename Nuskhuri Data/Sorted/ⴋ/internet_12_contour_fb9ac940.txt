@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fb9ac940.png
+centerX: 0.9492
+centerY: 0.6293
+width: 0.0351
+height: 0.0354
+Area: 0.0005
+CentroidX: 0.9641
+CentroidY: 0.6464

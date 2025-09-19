@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_aed78050.png
+centerX: 0.7718
+centerY: 0.2018
+width: 0.0379
+height: 0.0351
+Area: 0.0003
+CentroidX: 0.7915
+CentroidY: 0.2166

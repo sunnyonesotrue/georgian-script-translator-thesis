@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_ccc744f4.png
+centerX: 0.3855
+centerY: 0.8849
+width: 0.0282
+height: 0.0490
+Area: 0.0004
+CentroidX: 0.4004
+CentroidY: 0.9091

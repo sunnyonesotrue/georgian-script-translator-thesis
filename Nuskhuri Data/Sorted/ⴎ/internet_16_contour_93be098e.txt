@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_93be098e.png
+centerX: 0.3043
+centerY: 0.5500
+width: 0.0601
+height: 0.0248
+Area: 0.0005
+CentroidX: 0.3345
+CentroidY: 0.5629

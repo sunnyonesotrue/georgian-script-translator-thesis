@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_fac02592.png
+centerX: 0.4718
+centerY: 0.0083
+width: 0.0315
+height: 0.0345
+Area: 0.0004
+CentroidX: 0.4879
+CentroidY: 0.0305

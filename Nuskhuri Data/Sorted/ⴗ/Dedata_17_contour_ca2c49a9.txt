@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ca2c49a9.png
+centerX: 0.1496
+centerY: 0.7184
+width: 0.0177
+height: 0.0356
+Area: 0.0002
+CentroidX: 0.1589
+CentroidY: 0.7338

@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_dbeba244.png
+centerX: 0.5593
+centerY: 0.3371
+width: 0.0331
+height: 0.0285
+Area: 0.0003
+CentroidX: 0.5762
+CentroidY: 0.3531

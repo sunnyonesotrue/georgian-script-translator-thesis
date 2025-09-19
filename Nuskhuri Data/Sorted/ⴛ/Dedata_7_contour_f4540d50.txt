@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_f4540d50.png
+centerX: 0.8685
+centerY: 0.2790
+width: 0.0383
+height: 0.0282
+Area: 0.0003
+CentroidX: 0.8907
+CentroidY: 0.2952

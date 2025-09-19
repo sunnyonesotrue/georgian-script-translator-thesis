@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_ba6397aa.png
+centerX: 0.2137
+centerY: 0.0071
+width: 0.0302
+height: 0.0388
+Area: 0.0004
+CentroidX: 0.2286
+CentroidY: 0.0319

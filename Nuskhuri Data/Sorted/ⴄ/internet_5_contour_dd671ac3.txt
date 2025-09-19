@@ -1,0 +1,9 @@
+Location:internet_5
+Component: internet_5_contour_dd671ac3.png
+centerX: 0.5026
+centerY: 0.4209
+width: 0.0391
+height: 0.0271
+Area: 0.0004
+CentroidX: 0.5244
+CentroidY: 0.4320

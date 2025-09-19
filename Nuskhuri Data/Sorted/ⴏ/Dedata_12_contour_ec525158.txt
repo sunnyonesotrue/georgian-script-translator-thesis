@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_ec525158.png
+centerX: 0.1867
+centerY: 0.0057
+width: 0.0294
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.2012
+CentroidY: 0.0208

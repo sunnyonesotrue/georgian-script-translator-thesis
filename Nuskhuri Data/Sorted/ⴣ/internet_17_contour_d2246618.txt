@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_d2246618.png
+centerX: 0.1838
+centerY: 0.7451
+width: 0.0262
+height: 0.0160
+Area: 0.0002
+CentroidX: 0.1947
+CentroidY: 0.7534

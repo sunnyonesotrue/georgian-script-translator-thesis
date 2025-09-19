@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_ceac888c.png
+centerX: 0.6082
+centerY: 0.7645
+width: 0.0423
+height: 0.0271
+Area: 0.0007
+CentroidX: 0.6284
+CentroidY: 0.7747

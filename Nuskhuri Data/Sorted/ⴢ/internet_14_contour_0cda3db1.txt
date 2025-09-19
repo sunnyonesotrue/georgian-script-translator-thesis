@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_0cda3db1.png
+centerX: 0.6606
+centerY: 0.2258
+width: 0.0306
+height: 0.0254
+Area: 0.0002
+CentroidX: 0.6747
+CentroidY: 0.2395

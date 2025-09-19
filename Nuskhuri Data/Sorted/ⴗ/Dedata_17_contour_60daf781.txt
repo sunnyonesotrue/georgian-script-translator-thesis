@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_60daf781.png
+centerX: 0.2250
+centerY: 0.4742
+width: 0.0226
+height: 0.0353
+Area: 0.0002
+CentroidX: 0.2339
+CentroidY: 0.4887

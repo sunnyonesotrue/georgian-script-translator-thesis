@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ac332beb.png
+centerX: 0.1887
+centerY: 0.4155
+width: 0.0206
+height: 0.0462
+Area: 0.0002
+CentroidX: 0.1984
+CentroidY: 0.4343

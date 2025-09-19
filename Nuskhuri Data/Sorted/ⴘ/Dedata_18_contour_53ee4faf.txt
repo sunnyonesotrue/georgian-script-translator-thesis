@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_53ee4faf.png
+centerX: 0.6560
+centerY: 0.0650
+width: 0.0250
+height: 0.0325
+Area: 0.0003
+CentroidX: 0.6677
+CentroidY: 0.0815

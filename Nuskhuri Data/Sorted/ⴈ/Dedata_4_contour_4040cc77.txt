@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_4040cc77.png
+centerX: 0.9028
+centerY: 0.5078
+width: 0.0218
+height: 0.0214
+Area: 0.0002
+CentroidX: 0.9137
+CentroidY: 0.5170

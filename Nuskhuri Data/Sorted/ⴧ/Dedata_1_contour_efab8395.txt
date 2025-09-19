@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_efab8395.png
+centerX: 0.9617
+centerY: 0.7267
+width: 0.0218
+height: 0.0356
+Area: 0.0002
+CentroidX: 0.9698
+CentroidY: 0.7404

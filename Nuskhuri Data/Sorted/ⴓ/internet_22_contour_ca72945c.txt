@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_ca72945c.png
+centerX: 0.0193
+centerY: 0.1169
+width: 0.0617
+height: 0.0448
+Area: 0.0009
+CentroidX: 0.0528
+CentroidY: 0.1414

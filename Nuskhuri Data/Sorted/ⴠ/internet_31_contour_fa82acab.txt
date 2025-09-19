@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_fa82acab.png
+centerX: 0.8319
+centerY: 0.3174
+width: 0.0480
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.8585
+CentroidY: 0.3325

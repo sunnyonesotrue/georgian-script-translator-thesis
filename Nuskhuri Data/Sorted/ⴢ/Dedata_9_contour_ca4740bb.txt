@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_ca4740bb.png
+centerX: 0.6746
+centerY: 0.2975
+width: 0.0258
+height: 0.0259
+Area: 0.0002
+CentroidX: 0.6891
+CentroidY: 0.3112

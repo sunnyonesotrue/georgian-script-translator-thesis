@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_a881fa51.png
+centerX: 0.7121
+centerY: 0.3235
+width: 0.0411
+height: 0.0248
+Area: 0.0007
+CentroidX: 0.7343
+CentroidY: 0.3346

@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_cc40f720.png
+centerX: 0.2479
+centerY: 0.1389
+width: 0.0302
+height: 0.0220
+Area: 0.0002
+CentroidX: 0.2640
+CentroidY: 0.1511

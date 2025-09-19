@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_21bee936.png
+centerX: 0.5077
+centerY: 0.7392
+width: 0.0363
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.5282
+CentroidY: 0.7526

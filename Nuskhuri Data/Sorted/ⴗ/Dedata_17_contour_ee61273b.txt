@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_ee61273b.png
+centerX: 0.5956
+centerY: 0.7982
+width: 0.0210
+height: 0.0388
+Area: 0.0003
+CentroidX: 0.6065
+CentroidY: 0.8142

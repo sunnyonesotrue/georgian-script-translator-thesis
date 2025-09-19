@@ -1,0 +1,9 @@
+Location:Dedata_22
+Component: Dedata_22_contour_ba0bebed.png
+centerX: 0.2536
+centerY: 0.1986
+width: 0.0238
+height: 0.0328
+Area: 0.0002
+CentroidX: 0.2637
+CentroidY: 0.2097

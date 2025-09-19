@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_50aa0afc.png
+centerX: 0.0931
+centerY: 0.2719
+width: 0.0343
+height: 0.0279
+Area: 0.0003
+CentroidX: 0.1105
+CentroidY: 0.2838

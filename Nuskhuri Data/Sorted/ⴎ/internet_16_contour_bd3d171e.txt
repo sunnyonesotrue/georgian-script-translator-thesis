@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_bd3d171e.png
+centerX: 0.2870
+centerY: 0.1346
+width: 0.0435
+height: 0.0234
+Area: 0.0003
+CentroidX: 0.3112
+CentroidY: 0.1474

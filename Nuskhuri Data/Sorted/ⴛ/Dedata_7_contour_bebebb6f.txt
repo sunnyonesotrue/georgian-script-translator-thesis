@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_bebebb6f.png
+centerX: 0.5480
+centerY: 0.7817
+width: 0.0448
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.5742
+CentroidY: 0.7985

@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_42cfa133.png
+centerX: 0.5431
+centerY: 0.1017
+width: 0.0371
+height: 0.0402
+Area: 0.0006
+CentroidX: 0.5609
+CentroidY: 0.1208

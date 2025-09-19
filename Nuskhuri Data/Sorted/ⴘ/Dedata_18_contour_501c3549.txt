@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_501c3549.png
+centerX: 0.7081
+centerY: 0.6683
+width: 0.0214
+height: 0.0379
+Area: 0.0005
+CentroidX: 0.7194
+CentroidY: 0.6882

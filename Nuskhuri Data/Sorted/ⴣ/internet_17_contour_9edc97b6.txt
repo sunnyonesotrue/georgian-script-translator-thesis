@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_9edc97b6.png
+centerX: 0.8497
+centerY: 0.4796
+width: 0.0343
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.8694
+CentroidY: 0.4936

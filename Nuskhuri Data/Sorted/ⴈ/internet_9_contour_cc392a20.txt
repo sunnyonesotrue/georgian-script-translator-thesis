@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_cc392a20.png
+centerX: 0.7263
+centerY: 0.5158
+width: 0.0282
+height: 0.0245
+Area: 0.0003
+CentroidX: 0.7432
+CentroidY: 0.5278

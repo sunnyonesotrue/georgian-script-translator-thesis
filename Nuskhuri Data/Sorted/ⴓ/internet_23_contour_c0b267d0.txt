@@ -1,0 +1,9 @@
+Location:internet_23
+Component: internet_23_contour_c0b267d0.png
+centerX: 0.1814
+centerY: 0.2447
+width: 0.0536
+height: 0.0485
+Area: 0.0005
+CentroidX: 0.2112
+CentroidY: 0.2700

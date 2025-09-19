@@ -1,0 +1,9 @@
+Location:Dedata_10
+Component: Dedata_10_contour_aec24b18.png
+centerX: 0.9081
+centerY: 0.2491
+width: 0.0601
+height: 0.0182
+Area: 0.0003
+CentroidX: 0.9347
+CentroidY: 0.2602

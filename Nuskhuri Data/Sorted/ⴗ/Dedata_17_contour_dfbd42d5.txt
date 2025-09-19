@@ -1,0 +1,9 @@
+Location:Dedata_17
+Component: Dedata_17_contour_dfbd42d5.png
+centerX: 0.6137
+centerY: 0.8615
+width: 0.0230
+height: 0.0393
+Area: 0.0003
+CentroidX: 0.6270
+CentroidY: 0.8789

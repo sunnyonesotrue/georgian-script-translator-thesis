@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_a3250cbe.png
+centerX: 0.7605
+centerY: 0.7521
+width: 0.0411
+height: 0.0351
+Area: 0.0004
+CentroidX: 0.7819
+CentroidY: 0.7700

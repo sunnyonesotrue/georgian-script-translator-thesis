@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_aa1938c7.png
+centerX: 0.7118
+centerY: 0.0898
+width: 0.0363
+height: 0.0336
+Area: 0.0006
+CentroidX: 0.7332
+CentroidY: 0.1075

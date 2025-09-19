@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_cb021c04.png
+centerX: 0.2871
+centerY: 0.5130
+width: 0.0488
+height: 0.0222
+Area: 0.0003
+CentroidX: 0.3113
+CentroidY: 0.5258

@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_fb284703.png
+centerX: 0.2661
+centerY: 0.3975
+width: 0.0419
+height: 0.0285
+Area: 0.0007
+CentroidX: 0.2851
+CentroidY: 0.4107

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_ac50ebdb.png
+centerX: 0.9302
+centerY: 0.2764
+width: 0.0250
+height: 0.0342
+Area: 0.0003
+CentroidX: 0.9435
+CentroidY: 0.2941

@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_feaff24e.png
+centerX: 0.6609
+centerY: 0.2328
+width: 0.0310
+height: 0.0339
+Area: 0.0004
+CentroidX: 0.6746
+CentroidY: 0.2533

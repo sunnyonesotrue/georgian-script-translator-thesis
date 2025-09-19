@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_b46aff90.png
+centerX: 0.6129
+centerY: 0.7435
+width: 0.0310
+height: 0.0336
+Area: 0.0003
+CentroidX: 0.6302
+CentroidY: 0.7589

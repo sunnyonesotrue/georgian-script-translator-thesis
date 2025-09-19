@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_cb75f945.png
+centerX: 0.8847
+centerY: 0.6886
+width: 0.0464
+height: 0.0419
+Area: 0.0004
+CentroidX: 0.9073
+CentroidY: 0.7077

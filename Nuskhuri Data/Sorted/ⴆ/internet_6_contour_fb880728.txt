@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_fb880728.png
+centerX: 0.7755
+centerY: 0.0761
+width: 0.0468
+height: 0.0331
+Area: 0.0008
+CentroidX: 0.7997
+CentroidY: 0.0930

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_f3406cbe.png
+centerX: 0.8040
+centerY: 0.7766
+width: 0.0226
+height: 0.0370
+Area: 0.0003
+CentroidX: 0.8161
+CentroidY: 0.7945

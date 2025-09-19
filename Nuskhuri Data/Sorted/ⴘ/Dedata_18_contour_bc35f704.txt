@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_bc35f704.png
+centerX: 0.2706
+centerY: 0.2325
+width: 0.0214
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.2819
+CentroidY: 0.2496

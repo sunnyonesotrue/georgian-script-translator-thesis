@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_adea3bb1.png
+centerX: 0.2277
+centerY: 0.3014
+width: 0.0339
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.2435
+CentroidY: 0.3185

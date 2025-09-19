@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_365de7de.png
+centerX: 0.1129
+centerY: 0.1101
+width: 0.0367
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.1322
+CentroidY: 0.1226

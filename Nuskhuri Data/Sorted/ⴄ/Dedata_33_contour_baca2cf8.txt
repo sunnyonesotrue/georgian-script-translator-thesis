@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_baca2cf8.png
+centerX: 0.8295
+centerY: 0.3145
+width: 0.0193
+height: 0.0308
+Area: 0.0002
+CentroidX: 0.8408
+CentroidY: 0.3265

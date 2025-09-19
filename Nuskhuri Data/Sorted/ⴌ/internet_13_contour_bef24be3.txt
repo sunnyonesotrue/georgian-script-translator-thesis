@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_bef24be3.png
+centerX: 0.2596
+centerY: 0.3291
+width: 0.0290
+height: 0.0354
+Area: 0.0004
+CentroidX: 0.2733
+CentroidY: 0.3450

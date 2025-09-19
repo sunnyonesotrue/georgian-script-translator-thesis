@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_dc38873e.png
+centerX: 0.3556
+centerY: 0.3873
+width: 0.0347
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.3730
+CentroidY: 0.4052

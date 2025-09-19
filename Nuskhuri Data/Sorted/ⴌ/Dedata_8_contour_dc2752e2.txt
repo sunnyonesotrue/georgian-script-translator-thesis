@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_dc2752e2.png
+centerX: 0.7573
+centerY: 0.7800
+width: 0.0254
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.7681
+CentroidY: 0.7974

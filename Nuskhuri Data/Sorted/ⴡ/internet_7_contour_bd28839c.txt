@@ -1,0 +1,9 @@
+Location:internet_7
+Component: internet_7_contour_bd28839c.png
+centerX: 0.2539
+centerY: 0.5569
+width: 0.0258
+height: 0.0493
+Area: 0.0004
+CentroidX: 0.2640
+CentroidY: 0.5797

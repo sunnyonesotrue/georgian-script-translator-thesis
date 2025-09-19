@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_df280233.png
+centerX: 0.7138
+centerY: 0.8041
+width: 0.0528
+height: 0.0567
+Area: 0.0007
+CentroidX: 0.7445
+CentroidY: 0.8326

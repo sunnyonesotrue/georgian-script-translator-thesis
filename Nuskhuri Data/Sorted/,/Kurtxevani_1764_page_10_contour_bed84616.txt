@@ -1,0 +1,9 @@
+Location:Kurtxevani_1764_page_10
+Component: Kurtxevani_1764_page_10_contour_bed84616.png
+centerX: 0.6447
+centerY: 0.7451
+width: 0.0777
+height: 0.0182
+Area: 0.0007
+CentroidX: 0.6809
+CentroidY: 0.7558

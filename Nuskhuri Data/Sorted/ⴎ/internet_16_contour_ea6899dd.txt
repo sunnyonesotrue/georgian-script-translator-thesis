@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_ea6899dd.png
+centerX: 0.7416
+centerY: 0.3456
+width: 0.0439
+height: 0.0294
+Area: 0.0006
+CentroidX: 0.7646
+CentroidY: 0.3596

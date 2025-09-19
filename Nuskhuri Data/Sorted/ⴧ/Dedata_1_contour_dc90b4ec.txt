@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_dc90b4ec.png
+centerX: 0.4012
+centerY: 0.8498
+width: 0.0274
+height: 0.0408
+Area: 0.0005
+CentroidX: 0.4129
+CentroidY: 0.8703

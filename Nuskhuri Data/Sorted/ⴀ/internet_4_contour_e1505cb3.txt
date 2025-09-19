@@ -1,0 +1,9 @@
+Location:internet_4
+Component: internet_4_contour_e1505cb3.png
+centerX: 0.9573
+centerY: 0.1477
+width: 0.0379
+height: 0.0234
+Area: 0.0003
+CentroidX: 0.9766
+CentroidY: 0.1583

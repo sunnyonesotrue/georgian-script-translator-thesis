@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_f5265e10.png
+centerX: 0.9460
+centerY: 0.9590
+width: 0.0310
+height: 0.0313
+Area: 0.0004
+CentroidX: 0.9593
+CentroidY: 0.9741

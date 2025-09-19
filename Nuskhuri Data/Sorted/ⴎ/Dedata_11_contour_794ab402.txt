@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_794ab402.png
+centerX: 0.1448
+centerY: 0.4038
+width: 0.0512
+height: 0.0199
+Area: 0.0003
+CentroidX: 0.1690
+CentroidY: 0.4149

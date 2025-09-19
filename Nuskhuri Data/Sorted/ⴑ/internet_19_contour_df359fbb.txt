@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_df359fbb.png
+centerX: 0.6106
+centerY: 0.4423
+width: 0.0250
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.6203
+CentroidY: 0.4608

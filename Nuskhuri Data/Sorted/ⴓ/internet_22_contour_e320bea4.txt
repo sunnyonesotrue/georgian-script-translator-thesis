@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_e320bea4.png
+centerX: 0.8751
+centerY: 0.1486
+width: 0.0601
+height: 0.0462
+Area: 0.0008
+CentroidX: 0.9117
+CentroidY: 0.1739

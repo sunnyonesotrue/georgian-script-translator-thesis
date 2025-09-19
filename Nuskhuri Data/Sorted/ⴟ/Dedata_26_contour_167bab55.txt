@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_167bab55.png
+centerX: 0.3895
+centerY: 0.5663
+width: 0.0343
+height: 0.0305
+Area: 0.0003
+CentroidX: 0.4056
+CentroidY: 0.5805

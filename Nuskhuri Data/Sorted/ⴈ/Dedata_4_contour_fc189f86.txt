@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_fc189f86.png
+centerX: 0.4935
+centerY: 0.3656
+width: 0.0343
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.5125
+CentroidY: 0.3725

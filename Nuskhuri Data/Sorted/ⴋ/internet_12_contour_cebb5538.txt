@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_cebb5538.png
+centerX: 0.4285
+centerY: 0.1115
+width: 0.0286
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.4422
+CentroidY: 0.1303

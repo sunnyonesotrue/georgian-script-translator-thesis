@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_cee89aaa.png
+centerX: 0.5613
+centerY: 0.1653
+width: 0.0266
+height: 0.0393
+Area: 0.0003
+CentroidX: 0.5750
+CentroidY: 0.1830

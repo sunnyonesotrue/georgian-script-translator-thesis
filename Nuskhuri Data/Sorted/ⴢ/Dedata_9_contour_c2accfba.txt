@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_c2accfba.png
+centerX: 0.6633
+centerY: 0.3505
+width: 0.0282
+height: 0.0202
+Area: 0.0002
+CentroidX: 0.6790
+CentroidY: 0.3614

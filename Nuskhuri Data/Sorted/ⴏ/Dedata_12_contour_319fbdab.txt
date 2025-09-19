@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_319fbdab.png
+centerX: 0.6149
+centerY: 0.5264
+width: 0.0319
+height: 0.0345
+Area: 0.0003
+CentroidX: 0.6323
+CentroidY: 0.5417

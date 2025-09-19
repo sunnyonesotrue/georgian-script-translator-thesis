@@ -1,0 +1,9 @@
+Location:internet_20
+Component: internet_20_contour_76f1b8ae.png
+centerX: 0.6933
+centerY: 0.0918
+width: 0.0306
+height: 0.0214
+Area: 0.0002
+CentroidX: 0.7066
+CentroidY: 0.1015

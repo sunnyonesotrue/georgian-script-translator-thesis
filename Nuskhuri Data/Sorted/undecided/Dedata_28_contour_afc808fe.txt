@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_afc808fe.png
+centerX: 0.6843
+centerY: 0.4773
+width: 0.0315
+height: 0.0342
+Area: 0.0005
+CentroidX: 0.6972
+CentroidY: 0.4944

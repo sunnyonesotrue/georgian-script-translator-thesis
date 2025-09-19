@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_dc84bec5.png
+centerX: 0.3793
+centerY: 0.2002
+width: 0.0294
+height: 0.0365
+Area: 0.0005
+CentroidX: 0.3934
+CentroidY: 0.2190

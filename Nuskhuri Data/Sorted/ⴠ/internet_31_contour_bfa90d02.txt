@@ -1,0 +1,9 @@
+Location:internet_31
+Component: internet_31_contour_bfa90d02.png
+centerX: 0.3253
+centerY: 0.1152
+width: 0.0568
+height: 0.0214
+Area: 0.0003
+CentroidX: 0.3543
+CentroidY: 0.1240

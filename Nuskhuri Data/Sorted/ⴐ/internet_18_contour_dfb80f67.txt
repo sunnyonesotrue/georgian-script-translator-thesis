@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_dfb80f67.png
+centerX: 0.6465
+centerY: 0.1009
+width: 0.0403
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.6667
+CentroidY: 0.1200

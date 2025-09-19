@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_76ddce76.png
+centerX: 0.1455
+centerY: 0.0907
+width: 0.0403
+height: 0.0282
+Area: 0.0003
+CentroidX: 0.1653
+CentroidY: 0.1012

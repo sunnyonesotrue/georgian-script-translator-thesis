@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_dca2bc25.png
+centerX: 0.8577
+centerY: 0.1052
+width: 0.0355
+height: 0.0237
+Area: 0.0004
+CentroidX: 0.8754
+CentroidY: 0.1183

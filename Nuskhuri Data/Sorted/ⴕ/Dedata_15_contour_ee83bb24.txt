@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_ee83bb24.png
+centerX: 0.4593
+centerY: 0.1134
+width: 0.0286
+height: 0.0436
+Area: 0.0003
+CentroidX: 0.4726
+CentroidY: 0.1334

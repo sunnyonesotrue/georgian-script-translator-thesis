@@ -1,0 +1,9 @@
+Location:internet_3
+Component: internet_3_contour_561a25dc.png
+centerX: 0.0689
+centerY: 0.4979
+width: 0.0407
+height: 0.0297
+Area: 0.0002
+CentroidX: 0.0903
+CentroidY: 0.5101

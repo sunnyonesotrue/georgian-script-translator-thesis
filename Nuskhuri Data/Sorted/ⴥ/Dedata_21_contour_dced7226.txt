@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_dced7226.png
+centerX: 0.2609
+centerY: 0.2038
+width: 0.0302
+height: 0.0368
+Area: 0.0004
+CentroidX: 0.2758
+CentroidY: 0.2271

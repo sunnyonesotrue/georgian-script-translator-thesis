@@ -1,0 +1,9 @@
+Location:Dedata_19
+Component: Dedata_19_contour_fa506f5a.png
+centerX: 0.9157
+centerY: 0.0111
+width: 0.0173
+height: 0.0416
+Area: 0.0003
+CentroidX: 0.9230
+CentroidY: 0.0299

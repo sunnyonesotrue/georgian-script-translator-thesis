@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_dcfcebfa.png
+centerX: 0.7831
+centerY: 0.2904
+width: 0.0331
+height: 0.0217
+Area: 0.0002
+CentroidX: 0.8012
+CentroidY: 0.2995

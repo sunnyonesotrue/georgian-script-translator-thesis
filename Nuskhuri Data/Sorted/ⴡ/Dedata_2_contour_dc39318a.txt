@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_dc39318a.png
+centerX: 0.5649
+centerY: 0.0100
+width: 0.0294
+height: 0.0408
+Area: 0.0005
+CentroidX: 0.5774
+CentroidY: 0.0285

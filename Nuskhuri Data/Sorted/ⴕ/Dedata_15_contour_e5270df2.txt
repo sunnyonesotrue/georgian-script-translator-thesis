@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_e5270df2.png
+centerX: 0.8855
+centerY: 0.4417
+width: 0.0391
+height: 0.0462
+Area: 0.0003
+CentroidX: 0.9000
+CentroidY: 0.4628

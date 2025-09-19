@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_bbcaf84b.png
+centerX: 0.6629
+centerY: 0.6101
+width: 0.0440
+height: 0.0256
+Area: 0.0008
+CentroidX: 0.6851
+CentroidY: 0.6218

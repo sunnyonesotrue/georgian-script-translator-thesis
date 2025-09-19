@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_232ead15.png
+centerX: 0.7598
+centerY: 0.5991
+width: 0.0294
+height: 0.0319
+Area: 0.0004
+CentroidX: 0.7731
+CentroidY: 0.6139

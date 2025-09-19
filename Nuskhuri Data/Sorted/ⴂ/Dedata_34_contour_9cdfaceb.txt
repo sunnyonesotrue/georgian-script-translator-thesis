@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_9cdfaceb.png
+centerX: 0.9226
+centerY: 0.0550
+width: 0.0391
+height: 0.0299
+Area: 0.0003
+CentroidX: 0.9464
+CentroidY: 0.0656

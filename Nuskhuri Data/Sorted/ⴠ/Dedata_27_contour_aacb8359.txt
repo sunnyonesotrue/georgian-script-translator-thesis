@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_aacb8359.png
+centerX: 0.4516
+centerY: 0.6090
+width: 0.0560
+height: 0.0222
+Area: 0.0004
+CentroidX: 0.4786
+CentroidY: 0.6207

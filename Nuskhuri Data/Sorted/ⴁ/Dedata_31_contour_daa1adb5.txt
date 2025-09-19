@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_daa1adb5.png
+centerX: 0.2347
+centerY: 0.0482
+width: 0.0198
+height: 0.0339
+Area: 0.0002
+CentroidX: 0.2468
+CentroidY: 0.0690

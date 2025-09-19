@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_c214df19.png
+centerX: 0.6312
+centerY: 0.6658
+width: 0.0500
+height: 0.0533
+Area: 0.0006
+CentroidX: 0.6594
+CentroidY: 0.6963

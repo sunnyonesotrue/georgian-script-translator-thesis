@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_d229aea1.png
+centerX: 0.0157
+centerY: 0.6879
+width: 0.0395
+height: 0.0219
+Area: 0.0004
+CentroidX: 0.0343
+CentroidY: 0.6973

@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_65de0cec.png
+centerX: 0.5121
+centerY: 0.4400
+width: 0.0298
+height: 0.0313
+Area: 0.0003
+CentroidX: 0.5294
+CentroidY: 0.4540

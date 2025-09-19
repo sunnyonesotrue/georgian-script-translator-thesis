@@ -1,0 +1,9 @@
+Location:Dedata_34
+Component: Dedata_34_contour_e767ca2d.png
+centerX: 0.3523
+centerY: 0.1993
+width: 0.0403
+height: 0.0308
+Area: 0.0005
+CentroidX: 0.3748
+CentroidY: 0.2116

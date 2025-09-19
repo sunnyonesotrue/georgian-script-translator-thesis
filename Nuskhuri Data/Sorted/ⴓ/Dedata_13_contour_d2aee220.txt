@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_d2aee220.png
+centerX: 0.3020
+centerY: 0.3662
+width: 0.0419
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.3254
+CentroidY: 0.3782

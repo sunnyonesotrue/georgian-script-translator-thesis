@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_7c0908e3.png
+centerX: 0.6929
+centerY: 0.5560
+width: 0.0367
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.7134
+CentroidY: 0.5691

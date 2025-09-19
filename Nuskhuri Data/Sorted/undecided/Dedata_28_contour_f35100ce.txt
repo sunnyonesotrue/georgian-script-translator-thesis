@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_f35100ce.png
+centerX: 0.2379
+centerY: 0.4480
+width: 0.0351
+height: 0.0427
+Area: 0.0007
+CentroidX: 0.2524
+CentroidY: 0.4696

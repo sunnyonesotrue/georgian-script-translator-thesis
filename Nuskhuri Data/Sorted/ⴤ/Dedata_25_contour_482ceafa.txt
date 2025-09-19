@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_482ceafa.png
+centerX: 0.3964
+centerY: 0.3525
+width: 0.0387
+height: 0.0276
+Area: 0.0004
+CentroidX: 0.4190
+CentroidY: 0.3645

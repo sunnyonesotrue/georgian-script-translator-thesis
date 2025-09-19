@@ -1,0 +1,9 @@
+Location:internet_26
+Component: internet_26_contour_41ca450c.png
+centerX: 0.7360
+centerY: 0.3909
+width: 0.0286
+height: 0.0351
+Area: 0.0002
+CentroidX: 0.7485
+CentroidY: 0.4049

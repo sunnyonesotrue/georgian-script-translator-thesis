@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_4c7edd63.png
+centerX: 0.3914
+centerY: 0.0097
+width: 0.0383
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.4103
+CentroidY: 0.0285

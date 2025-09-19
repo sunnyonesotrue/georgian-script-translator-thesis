@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_fc60d4a7.png
+centerX: 0.8895
+centerY: 0.5825
+width: 0.0415
+height: 0.0294
+Area: 0.0003
+CentroidX: 0.9129
+CentroidY: 0.5959

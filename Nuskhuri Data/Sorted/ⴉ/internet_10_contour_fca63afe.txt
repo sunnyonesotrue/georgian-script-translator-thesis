@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_fca63afe.png
+centerX: 0.7332
+centerY: 0.1012
+width: 0.0391
+height: 0.0408
+Area: 0.0006
+CentroidX: 0.7481
+CentroidY: 0.1218

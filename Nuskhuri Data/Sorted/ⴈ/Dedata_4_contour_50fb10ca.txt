@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_50fb10ca.png
+centerX: 0.4089
+centerY: 0.2573
+width: 0.0246
+height: 0.0188
+Area: 0.0002
+CentroidX: 0.4230
+CentroidY: 0.2639

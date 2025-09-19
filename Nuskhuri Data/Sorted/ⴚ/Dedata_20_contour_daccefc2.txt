@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_daccefc2.png
+centerX: 0.9194
+centerY: 0.5899
+width: 0.0327
+height: 0.0256
+Area: 0.0002
+CentroidX: 0.9359
+CentroidY: 0.6013

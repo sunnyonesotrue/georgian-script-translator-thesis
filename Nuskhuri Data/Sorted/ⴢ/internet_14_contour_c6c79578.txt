@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_c6c79578.png
+centerX: 0.4651
+centerY: 0.2706
+width: 0.0286
+height: 0.0245
+Area: 0.0002
+CentroidX: 0.4780
+CentroidY: 0.2854

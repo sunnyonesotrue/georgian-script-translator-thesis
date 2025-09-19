@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_b40fae46.png
+centerX: 0.2878
+centerY: 0.0080
+width: 0.0427
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.3096
+CentroidY: 0.0220

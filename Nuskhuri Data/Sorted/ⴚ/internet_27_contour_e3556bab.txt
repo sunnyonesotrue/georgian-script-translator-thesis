@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_e3556bab.png
+centerX: 0.9081
+centerY: 0.2236
+width: 0.0343
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.9262
+CentroidY: 0.2355

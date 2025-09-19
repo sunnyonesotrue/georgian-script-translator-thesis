@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_acb5bb75.png
+centerX: 0.3069
+centerY: 0.0054
+width: 0.0379
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.3266
+CentroidY: 0.0171

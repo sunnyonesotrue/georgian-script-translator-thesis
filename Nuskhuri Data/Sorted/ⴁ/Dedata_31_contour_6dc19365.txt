@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_6dc19365.png
+centerX: 0.7036
+centerY: 0.5178
+width: 0.0327
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.7190
+CentroidY: 0.5332

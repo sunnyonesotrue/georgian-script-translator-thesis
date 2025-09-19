@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_ca239b6a.png
+centerX: 0.7445
+centerY: 0.1685
+width: 0.0286
+height: 0.0359
+Area: 0.0004
+CentroidX: 0.7582
+CentroidY: 0.1856

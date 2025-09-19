@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_dc8a244e.png
+centerX: 0.9444
+centerY: 0.7582
+width: 0.0371
+height: 0.0325
+Area: 0.0003
+CentroidX: 0.9633
+CentroidY: 0.7713

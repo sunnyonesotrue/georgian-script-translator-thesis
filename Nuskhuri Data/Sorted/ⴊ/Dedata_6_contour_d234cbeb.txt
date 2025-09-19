@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_d234cbeb.png
+centerX: 0.9363
+centerY: 0.0761
+width: 0.0403
+height: 0.0205
+Area: 0.0003
+CentroidX: 0.9581
+CentroidY: 0.0855

@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_ee97205f.png
+centerX: 0.1624
+centerY: 0.1928
+width: 0.0343
+height: 0.0379
+Area: 0.0005
+CentroidX: 0.1782
+CentroidY: 0.2104

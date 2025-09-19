@@ -1,0 +1,89 @@
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torch.utils.data import DataLoader
+from torchvision import datasets, transforms
+
+transform = transforms.Compose([
+    transforms.Grayscale(num_output_channels=1),  # Convert to grayscale
+    transforms.Resize((64, 64)),                  # Resize to 64x64 directly
+    #add random cropping with padding
+    #add random rotation around 5-10 degrees
+    transforms.ToTensor(),                        # Convert to tensor
+    transforms.Normalize((0.5,), (0.5,))           # Normalize to [-1, 1] 
+])
+
+# datasetloading
+train_dataset = datasets.ImageFolder(root='/Users/sunnysideup/Documents/data for ORCs/Asomtavruli data/Sorted', transform=transform)
+train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+
+# CNN model 
+class SimpleCNN(nn.Module):
+    def __init__(self, num_classes):
+        super(SimpleCNN, self).__init__()
+        self.features = nn.Sequential(
+            nn.Conv2d(1, 32, kernel_size=3, padding=1),  # 1 input channel (grayscale) #start 8 or 16 instead of 32
+            nn.ReLU(),
+            nn.MaxPool2d(2, 2), # replace with stride = 2, use strided convolution to increase channel count
+            nn.Conv2d(32, 64, kernel_size=3, padding=1),
+            nn.ReLU(),
+            #after every RelU, use batchNorm2d
+            #use 5 levels of downscaling 
+            nn.MaxPool2d(2, 2), 
+        )
+        self.classifier = nn.Sequential(
+            #have a linear layer of 
+            nn.Flatten(),
+            #add 2x2 pooling layer
+            nn.Linear(256, num_classes)
+        )
+    
+    def forward(self, x):
+        x = self.features(x)
+        x = self.classifier(x)
+        return x
+
+# model, loss, and optimizer
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+num_classes = len(train_dataset.classes)
+model = SimpleCNN(num_classes).to(device)
+
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001) #has a parameter weightDecay 
+
+#use learning rate scheduler cosine annealing
+
+# training
+num_epochs = 5  # Start with T-max epochs, increase it to 10-20
+
+for epoch in range(num_epochs):
+    running_loss = 0.0
+    correct = 0
+    total = 0
+
+    model.train()  
+
+    for images, labels in train_loader:
+        images, labels = images.to(device), labels.to(device)
+
+        optimizer.zero_grad()
+        outputs = model(images)
+        loss = criterion(outputs, labels)
+        loss.backward()
+        optimizer.step()
+
+        running_loss += loss.item()
+
+        _, predicted = torch.max(outputs, 1)
+        total += labels.size(0)
+        correct += (predicted == labels).sum().item()
+
+    epoch_loss = running_loss / len(train_loader)
+    epoch_acc = 100 * correct / total
+    print(f"Epoch {epoch+1}/{num_epochs} | Loss: {epoch_loss:.4f} | Accuracy: {epoch_acc:.2f}%")
+
+print("Finished Training!")
+
+save_path = '/Users/sunnysideup/Documents/data for ORCs/All Code/Neural Networks/Saves/model_weights.pth'
+torch.save(model.state_dict(), save_path)
+print(f"Model saved to {save_path}")

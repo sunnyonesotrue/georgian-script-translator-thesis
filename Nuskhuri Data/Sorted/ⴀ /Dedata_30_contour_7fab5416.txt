@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_7fab5416.png
+centerX: 0.8218
+centerY: 0.6971
+width: 0.0415
+height: 0.0265
+Area: 0.0004
+CentroidX: 0.8379
+CentroidY: 0.7087

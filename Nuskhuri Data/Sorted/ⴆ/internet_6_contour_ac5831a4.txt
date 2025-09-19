@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_ac5831a4.png
+centerX: 0.1520
+centerY: 0.1446
+width: 0.0439
+height: 0.0345
+Area: 0.0007
+CentroidX: 0.1749
+CentroidY: 0.1622

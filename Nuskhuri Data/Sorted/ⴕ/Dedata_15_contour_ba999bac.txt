@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_ba999bac.png
+centerX: 0.7714
+centerY: 0.0559
+width: 0.0306
+height: 0.0342
+Area: 0.0003
+CentroidX: 0.7847
+CentroidY: 0.0715

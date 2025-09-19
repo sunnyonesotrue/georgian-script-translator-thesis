@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_d24050dd.png
+centerX: 0.5119
+centerY: 0.2121
+width: 0.0633
+height: 0.0550
+Area: 0.0009
+CentroidX: 0.5498
+CentroidY: 0.2458

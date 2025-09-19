@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_c241920a.png
+centerX: 0.2435
+centerY: 0.5067
+width: 0.0383
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.2649
+CentroidY: 0.5207

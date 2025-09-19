@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_a40c6395.png
+centerX: 0.7956
+centerY: 0.5714
+width: 0.0266
+height: 0.0479
+Area: 0.0004
+CentroidX: 0.8089
+CentroidY: 0.5936

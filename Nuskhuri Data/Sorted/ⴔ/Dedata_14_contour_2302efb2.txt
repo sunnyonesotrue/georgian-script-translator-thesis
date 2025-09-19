@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_2302efb2.png
+centerX: 0.0165
+centerY: 0.3673
+width: 0.0387
+height: 0.0282
+Area: 0.0006
+CentroidX: 0.0347
+CentroidY: 0.3796

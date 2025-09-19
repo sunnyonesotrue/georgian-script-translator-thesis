@@ -1,0 +1,9 @@
+Location:internet_9
+Component: internet_9_contour_fe31110b.png
+centerX: 0.3458
+centerY: 0.1346
+width: 0.0262
+height: 0.0285
+Area: 0.0002
+CentroidX: 0.3607
+CentroidY: 0.1460

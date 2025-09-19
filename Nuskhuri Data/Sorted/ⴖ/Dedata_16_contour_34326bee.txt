@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_34326bee.png
+centerX: 0.8855
+centerY: 0.5010
+width: 0.0270
+height: 0.0219
+Area: 0.0002
+CentroidX: 0.8984
+CentroidY: 0.5107

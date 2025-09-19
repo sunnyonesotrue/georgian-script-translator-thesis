@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_bc5156bd.png
+centerX: 0.9391
+centerY: 0.8384
+width: 0.0222
+height: 0.0348
+Area: 0.0003
+CentroidX: 0.9500
+CentroidY: 0.8549

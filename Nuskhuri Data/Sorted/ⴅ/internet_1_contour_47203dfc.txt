@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_47203dfc.png
+centerX: 0.7195
+centerY: 0.2906
+width: 0.0484
+height: 0.0305
+Area: 0.0006
+CentroidX: 0.7453
+CentroidY: 0.3008

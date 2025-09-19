@@ -1,0 +1,9 @@
+Location:internet_16
+Component: internet_16_contour_b2b25ba0.png
+centerX: 0.0850
+centerY: 0.4246
+width: 0.0423
+height: 0.0262
+Area: 0.0005
+CentroidX: 0.1080
+CentroidY: 0.4374

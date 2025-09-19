@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_fb846a3c.png
+centerX: 0.3944
+centerY: 0.3927
+width: 0.0387
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.4141
+CentroidY: 0.4015

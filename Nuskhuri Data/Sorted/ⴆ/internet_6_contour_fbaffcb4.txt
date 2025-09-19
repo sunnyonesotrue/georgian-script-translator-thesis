@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_fbaffcb4.png
+centerX: 0.5728
+centerY: 0.0861
+width: 0.0516
+height: 0.0317
+Area: 0.0008
+CentroidX: 0.6002
+CentroidY: 0.1021

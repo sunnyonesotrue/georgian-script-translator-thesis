@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_c601f4d0.png
+centerX: 0.7992
+centerY: 0.7800
+width: 0.0286
+height: 0.0450
+Area: 0.0004
+CentroidX: 0.8125
+CentroidY: 0.8019

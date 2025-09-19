@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_d852cff6.png
+centerX: 0.7423
+centerY: 0.0636
+width: 0.0214
+height: 0.0331
+Area: 0.0003
+CentroidX: 0.7536
+CentroidY: 0.0804

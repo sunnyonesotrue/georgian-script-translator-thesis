@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_b925a947.png
+centerX: 0.7175
+centerY: 0.3889
+width: 0.0391
+height: 0.0374
+Area: 0.0009
+CentroidX: 0.7372
+CentroidY: 0.4089

@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_ca61983a.png
+centerX: 0.2403
+centerY: 0.6133
+width: 0.0375
+height: 0.0237
+Area: 0.0003
+CentroidX: 0.2577
+CentroidY: 0.6238

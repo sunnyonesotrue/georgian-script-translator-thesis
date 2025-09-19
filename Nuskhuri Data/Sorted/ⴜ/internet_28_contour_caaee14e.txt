@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_caaee14e.png
+centerX: 0.6933
+centerY: 0.1839
+width: 0.0411
+height: 0.0319
+Area: 0.0003
+CentroidX: 0.7106
+CentroidY: 0.1945

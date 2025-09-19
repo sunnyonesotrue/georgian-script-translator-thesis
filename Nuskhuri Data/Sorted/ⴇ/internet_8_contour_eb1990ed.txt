@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_eb1990ed.png
+centerX: 0.5107
+centerY: 0.6193
+width: 0.0621
+height: 0.0220
+Area: 0.0007
+CentroidX: 0.5377
+CentroidY: 0.6302

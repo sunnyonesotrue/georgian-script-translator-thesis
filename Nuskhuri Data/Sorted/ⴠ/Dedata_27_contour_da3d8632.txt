@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_da3d8632.png
+centerX: 0.8847
+centerY: 0.7421
+width: 0.0617
+height: 0.0222
+Area: 0.0004
+CentroidX: 0.9121
+CentroidY: 0.7538

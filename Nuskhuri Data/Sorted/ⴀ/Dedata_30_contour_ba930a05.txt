@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_ba930a05.png
+centerX: 0.2339
+centerY: 0.0955
+width: 0.0383
+height: 0.0254
+Area: 0.0003
+CentroidX: 0.2536
+CentroidY: 0.1046

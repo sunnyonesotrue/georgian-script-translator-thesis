@@ -1,0 +1,9 @@
+Location:internet_27
+Component: internet_27_contour_bc380cb2.png
+centerX: 0.3781
+centerY: 0.0622
+width: 0.0339
+height: 0.0277
+Area: 0.0002
+CentroidX: 0.3958
+CentroidY: 0.0727

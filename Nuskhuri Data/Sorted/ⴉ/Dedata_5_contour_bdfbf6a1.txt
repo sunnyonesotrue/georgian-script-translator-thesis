@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_bdfbf6a1.png
+centerX: 0.5056
+centerY: 0.3514
+width: 0.0210
+height: 0.0385
+Area: 0.0003
+CentroidX: 0.5153
+CentroidY: 0.3719

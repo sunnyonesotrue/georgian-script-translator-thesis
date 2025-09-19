@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_a1ac175d.png
+centerX: 0.5298
+centerY: 0.4953
+width: 0.0367
+height: 0.0302
+Area: 0.0003
+CentroidX: 0.5504
+CentroidY: 0.5093

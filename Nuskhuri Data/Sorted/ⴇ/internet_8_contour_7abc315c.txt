@@ -1,0 +1,9 @@
+Location:internet_8
+Component: internet_8_contour_7abc315c.png
+centerX: 0.1475
+centerY: 0.1768
+width: 0.0637
+height: 0.0202
+Area: 0.0006
+CentroidX: 0.1769
+CentroidY: 0.1865

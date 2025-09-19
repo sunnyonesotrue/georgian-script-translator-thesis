@@ -1,0 +1,9 @@
+Location:internet_2
+Component: internet_2_contour_fcc70f6c.png
+centerX: 0.0431
+centerY: 0.4058
+width: 0.0326
+height: 0.0302
+Area: 0.0004
+CentroidX: 0.0609
+CentroidY: 0.4209

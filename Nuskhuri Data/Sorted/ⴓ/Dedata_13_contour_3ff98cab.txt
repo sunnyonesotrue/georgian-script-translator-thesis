@@ -1,0 +1,9 @@
+Location:Dedata_13
+Component: Dedata_13_contour_3ff98cab.png
+centerX: 0.6121
+centerY: 0.7917
+width: 0.0387
+height: 0.0276
+Area: 0.0003
+CentroidX: 0.6335
+CentroidY: 0.8025

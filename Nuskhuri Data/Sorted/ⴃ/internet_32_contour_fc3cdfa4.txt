@@ -1,0 +1,9 @@
+Location:internet_32
+Component: internet_32_contour_fc3cdfa4.png
+centerX: 0.8001
+centerY: 0.5207
+width: 0.0282
+height: 0.0331
+Area: 0.0006
+CentroidX: 0.8134
+CentroidY: 0.5395

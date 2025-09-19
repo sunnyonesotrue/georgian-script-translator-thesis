@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_f543dbb1.png
+centerX: 0.4940
+centerY: 0.5925
+width: 0.0484
+height: 0.0262
+Area: 0.0007
+CentroidX: 0.5198
+CentroidY: 0.6044

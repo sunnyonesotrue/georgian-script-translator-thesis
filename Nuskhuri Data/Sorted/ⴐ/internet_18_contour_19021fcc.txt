@@ -1,0 +1,9 @@
+Location:internet_18
+Component: internet_18_contour_19021fcc.png
+centerX: 0.1959
+centerY: 0.4497
+width: 0.0419
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.2173
+CentroidY: 0.4654

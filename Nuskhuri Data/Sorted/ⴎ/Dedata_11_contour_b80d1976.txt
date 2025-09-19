@@ -1,0 +1,9 @@
+Location:Dedata_11
+Component: Dedata_11_contour_b80d1976.png
+centerX: 0.2125
+centerY: 0.2240
+width: 0.0488
+height: 0.0225
+Area: 0.0004
+CentroidX: 0.2367
+CentroidY: 0.2371

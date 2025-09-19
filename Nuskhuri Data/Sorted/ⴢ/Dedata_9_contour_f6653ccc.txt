@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_f6653ccc.png
+centerX: 0.8500
+centerY: 0.3884
+width: 0.0452
+height: 0.0239
+Area: 0.0003
+CentroidX: 0.8806
+CentroidY: 0.3993

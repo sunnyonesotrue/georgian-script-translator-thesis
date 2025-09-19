@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_e1579cb2.png
+centerX: 0.2794
+centerY: 0.0111
+width: 0.0431
+height: 0.0336
+Area: 0.0004
+CentroidX: 0.3040
+CentroidY: 0.0313

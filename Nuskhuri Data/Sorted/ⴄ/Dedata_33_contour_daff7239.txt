@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_daff7239.png
+centerX: 0.0911
+centerY: 0.7750
+width: 0.0230
+height: 0.0334
+Area: 0.0003
+CentroidX: 0.1060
+CentroidY: 0.7881

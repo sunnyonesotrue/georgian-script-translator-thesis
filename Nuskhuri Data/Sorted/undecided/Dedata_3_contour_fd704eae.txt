@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_fd704eae.png
+centerX: 0.4198
+centerY: 0.4010
+width: 0.0524
+height: 0.0214
+Area: 0.0006
+CentroidX: 0.4444
+CentroidY: 0.4095

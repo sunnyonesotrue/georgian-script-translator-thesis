@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_dad3f1be.png
+centerX: 0.7855
+centerY: 0.8529
+width: 0.0331
+height: 0.0504
+Area: 0.0005
+CentroidX: 0.8024
+CentroidY: 0.8780

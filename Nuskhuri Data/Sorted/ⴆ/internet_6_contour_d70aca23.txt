@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_d70aca23.png
+centerX: 0.0826
+centerY: 0.0573
+width: 0.0528
+height: 0.0336
+Area: 0.0009
+CentroidX: 0.1104
+CentroidY: 0.0756

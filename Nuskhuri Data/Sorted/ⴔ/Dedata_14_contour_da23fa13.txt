@@ -1,0 +1,9 @@
+Location:Dedata_14
+Component: Dedata_14_contour_da23fa13.png
+centerX: 0.8609
+centerY: 0.2770
+width: 0.0379
+height: 0.0219
+Area: 0.0005
+CentroidX: 0.8798
+CentroidY: 0.2867

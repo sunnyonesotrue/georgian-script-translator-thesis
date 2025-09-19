@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_88abcb09.png
+centerX: 0.3250
+centerY: 0.4979
+width: 0.0359
+height: 0.0160
+Area: 0.0003
+CentroidX: 0.3448
+CentroidY: 0.5036

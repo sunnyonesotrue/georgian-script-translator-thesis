@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_c21ab5fc.png
+centerX: 0.6653
+centerY: 0.6540
+width: 0.0351
+height: 0.0353
+Area: 0.0006
+CentroidX: 0.6798
+CentroidY: 0.6726

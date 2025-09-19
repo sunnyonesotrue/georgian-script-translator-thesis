@@ -1,0 +1,9 @@
+Location:Dedata_30
+Component: Dedata_30_contour_225baad1.png
+centerX: 0.4984
+centerY: 0.0943
+width: 0.0359
+height: 0.0251
+Area: 0.0003
+CentroidX: 0.5157
+CentroidY: 0.1040

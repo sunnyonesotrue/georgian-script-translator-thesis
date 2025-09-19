@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_cd202a44.png
+centerX: 0.8661
+centerY: 0.0094
+width: 0.0383
+height: 0.0274
+Area: 0.0005
+CentroidX: 0.8831
+CentroidY: 0.0239

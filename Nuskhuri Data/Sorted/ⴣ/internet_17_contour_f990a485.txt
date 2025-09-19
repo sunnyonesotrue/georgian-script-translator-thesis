@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_f990a485.png
+centerX: 0.0782
+centerY: 0.0051
+width: 0.0447
+height: 0.0439
+Area: 0.0005
+CentroidX: 0.1024
+CentroidY: 0.0220

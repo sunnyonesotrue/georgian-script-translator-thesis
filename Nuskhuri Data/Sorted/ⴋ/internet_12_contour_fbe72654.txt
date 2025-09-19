@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fbe72654.png
+centerX: 0.1850
+centerY: 0.5364
+width: 0.0254
+height: 0.0374
+Area: 0.0006
+CentroidX: 0.1975
+CentroidY: 0.5560

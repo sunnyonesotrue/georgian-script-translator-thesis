@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_c2590cee.png
+centerX: 0.3520
+centerY: 0.1736
+width: 0.0238
+height: 0.0436
+Area: 0.0003
+CentroidX: 0.3625
+CentroidY: 0.1935

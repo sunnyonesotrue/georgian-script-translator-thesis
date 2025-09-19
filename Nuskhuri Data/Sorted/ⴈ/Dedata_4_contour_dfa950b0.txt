@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_dfa950b0.png
+centerX: 0.2262
+centerY: 0.5036
+width: 0.0339
+height: 0.0185
+Area: 0.0003
+CentroidX: 0.2448
+CentroidY: 0.5098

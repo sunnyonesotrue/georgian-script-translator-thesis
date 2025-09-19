@@ -1,0 +1,9 @@
+Location:Dedata_33
+Component: Dedata_33_contour_1a2adfab.png
+centerX: 0.2495
+centerY: 0.0106
+width: 0.0234
+height: 0.0328
+Area: 0.0003
+CentroidX: 0.2596
+CentroidY: 0.0234

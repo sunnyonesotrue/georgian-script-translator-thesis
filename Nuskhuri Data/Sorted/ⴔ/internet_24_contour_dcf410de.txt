@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_dcf410de.png
+centerX: 0.1898
+centerY: 0.1163
+width: 0.0564
+height: 0.0362
+Area: 0.0013
+CentroidX: 0.2173
+CentroidY: 0.1295

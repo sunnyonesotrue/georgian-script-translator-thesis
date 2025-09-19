@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_afd90bea.png
+centerX: 0.7315
+centerY: 0.7794
+width: 0.0194
+height: 0.0365
+Area: 0.0003
+CentroidX: 0.7415
+CentroidY: 0.7971

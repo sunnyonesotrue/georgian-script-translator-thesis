@@ -1,0 +1,9 @@
+Location:Dedata_29
+Component: Dedata_29_contour_e2994ddc.png
+centerX: 0.7044
+centerY: 0.2556
+width: 0.0387
+height: 0.0262
+Area: 0.0003
+CentroidX: 0.7250
+CentroidY: 0.2647

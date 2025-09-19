@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_adafcb26.png
+centerX: 0.2834
+centerY: 0.1392
+width: 0.0431
+height: 0.0376
+Area: 0.0008
+CentroidX: 0.3067
+CentroidY: 0.1585

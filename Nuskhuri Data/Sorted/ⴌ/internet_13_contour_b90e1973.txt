@@ -1,0 +1,9 @@
+Location:internet_13
+Component: internet_13_contour_b90e1973.png
+centerX: 0.1713
+centerY: 0.7479
+width: 0.0339
+height: 0.0348
+Area: 0.0005
+CentroidX: 0.1858
+CentroidY: 0.7639

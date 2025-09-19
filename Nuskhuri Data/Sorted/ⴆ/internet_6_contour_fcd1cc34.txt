@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_fcd1cc34.png
+centerX: 0.3301
+centerY: 0.4654
+width: 0.0419
+height: 0.0297
+Area: 0.0006
+CentroidX: 0.3523
+CentroidY: 0.4816

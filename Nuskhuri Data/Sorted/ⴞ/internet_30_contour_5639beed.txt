@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_5639beed.png
+centerX: 0.4381
+centerY: 0.2812
+width: 0.0310
+height: 0.0311
+Area: 0.0003
+CentroidX: 0.4538
+CentroidY: 0.2954

@@ -1,0 +1,9 @@
+Location:Dedata_18
+Component: Dedata_18_contour_fab0a895.png
+centerX: 0.8702
+centerY: 0.3226
+width: 0.0254
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.8839
+CentroidY: 0.3411

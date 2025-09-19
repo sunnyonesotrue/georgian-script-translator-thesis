@@ -1,0 +1,9 @@
+Location:internet_11
+Component: internet_11_contour_4df3196c.png
+centerX: 0.8815
+centerY: 0.0576
+width: 0.0544
+height: 0.0314
+Area: 0.0009
+CentroidX: 0.9113
+CentroidY: 0.0727

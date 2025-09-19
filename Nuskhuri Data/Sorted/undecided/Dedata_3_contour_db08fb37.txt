@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_db08fb37.png
+centerX: 0.8254
+centerY: 0.2975
+width: 0.0452
+height: 0.0199
+Area: 0.0005
+CentroidX: 0.8472
+CentroidY: 0.3055

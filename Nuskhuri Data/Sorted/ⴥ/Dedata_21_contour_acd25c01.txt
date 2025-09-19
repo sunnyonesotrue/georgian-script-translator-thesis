@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_acd25c01.png
+centerX: 0.0202
+centerY: 0.1097
+width: 0.0286
+height: 0.0348
+Area: 0.0004
+CentroidX: 0.0347
+CentroidY: 0.1325

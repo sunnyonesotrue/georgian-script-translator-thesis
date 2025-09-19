@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_a8201bad.png
+centerX: 0.2725
+centerY: 0.0086
+width: 0.0238
+height: 0.0305
+Area: 0.0003
+CentroidX: 0.2825
+CentroidY: 0.0268

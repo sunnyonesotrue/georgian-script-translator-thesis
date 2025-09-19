@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_bde35fba.png
+centerX: 0.2867
+centerY: 0.0995
+width: 0.0347
+height: 0.0456
+Area: 0.0008
+CentroidX: 0.3040
+CentroidY: 0.1220

@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_dadc57c3.png
+centerX: 0.6238
+centerY: 0.2981
+width: 0.0302
+height: 0.0351
+Area: 0.0005
+CentroidX: 0.6363
+CentroidY: 0.3163

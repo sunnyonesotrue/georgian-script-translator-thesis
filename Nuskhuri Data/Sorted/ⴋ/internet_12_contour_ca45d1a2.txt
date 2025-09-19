@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_ca45d1a2.png
+centerX: 0.4357
+centerY: 0.4585
+width: 0.0367
+height: 0.0402
+Area: 0.0006
+CentroidX: 0.4498
+CentroidY: 0.4790

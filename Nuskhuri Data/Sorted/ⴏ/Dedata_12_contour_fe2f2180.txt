@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_fe2f2180.png
+centerX: 0.9371
+centerY: 0.1228
+width: 0.0262
+height: 0.0174
+Area: 0.0002
+CentroidX: 0.9488
+CentroidY: 0.1319

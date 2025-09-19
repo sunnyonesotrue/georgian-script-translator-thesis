@@ -1,0 +1,9 @@
+Location:Dedata_9
+Component: Dedata_9_contour_afadf42b.png
+centerX: 0.4754
+centerY: 0.5905
+width: 0.0323
+height: 0.0234
+Area: 0.0003
+CentroidX: 0.4919
+CentroidY: 0.6036

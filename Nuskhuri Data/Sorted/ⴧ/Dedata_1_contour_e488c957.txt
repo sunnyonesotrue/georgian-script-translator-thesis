@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_e488c957.png
+centerX: 0.2214
+centerY: 0.8564
+width: 0.0214
+height: 0.0379
+Area: 0.0002
+CentroidX: 0.2335
+CentroidY: 0.8743

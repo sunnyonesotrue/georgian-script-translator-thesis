@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_ccadb1e2.png
+centerX: 0.5484
+centerY: 0.0433
+width: 0.0331
+height: 0.0359
+Area: 0.0003
+CentroidX: 0.5649
+CentroidY: 0.0584

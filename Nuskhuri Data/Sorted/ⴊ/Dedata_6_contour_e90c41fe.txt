@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_e90c41fe.png
+centerX: 0.0782
+centerY: 0.3468
+width: 0.0440
+height: 0.0225
+Area: 0.0006
+CentroidX: 0.1012
+CentroidY: 0.3571

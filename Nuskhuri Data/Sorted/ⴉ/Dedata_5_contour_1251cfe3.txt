@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_1251cfe3.png
+centerX: 0.7923
+centerY: 0.2345
+width: 0.0226
+height: 0.0408
+Area: 0.0004
+CentroidX: 0.8032
+CentroidY: 0.2573

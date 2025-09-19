@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_c482dfcd.png
+centerX: 0.3329
+centerY: 0.3744
+width: 0.0415
+height: 0.0311
+Area: 0.0004
+CentroidX: 0.3527
+CentroidY: 0.3901

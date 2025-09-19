@@ -1,0 +1,9 @@
+Location:Dedata_26
+Component: Dedata_26_contour_cddb2592.png
+centerX: 0.0484
+centerY: 0.8230
+width: 0.0347
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.0645
+CentroidY: 0.8381

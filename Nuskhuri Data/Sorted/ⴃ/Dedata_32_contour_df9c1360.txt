@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_df9c1360.png
+centerX: 0.5881
+centerY: 0.7057
+width: 0.0387
+height: 0.0317
+Area: 0.0005
+CentroidX: 0.6050
+CentroidY: 0.7214

@@ -1,0 +1,9 @@
+Location:Dedata_20
+Component: Dedata_20_contour_bac00be0.png
+centerX: 0.4165
+centerY: 0.0556
+width: 0.0282
+height: 0.0279
+Area: 0.0002
+CentroidX: 0.4306
+CentroidY: 0.0658

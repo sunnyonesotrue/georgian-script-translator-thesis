@@ -1,0 +1,9 @@
+Location:internet_1
+Component: internet_1_contour_cfea1e25.png
+centerX: 0.7122
+centerY: 0.4976
+width: 0.0484
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.7376
+CentroidY: 0.5064

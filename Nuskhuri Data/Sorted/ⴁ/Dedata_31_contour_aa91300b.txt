@@ -1,0 +1,9 @@
+Location:Dedata_31
+Component: Dedata_31_contour_aa91300b.png
+centerX: 0.6524
+centerY: 0.3329
+width: 0.0339
+height: 0.0291
+Area: 0.0003
+CentroidX: 0.6706
+CentroidY: 0.3480

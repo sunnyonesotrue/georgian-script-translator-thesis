@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_7e9c3703.png
+centerX: 0.5981
+centerY: 0.1568
+width: 0.0532
+height: 0.0405
+Area: 0.0012
+CentroidX: 0.6239
+CentroidY: 0.1711

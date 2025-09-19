@@ -1,0 +1,9 @@
+Location:internet_17
+Component: internet_17_contour_cdcb70fb.png
+centerX: 0.7719
+centerY: 0.2834
+width: 0.0395
+height: 0.0279
+Area: 0.0003
+CentroidX: 0.7944
+CentroidY: 0.2963

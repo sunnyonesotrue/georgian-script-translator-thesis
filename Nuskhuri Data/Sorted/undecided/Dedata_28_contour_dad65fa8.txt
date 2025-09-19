@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_dad65fa8.png
+centerX: 0.7496
+centerY: 0.1892
+width: 0.0319
+height: 0.0368
+Area: 0.0005
+CentroidX: 0.7625
+CentroidY: 0.2086

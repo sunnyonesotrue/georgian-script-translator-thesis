@@ -1,0 +1,9 @@
+Location:internet_21
+Component: internet_21_contour_f1780adb.png
+centerX: 0.3341
+centerY: 0.1161
+width: 0.0282
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.3482
+CentroidY: 0.1326

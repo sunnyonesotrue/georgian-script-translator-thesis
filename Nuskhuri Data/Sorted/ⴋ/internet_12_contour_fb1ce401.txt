@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_fb1ce401.png
+centerX: 0.7586
+centerY: 0.0063
+width: 0.0335
+height: 0.0356
+Area: 0.0006
+CentroidX: 0.7723
+CentroidY: 0.0242

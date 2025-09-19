@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_15415daf.png
+centerX: 0.0149
+centerY: 0.3077
+width: 0.0242
+height: 0.0305
+Area: 0.0003
+CentroidX: 0.0238
+CentroidY: 0.3268

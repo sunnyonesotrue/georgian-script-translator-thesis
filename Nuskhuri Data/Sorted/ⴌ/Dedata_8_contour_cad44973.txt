@@ -1,0 +1,9 @@
+Location:Dedata_8
+Component: Dedata_8_contour_cad44973.png
+centerX: 0.1621
+centerY: 0.0094
+width: 0.0310
+height: 0.0271
+Area: 0.0003
+CentroidX: 0.1754
+CentroidY: 0.0231

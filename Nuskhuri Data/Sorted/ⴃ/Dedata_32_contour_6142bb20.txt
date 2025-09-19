@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_6142bb20.png
+centerX: 0.0734
+centerY: 0.5714
+width: 0.0395
+height: 0.0274
+Area: 0.0004
+CentroidX: 0.0943
+CentroidY: 0.5834

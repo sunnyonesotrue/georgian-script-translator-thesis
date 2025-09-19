@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_fdbc155c.png
+centerX: 0.3886
+centerY: 0.7049
+width: 0.0472
+height: 0.0234
+Area: 0.0004
+CentroidX: 0.4103
+CentroidY: 0.7183

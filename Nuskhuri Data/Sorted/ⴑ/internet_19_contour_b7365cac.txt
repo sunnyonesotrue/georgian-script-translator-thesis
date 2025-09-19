@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_b7365cac.png
+centerX: 0.6312
+centerY: 0.2429
+width: 0.0246
+height: 0.0285
+Area: 0.0002
+CentroidX: 0.6409
+CentroidY: 0.2609

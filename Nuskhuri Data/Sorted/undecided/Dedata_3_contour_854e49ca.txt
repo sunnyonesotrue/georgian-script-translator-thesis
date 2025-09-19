@@ -1,0 +1,9 @@
+Location:Dedata_3
+Component: Dedata_3_contour_854e49ca.png
+centerX: 0.4000
+centerY: 0.5321
+width: 0.0532
+height: 0.0199
+Area: 0.0005
+CentroidX: 0.4262
+CentroidY: 0.5409

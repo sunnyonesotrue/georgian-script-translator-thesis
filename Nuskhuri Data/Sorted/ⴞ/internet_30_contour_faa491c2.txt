@@ -1,0 +1,9 @@
+Location:internet_30
+Component: internet_30_contour_faa491c2.png
+centerX: 0.4720
+centerY: 0.0106
+width: 0.0351
+height: 0.0371
+Area: 0.0004
+CentroidX: 0.4877
+CentroidY: 0.0268

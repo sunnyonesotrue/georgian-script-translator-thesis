@@ -1,0 +1,9 @@
+Location:Dedata_5
+Component: Dedata_5_contour_caa6088f.png
+centerX: 0.6657
+centerY: 0.7133
+width: 0.0278
+height: 0.0479
+Area: 0.0005
+CentroidX: 0.6798
+CentroidY: 0.7372

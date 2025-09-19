@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_dcb398b4.png
+centerX: 0.7448
+centerY: 0.0439
+width: 0.0407
+height: 0.0336
+Area: 0.0003
+CentroidX: 0.7665
+CentroidY: 0.0564

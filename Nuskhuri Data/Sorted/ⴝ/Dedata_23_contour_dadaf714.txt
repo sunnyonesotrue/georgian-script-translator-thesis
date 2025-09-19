@@ -1,0 +1,9 @@
+Location:Dedata_23
+Component: Dedata_23_contour_dadaf714.png
+centerX: 0.6835
+centerY: 0.4685
+width: 0.0218
+height: 0.0256
+Area: 0.0003
+CentroidX: 0.6935
+CentroidY: 0.4793

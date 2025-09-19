@@ -1,0 +1,9 @@
+Location:Dedata_4
+Component: Dedata_4_contour_c7340acf.png
+centerX: 0.5802
+centerY: 0.0789
+width: 0.0230
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.5927
+CentroidY: 0.0861

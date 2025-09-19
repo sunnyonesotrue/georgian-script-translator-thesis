@@ -1,0 +1,9 @@
+Location:internet_10
+Component: internet_10_contour_70de1ecb.png
+centerX: 0.3273
+centerY: 0.7859
+width: 0.0331
+height: 0.0354
+Area: 0.0004
+CentroidX: 0.3406
+CentroidY: 0.8041

@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_e5044eab.png
+centerX: 0.9194
+centerY: 0.7003
+width: 0.0274
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.9303
+CentroidY: 0.7211

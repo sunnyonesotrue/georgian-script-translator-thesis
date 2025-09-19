@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_dbc60452.png
+centerX: 0.2640
+centerY: 0.3835
+width: 0.0556
+height: 0.0325
+Area: 0.0012
+CentroidX: 0.2902
+CentroidY: 0.3964

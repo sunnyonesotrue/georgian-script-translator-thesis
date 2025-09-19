@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_bf2c20cc.png
+centerX: 0.7179
+centerY: 0.1891
+width: 0.0290
+height: 0.0359
+Area: 0.0005
+CentroidX: 0.7316
+CentroidY: 0.2079

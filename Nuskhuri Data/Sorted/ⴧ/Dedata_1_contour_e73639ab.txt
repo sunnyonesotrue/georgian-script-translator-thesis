@@ -1,0 +1,9 @@
+Location:Dedata_1
+Component: Dedata_1_contour_e73639ab.png
+centerX: 0.8383
+centerY: 0.6811
+width: 0.0347
+height: 0.0299
+Area: 0.0004
+CentroidX: 0.8532
+CentroidY: 0.6976

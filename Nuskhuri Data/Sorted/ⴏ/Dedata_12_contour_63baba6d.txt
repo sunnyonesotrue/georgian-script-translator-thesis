@@ -1,0 +1,9 @@
+Location:Dedata_12
+Component: Dedata_12_contour_63baba6d.png
+centerX: 0.1258
+centerY: 0.5694
+width: 0.0298
+height: 0.0339
+Area: 0.0003
+CentroidX: 0.1431
+CentroidY: 0.5839

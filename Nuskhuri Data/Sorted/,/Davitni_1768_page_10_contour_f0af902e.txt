@@ -1,0 +1,9 @@
+Location:Davitni_1768_page_10
+Component: Davitni_1768_page_10_contour_f0af902e.png
+centerX: 0.0628
+centerY: 0.0162
+width: 0.8943
+height: 0.9227
+Area: 0.0174
+CentroidX: 0.7228
+CentroidY: 0.4169

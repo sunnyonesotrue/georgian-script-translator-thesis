@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_feaefea3.png
+centerX: 0.3520
+centerY: 0.7885
+width: 0.0262
+height: 0.0308
+Area: 0.0003
+CentroidX: 0.3649
+CentroidY: 0.8076

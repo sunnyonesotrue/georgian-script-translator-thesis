@@ -1,0 +1,9 @@
+Location:Dedata_2
+Component: Dedata_2_contour_bd646c1f.png
+centerX: 0.6161
+centerY: 0.3745
+width: 0.0226
+height: 0.0362
+Area: 0.0003
+CentroidX: 0.6242
+CentroidY: 0.3904

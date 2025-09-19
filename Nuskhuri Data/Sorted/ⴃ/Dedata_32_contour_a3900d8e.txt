@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_a3900d8e.png
+centerX: 0.5345
+centerY: 0.0510
+width: 0.0274
+height: 0.0268
+Area: 0.0002
+CentroidX: 0.5482
+CentroidY: 0.0636

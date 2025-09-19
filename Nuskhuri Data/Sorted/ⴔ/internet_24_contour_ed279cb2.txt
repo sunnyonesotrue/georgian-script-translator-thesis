@@ -1,0 +1,9 @@
+Location:internet_24
+Component: internet_24_contour_ed279cb2.png
+centerX: 0.9081
+centerY: 0.8101
+width: 0.0496
+height: 0.0356
+Area: 0.0009
+CentroidX: 0.9339
+CentroidY: 0.8241

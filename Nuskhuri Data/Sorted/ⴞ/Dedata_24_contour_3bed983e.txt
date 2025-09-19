@@ -1,0 +1,9 @@
+Location:Dedata_24
+Component: Dedata_24_contour_3bed983e.png
+centerX: 0.4589
+centerY: 0.4477
+width: 0.0395
+height: 0.0362
+Area: 0.0005
+CentroidX: 0.4766
+CentroidY: 0.4637

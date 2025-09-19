@@ -1,0 +1,9 @@
+Location:Dedata_27
+Component: Dedata_27_contour_e85a577c.png
+centerX: 0.1012
+centerY: 0.7113
+width: 0.0512
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.1234
+CentroidY: 0.7227

@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_32dab33c.png
+centerX: 0.0705
+centerY: 0.3901
+width: 0.0451
+height: 0.0311
+Area: 0.0006
+CentroidX: 0.0939
+CentroidY: 0.4058

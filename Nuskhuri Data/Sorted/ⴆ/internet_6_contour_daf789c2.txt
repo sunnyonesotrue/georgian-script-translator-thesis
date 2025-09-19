@@ -1,0 +1,9 @@
+Location:internet_6
+Component: internet_6_contour_daf789c2.png
+centerX: 0.4087
+centerY: 0.3211
+width: 0.0447
+height: 0.0319
+Area: 0.0007
+CentroidX: 0.4325
+CentroidY: 0.3368

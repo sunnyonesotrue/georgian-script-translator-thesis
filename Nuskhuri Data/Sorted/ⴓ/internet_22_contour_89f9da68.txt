@@ -1,0 +1,9 @@
+Location:internet_22
+Component: internet_22_contour_89f9da68.png
+centerX: 0.0133
+centerY: 0.4163
+width: 0.0641
+height: 0.0565
+Area: 0.0009
+CentroidX: 0.0480
+CentroidY: 0.4488

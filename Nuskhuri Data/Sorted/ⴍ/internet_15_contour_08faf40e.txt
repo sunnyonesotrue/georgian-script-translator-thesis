@@ -1,0 +1,9 @@
+Location:internet_15
+Component: internet_15_contour_08faf40e.png
+centerX: 0.0850
+centerY: 0.7166
+width: 0.0435
+height: 0.0225
+Area: 0.0003
+CentroidX: 0.1064
+CentroidY: 0.7303

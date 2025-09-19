@@ -1,0 +1,9 @@
+Location:internet_29
+Component: internet_29_contour_e35c401a.png
+centerX: 0.0979
+centerY: 0.5520
+width: 0.0359
+height: 0.0334
+Area: 0.0003
+CentroidX: 0.1165
+CentroidY: 0.5672

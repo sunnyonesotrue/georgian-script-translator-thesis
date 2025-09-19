@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_ca8643ee.png
+centerX: 0.4310
+centerY: 0.0105
+width: 0.0306
+height: 0.0322
+Area: 0.0004
+CentroidX: 0.4460
+CentroidY: 0.0302

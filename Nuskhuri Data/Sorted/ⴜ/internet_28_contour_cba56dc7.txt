@@ -1,0 +1,9 @@
+Location:internet_28
+Component: internet_28_contour_cba56dc7.png
+centerX: 0.7844
+centerY: 0.5994
+width: 0.0371
+height: 0.0328
+Area: 0.0004
+CentroidX: 0.8005
+CentroidY: 0.6102

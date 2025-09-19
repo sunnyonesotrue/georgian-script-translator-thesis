@@ -1,0 +1,9 @@
+Location:Dedata_32
+Component: Dedata_32_contour_d84a7bb6.png
+centerX: 0.8718
+centerY: 0.3932
+width: 0.0468
+height: 0.0228
+Area: 0.0003
+CentroidX: 0.8936
+CentroidY: 0.4023

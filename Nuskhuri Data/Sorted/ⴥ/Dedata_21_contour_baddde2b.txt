@@ -1,0 +1,9 @@
+Location:Dedata_21
+Component: Dedata_21_contour_baddde2b.png
+centerX: 0.5694
+centerY: 0.4055
+width: 0.0302
+height: 0.0322
+Area: 0.0004
+CentroidX: 0.5823
+CentroidY: 0.4260

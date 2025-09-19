@@ -1,0 +1,9 @@
+Location:Dedata_15
+Component: Dedata_15_contour_db7087f0.png
+centerX: 0.7415
+centerY: 0.1029
+width: 0.0286
+height: 0.0396
+Area: 0.0003
+CentroidX: 0.7552
+CentroidY: 0.1208

@@ -1,0 +1,9 @@
+Location:Dedata_6
+Component: Dedata_6_contour_fb18867e.png
+centerX: 0.2250
+centerY: 0.0550
+width: 0.0379
+height: 0.0199
+Area: 0.0005
+CentroidX: 0.2460
+CentroidY: 0.0638

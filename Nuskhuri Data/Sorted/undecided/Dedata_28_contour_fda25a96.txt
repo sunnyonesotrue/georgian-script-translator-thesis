@@ -1,0 +1,9 @@
+Location:Dedata_28
+Component: Dedata_28_contour_fda25a96.png
+centerX: 0.5782
+centerY: 0.2488
+width: 0.0335
+height: 0.0430
+Area: 0.0007
+CentroidX: 0.5923
+CentroidY: 0.2710

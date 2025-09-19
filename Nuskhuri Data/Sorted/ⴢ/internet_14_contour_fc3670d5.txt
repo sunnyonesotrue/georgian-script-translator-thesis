@@ -1,0 +1,9 @@
+Location:internet_14
+Component: internet_14_contour_fc3670d5.png
+centerX: 0.1040
+centerY: 0.1828
+width: 0.0282
+height: 0.0248
+Area: 0.0002
+CentroidX: 0.1185
+CentroidY: 0.1970

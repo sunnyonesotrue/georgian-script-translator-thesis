@@ -1,0 +1,9 @@
+Location:internet_19
+Component: internet_19_contour_fcaf3ab2.png
+centerX: 0.6235
+centerY: 0.7057
+width: 0.0266
+height: 0.0322
+Area: 0.0003
+CentroidX: 0.6348
+CentroidY: 0.7260

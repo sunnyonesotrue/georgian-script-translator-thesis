@@ -1,0 +1,9 @@
+Location:Dedata_7
+Component: Dedata_7_contour_e521cef1.png
+centerX: 0.3210
+centerY: 0.6902
+width: 0.0492
+height: 0.0336
+Area: 0.0005
+CentroidX: 0.3496
+CentroidY: 0.7096

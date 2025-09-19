@@ -1,0 +1,9 @@
+Location:Dedata_16
+Component: Dedata_16_contour_c963f30b.png
+centerX: 0.4016
+centerY: 0.4138
+width: 0.0258
+height: 0.0191
+Area: 0.0002
+CentroidX: 0.4129
+CentroidY: 0.4218

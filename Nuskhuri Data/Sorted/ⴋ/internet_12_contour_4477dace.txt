@@ -1,0 +1,9 @@
+Location:internet_12
+Component: internet_12_contour_4477dace.png
+centerX: 0.9375
+centerY: 0.1431
+width: 0.0355
+height: 0.0391
+Area: 0.0005
+CentroidX: 0.9508
+CentroidY: 0.1622

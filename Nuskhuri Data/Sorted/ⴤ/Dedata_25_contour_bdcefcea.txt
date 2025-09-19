@@ -1,0 +1,9 @@
+Location:Dedata_25
+Component: Dedata_25_contour_bdcefcea.png
+centerX: 0.4194
+centerY: 0.6483
+width: 0.0427
+height: 0.0294
+Area: 0.0004
+CentroidX: 0.4427
+CentroidY: 0.6612
