@@ -1,0 +1,9 @@
+Location:2025-04-16_190650-1
+Component: 2025-04-16_190650-1_contour_67dc3270.png
+centerX: 0.4016
+centerY: 0.3175
+width: 0.0265
+height: 0.0261
+Area: 0.0004
+CentroidX: 0.4140
+CentroidY: 0.3295

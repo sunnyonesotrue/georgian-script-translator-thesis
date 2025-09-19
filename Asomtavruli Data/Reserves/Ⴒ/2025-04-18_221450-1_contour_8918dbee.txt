@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_8918dbee.png
+centerX: 0.6985
+centerY: 0.0757
+width: 0.0271
+height: 0.0235
+Area: 0.0004
+CentroidX: 0.7126
+CentroidY: 0.0869

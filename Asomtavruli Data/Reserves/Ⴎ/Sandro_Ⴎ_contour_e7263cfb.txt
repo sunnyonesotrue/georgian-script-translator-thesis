@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_e7263cfb.png
+centerX: 0.4533
+centerY: 0.1793
+width: 0.0330
+height: 0.0217
+Area: 0.0003
+CentroidX: 0.4713
+CentroidY: 0.1896

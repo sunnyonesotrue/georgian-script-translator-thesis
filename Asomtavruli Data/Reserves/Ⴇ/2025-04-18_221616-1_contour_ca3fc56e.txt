@@ -1,0 +1,9 @@
+Location:2025-04-18_221616-1
+Component: 2025-04-18_221616-1_contour_ca3fc56e.png
+centerX: 0.8687
+centerY: 0.2760
+width: 0.0312
+height: 0.0342
+Area: 0.0006
+CentroidX: 0.8828
+CentroidY: 0.2923

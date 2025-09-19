@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_c5aa31eb.png
+centerX: 0.7774
+centerY: 0.1682
+width: 0.0336
+height: 0.0278
+Area: 0.0005
+CentroidX: 0.7909
+CentroidY: 0.1810

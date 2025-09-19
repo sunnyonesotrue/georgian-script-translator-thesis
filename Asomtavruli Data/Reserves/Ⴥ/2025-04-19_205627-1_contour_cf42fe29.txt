@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_cf42fe29.png
+centerX: 0.9352
+centerY: 0.2148
+width: 0.0306
+height: 0.0334
+Area: 0.0006
+CentroidX: 0.9488
+CentroidY: 0.2311

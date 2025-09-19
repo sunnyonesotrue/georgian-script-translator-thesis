@@ -1,0 +1,9 @@
+Location:2025-04-18_221510-1
+Component: 2025-04-18_221510-1_contour_7b2f4315.png
+centerX: 0.1166
+centerY: 0.8986
+width: 0.0383
+height: 0.0227
+Area: 0.0004
+CentroidX: 0.1337
+CentroidY: 0.9097

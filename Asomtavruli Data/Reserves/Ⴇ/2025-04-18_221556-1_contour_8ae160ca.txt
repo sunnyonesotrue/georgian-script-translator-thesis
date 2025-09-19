@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_8ae160ca.png
+centerX: 0.8439
+centerY: 0.0650
+width: 0.0383
+height: 0.0287
+Area: 0.0007
+CentroidX: 0.8604
+CentroidY: 0.0796

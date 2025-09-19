@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_dd32c442.png
+centerX: 0.7797
+centerY: 0.8066
+width: 0.0324
+height: 0.0317
+Area: 0.0005
+CentroidX: 0.7933
+CentroidY: 0.8220

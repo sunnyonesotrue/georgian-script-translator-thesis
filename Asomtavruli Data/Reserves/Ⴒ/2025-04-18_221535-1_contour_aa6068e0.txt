@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_aa6068e0.png
+centerX: 0.7126
+centerY: 0.9572
+width: 0.0306
+height: 0.0270
+Area: 0.0005
+CentroidX: 0.7273
+CentroidY: 0.9692

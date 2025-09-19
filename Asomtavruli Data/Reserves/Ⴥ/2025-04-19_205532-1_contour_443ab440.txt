@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_443ab440.png
+centerX: 0.4364
+centerY: 0.5571
+width: 0.0365
+height: 0.0359
+Area: 0.0006
+CentroidX: 0.4505
+CentroidY: 0.5742

@@ -1,0 +1,9 @@
+Location:hard5_Mean-Closing
+Component: hard5_Mean-Closing_contour_fd10106a.png
+centerX: 0.2822
+centerY: 0.4502
+width: 0.0313
+height: 0.0181
+Area: 0.0002
+CentroidX: 0.2951
+CentroidY: 0.4618

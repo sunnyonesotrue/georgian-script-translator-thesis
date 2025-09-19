@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_fb045a67.png
+centerX: 0.9134
+centerY: 0.7809
+width: 0.0194
+height: 0.0329
+Area: 0.0004
+CentroidX: 0.9217
+CentroidY: 0.7933

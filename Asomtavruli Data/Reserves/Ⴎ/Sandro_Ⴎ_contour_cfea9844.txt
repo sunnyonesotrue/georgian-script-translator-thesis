@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_cfea9844.png
+centerX: 0.6659
+centerY: 0.1312
+width: 0.0353
+height: 0.0267
+Area: 0.0004
+CentroidX: 0.6847
+CentroidY: 0.1438

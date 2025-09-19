@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_1feabad7.png
+centerX: 0.7473
+centerY: 0.2781
+width: 0.0359
+height: 0.0359
+Area: 0.0006
+CentroidX: 0.7644
+CentroidY: 0.2948

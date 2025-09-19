@@ -1,0 +1,9 @@
+Location:2025-04-18_221510-1
+Component: 2025-04-18_221510-1_contour_ed50893f.png
+centerX: 0.7986
+centerY: 0.8053
+width: 0.0336
+height: 0.0231
+Area: 0.0004
+CentroidX: 0.8127
+CentroidY: 0.8164

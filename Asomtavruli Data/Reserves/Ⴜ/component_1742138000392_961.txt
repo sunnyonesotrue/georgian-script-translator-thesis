@@ -1,0 +1,9 @@
+Location: easy64_Gaussian-Closing.png
+Component: component_1744297381435_961.png
+centerX: 0.42926239419588874
+centerY: 0.6365968362548098
+width: 0.009068923821039904
+height: 0.013681060282171868
+Area: 7.780379279273225e-05
+CentroidX: 0.4327
+CentroidY: 0.6421

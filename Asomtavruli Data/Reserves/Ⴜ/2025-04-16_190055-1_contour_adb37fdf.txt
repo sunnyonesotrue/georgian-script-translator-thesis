@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_adb37fdf.png
+centerX: 0.3675
+centerY: 0.5610
+width: 0.0241
+height: 0.0329
+Area: 0.0005
+CentroidX: 0.3775
+CentroidY: 0.5734

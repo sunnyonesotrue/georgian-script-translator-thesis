@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_3fbba380.png
+centerX: 0.3645
+centerY: 0.2798
+width: 0.0347
+height: 0.0381
+Area: 0.0006
+CentroidX: 0.3793
+CentroidY: 0.2987

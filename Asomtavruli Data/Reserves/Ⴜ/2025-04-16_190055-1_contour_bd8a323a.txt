@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_bd8a323a.png
+centerX: 0.2815
+centerY: 0.8126
+width: 0.0200
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.2903
+CentroidY: 0.8250

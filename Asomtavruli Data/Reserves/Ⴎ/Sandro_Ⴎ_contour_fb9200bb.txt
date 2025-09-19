@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_fb9200bb.png
+centerX: 0.9048
+centerY: 0.0416
+width: 0.0292
+height: 0.0237
+Area: 0.0003
+CentroidX: 0.9180
+CentroidY: 0.0527

@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_e9b5700f.png
+centerX: 0.6190
+centerY: 0.3100
+width: 0.0551
+height: 0.1156
+Area: 0.0013
+CentroidX: 0.6442
+CentroidY: 0.3643

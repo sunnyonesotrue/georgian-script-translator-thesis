@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_b9758cec.png
+centerX: 0.2108
+centerY: 0.9692
+width: 0.0347
+height: 0.0231
+Area: 0.0004
+CentroidX: 0.2267
+CentroidY: 0.9799

@@ -1,0 +1,9 @@
+Location:2025-04-18_221510-1
+Component: 2025-04-18_221510-1_contour_01daf20b.png
+centerX: 0.8622
+centerY: 0.9110
+width: 0.0330
+height: 0.0248
+Area: 0.0004
+CentroidX: 0.8781
+CentroidY: 0.9226

@@ -1,0 +1,9 @@
+Location:2025-04-16_190625-1
+Component: 2025-04-16_190625-1_contour_3e7012ce.png
+centerX: 0.8151
+centerY: 0.7882
+width: 0.0289
+height: 0.0325
+Area: 0.0004
+CentroidX: 0.8280
+CentroidY: 0.8070

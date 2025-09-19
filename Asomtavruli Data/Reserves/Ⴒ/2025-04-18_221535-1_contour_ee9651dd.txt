@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_ee9651dd.png
+centerX: 0.8292
+centerY: 0.3436
+width: 0.0336
+height: 0.0304
+Area: 0.0005
+CentroidX: 0.8428
+CentroidY: 0.3577

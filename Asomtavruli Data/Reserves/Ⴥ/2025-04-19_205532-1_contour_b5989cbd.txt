@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_b5989cbd.png
+centerX: 0.1390
+centerY: 0.6739
+width: 0.0336
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.1525
+CentroidY: 0.6872

@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_afa258b5.png
+centerX: 0.5842
+centerY: 0.8849
+width: 0.0395
+height: 0.0325
+Area: 0.0007
+CentroidX: 0.6001
+CentroidY: 0.9012

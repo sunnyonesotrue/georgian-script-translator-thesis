@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_ec65c21c.png
+centerX: 0.3687
+centerY: 0.3907
+width: 0.0236
+height: 0.0321
+Area: 0.0004
+CentroidX: 0.3787
+CentroidY: 0.4022

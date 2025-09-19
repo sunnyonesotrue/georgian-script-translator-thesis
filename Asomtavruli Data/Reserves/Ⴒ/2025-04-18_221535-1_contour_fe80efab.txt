@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_fe80efab.png
+centerX: 0.1926
+centerY: 0.5002
+width: 0.0300
+height: 0.0270
+Area: 0.0005
+CentroidX: 0.2073
+CentroidY: 0.5126

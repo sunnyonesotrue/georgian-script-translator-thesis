@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_fbb86e22.png
+centerX: 0.8133
+centerY: 0.4844
+width: 0.0359
+height: 0.0325
+Area: 0.0005
+CentroidX: 0.8298
+CentroidY: 0.4998

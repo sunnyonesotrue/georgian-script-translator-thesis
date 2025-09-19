@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_22edb42b.png
+centerX: 0.6525
+centerY: 0.9469
+width: 0.0218
+height: 0.0428
+Area: 0.0005
+CentroidX: 0.6620
+CentroidY: 0.9688

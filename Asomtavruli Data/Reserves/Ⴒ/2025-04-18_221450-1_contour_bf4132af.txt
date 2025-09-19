@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_bf4132af.png
+centerX: 0.5565
+centerY: 0.2662
+width: 0.0300
+height: 0.0240
+Area: 0.0004
+CentroidX: 0.5713
+CentroidY: 0.2773

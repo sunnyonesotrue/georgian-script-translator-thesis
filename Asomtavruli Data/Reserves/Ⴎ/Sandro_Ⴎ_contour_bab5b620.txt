@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_bab5b620.png
+centerX: 0.9585
+centerY: 0.6608
+width: 0.0221
+height: 0.0195
+Area: 0.0003
+CentroidX: 0.9698
+CentroidY: 0.6696

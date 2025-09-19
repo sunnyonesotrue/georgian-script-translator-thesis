@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_2e8b9776.png
+centerX: 0.8969
+centerY: 0.9422
+width: 0.0259
+height: 0.0329
+Area: 0.0004
+CentroidX: 0.9093
+CentroidY: 0.9576

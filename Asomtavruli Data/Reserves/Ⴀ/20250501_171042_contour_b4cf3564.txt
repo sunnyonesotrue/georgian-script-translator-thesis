@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_b4cf3564.png
+centerX: 0.0827
+centerY: 0.2539
+width: 0.0499
+height: 0.0998
+Area: 0.0014
+CentroidX: 0.1083
+CentroidY: 0.3047

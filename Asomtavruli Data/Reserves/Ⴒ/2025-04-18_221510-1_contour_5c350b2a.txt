@@ -1,0 +1,9 @@
+Location:2025-04-18_221510-1
+Component: 2025-04-18_221510-1_contour_5c350b2a.png
+centerX: 0.2697
+centerY: 0.0454
+width: 0.0342
+height: 0.0244
+Area: 0.0005
+CentroidX: 0.2833
+CentroidY: 0.0569

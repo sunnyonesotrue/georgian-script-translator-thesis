@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_cde1162c.png
+centerX: 0.2297
+centerY: 0.2905
+width: 0.0336
+height: 0.0261
+Area: 0.0004
+CentroidX: 0.2432
+CentroidY: 0.3025

@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_e3609a3a.png
+centerX: 0.7138
+centerY: 0.7018
+width: 0.0294
+height: 0.0312
+Area: 0.0005
+CentroidX: 0.7285
+CentroidY: 0.7163

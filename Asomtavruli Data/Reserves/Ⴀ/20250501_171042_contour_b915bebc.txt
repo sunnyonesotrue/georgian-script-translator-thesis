@@ -1,0 +1,9 @@
+Location:20250501_171042
+Component: 20250501_171042_contour_b915bebc.png
+centerX: 0.8589
+centerY: 0.1033
+width: 0.0736
+height: 0.1191
+Area: 0.0017
+CentroidX: 0.8903
+CentroidY: 0.1524

@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_acaff288.png
+centerX: 0.7615
+centerY: 0.8511
+width: 0.0395
+height: 0.0287
+Area: 0.0007
+CentroidX: 0.7786
+CentroidY: 0.8652

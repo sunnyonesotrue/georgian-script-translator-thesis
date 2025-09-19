@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_934ace23.png
+centerX: 0.8587
+centerY: 0.1258
+width: 0.0306
+height: 0.0252
+Area: 0.0004
+CentroidX: 0.8728
+CentroidY: 0.1369

@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_15045fdd.png
+centerX: 0.6590
+centerY: 0.8335
+width: 0.0212
+height: 0.0334
+Area: 0.0004
+CentroidX: 0.6678
+CentroidY: 0.8464

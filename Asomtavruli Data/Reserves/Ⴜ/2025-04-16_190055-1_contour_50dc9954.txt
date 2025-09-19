@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_50dc9954.png
+centerX: 0.1796
+centerY: 0.4801
+width: 0.0206
+height: 0.0329
+Area: 0.0004
+CentroidX: 0.1879
+CentroidY: 0.4925

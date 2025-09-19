@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_dddefd58.png
+centerX: 0.5453
+centerY: 0.4493
+width: 0.0336
+height: 0.0270
+Area: 0.0006
+CentroidX: 0.5601
+CentroidY: 0.4626

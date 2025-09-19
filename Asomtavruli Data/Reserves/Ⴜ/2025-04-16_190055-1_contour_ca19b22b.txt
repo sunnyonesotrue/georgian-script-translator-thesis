@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_ca19b22b.png
+centerX: 0.8958
+centerY: 0.8990
+width: 0.0194
+height: 0.0355
+Area: 0.0004
+CentroidX: 0.9034
+CentroidY: 0.9131

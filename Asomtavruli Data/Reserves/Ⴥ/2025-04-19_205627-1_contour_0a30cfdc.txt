@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_0a30cfdc.png
+centerX: 0.9641
+centerY: 0.4985
+width: 0.0283
+height: 0.0312
+Area: 0.0004
+CentroidX: 0.9764
+CentroidY: 0.5131

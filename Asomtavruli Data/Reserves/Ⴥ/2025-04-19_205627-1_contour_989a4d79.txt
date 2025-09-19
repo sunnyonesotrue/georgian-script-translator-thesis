@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_989a4d79.png
+centerX: 0.4617
+centerY: 0.5961
+width: 0.0241
+height: 0.0342
+Area: 0.0004
+CentroidX: 0.4729
+CentroidY: 0.6115

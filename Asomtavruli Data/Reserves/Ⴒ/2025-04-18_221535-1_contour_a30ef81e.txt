@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_a30ef81e.png
+centerX: 0.9240
+centerY: 0.9555
+width: 0.0371
+height: 0.0329
+Area: 0.0007
+CentroidX: 0.9429
+CentroidY: 0.9700

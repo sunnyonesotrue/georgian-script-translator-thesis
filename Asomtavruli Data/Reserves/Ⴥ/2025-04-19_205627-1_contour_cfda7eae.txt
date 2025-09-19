@@ -1,0 +1,9 @@
+Location:2025-04-19_205627-1
+Component: 2025-04-19_205627-1_contour_cfda7eae.png
+centerX: 0.3763
+centerY: 0.5896
+width: 0.0347
+height: 0.0385
+Area: 0.0006
+CentroidX: 0.3905
+CentroidY: 0.6076

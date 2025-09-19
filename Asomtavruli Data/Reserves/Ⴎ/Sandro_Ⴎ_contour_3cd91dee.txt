@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_3cd91dee.png
+centerX: 0.2512
+centerY: 0.0942
+width: 0.0273
+height: 0.0259
+Area: 0.0003
+CentroidX: 0.2653
+CentroidY: 0.1068

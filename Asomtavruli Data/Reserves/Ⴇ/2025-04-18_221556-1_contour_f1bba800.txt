@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_f1bba800.png
+centerX: 0.7939
+centerY: 0.0650
+width: 0.0342
+height: 0.0295
+Area: 0.0006
+CentroidX: 0.8086
+CentroidY: 0.0800

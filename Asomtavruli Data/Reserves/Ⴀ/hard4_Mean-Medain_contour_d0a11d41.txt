@@ -1,0 +1,9 @@
+Location:hard4_Mean-Medain
+Component: hard4_Mean-Medain_contour_caba3896.png
+centerX: 0.6952
+centerY: 0.2143
+width: 0.0188
+height: 0.0191
+Area: 0.0001
+CentroidX: 0.7021
+CentroidY: 0.2249

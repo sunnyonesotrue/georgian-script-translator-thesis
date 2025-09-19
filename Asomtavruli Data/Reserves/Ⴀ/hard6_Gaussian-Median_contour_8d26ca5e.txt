@@ -1,0 +1,9 @@
+Location:hard6_Gaussian-Median
+Component: hard6_Gaussian-Median_contour_5ee775a8.png
+centerX: 0.7884
+centerY: 0.5347
+width: 0.0265
+height: 0.0163
+Area: 0.0001
+CentroidX: 0.7971
+CentroidY: 0.5406

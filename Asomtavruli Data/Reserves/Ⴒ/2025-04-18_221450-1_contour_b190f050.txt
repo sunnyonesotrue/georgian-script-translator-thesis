@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_b190f050.png
+centerX: 0.7580
+centerY: 0.1391
+width: 0.0318
+height: 0.0227
+Area: 0.0004
+CentroidX: 0.7733
+CentroidY: 0.1502

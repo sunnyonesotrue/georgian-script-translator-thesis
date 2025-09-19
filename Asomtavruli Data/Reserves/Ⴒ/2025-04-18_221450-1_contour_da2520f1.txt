@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_da2520f1.png
+centerX: 0.6514
+centerY: 0.1468
+width: 0.0324
+height: 0.0218
+Area: 0.0004
+CentroidX: 0.6661
+CentroidY: 0.1575

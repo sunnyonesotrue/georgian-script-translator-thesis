@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_c43dfc20.png
+centerX: 0.7933
+centerY: 0.2033
+width: 0.0336
+height: 0.0300
+Area: 0.0004
+CentroidX: 0.8086
+CentroidY: 0.2178

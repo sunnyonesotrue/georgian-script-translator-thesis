@@ -1,0 +1,9 @@
+Location:2025-04-18_221556-1
+Component: 2025-04-18_221556-1_contour_5ce2726c.png
+centerX: 0.8734
+centerY: 0.6025
+width: 0.0359
+height: 0.0282
+Area: 0.0006
+CentroidX: 0.8887
+CentroidY: 0.6162

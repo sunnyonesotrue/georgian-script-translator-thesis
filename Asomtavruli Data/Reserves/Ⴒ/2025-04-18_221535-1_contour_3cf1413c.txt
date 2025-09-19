@@ -1,0 +1,9 @@
+Location:2025-04-18_221535-1
+Component: 2025-04-18_221535-1_contour_3cf1413c.png
+centerX: 0.7379
+centerY: 0.2174
+width: 0.0289
+height: 0.0295
+Area: 0.0005
+CentroidX: 0.7509
+CentroidY: 0.2302

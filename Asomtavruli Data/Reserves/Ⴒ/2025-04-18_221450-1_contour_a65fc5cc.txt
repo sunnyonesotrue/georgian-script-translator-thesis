@@ -1,0 +1,9 @@
+Location:2025-04-18_221450-1
+Component: 2025-04-18_221450-1_contour_a65fc5cc.png
+centerX: 0.1343
+centerY: 0.5700
+width: 0.0324
+height: 0.0231
+Area: 0.0004
+CentroidX: 0.1478
+CentroidY: 0.5815

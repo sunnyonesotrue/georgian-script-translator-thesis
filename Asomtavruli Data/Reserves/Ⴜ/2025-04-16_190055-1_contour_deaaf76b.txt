@@ -1,0 +1,9 @@
+Location:2025-04-16_190055-1
+Component: 2025-04-16_190055-1_contour_deaaf76b.png
+centerX: 0.3869
+centerY: 0.9358
+width: 0.0241
+height: 0.0287
+Area: 0.0004
+CentroidX: 0.3975
+CentroidY: 0.9469

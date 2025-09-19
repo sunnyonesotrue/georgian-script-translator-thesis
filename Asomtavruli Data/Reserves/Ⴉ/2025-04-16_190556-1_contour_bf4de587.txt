@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_bf4de587.png
+centerX: 0.7903
+centerY: 0.8447
+width: 0.0236
+height: 0.0359
+Area: 0.0004
+CentroidX: 0.8021
+CentroidY: 0.8614

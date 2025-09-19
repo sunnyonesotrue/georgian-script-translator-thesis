@@ -1,0 +1,9 @@
+Location: Dz_02-1.png_Otsu.png
+Component: component_1744889440941_210.png
+centerX: 0.6311970979443773
+centerY: 0.39692044482463645
+width: 0.03143893591293833
+height: 0.02566295979469632
+Area: 0.0001794648740177272
+CentroidX: 0.6453
+CentroidY: 0.4122

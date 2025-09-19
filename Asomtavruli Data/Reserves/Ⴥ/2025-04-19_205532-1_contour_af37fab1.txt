@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_af37fab1.png
+centerX: 0.6761
+centerY: 0.3355
+width: 0.0395
+height: 0.0342
+Area: 0.0006
+CentroidX: 0.6943
+CentroidY: 0.3522

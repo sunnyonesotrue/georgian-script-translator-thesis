@@ -1,0 +1,9 @@
+Location:hard6_Gaussian-Closing
+Component: hard6_Gaussian-Closing_contour_bfa1f220.png
+centerX: 0.4230
+centerY: 0.1726
+width: 0.0325
+height: 0.0309
+Area: 0.0002
+CentroidX: 0.4399
+CentroidY: 0.1899

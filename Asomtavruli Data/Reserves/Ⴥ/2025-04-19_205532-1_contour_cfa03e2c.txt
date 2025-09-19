@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_cfa03e2c.png
+centerX: 0.6337
+centerY: 0.4869
+width: 0.0294
+height: 0.0291
+Area: 0.0004
+CentroidX: 0.6455
+CentroidY: 0.5006

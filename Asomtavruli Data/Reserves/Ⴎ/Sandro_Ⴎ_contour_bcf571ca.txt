@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_bcf571ca.png
+centerX: 0.0900
+centerY: 0.1553
+width: 0.0325
+height: 0.0191
+Area: 0.0003
+CentroidX: 0.1074
+CentroidY: 0.1637

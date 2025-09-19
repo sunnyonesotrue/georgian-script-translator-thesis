@@ -1,0 +1,9 @@
+Location:2025-04-18_221616-1
+Component: 2025-04-18_221616-1_contour_b801b828.png
+centerX: 0.2132
+centerY: 0.2174
+width: 0.0383
+height: 0.0629
+Area: 0.0009
+CentroidX: 0.2297
+CentroidY: 0.2525

@@ -1,0 +1,9 @@
+Location:2025-04-19_205532-1
+Component: 2025-04-19_205532-1_contour_ca989eaa.png
+centerX: 0.7238
+centerY: 0.2426
+width: 0.0353
+height: 0.0325
+Area: 0.0005
+CentroidX: 0.7403
+CentroidY: 0.2576

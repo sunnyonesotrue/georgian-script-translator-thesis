@@ -1,0 +1,9 @@
+Location:hard7_Otsu
+Component: hard7_Otsu_contour_c1cabb1e.png
+centerX: 0.1743
+centerY: 0.1356
+width: 0.0143
+height: 0.0193
+Area: 0.0001
+CentroidX: 0.1791
+CentroidY: 0.1457

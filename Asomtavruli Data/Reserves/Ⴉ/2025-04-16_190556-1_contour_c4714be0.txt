@@ -1,0 +1,9 @@
+Location:2025-04-16_190556-1
+Component: 2025-04-16_190556-1_contour_c4714be0.png
+centerX: 0.1961
+centerY: 0.6140
+width: 0.0253
+height: 0.0407
+Area: 0.0006
+CentroidX: 0.2085
+CentroidY: 0.6324

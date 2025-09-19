@@ -1,0 +1,9 @@
+Location:Sandro_Ⴎ
+Component: Sandro_Ⴎ_contour_b130daf7.png
+centerX: 0.5646
+centerY: 0.0855
+width: 0.0292
+height: 0.0263
+Area: 0.0004
+CentroidX: 0.5801
+CentroidY: 0.0977
