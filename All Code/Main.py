@@ -19,6 +19,7 @@ class ImageTranslatorApp:
         self.selected_images = []
         self.output_directory = tk.StringVar()
         self.processing = False
+        self.translation_source = tk.StringVar(value="asomtavruli")  # Default to Asomtavruli
         
         # Load settings
         self.settings_file = "translator_settings.json"
@@ -39,11 +40,12 @@ class ImageTranslatorApp:
         # Set row weights to control how space is distributed
         main_frame.rowconfigure(0, weight=0)  # Title - fixed
         main_frame.rowconfigure(1, weight=0)  # Input section - fixed
-        main_frame.rowconfigure(2, weight=0)  # Output section - fixed  
-        main_frame.rowconfigure(3, weight=1)  # Preview section - expandable
-        main_frame.rowconfigure(4, weight=0)  # Progress section - fixed
-        main_frame.rowconfigure(5, weight=1)  # Log section - expandable
-        main_frame.rowconfigure(6, weight=0)  # Buttons - fixed
+        main_frame.rowconfigure(2, weight=0)  # Translation source section - fixed
+        main_frame.rowconfigure(3, weight=0)  # Output section - fixed  
+        main_frame.rowconfigure(4, weight=1)  # Preview section - expandable
+        main_frame.rowconfigure(5, weight=0)  # Progress section - fixed
+        main_frame.rowconfigure(6, weight=1)  # Log section - expandable
+        main_frame.rowconfigure(7, weight=0)  # Buttons - fixed
         
         # Title
         title_label = ttk.Label(main_frame, text="Image OCR Translator", 
@@ -64,9 +66,25 @@ class ImageTranslatorApp:
         ttk.Button(input_frame, text="Clear", 
                   command=self.clear_images).grid(row=0, column=2)
         
+        # Translation Source Section
+        translation_frame = ttk.LabelFrame(main_frame, text="Translation Source", padding="10")
+        translation_frame.grid(row=2, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
+        
+        ttk.Label(translation_frame, text="Translate from:").grid(row=0, column=0, padx=(0, 15), sticky=tk.W)
+        
+        asomtavruli_radio = ttk.Radiobutton(translation_frame, text="Asomtavruli (ⴀⴑⴍⴋⴇⴀⴅⴐⴓⴊⴈ)", 
+                                          variable=self.translation_source, value="asomtavruli",
+                                          command=self.on_translation_source_change)
+        asomtavruli_radio.grid(row=0, column=1, padx=(0, 20), sticky=tk.W)
+        
+        nuskhuri_radio = ttk.Radiobutton(translation_frame, text="Nuskhuri (ⴌⴓⴑⴞⴓⴐⴈ)", 
+                                       variable=self.translation_source, value="nuskhuri",
+                                       command=self.on_translation_source_change)
+        nuskhuri_radio.grid(row=0, column=2, sticky=tk.W)
+        
         # Output Section
         output_frame = ttk.LabelFrame(main_frame, text="Output Location", padding="10")
-        output_frame.grid(row=2, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
+        output_frame.grid(row=3, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
         output_frame.columnconfigure(1, weight=1)
         
         ttk.Button(output_frame, text="Select Output Folder", 
@@ -77,7 +95,7 @@ class ImageTranslatorApp:
         
         # Image Preview Section - with minimum height
         preview_frame = ttk.LabelFrame(main_frame, text="Selected Images", padding="10")
-        preview_frame.grid(row=3, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(0, 10))
+        preview_frame.grid(row=4, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(0, 10))
         preview_frame.columnconfigure(0, weight=1)
         preview_frame.rowconfigure(0, weight=1)
         
@@ -92,7 +110,7 @@ class ImageTranslatorApp:
         
         # Progress Section
         progress_frame = ttk.LabelFrame(main_frame, text="Progress", padding="10")
-        progress_frame.grid(row=4, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
+        progress_frame.grid(row=5, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
         progress_frame.columnconfigure(0, weight=1)
         
         self.progress_var = tk.DoubleVar()
@@ -105,7 +123,7 @@ class ImageTranslatorApp:
         
         # Log Section - with minimum height
         log_frame = ttk.LabelFrame(main_frame, text="Log", padding="10")
-        log_frame.grid(row=5, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S))
+        log_frame.grid(row=6, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S))
         log_frame.columnconfigure(0, weight=1)
         log_frame.rowconfigure(0, weight=1)
         
@@ -114,7 +132,7 @@ class ImageTranslatorApp:
         
         # Control Buttons
         button_frame = ttk.Frame(main_frame)
-        button_frame.grid(row=6, column=0, columnspan=3, pady=(10, 0))
+        button_frame.grid(row=7, column=0, columnspan=3, pady=(10, 0))
         
         self.process_button = ttk.Button(button_frame, text="Process Images", 
                                        command=self.start_processing, style="Accent.TButton")
@@ -149,6 +167,11 @@ class ImageTranslatorApp:
         self.selected_images = []
         self.update_images_display()
         self.log("Cleared selected images")
+    
+    def on_translation_source_change(self):
+        source = self.translation_source.get()
+        source_name = "Asomtavruli" if source == "asomtavruli" else "Nuskhuri"
+        self.log(f"Translation source changed to: {source_name}")
         
     def update_images_display(self):
         count = len(self.selected_images)
@@ -206,7 +229,7 @@ class ImageTranslatorApp:
                 self.progress_var.set(progress)
                 
                 filename = os.path.basename(image_path)
-                self.update_status(f"Processing {filename}...")
+                self.update_status(f"Processing {filename} ({self.translation_source.get()})...")
                 
                 # Here's where you integrate your OCR system
                 # Replace this with your actual OCR processing
@@ -237,21 +260,30 @@ class ImageTranslatorApp:
         This is just a placeholder that copies the image to the output directory.
         """
         try:
+            # Get the selected translation source
+            source_script = self.translation_source.get()
+            
             # Simulate processing time (remove this in actual implementation)
             import time
             time.sleep(0.1)  # Remove this line
             
             # TODO: Replace this with your OCR processing
             # 1. Load the image
-            # 2. Run OCR to extract text
-            # 3. Translate the text
+            # 2. Run OCR to extract text from the specified script (Asomtavruli or Nuskhuri)
+            # 3. Translate the text to modern Georgian or target language
             # 4. Create translated image
             # 5. Save to output directory
+            
+            # Example of how to use the source script selection:
+            # if source_script == "asomtavruli":
+            #     extracted_text = your_asomtavruli_ocr_function(image_path)
+            # elif source_script == "nuskhuri":
+            #     extracted_text = your_nuskhuri_ocr_function(image_path)
             
             # Placeholder: Just copy the original image for now
             filename = os.path.basename(image_path)
             name, ext = os.path.splitext(filename)
-            output_filename = f"{name}_translated{ext}"
+            output_filename = f"{name}_{source_script}_translated{ext}"
             output_path = os.path.join(self.output_directory.get(), output_filename)
             
             # Simple copy operation (replace with your OCR logic)
@@ -289,7 +321,8 @@ class ImageTranslatorApp:
     
     def save_settings(self):
         settings = {
-            'output_directory': self.output_directory.get()
+            'output_directory': self.output_directory.get(),
+            'translation_source': self.translation_source.get()
         }
         try:
             with open(self.settings_file, 'w') as f:
@@ -303,6 +336,8 @@ class ImageTranslatorApp:
                 with open(self.settings_file, 'r') as f:
                     settings = json.load(f)
                     self.output_directory.set(settings.get('output_directory', ''))
+                    # Load translation source setting (defaults to asomtavruli)
+                    self.translation_source.set(settings.get('translation_source', 'asomtavruli'))
         except Exception as e:
             pass  # Use defaults if loading fails
 
