@@ -317,3 +317,13 @@ class AsomtavruliOCR:
 
 
 __all__ = ["AsomtavruliOCR", "DynamicCNN"]
+
+
+# ocr = AsomtavruliOCR(
+#     model_path="/path/to/best_dynamic_model.pth",
+#     data_path="/path/to/Sorted",
+#     font_path="/path/to/NotoSansGeorgian-VariableFont_wdth,wght.ttf",
+#     output_dir="/path/to/output",
+#     fixed_num_classes=39,
+#     f0=25, num_levels=4, blocks_per_level=2, dropout_rate=0.18, image_size=64
+# )
