@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 import cv2
 import numpy as np
 import os
-from ThresholdManagerCopy import ThresholdManager as TM
+from ThresholdManager import ThresholdManager as TM
 
 # ----------------------------
 # ✅ CONFIGURATION
