@@ -7,7 +7,8 @@ import threading
 from PIL import Image, ImageTk
 import json
 from datetime import datetime
-
+from Asomtavruli_Class import AsomtavruliOCR
+from Nuskhuri_Class import NuskhuriOCR 
 # Import the UI class (assuming it's in a file called ImageTranslatorUI.py)
 from ImageTranslatorUI import ImageTranslatorUI
 
@@ -32,8 +33,9 @@ class ImageTranslatorApp:
         self.ui.log_message("UI created successfully")
         
         # Initialize OCR processor after UI is created
-        self.ocr_processor = None
-        self.ui.log_message("About to initialize OCR processor...")
+        self.asomtavruli_ocr = None
+        self.nuskhuri_ocr = None
+        self.ui.log_message("About to initialize OCR processors...")
         
         try:
             self.initialize_ocr()
@@ -44,90 +46,89 @@ class ImageTranslatorApp:
             self.ui.log_message(f"OCR init traceback: {traceback.format_exc()}")
         
         # Check final status
-        if self.ocr_processor is None:
-            self.ui.log_message("WARNING: OCR processor is None - will run in fallback mode")
+        if self.asomtavruli_ocr is None and self.nuskhuri_ocr is None:
+            self.ui.log_message("WARNING: No OCR processors initialized - will run in fallback mode")
         else:
-            self.ui.log_message("OCR processor successfully initialized")
+            status_msgs = []
+            if self.asomtavruli_ocr: status_msgs.append("Asomtavruli")
+            if self.nuskhuri_ocr: status_msgs.append("Nuskhuri")
+            self.ui.log_message(f"OCR processors successfully initialized: {', '.join(status_msgs)}")
         
         # Log startup message
         self.ui.log_message("Application started")
         
     def initialize_ocr(self):
-        """Initialize the OCR processor with default paths. 
-        You'll need to update these paths to match your setup."""
+        """Initialize both OCR processors with their respective paths."""
         
         self.ui.log_message("=== OCR INITIALIZATION DEBUG ===")
         self.ui.log_message("Step 1: initialize_ocr() method called")
+
         
+        # Initialize Asomtavruli OCR
+        self.ui.log_message("Step 2: Initializing Asomtavruli OCR...")
         try:
-            # Update these paths to match your actual file locations  
-            model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/Neural Networks/best_dynamic_model_try10_97.60.pth"
-            data_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/Sorted"
+            asomtavruli_model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/Neural Networks/best_dynamic_model_try10_97.60.pth"
+            asomtavruli_data_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/Sorted"
+            # Define font_path once so it's available for both blocks even if the first fails early
             font_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/NotoSansGeorgian-VariableFont_wdth,wght.ttf"
+            font_path_if_exists = font_path if os.path.exists(font_path) else None
             
-            self.ui.log_message("Step 2: About to check import of AsomtavruliOCR")
-            
-            # Test the import first
-            try:
-                from Asomtavruli_Class import AsomtavruliOCR
-                self.ui.log_message("Step 3: AsomtavruliOCR import successful")
-            except ImportError as ie:
-                self.ui.log_message(f"Step 3 FAILED: Cannot import AsomtavruliOCR: {ie}")
-                self.ocr_processor = None
-                return
-            except Exception as e:
-                self.ui.log_message(f"Step 3 FAILED: Import error: {e}")
-                self.ocr_processor = None
-                return
-            
-            self.ui.log_message("Step 4: Checking file paths...")
-            self.ui.log_message(f"Model path: {model_path}")
-            self.ui.log_message(f"Data path: {data_path}")
-            self.ui.log_message(f"Font path: {font_path}")
-            
-            # Check if the essential files exist
-            if not os.path.exists(model_path):
-                self.ui.log_message(f"Step 5: Model file not found at {model_path}")
-                self.ui.log_message("SOLUTION: Update model_path in initialize_ocr() method to your actual model file")
-                self.ocr_processor = None
-                return
-                
-            if not os.path.exists(data_path):
-                self.ui.log_message(f"Step 5: Data path not found at {data_path}")
-                self.ui.log_message("SOLUTION: Update data_path in initialize_ocr() method to your actual data folder")
-                self.ocr_processor = None
-                return
-            
-            self.ui.log_message("Step 6: All paths valid, creating AsomtavruliOCR instance...")
-            
-            # Initialize OCR processor
-            self.ocr_processor = AsomtavruliOCR(
-                model_path=model_path,
-                data_path=data_path,
-                font_path=font_path if os.path.exists(font_path) else None,
-                output_dir=None,  # Will be set dynamically per processing
-                fixed_num_classes=39,
-                f0=25,
-                num_levels=4,
-                blocks_per_level=2,
-                dropout_rate=0.18,
-                image_size=64
-            )
-            
-            self.ui.log_message("Step 7: OCR processor created successfully!")
-            
-        except ImportError as e:
-            self.ui.log_message(f"IMPORT ERROR: {str(e)}")
-            self.ui.log_message("Make sure Asomtavruli_Class.py is in the same directory as Main.py")
-            self.ocr_processor = None
+            if os.path.exists(asomtavruli_model_path) and os.path.exists(asomtavruli_data_path):
+                self.asomtavruli_ocr = AsomtavruliOCR(
+                    model_path=asomtavruli_model_path,
+                    data_path=asomtavruli_data_path,
+                    font_path=font_path_if_exists,
+                    output_dir=None,
+                    fixed_num_classes=39,
+                    f0=25,
+                    num_levels=4,
+                    blocks_per_level=2,
+                    dropout_rate=0.18,
+                    image_size=64
+                )
+                self.ui.log_message("✓ Asomtavruli OCR initialized successfully")
+            else:
+                self.ui.log_message("✗ Asomtavruli files not found:")
+                self.ui.log_message(f"  Model: {asomtavruli_model_path} ({'Found' if os.path.exists(asomtavruli_model_path) else 'Not Found'})")
+                self.ui.log_message(f"  Data: {asomtavruli_data_path} ({'Found' if os.path.exists(asomtavruli_data_path) else 'Not Found'})")
         except Exception as e:
-            self.ui.log_message(f"GENERAL ERROR during OCR init: {str(e)}")
-            import traceback
-            self.ui.log_message(f"Full traceback: {traceback.format_exc()}")
-            self.ocr_processor = None
+            self.ui.log_message(f"✗ Asomtavruli OCR initialization failed: {str(e)}")
+            self.asomtavruli_ocr = None
+
+        # Initialize Nuskhuri OCR
+        self.ui.log_message("Step 3: Initializing Nuskhuri OCR...")
+        try:
+            nuskhuri_model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Neural Networks/best_dynamic_model_try1_99.08.pth"
+            nuskhuri_data_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Sorted"
+            # Define font_path once so it's available for both blocks even if the first fails early
+            #TODO: Change to Nuskhuri font when available
+            font_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/NotoSansGeorgian-VariableFont_wdth,wght.ttf"
+            font_path_if_exists = font_path if os.path.exists(font_path) else None
+            
+            if os.path.exists(nuskhuri_model_path) and os.path.exists(nuskhuri_data_path):
+                self.nuskhuri_ocr = NuskhuriOCR(
+                    model_path=nuskhuri_model_path,
+                    data_path=nuskhuri_data_path,
+                    font_path=font_path_if_exists,
+                    output_dir=None,
+                    fixed_num_classes=42,
+                    f0=25,
+                    num_levels=4,
+                    blocks_per_level=2,
+                    dropout_rate=0.18,
+                    image_size=64
+                )
+                self.ui.log_message("✓ Nuskhuri OCR initialized successfully")
+            else:
+                self.ui.log_message("✗ Nuskhuri files not found:")
+                self.ui.log_message(f"  Model: {nuskhuri_model_path} ({'Found' if os.path.exists(nuskhuri_model_path) else 'Not Found'})")
+                self.ui.log_message(f"  Data: {nuskhuri_data_path} ({'Found' if os.path.exists(nuskhuri_data_path) else 'Not Found'})")
+                self.ui.log_message("  Note: Update nuskhuri_model_path and nuskhuri_data_path in initialize_ocr() method")
+        except Exception as e:
+            self.ui.log_message(f"✗ Nuskhuri OCR initialization failed: {str(e)}")
+            self.nuskhuri_ocr = None
             
         self.ui.log_message("=== OCR INITIALIZATION COMPLETE ===")
-        self.ui.log_message(f"OCR Processor status: {'READY' if self.ocr_processor else 'FAILED'}")
         
     def select_images(self):
         """Handle image selection via file dialog"""
@@ -254,81 +255,65 @@ class ImageTranslatorApp:
             
     def process_single_image(self, image_path):
         """
-        Process a single image using the AsomtavruliOCR class.
-        Uses run_on_image to get a single processed result with predictions drawn.
+        Process a single image using the selected OCR engine.
+        Uses run_on_all_thresholds to produce multiple variants.
         """
         try:
-            if self.ocr_processor is None:
-                self.ui.log_message("OCR processor not initialized. Running in fallback mode...")
-                
-                # Fallback mode: copy image with modified name for testing
-                filename = os.path.basename(image_path)
-                name, ext = os.path.splitext(filename)
-                source_script = self.translation_source.get()
-                
-                # Create output directory if it doesn't exist
-                os.makedirs(self.output_directory.get(), exist_ok=True)
-                
-                output_filename = f"ocr_result_{name}_{source_script}.png"
-                output_path = os.path.join(self.output_directory.get(), output_filename)
-                
-                # Copy the original image as a placeholder
-                import shutil
-                # shutil.copy2(image_path, output_path)
-                # self.ui.log_message(f"Fallback mode: Copied {filename} to {output_filename}")
-                # return True
-                
-            # Get the selected translation source
             source_script = self.translation_source.get()
-            
-            # Set the OCR processor's output directory to our selected output directory
-            self.ocr_processor.output_dir = self.output_directory.get()
-            os.makedirs(self.ocr_processor.output_dir, exist_ok=True)
-            
-            filename = os.path.basename(image_path)
-            name, ext = os.path.splitext(filename)
-            
+
+            # Pick the OCR implementation based on the current selection
             if source_script == "asomtavruli":
-                # Process with Asomtavruli OCR - multiple threshold variants
-                self.ui.log_message(f"Running Asomtavruli OCR with all thresholds on {filename}...")
-                
-                # Use run_on_all_thresholds for multiple outputs (9+ variants)
-                saved_paths = self.ocr_processor.run_on_all_thresholds(
-                    image_path, 
-                    show=False  # Set to True if you want to display results
-                )
-                
-                # Log all generated outputs
-                self.ui.log_message(f"Generated {len(saved_paths)} threshold variants:")
-                for i, output_path in enumerate(saved_paths):
-                    output_filename = os.path.basename(output_path)
-                    self.ui.log_message(f"  {i+1}. {output_filename}")
-                
-            elif source_script == "nuskhuri":
-                # For now, use the same Asomtavruli processor
-                # TODO: Implement or import your Nuskhuri OCR processor
-                self.ui.log_message(f"Nuskhuri OCR not yet implemented. Using Asomtavruli processor with all thresholds for {filename}...")
-                
-                # Use run_on_all_thresholds for multiple outputs
-                saved_paths = self.ocr_processor.run_on_all_thresholds(
-                    image_path, 
-                    show=False
-                )
-                
-                self.ui.log_message(f"Generated {len(saved_paths)} threshold variants:")
-                for i, output_path in enumerate(saved_paths):
-                    output_filename = os.path.basename(output_path)
-                    self.ui.log_message(f"  {i+1}. {output_filename}")
-            
+                ocr = self.asomtavruli_ocr
+                ocr_name = "Asomtavruli"
+            else:
+                ocr = self.nuskhuri_ocr
+                ocr_name = "Nuskhuri"
+
+            # If the selected OCR isn't initialized, try to fall back to the other one
+            if ocr is None:
+                fallback_ocr = self.asomtavruli_ocr if source_script != "asomtavruli" else self.nuskhuri_ocr
+                fallback_name = "Asomtavruli" if source_script != "asomtavruli" else "Nuskhuri"
+                if fallback_ocr is not None:
+                    self.ui.log_message(f"{ocr_name} OCR not available. Falling back to {fallback_name}.")
+                    ocr = fallback_ocr
+                    ocr_name = fallback_name
+                else:
+                    # True fallback: just copy/emit placeholder so the batch can continue
+                    self.ui.log_message("No OCR engines initialized. Running in placeholder fallback mode...")
+                    filename = os.path.basename(image_path)
+                    name, _ = os.path.splitext(filename)
+                    os.makedirs(self.output_directory.get(), exist_ok=True)
+                    output_filename = f"ocr_result_{name}_{source_script}.png"
+                    output_path = os.path.join(self.output_directory.get(), output_filename)
+                    # If you want an actual copy, uncomment these lines:
+                    # import shutil
+                    # shutil.copy2(image_path, output_path)
+                    # self.ui.log_message(f"Fallback: copied original to {output_filename}")
+                    return True  # Don't fail the batch
+
+            # Ensure the OCR’s output dir matches current selection
+            ocr.output_dir = self.output_directory.get()
+            os.makedirs(ocr.output_dir, exist_ok=True)
+
+            filename = os.path.basename(image_path)
+            self.ui.log_message(f"Running {ocr_name} OCR with all thresholds on {filename}...")
+
+            # Run the multi-threshold pipeline
+            saved_paths = ocr.run_on_all_thresholds(image_path, show=False)
+
+            self.ui.log_message(f"Generated {len(saved_paths)} threshold variants:")
+            for i, out_path in enumerate(saved_paths, start=1):
+                self.ui.log_message(f"  {i}. {os.path.basename(out_path)}")
+
             return True
-            
+
         except Exception as e:
             error_msg = f"Error processing {os.path.basename(image_path)}: {str(e)}"
             self.ui.log_message(error_msg)
-            # Also log the full traceback for debugging
             import traceback
             self.ui.log_message(f"Full error: {traceback.format_exc()}")
             return False
+
             
     def open_output_folder(self):
         """Open the output folder in the file explorer"""
@@ -365,30 +350,7 @@ class ImageTranslatorApp:
         except Exception as e:
             pass  # Use defaults if loading fails
             
-    def update_ocr_paths(self, model_path, data_path, font_path=None):
-        """Update OCR processor paths and reinitialize if needed"""
-        try:
-            if os.path.exists(model_path) and os.path.exists(data_path):
-                self.ocr_processor = AsomtavruliOCR(
-                    model_path=model_path,
-                    data_path=data_path,
-                    font_path=font_path if font_path and os.path.exists(font_path) else None,
-                    output_dir=self.output_directory.get() or os.getcwd(),
-                    fixed_num_classes=39,
-                    f0=25,
-                    num_levels=4,
-                    blocks_per_level=2,
-                    dropout_rate=0.18,
-                    image_size=64
-                )
-                self.ui.log_message("OCR processor paths updated successfully")
-                return True
-            else:
-                self.ui.log_message("Invalid paths provided for OCR processor")
-                return False
-        except Exception as e:
-            self.ui.log_message(f"Failed to update OCR processor: {str(e)}")
-            return False
+    
 
 
 def main():
