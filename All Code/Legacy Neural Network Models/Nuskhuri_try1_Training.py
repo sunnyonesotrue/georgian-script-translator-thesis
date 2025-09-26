@@ -1,5 +1,4 @@
 #NOTE: this is a Asomtavruli try7 fork
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -18,8 +17,8 @@ num_levels = 4
 blocks_per_level = 2
 batch_size = 16
 num_epochs = 10
-save_path = r"C:\Users\Sandro\Documents\GitHub\Project-Lab---Asomtavruli-OCR\Nuskhuri data\Neural Networks\Models\best_dynamic_model_try1"
-data_path = r"C:\Users\Sandro\Documents\GitHub\Project-Lab---Asomtavruli-OCR\Nuskhuri data\Sorted"
+save_path = r"C:\Users\Sandro\repo\Nuskhuri Data\Neural Networks\Legacy Models"
+data_path = r"C:\Users\Sandro\repo\Nuskhuri Data\Sorted"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
