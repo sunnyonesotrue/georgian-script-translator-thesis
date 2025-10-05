@@ -485,6 +485,9 @@ class NuskhuriOCR:
         if original is None:
             raise FileNotFoundError(f"Could not read image: {image_path}")
 
+        # Extract base filename without extension for unique naming
+        base_filename = os.path.splitext(os.path.basename(image_path))[0]
+
         tm = TM()
         variants = tm.run_all_Nuskuri_Thresholds(original)
 
@@ -532,7 +535,7 @@ class NuskhuriOCR:
                 
                 # Draw rectangles with OpenCV (fast)
                 for (x, y, w, h) in boxes:
-                    cv2.rectangle(vis_bgr, (x, y), (x+w, y+h), (0, 0, 255), 1) # Red boxes (BGR - (0, 0, 255) )
+                    cv2.rectangle(vis_bgr, (x, y), (x+w, y+h), (0, 0, 255), 1)
                 
                 # Convert to PIL for text drawing
                 vis_rgb = cv2.cvtColor(vis_bgr, cv2.COLOR_BGR2RGB)
@@ -551,13 +554,13 @@ class NuskhuriOCR:
                 # Draw text labels with PIL
                 for (x, y, w, h), pred in zip(boxes, predictions):
                     text_y = y - 5 if y >= 15 else y + h + 15
-                    draw.text((x, text_y), pred, fill=(0, 0, 255), font=font) # Red text (BGR - (0, 0, 255))
+                    draw.text((x, text_y), pred, fill=(0, 0, 255), font=font)
                 
                 # Convert back to BGR for saving
                 vis = cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
                 
-                # Save
-                out_path = os.path.join(self.output_dir, f"nuskhuri_ocr_result_{name}.png")
+                # Save with UNIQUE filename including input image base name
+                out_path = os.path.join(self.output_dir, f"nuskhuri_ocr_result_{base_filename}_{name}.png")
                 cv2.imwrite(out_path, vis)
                 saved_paths.append(out_path)
                 print(f"[INFO] {name}: saved with {len(predictions)} predictions")
