@@ -303,6 +303,10 @@ class AsomtavruliOCR:
             "mean_NLMD",
             "gaussian_NLMD",
             "all",
+            "all_opacity",
+            "sauvola",
+            "kmeans",
+            "watershed"
         ]
         if len(default_names) < len(variants):
             default_names += [f"var_{i}" for i in range(len(default_names), len(variants))]

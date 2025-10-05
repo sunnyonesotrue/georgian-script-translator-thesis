@@ -12,6 +12,10 @@ from Nuskhuri_Class import NuskhuriOCR
 # Import the UI class (assuming it's in a file called ImageTranslatorUI.py)
 from ImageTranslatorUI import ImageTranslatorUI
 
+
+#TODO: find and replace Nuskhuri font path when available
+#
+
 class ImageTranslatorApp:
     """Main application controller that handles business logic"""
     
@@ -98,7 +102,7 @@ class ImageTranslatorApp:
         # Initialize Nuskhuri OCR
         self.ui.log_message("Step 3: Initializing Nuskhuri OCR...")
         try:
-            nuskhuri_model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Neural Networks/best_dynamic_model_try1_99.08.pth"
+            nuskhuri_model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Neural Networks/Legacy Models_99.17.pth"
             nuskhuri_data_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Sorted"
             # Define font_path once so it's available for both blocks even if the first fails early
             #TODO: Change to Nuskhuri font when available
@@ -291,7 +295,7 @@ class ImageTranslatorApp:
                     # self.ui.log_message(f"Fallback: copied original to {output_filename}")
                     return True  # Don't fail the batch
 
-            # Ensure the OCR’s output dir matches current selection
+            # Ensure the OCR’s output m.kmdir matches current selection
             ocr.output_dir = self.output_directory.get()
             os.makedirs(ocr.output_dir, exist_ok=True)
 
@@ -349,6 +353,8 @@ class ImageTranslatorApp:
                     self.translation_source.set(settings.get('translation_source', 'asomtavruli'))
         except Exception as e:
             pass  # Use defaults if loading fails
+        
+    
             
     
 
