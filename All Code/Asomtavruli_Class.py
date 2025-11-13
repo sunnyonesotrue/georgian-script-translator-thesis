@@ -121,6 +121,25 @@ class AsomtavruliOCR:
         self.idx_to_class = {v: k for k, v in class_to_idx.items()}
 
         self._font_cache: Optional[ImageFont.FreeTypeFont] = None
+        
+        # Translation mapping from Asomtavruli to modern Georgian
+        self.asomtavruli_to_modern = {
+            'Ⴀ': 'ა', 'Ⴁ': 'ბ', 'Ⴂ': 'გ', 'Ⴃ': 'დ', 'Ⴄ': 'ე', 'Ⴅ': 'ვ',
+            'Ⴆ': 'ზ', 'Ⴇ': 'თ', 'Ⴈ': 'ი', 'Ⴉ': 'კ', 'Ⴊ': 'ლ', 'Ⴋ': 'მ',
+            'Ⴌ': 'ნ', 'Ⴍ': 'ო', 'Ⴎ': 'პ', 'Ⴏ': 'ჟ', 'Ⴐ': 'რ', 'Ⴑ': 'ს',
+            'Ⴒ': 'ტ', 'Ⴓ': 'უ', 'Ⴔ': 'ფ', 'Ⴕ': 'ქ', 'Ⴖ': 'ღ', 'Ⴗ': 'ყ',
+            'Ⴘ': 'შ', 'Ⴙ': 'ჩ', 'Ⴚ': 'ც', 'Ⴛ': 'ძ', 'Ⴜ': 'წ', 'Ⴝ': 'ჭ',
+            'Ⴞ': 'ხ', 'Ⴟ': 'ჯ', 'Ⴠ': 'ჰ', 'Ⴡ': 'ჱ', 'Ⴢ': 'ჲ', 'Ⴣ': 'ჳ',
+            'Ⴤ': 'ჴ', 'Ⴥ': 'ჵ',
+            # Add lowercase Nuskhuri variants for compatibility
+            'ⴀ': 'ა', 'ⴁ': 'ბ', 'ⴂ': 'გ', 'ⴃ': 'დ', 'ⴄ': 'ე', 'ⴅ': 'ვ',
+            'ⴆ': 'ზ', 'ⴇ': 'თ', 'ⴈ': 'ი', 'ⴉ': 'კ', 'ⴊ': 'ლ', 'ⴋ': 'მ',
+            'ⴌ': 'ნ', 'ⴍ': 'ო', 'ⴎ': 'პ', 'ⴏ': 'ჟ', 'ⴐ': 'რ', 'ⴑ': 'ს',
+            'ⴒ': 'ტ', 'ⴓ': 'უ', 'ⴔ': 'ფ', 'ⴕ': 'ქ', 'ⴖ': 'ღ', 'ⴗ': 'ყ',
+            'ⴘ': 'შ', 'ⴙ': 'ჩ', 'ⴚ': 'ც', 'ⴛ': 'ძ', 'ⴜ': 'წ', 'ⴝ': 'ჭ',
+            'ⴞ': 'ხ', 'ⴟ': 'ჯ', 'ⴠ': 'ჰ', 'ⴡ': 'ჱ', 'ⴢ': 'ჲ', 'ⴣ': 'ჳ',
+            'ⴤ': 'ჴ', 'ⴥ': 'ჵ',
+        }
 
     # ------------------------
     # 🔍 Segmentation & Inference
@@ -157,7 +176,8 @@ class AsomtavruliOCR:
     # ------------------------
     def generate_text_from_boxes(self, boxes: List[Tuple[int, int, int, int]], 
                                  predictions: List[str],
-                                 image_shape: Tuple[int, int]) -> str:
+                                 image_shape: Tuple[int, int], 
+                                 translate_text: bool) -> str:
         """
         Generate spatially-aware text from OCR results.
         Groups letters by line and adds appropriate spacing.
@@ -215,7 +235,7 @@ class AsomtavruliOCR:
                         num_spaces = max(1, int(gap / (median_height * 0.8)))
                         line_text.append(" " * num_spaces)
                 
-                line_text.append(char)
+                line_text.append(self.asomtavruli_to_modern[char] if translate_text and char in self.asomtavruli_to_modern else char)
                 prev_x = x + median_height  # Approximate next position
             
             text_lines.append("".join(line_text))
@@ -300,7 +320,7 @@ class AsomtavruliOCR:
         return out_path
 
     def run_on_all_thresholds(self, image_path: str, *, show: bool = False, 
-                              generate_text: bool = False) -> List[str]:
+                              generate_text: bool = False, translate_text: bool = False) -> List[str]:
         """
         Apply all threshold variants and render each result.
         Optionally generate text files with OCR results.
@@ -339,7 +359,7 @@ class AsomtavruliOCR:
             
             # Generate text file if requested
             if generate_text and preds:
-                text_content = self.generate_text_from_boxes(boxes, preds, variant.shape)
+                text_content = self.generate_text_from_boxes(boxes, preds, variant.shape, translate_text)
                 if text_content:
                     text_path = self.save_text_file(text_content, base_filename, name)
                     print(f"[INFO] {name}: saved text file {os.path.basename(text_path)}")

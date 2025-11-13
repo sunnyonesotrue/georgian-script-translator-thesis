@@ -24,6 +24,7 @@ class ImageTranslatorApp:
         self.processing = False
         self.translation_source = tk.StringVar(value="asomtavruli")
         self.generate_text_files = tk.BooleanVar(value=False)  # NEW: text file generation toggle
+        self.translate_to_modern = tk.BooleanVar(value=False)  # NEW: translation toggle
         
         # Settings
         self.settings_file = "translator_settings.json"
@@ -288,7 +289,8 @@ class ImageTranslatorApp:
             saved_paths = ocr.run_on_all_thresholds(
                 image_path, 
                 show=False,
-                generate_text=self.generate_text_files.get()
+                generate_text=self.generate_text_files.get(),
+                translate_text=self.translate_to_modern.get()
             )
 
             self.ui.log_message(f"Generated {len(saved_paths)} threshold variants:")
@@ -322,7 +324,8 @@ class ImageTranslatorApp:
         settings = {
             'output_directory': self.output_directory.get(),
             'translation_source': self.translation_source.get(),
-            'generate_text_files': self.generate_text_files.get()
+            'generate_text_files': self.generate_text_files.get(),
+            'translate_to_modern': self.translate_to_modern.get()
         }
         try:
             with open(self.settings_file, 'w') as f:
@@ -339,6 +342,7 @@ class ImageTranslatorApp:
                     self.output_directory.set(settings.get('output_directory', ''))
                     self.translation_source.set(settings.get('translation_source', 'asomtavruli'))
                     self.generate_text_files.set(settings.get('generate_text_files', False))
+                    self.translate_to_modern.set(settings.get('translate_to_modern', False))
         except Exception as e:
             pass  # Use defaults if loading fails
 

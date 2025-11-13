@@ -47,7 +47,7 @@ class ImageTranslatorUI:
         main_frame.rowconfigure(2, weight=0)  # Translation source section - fixed
         main_frame.rowconfigure(3, weight=0)  # Output section - fixed  
         main_frame.rowconfigure(4, weight=0)  # Text generation option - fixed (NEW)
-        main_frame.rowconfigure(5, weight=1)  # Preview section - expandable
+        main_frame.rowconfigure(5, weight=0)  # Preview section - expandable
         main_frame.rowconfigure(6, weight=0)  # Progress section - fixed
         main_frame.rowconfigure(7, weight=1)  # Log section - expandable
         main_frame.rowconfigure(8, weight=0)  # Buttons - fixed
@@ -56,7 +56,8 @@ class ImageTranslatorUI:
         self.create_input_section(main_frame)
         self.create_translation_source_section(main_frame)
         self.create_output_section(main_frame)
-        self.create_text_generation_section(main_frame)  # NEW
+        self.create_text_generation_section(main_frame)
+        # self.create_text_generation_translate_section(main_frame)
         self.create_preview_section(main_frame)
         self.create_progress_section(main_frame)
         self.create_log_section(main_frame)
@@ -123,7 +124,27 @@ class ImageTranslatorUI:
             variable=self.controller.generate_text_files,
             command=self.controller.save_settings
         )
+        self.text_gen_translate_checkbox = ttk.Checkbutton(
+            text_gen_frame, 
+            text="Translate OCR results to Modern Georgian",
+            variable=self.controller.translate_to_modern,
+            command=self.controller.save_settings
+        )
         self.text_gen_checkbox.grid(row=0, column=0, sticky=tk.W)
+        self.text_gen_translate_checkbox.grid(row=1, column=0, sticky=tk.W)
+        
+    # def create_text_generation_translate_section(self, parent):
+    #     """Create the text file generation option section (NEW)"""
+    #     text_gen_frame = ttk.LabelFrame(parent, text="Output Options", padding="10")
+    #     text_gen_frame.grid(row=4, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
+        
+        # self.text_gen_checkbox = ttk.Checkbutton(
+        #     text_gen_frame, 
+        #     text="Translate OCR results to Modern Georgian",
+        #     variable=self.controller.translate_to_modern,
+        #     command=self.controller.save_settings
+        # )
+    #     self.text_gen_checkbox.grid(row=0, column=0, sticky=tk.W)
                  
     def create_preview_section(self, parent):
         """Create the image preview section"""
