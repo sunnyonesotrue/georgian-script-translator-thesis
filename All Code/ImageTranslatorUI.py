@@ -46,15 +46,17 @@ class ImageTranslatorUI:
         main_frame.rowconfigure(1, weight=0)  # Input section - fixed
         main_frame.rowconfigure(2, weight=0)  # Translation source section - fixed
         main_frame.rowconfigure(3, weight=0)  # Output section - fixed  
-        main_frame.rowconfigure(4, weight=1)  # Preview section - expandable
-        main_frame.rowconfigure(5, weight=0)  # Progress section - fixed
-        main_frame.rowconfigure(6, weight=1)  # Log section - expandable
-        main_frame.rowconfigure(7, weight=0)  # Buttons - fixed
+        main_frame.rowconfigure(4, weight=0)  # Text generation option - fixed (NEW)
+        main_frame.rowconfigure(5, weight=1)  # Preview section - expandable
+        main_frame.rowconfigure(6, weight=0)  # Progress section - fixed
+        main_frame.rowconfigure(7, weight=1)  # Log section - expandable
+        main_frame.rowconfigure(8, weight=0)  # Buttons - fixed
         
         self.create_title_section(main_frame)
         self.create_input_section(main_frame)
         self.create_translation_source_section(main_frame)
         self.create_output_section(main_frame)
+        self.create_text_generation_section(main_frame)  # NEW
         self.create_preview_section(main_frame)
         self.create_progress_section(main_frame)
         self.create_log_section(main_frame)
@@ -109,11 +111,24 @@ class ImageTranslatorUI:
         
         ttk.Entry(output_frame, textvariable=self.controller.output_directory, 
                  state="readonly").grid(row=0, column=1, sticky=(tk.W, tk.E), padx=(0, 10))
+    
+    def create_text_generation_section(self, parent):
+        """Create the text file generation option section (NEW)"""
+        text_gen_frame = ttk.LabelFrame(parent, text="Output Options", padding="10")
+        text_gen_frame.grid(row=4, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
+        
+        self.text_gen_checkbox = ttk.Checkbutton(
+            text_gen_frame, 
+            text="Generate text files with OCR results (spatially preserved)",
+            variable=self.controller.generate_text_files,
+            command=self.controller.save_settings
+        )
+        self.text_gen_checkbox.grid(row=0, column=0, sticky=tk.W)
                  
     def create_preview_section(self, parent):
         """Create the image preview section"""
         preview_frame = ttk.LabelFrame(parent, text="Selected Images", padding="10")
-        preview_frame.grid(row=4, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(0, 10))
+        preview_frame.grid(row=5, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(0, 10))
         preview_frame.columnconfigure(0, weight=1)
         preview_frame.rowconfigure(0, weight=1)
         
@@ -129,7 +144,7 @@ class ImageTranslatorUI:
     def create_progress_section(self, parent):
         """Create the progress section"""
         progress_frame = ttk.LabelFrame(parent, text="Progress", padding="10")
-        progress_frame.grid(row=5, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
+        progress_frame.grid(row=6, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
         progress_frame.columnconfigure(0, weight=1)
         
         self.progress_var = tk.DoubleVar()
@@ -143,7 +158,7 @@ class ImageTranslatorUI:
     def create_log_section(self, parent):
         """Create the log section"""
         log_frame = ttk.LabelFrame(parent, text="Log", padding="10")
-        log_frame.grid(row=6, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S))
+        log_frame.grid(row=7, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S))
         log_frame.columnconfigure(0, weight=1)
         log_frame.rowconfigure(0, weight=1)
         
@@ -153,7 +168,7 @@ class ImageTranslatorUI:
     def create_button_section(self, parent):
         """Create the control buttons section"""
         button_frame = ttk.Frame(parent)
-        button_frame.grid(row=7, column=0, columnspan=3, pady=(10, 0))
+        button_frame.grid(row=8, column=0, columnspan=3, pady=(10, 0))
         
         self.process_button = ttk.Button(button_frame, text="Process Images", 
                                        command=self.controller.start_processing, style="Accent.TButton")
@@ -209,4 +224,3 @@ class ImageTranslatorUI:
     def show_info(self, title, message):
         """Show an info message box"""
         messagebox.showinfo(title, message)
-

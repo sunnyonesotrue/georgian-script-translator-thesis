@@ -9,12 +9,8 @@ import json
 from datetime import datetime
 from Asomtavruli_Class import AsomtavruliOCR
 from Nuskhuri_Class import NuskhuriOCR 
-# Import the UI class (assuming it's in a file called ImageTranslatorUI.py)
 from ImageTranslatorUI import ImageTranslatorUI
 
-
-#TODO: find and replace Nuskhuri font path when available
-#
 
 class ImageTranslatorApp:
     """Main application controller that handles business logic"""
@@ -27,6 +23,7 @@ class ImageTranslatorApp:
         self.output_directory = tk.StringVar()
         self.processing = False
         self.translation_source = tk.StringVar(value="asomtavruli")
+        self.generate_text_files = tk.BooleanVar(value=False)  # NEW: text file generation toggle
         
         # Settings
         self.settings_file = "translator_settings.json"
@@ -73,7 +70,6 @@ class ImageTranslatorApp:
         try:
             asomtavruli_model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/Neural Networks/best_dynamic_model_try10_97.60.pth"
             asomtavruli_data_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/Sorted"
-            # Define font_path once so it's available for both blocks even if the first fails early
             font_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/NotoSansGeorgian-VariableFont_wdth,wght.ttf"
             font_path_if_exists = font_path if os.path.exists(font_path) else None
             
@@ -104,8 +100,6 @@ class ImageTranslatorApp:
         try:
             nuskhuri_model_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Neural Networks/Legacy Models_99.17.pth"
             nuskhuri_data_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Nuskhuri Data/Sorted"
-            # Define font_path once so it's available for both blocks even if the first fails early
-            #TODO: Change to Nuskhuri font when available
             font_path = "/Users/sunnysideup/Documents/Georgian-Script-Translator-Thesis/Asomtavruli Data/NotoSansGeorgian-VariableFont_wdth,wght.ttf"
             font_path_if_exists = font_path if os.path.exists(font_path) else None
             
@@ -127,7 +121,6 @@ class ImageTranslatorApp:
                 self.ui.log_message("✗ Nuskhuri files not found:")
                 self.ui.log_message(f"  Model: {nuskhuri_model_path} ({'Found' if os.path.exists(nuskhuri_model_path) else 'Not Found'})")
                 self.ui.log_message(f"  Data: {nuskhuri_data_path} ({'Found' if os.path.exists(nuskhuri_data_path) else 'Not Found'})")
-                self.ui.log_message("  Note: Update nuskhuri_model_path and nuskhuri_data_path in initialize_ocr() method")
         except Exception as e:
             self.ui.log_message(f"✗ Nuskhuri OCR initialization failed: {str(e)}")
             self.nuskhuri_ocr = None
@@ -239,7 +232,6 @@ class ImageTranslatorApp:
                     failed += 1
                     filename = os.path.basename(image_path)
                     self.ui.log_message(f"✗ Exception processing {filename}: {str(e)}")
-                    # Continue with next image instead of stopping
                     continue
                     
             # Final update
@@ -282,28 +274,22 @@ class ImageTranslatorApp:
                     ocr = fallback_ocr
                     ocr_name = fallback_name
                 else:
-                    # True fallback: just copy/emit placeholder so the batch can continue
                     self.ui.log_message("No OCR engines initialized. Running in placeholder fallback mode...")
-                    filename = os.path.basename(image_path)
-                    name, _ = os.path.splitext(filename)
-                    os.makedirs(self.output_directory.get(), exist_ok=True)
-                    output_filename = f"ocr_result_{name}_{source_script}.png"
-                    output_path = os.path.join(self.output_directory.get(), output_filename)
-                    # If you want an actual copy, uncomment these lines:
-                    # import shutil
-                    # shutil.copy2(image_path, output_path)
-                    # self.ui.log_message(f"Fallback: copied original to {output_filename}")
-                    return True  # Don't fail the batch
+                    return True
 
-            # Ensure the OCR’s output m.kmdir matches current selection
+            # Ensure the OCR's output dir matches current selection
             ocr.output_dir = self.output_directory.get()
             os.makedirs(ocr.output_dir, exist_ok=True)
 
             filename = os.path.basename(image_path)
             self.ui.log_message(f"Running {ocr_name} OCR with all thresholds on {filename}...")
 
-            # Run the multi-threshold pipeline
-            saved_paths = ocr.run_on_all_thresholds(image_path, show=False)
+            # Run the multi-threshold pipeline with text generation option
+            saved_paths = ocr.run_on_all_thresholds(
+                image_path, 
+                show=False,
+                generate_text=self.generate_text_files.get()
+            )
 
             self.ui.log_message(f"Generated {len(saved_paths)} threshold variants:")
             for i, out_path in enumerate(saved_paths, start=1):
@@ -335,7 +321,8 @@ class ImageTranslatorApp:
         """Save application settings"""
         settings = {
             'output_directory': self.output_directory.get(),
-            'translation_source': self.translation_source.get()
+            'translation_source': self.translation_source.get(),
+            'generate_text_files': self.generate_text_files.get()
         }
         try:
             with open(self.settings_file, 'w') as f:
@@ -351,12 +338,9 @@ class ImageTranslatorApp:
                     settings = json.load(f)
                     self.output_directory.set(settings.get('output_directory', ''))
                     self.translation_source.set(settings.get('translation_source', 'asomtavruli'))
+                    self.generate_text_files.set(settings.get('generate_text_files', False))
         except Exception as e:
             pass  # Use defaults if loading fails
-        
-    
-            
-    
 
 
 def main():

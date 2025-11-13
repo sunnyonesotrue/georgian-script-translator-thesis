@@ -119,111 +119,51 @@ class NuskhuriOCR:
         self._font_cache: Optional[ImageFont.FreeTypeFont] = None
 
     # ------------------------
-    # 🔍 FIXED Segmentation
+    # 🔍 Segmentation
     # ------------------------
     @staticmethod
     def clean_binary_image(bin_img: np.ndarray, aggressive: bool = True) -> np.ndarray:
-        """
-        Aggressively clean binary image before segmentation.
-        Removes noise while preserving letter structures.
-        """
-        # 1. Remove tiny isolated specks (salt noise)
+        """Aggressively clean binary image before segmentation."""
         kernel_small = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (2, 2))
         cleaned = cv2.morphologyEx(bin_img, cv2.MORPH_OPEN, kernel_small, iterations=1)
         
-        # 2. Connect broken strokes slightly
         kernel_connect = cv2.getStructuringElement(cv2.MORPH_RECT, (2, 1))
         cleaned = cv2.morphologyEx(cleaned, cv2.MORPH_CLOSE, kernel_connect, iterations=1)
         
-        # 3. Remove components by size and shape
         nb, labels, stats, centroids = cv2.connectedComponentsWithStats(cleaned, connectivity=8)
         h, w = cleaned.shape
-        
         output = np.zeros_like(cleaned)
         
-        for i in range(1, nb):  # skip background (0)
+        for i in range(1, nb):
             x, y, bw, bh, area = stats[i]
-            
-            # Filter criteria
             aspect_ratio = float(bh) / float(bw) if bw > 0 else 0
             
-            # CRITICAL FILTERS:
-            # Remove if too small
             if area < 10:
                 continue
-                
-            # Remove if touching image edges (likely page border artifacts)
             if x <= 2 or y <= 2 or x + bw >= w - 2 or y + bh >= h - 2:
                 continue
-                
-            # Remove if dimensions are unrealistic for letters
-            if bw < 2 or bh < 3:  # too thin/short
+            if bw < 2 or bh < 3:
                 continue
-            if bw > w * 0.3 or bh > h * 0.5:  # too large (likely page artifacts)
+            if bw > w * 0.3 or bh > h * 0.5:
                 continue
-                
-            # Remove extreme aspect ratios (noise often has weird shapes)
             if aspect_ratio > 15 or (aspect_ratio < 0.1 and area < 50):
                 continue
-                
-            # Remove if area is too large for single letter
             if area > 5000:
                 continue
                 
-            # Keep this component
             output[labels == i] = 255
         
         return output
 
-
     @staticmethod
     def segment_letters(binary_or_gray_img, min_area: int = 15, max_area: int = 4000) -> List[Tuple[int, int, int, int]]:
-        """
-        IMPROVED segmentation with better noise filtering.
-        Returns boxes sorted by reading order (top-to-bottom, left-to-right).
-        
-        Args:
-            binary_or_gray_img: Input image (can be binary, grayscale, or path)
-            min_area: Minimum component area (pixels)
-            max_area: Maximum component area (pixels)
-        """
+        """IMPROVED segmentation with better noise filtering."""
         th = binary_or_gray_img
-        # # Step 1: Normalize to grayscale
-        # if isinstance(binary_or_gray_img, np.ndarray):
-        #     gray = binary_or_gray_img
-        #     if gray.ndim == 3:
-        #         gray = cv2.cvtColor(gray, cv2.COLOR_BGR2GRAY)
-        # elif isinstance(binary_or_gray_img, str):
-        #     gray = cv2.imread(binary_or_gray_img, cv2.IMREAD_GRAYSCALE)
-        #     if gray is None:
-        #         raise FileNotFoundError(f"Could not read image: {binary_or_gray_img}")
-        # else:
-        #     try:
-        #         from PIL import Image as _PILImage
-        #         if isinstance(binary_or_gray_img, _PILImage.Image):
-        #             gray = np.array(binary_or_gray_img.convert("L"), dtype=np.uint8)
-        #         else:
-        #             raise TypeError()
-        #     except Exception:
-        #         raise TypeError(f"Unsupported input type: {type(binary_or_gray_img)}")
-        #
-        # Step 2: Ensure binary with correct polarity
-        # u = np.unique(binary_or_gray_img)
-        # if len(u) <= 3 and set(int(v) for v in u).issubset({0, 255}):
-        #     th = gray
-        # else:
-        #     _, th = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)
         
-        # CRITICAL: Ensure white text on black background
         white_ratio = np.mean(th == 255)
         if white_ratio > 0.5:
             th = cv2.bitwise_not(th)
         
-        # Step 3: CLEAN the binary image aggressively
-        # This is the key improvement - remove noise before segmentation
-        # cleaned = NuskhuriOCR.clean_binary_image(th, aggressive=True)
-        
-        # Step 4: Connected components on cleaned image
         num_labels, labels, stats, centroids = cv2.connectedComponentsWithStats(
             th, connectivity=8
         )
@@ -231,38 +171,28 @@ class NuskhuriOCR:
         h, w = th.shape
         boxes = []
         
-        # Step 5: Extract valid bounding boxes with smart filtering
         for i in range(1, num_labels):
             x, y, bw, bh, area = stats[i]
             
-            # Apply size constraints
             if area < min_area or area > max_area:
                 continue
-            
-            # Dimension sanity checks
             if bw < 2 or bh < 3:
                 continue
-            
-            # Skip edge-touching boxes (page borders)
             if x <= 1 or y <= 1 or x + bw >= w - 1 or y + bh >= h - 1:
                 continue
             
-            # Calculate features for additional filtering
             aspect_ratio = float(bh) / float(bw) if bw > 0 else 0
             density = area / float(bw * bh) if (bw * bh) > 0 else 0
             
-            # Filter unrealistic shapes
-            if aspect_ratio > 12:  # too tall/thin (likely noise)
+            if aspect_ratio > 12:
                 continue
-            if aspect_ratio < 0.15 and area < 100:  # too wide/short and small
+            if aspect_ratio < 0.15 and area < 100:
                 continue
-            if density < 0.1:  # too sparse (likely broken noise)
+            if density < 0.1:
                 continue
             
             boxes.append((x, y, bw, bh))
         
-        # Step 6: Sort by reading order (line-by-line, left-to-right)
-        # Use adaptive line height detection
         if boxes:
             heights = [bh for (_, _, _, bh) in boxes]
             median_height = int(np.median(heights)) if heights else 10
@@ -270,11 +200,9 @@ class NuskhuriOCR:
         else:
             line_threshold = 10
         
-        # Sort: group by approximate line (y-coordinate), then by x
         boxes = sorted(boxes, key=lambda b: (b[1] // line_threshold, b[0]))
         
         return boxes
-
 
     def _to_tensor(self, crop: np.ndarray) -> torch.Tensor:
         if crop.ndim == 2:
@@ -282,39 +210,106 @@ class NuskhuriOCR:
         else:
             pil_img = Image.fromarray(cv2.cvtColor(crop, cv2.COLOR_BGR2RGB))
         
-        # Apply transform
         tensor = self.transform(pil_img).unsqueeze(0).to(self.device)
-        
-        # DEBUG: What does the model actually see?
-        # Reverse normalization to see original range
-        denorm = tensor.squeeze() * 0.5 + 0.5  # Back to [0, 1]
-        print(f"    [Tensor] After norm: min={tensor.min():.3f}, max={tensor.max():.3f}")
-        print(f"    [Tensor] Denormalized: min={denorm.min():.3f}, max={denorm.max():.3f}, mean={denorm.mean():.3f}")
-    
         return tensor
 
     def classify_crop(self, crop: np.ndarray) -> str:
         with torch.no_grad():
-            # Try original polarity
             logits1 = self.model(self._to_tensor(crop))
             conf1 = torch.softmax(logits1, dim=1).max().item()
             pred1 = int(logits1.argmax(dim=1).item())
             
-            # Try inverted polarity
             crop_inv = cv2.bitwise_not(crop)
             logits2 = self.model(self._to_tensor(crop_inv))
             conf2 = torch.softmax(logits2, dim=1).max().item()
             pred2 = int(logits2.argmax(dim=1).item())
             
-            # Use whichever has higher confidence
             if conf2 > conf1:
                 pred = pred2
-                print(f"    [Classify] Used inverted (conf: {conf2:.3f} vs {conf1:.3f})")
             else:
                 pred = pred1
-                print(f"    [Classify] Used original (conf: {conf1:.3f} vs {conf2:.3f})")
         
         return self.idx_to_class.get(pred, "Error in Classify_Crop")
+
+    # ------------------------
+    # 📝 NEW: Text Generation
+    # ------------------------
+    def generate_text_from_boxes(self, boxes: List[Tuple[int, int, int, int]], 
+                                 predictions: List[str],
+                                 image_shape: Tuple[int, int]) -> str:
+        """
+        Generate spatially-aware text from OCR results.
+        Groups letters by line and adds appropriate spacing.
+        Filters out noise marked with ','.
+        """
+        if not boxes or not predictions:
+            return ""
+        
+        h, w = image_shape
+        
+        # Filter out noise (comma markers)
+        filtered = [(box, pred) for box, pred in zip(boxes, predictions) if pred != ","]
+        
+        if not filtered:
+            return ""
+        
+        boxes, predictions = zip(*filtered)
+        boxes = list(boxes)
+        predictions = list(predictions)
+        
+        # Calculate median character height for line grouping
+        heights = [bh for (_, _, _, bh) in boxes]
+        median_height = int(np.median(heights)) if heights else 10
+        line_threshold = max(median_height // 2, 5)
+        
+        # Group boxes by line
+        lines = {}
+        for (x, y, bw, bh), pred in zip(boxes, predictions):
+            line_num = y // line_threshold
+            if line_num not in lines:
+                lines[line_num] = []
+            lines[line_num].append((x, pred))
+        
+        # Sort lines top to bottom, and chars left to right within each line
+        sorted_lines = []
+        for line_num in sorted(lines.keys()):
+            line_chars = sorted(lines[line_num], key=lambda item: item[0])
+            sorted_lines.append(line_chars)
+        
+        # Build text with spacing
+        text_lines = []
+        for line_chars in sorted_lines:
+            if not line_chars:
+                continue
+            
+            line_text = []
+            prev_x = None
+            
+            for x, char in line_chars:
+                if prev_x is not None:
+                    # Calculate spacing between characters
+                    gap = x - prev_x
+                    # If gap is larger than typical character width, add space
+                    if gap > median_height * 0.8:  # Adjust threshold as needed
+                        num_spaces = max(1, int(gap / (median_height * 0.8)))
+                        line_text.append(" " * num_spaces)
+                
+                line_text.append(char)
+                prev_x = x + median_height  # Approximate next position
+            
+            text_lines.append("".join(line_text))
+        
+        return "\n".join(text_lines)
+
+    def save_text_file(self, text: str, base_filename: str, variant_name: str) -> str:
+        """Save OCR text to a file."""
+        text_filename = f"nuskhuri_text_{base_filename}_{variant_name}.txt"
+        text_path = os.path.join(self.output_dir, text_filename)
+        
+        with open(text_path, 'w', encoding='utf-8') as f:
+            f.write(text)
+        
+        return text_path
 
     # ------------------------
     # 🖼️ Rendering
@@ -342,7 +337,6 @@ class NuskhuriOCR:
         ) -> str:
         skip_labels = skip_labels or set([","])
 
-        # Ensure we're drawing on a color image
         if base_img.ndim == 2:
             rgb = cv2.cvtColor(base_img, cv2.COLOR_GRAY2RGB)
         else:
@@ -356,10 +350,8 @@ class NuskhuriOCR:
             if pred in skip_labels:
                 continue
             
-            # Draw rectangle
-            draw.rectangle([x, y, x + w, y + h], outline="red", width=1)  # Changed to lime green, thicker
+            draw.rectangle([x, y, x + w, y + h], outline="red", width=1)
             
-            # Draw label
             text_y = y - 18 if y - 18 >= 0 else y + h + 2
             draw.text((x, text_y), pred, fill="red", font=font)
 
@@ -374,36 +366,25 @@ class NuskhuriOCR:
         
         return out_path
 
-
     # ------------------------
     # ▶️ Pipeline Entrypoints
     # ------------------------
     def run_on_array(self, binary_or_gray_img) -> Tuple[List[Tuple[int, int, int, int]], List[str]]:
-        """
-        IMPROVED: Segment and classify with better diagnostics.
-        """
-        # Ensure white-on-black
-        bin_img = self._ensure_white_text_on_black(binary_or_gray_img)
+        """IMPROVED: Segment and classify with better diagnostics."""
+        bin_img = binary_or_gray_img
         
-        # Diagnostic
         white_ratio = np.mean(bin_img == 255)
-        print(f"[DEBUG] White pixel ratio: {white_ratio:.3f} (target: <0.3 for text)")
+        print(f"[DEBUG] White pixel ratio: {white_ratio:.3f}")
         
-        # Segment with improved method
         boxes = self.segment_letters(bin_img, min_area=15, max_area=4000)
         print(f"[DEBUG] Found {len(boxes)} components after filtering")
         
         if len(boxes) == 0:
-            print("[WARN] No components found! Image may be:")
-            print("  - Too noisy (try stricter threshold)")
-            print("  - Wrong polarity (check white_ratio above)")
-            print("  - Empty/blank")
+            print("[WARN] No components found!")
             return [], []
         
-        # Extract crops and classify
         crops = []
         for (x, y, w, h) in boxes:
-            # Add small padding to crops (helps classification)
             pad = 2
             x1 = max(0, x - pad)
             y1 = max(0, y - pad)
@@ -424,8 +405,9 @@ class NuskhuriOCR:
         out_path = self.draw_predictions(gray, boxes, preds, name_suffix=name_suffix, show=show)
         return out_path
 
-    def run_on_all_thresholds_only_boxes(self, image_path: str, *, show: bool = False) -> List[str]:
-        """Apply threshold methods - EXACT match to test script logic."""
+    def run_on_all_thresholds(self, image_path: str, *, show: bool = False, 
+                              generate_text: bool = False) -> List[str]:
+        """Apply threshold methods with classification and optional text generation."""
         if TM is None:
             raise ImportError("ThresholdManager could not be imported.")
 
@@ -433,59 +415,6 @@ class NuskhuriOCR:
         if original is None:
             raise FileNotFoundError(f"Could not read image: {image_path}")
 
-        tm = TM()
-        variants = tm.run_all_Nuskuri_Thresholds(original)
-
-        saved_paths: List[str] = []
-        
-        for name, binary in variants.items():
-            try:
-                # DO NOT call any conversion - use binary directly from threshold method
-                # This matches: binary = method(img) in test script
-                
-                # Verify it's actually binary
-                if not isinstance(binary, np.ndarray):
-                    print(f"[ERROR] {name}: not ndarray, skipping")
-                    continue
-                
-                white_pct = np.mean(binary == 255)
-                print(f"[INFO] {name}: {white_pct:.1%} white pixels")
-                
-                # Segment EXACTLY like test script
-                nb, labels, stats, _ = cv2.connectedComponentsWithStats(binary, connectivity=8)
-                num_components = nb - 1
-                print(f"[INFO] {name}: {num_components} raw components")
-                
-                # Draw on original grayscale EXACTLY like test script
-                vis = cv2.cvtColor(original, cv2.COLOR_GRAY2BGR)
-                
-                for i in range(1, min(nb, 1000)):
-                    x, y, w, h = stats[i][:4]
-                    cv2.rectangle(vis, (x, y), (x+w, y+h), (0, 255, 0), 2)
-                
-                # Save
-                out_path = os.path.join(self.output_dir, f"nuskhuri_ocr_result_{name}.png")
-                cv2.imwrite(out_path, vis)
-                saved_paths.append(out_path)
-                print(f"[INFO] {name}: saved {num_components} boxes")
-                
-            except Exception as e:
-                print(f"[ERROR] {name}: {e}")
-                import traceback
-                traceback.print_exc()
-
-        return saved_paths
-    
-    def run_on_all_thresholds(self, image_path: str, *, show: bool = False) -> List[str]:
-        """Apply threshold methods with classification."""
-        if TM is None:
-            raise ImportError("ThresholdManager could not be imported.")
-
-        original = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-        if original is None:
-            raise FileNotFoundError(f"Could not read image: {image_path}")
-
-        # Extract base filename without extension for unique naming
         base_filename = os.path.splitext(os.path.basename(image_path))[0]
 
         tm = TM()
@@ -502,7 +431,6 @@ class NuskhuriOCR:
                 white_pct = np.mean(binary == 255)
                 print(f"[INFO] {name}: {white_pct:.1%} white pixels")
                 
-                # Get components and classify
                 nb, labels, stats, _ = cv2.connectedComponentsWithStats(binary, connectivity=8)
                 num_components = nb - 1
                 print(f"[INFO] {name}: {num_components} raw components")
@@ -530,19 +458,23 @@ class NuskhuriOCR:
                 
                 print(f"[INFO] {name}: classified {len(predictions)} components")
                 
-                # === USE PIL FOR DRAWING (supports Unicode) ===
+                # Generate text file if requested
+                if generate_text and predictions:
+                    text_content = self.generate_text_from_boxes(boxes, predictions, binary.shape)
+                    if text_content:
+                        text_path = self.save_text_file(text_content, base_filename, name)
+                        print(f"[INFO] {name}: saved text file {os.path.basename(text_path)}")
+                
+                # Draw visualization
                 vis_bgr = cv2.cvtColor(original, cv2.COLOR_GRAY2BGR)
                 
-                # Draw rectangles with OpenCV (fast)
                 for (x, y, w, h) in boxes:
                     cv2.rectangle(vis_bgr, (x, y), (x+w, y+h), (0, 0, 255), 1)
                 
-                # Convert to PIL for text drawing
                 vis_rgb = cv2.cvtColor(vis_bgr, cv2.COLOR_BGR2RGB)
                 pil_img = Image.fromarray(vis_rgb)
                 draw = ImageDraw.Draw(pil_img)
                 
-                # Load Georgian font
                 try:
                     if self.font_path and os.path.exists(self.font_path):
                         font = ImageFont.truetype(self.font_path, 14)
@@ -551,15 +483,12 @@ class NuskhuriOCR:
                 except:
                     font = ImageFont.load_default()
                 
-                # Draw text labels with PIL
                 for (x, y, w, h), pred in zip(boxes, predictions):
                     text_y = y - 5 if y >= 15 else y + h + 15
                     draw.text((x, text_y), pred, fill=(0, 0, 255), font=font)
                 
-                # Convert back to BGR for saving
                 vis = cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
                 
-                # Save with UNIQUE filename including input image base name
                 out_path = os.path.join(self.output_dir, f"nuskhuri_ocr_result_{base_filename}_{name}.png")
                 cv2.imwrite(out_path, vis)
                 saved_paths.append(out_path)
@@ -571,5 +500,6 @@ class NuskhuriOCR:
                 traceback.print_exc()
 
         return saved_paths
+
 
 __all__ = ["NuskhuriOCR", "NuskhuriDynamicCNN"]
