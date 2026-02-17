@@ -1,4 +1,4 @@
-# 🏛️ Ancient Georgian Script Translator (OCR & NLP)
+# Ancient Georgian Script Translator (OCR & NLP)
 
 An end-to-end AI pipeline designed to digitize and translate historical Georgian scripts (**Asomtavruli** and **Nuskhuri**) into **Modern Georgian (Mkhedruli)**. 
 
@@ -21,12 +21,12 @@ The pipeline consists of four distinct stages:
 3.  **Linguistic Mapping:** A translation layer that handles the evolution of phonemes and syntax from Ancient to Modern Georgian.
 4.  **UI Layer:** A web interface allowing users to upload images and receive real-time digitized text.
 
-## 📊 Dataset & Training
+## Dataset & Training
 * **Data Sourcing:** Utilized a hybrid dataset of authentic historical manuscripts and synthetically generated text to ensure high coverage of rare ligatures.
 * **Preprocessing:** Implemented adaptive thresholding to handle low-contrast scans typical of museum archives.
 * **Optimization:** Utilized [Adam Optimizer/Cross-Entropy Loss] with a learning rate scheduler to achieve convergence on complex character sets.
 
-## 💻 Installation & Usage
+## Installation & Usage
 ```bash
 # Clone the repository
 git clone [https://github.com/SunnyOneSoTrue/Georgian-Script-Translator-Thesis.git](https://github.com/SunnyOneSoTrue/Georgian-Script-Translator-Thesis.git)
