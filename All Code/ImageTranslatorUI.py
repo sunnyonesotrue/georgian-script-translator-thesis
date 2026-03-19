@@ -21,8 +21,8 @@ class ImageTranslatorUI:
     def setup_window(self):
         """Configure the main window"""
         self.root.title("Image OCR Translator")
-        self.root.geometry("800x600")
-        self.root.minsize(650, 500)
+        self.root.geometry("800x700")
+        self.root.minsize(650, 700)
         
         # Center window on screen
         self.root.update_idletasks()
