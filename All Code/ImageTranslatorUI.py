@@ -22,8 +22,8 @@ class ImageTranslatorUI:
     def setup_window(self):
         """Configure the main window"""
         self.root.title("Image OCR Translator")
-        self.root.geometry("800x620")
-        self.root.minsize(650, 700)
+        self.root.geometry("800x780")
+        self.root.minsize(650, 600)
 
         self.root.update_idletasks()
         x = (self.root.winfo_screenwidth() // 2) - (self.root.winfo_width() // 2)
@@ -31,33 +31,45 @@ class ImageTranslatorUI:
         self.root.geometry(f"+{x}+{y}")
 
     def setup_ui(self):
-        """Setup the user interface"""
-        main_frame = ttk.Frame(self.root, padding="10")
-        main_frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
+        """Setup the user interface using a vertical PanedWindow so the log
+        panel can be resized by dragging the sash."""
 
+        # ── Outer shell ───────────────────────────────────────────────────
+        outer = ttk.Frame(self.root, padding="10")
+        outer.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
-        main_frame.columnconfigure(1, weight=1)
+        outer.columnconfigure(0, weight=1)
+        outer.rowconfigure(0, weight=1)   # paned window expands
+        outer.rowconfigure(1, weight=0)   # button bar stays fixed
 
-        main_frame.rowconfigure(0, weight=0)   # Title
-        main_frame.rowconfigure(1, weight=0)   # Input section
-        main_frame.rowconfigure(2, weight=0)   # Translation source
-        main_frame.rowconfigure(3, weight=0)   # Output section
-        main_frame.rowconfigure(4, weight=0)   # Output options
-        main_frame.rowconfigure(5, weight=0)   # Preview
-        main_frame.rowconfigure(6, weight=0)   # Progress
-        main_frame.rowconfigure(7, weight=1)   # Log
-        main_frame.rowconfigure(8, weight=0)   # Buttons
+        # ── Vertical PanedWindow ──────────────────────────────────────────
+        paned = ttk.PanedWindow(outer, orient=tk.VERTICAL)
+        paned.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
 
-        self.create_title_section(main_frame)
-        self.create_input_section(main_frame)
-        self.create_translation_source_section(main_frame)
-        self.create_output_section(main_frame)
-        self.create_text_generation_section(main_frame)
-        self.create_preview_section(main_frame)
-        self.create_progress_section(main_frame)
-        self.create_log_section(main_frame)
-        self.create_button_section(main_frame)
+        # ── TOP PANE: all fixed controls ──────────────────────────────────
+        top_pane = ttk.Frame(paned, padding=(0, 0, 0, 4))
+        paned.add(top_pane, weight=0)   # weight=0 → top gets minimal growth
+        top_pane.columnconfigure(1, weight=1)
+
+        self.create_title_section(top_pane)
+        self.create_input_section(top_pane)
+        self.create_translation_source_section(top_pane)
+        self.create_output_section(top_pane)
+        self.create_text_generation_section(top_pane)
+        self.create_preview_section(top_pane)
+        self.create_progress_section(top_pane)
+
+        # ── BOTTOM PANE: log ──────────────────────────────────────────────
+        log_pane = ttk.Frame(paned, padding=(0, 4, 0, 0))
+        paned.add(log_pane, weight=1)   # weight=1 → log absorbs extra space
+        log_pane.columnconfigure(0, weight=1)
+        log_pane.rowconfigure(0, weight=1)
+
+        self.create_log_section(log_pane)
+
+        # ── BUTTON BAR: always visible below the sash ─────────────────────
+        self.create_button_section(outer)
 
     # ------------------------------------------------------------------
     # Section builders
@@ -250,11 +262,9 @@ class ImageTranslatorUI:
         self.status_label.grid(row=1, column=0, sticky=tk.W)
 
     def create_log_section(self, parent):
-        """Create the log section"""
-        log_frame = ttk.LabelFrame(parent, text="Log", padding="10")
-        log_frame.grid(
-            row=7, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S)
-        )
+        """Create the log section — fills whatever space the sash allows."""
+        log_frame = ttk.LabelFrame(parent, text="Log  (drag sash above to resize)", padding="10")
+        log_frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
         log_frame.columnconfigure(0, weight=1)
         log_frame.rowconfigure(0, weight=1)
 
@@ -262,9 +272,9 @@ class ImageTranslatorUI:
         self.log_text.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
 
     def create_button_section(self, parent):
-        """Create the control buttons section"""
+        """Create the control buttons section — always visible below the sash."""
         button_frame = ttk.Frame(parent)
-        button_frame.grid(row=8, column=0, columnspan=3, pady=(10, 0))
+        button_frame.grid(row=1, column=0, pady=(10, 0), sticky=(tk.W, tk.E))
 
         self.process_button = ttk.Button(
             button_frame,
