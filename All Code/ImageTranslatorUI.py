@@ -159,21 +159,50 @@ class ImageTranslatorUI:
             row=4, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10)
         )
 
+        # ── Image output ──────────────────────────────────────────────────
+        img_label = ttk.Label(text_gen_frame, text="Image output:",
+                              font=("Arial", 9, "bold"))
+        img_label.grid(row=0, column=0, sticky=tk.W, pady=(0, 2))
+
+        self.translate_onto_image_checkbox = ttk.Checkbutton(
+            text_gen_frame,
+            text="Overlay Modern Georgian translation on annotated images "
+                 "(replaces original script labels in the output image)",
+            variable=self.controller.translate_onto_image,
+            command=self.controller.save_settings,
+        )
+        self.translate_onto_image_checkbox.grid(row=1, column=0, sticky=tk.W, padx=(12, 0))
+
+        # ── Text output ───────────────────────────────────────────────────
+        txt_label = ttk.Label(text_gen_frame, text="Text output:",
+                              font=("Arial", 9, "bold"))
+        txt_label.grid(row=2, column=0, sticky=tk.W, pady=(8, 2))
+
+        self.generate_original_text_checkbox = ttk.Checkbutton(
+            text_gen_frame,
+            text="Generate text file — original script characters  "
+                 "(*_original.txt)",
+            variable=self.controller.generate_original_text,
+            command=self.controller.save_settings,
+        )
+        self.generate_original_text_checkbox.grid(row=3, column=0, sticky=tk.W, padx=(12, 0))
+
         self.text_gen_checkbox = ttk.Checkbutton(
             text_gen_frame,
-            text="Generate text files with OCR results (spatially preserved)  "
-                 "—  for PDFs a single combined .txt is produced",
+            text="Generate text file — spatially preserved OCR results  "
+                 "(*_translated.txt when translated, otherwise plain)",
             variable=self.controller.generate_text_files,
             command=self.controller.save_settings,
         )
+        self.text_gen_checkbox.grid(row=4, column=0, sticky=tk.W, padx=(12, 0))
+
         self.text_gen_translate_checkbox = ttk.Checkbutton(
             text_gen_frame,
-            text="Translate OCR results to Modern Georgian",
+            text="Translate text file output to Modern Georgian",
             variable=self.controller.translate_to_modern,
             command=self.controller.save_settings,
         )
-        self.text_gen_checkbox.grid(row=0, column=0, sticky=tk.W)
-        self.text_gen_translate_checkbox.grid(row=1, column=0, sticky=tk.W)
+        self.text_gen_translate_checkbox.grid(row=5, column=0, sticky=tk.W, padx=(24, 0))
 
     def create_preview_section(self, parent):
         """Create the selected files preview section"""

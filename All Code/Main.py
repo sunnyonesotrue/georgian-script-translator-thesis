@@ -27,6 +27,8 @@ class ImageTranslatorApp:
         self.translation_source = tk.StringVar(value="asomtavruli")
         self.generate_text_files = tk.BooleanVar(value=False)
         self.translate_to_modern = tk.BooleanVar(value=False)
+        self.translate_onto_image = tk.BooleanVar(value=False)   # NEW
+        self.generate_original_text = tk.BooleanVar(value=False) # NEW
 
         # Settings
         self.settings_file = "translator_settings.json"
@@ -353,6 +355,8 @@ class ImageTranslatorApp:
                 show=False,
                 generate_text=self.generate_text_files.get(),
                 translate_text=self.translate_to_modern.get(),
+                translate_onto_image=self.translate_onto_image.get(),
+                generate_original_text=self.generate_original_text.get(),
             )
 
             self.ui.log_message(f"Generated {len(saved_paths)} threshold variants:")
@@ -396,10 +400,19 @@ class ImageTranslatorApp:
 
         return ocr, ocr_name
 
-    def _annotate_gray_array(self, gray_array, boxes, preds, ocr):
+    def _annotate_gray_array(self, gray_array, boxes, preds, ocr,
+                              translate_onto_image: bool = False):
         """
         Draw OCR results on a grayscale numpy array and return a PIL RGB image.
+        When translate_onto_image is True, labels are swapped to their modern
+        Georgian equivalents using the OCR engine's own translation map.
         """
+        # Grab whichever translation map the OCR object exposes
+        translation_map = (
+            getattr(ocr, "asomtavruli_to_modern", None)
+            or getattr(ocr, "nuskhuri_to_modern", {})
+        )
+
         rgb = cv2.cvtColor(gray_array, cv2.COLOR_GRAY2RGB)
         pil_img = Image.fromarray(rgb)
         draw = ImageDraw.Draw(pil_img)
@@ -411,7 +424,12 @@ class ImageTranslatorApp:
                 continue
             draw.rectangle([x, y, x + w, y + h], outline="red", width=1)
             text_y = y - 15 if y - 15 >= 0 else y + h + 2
-            draw.text((x, text_y), pred, fill="green", font=font)
+            label = (
+                translation_map.get(pred, pred)
+                if translate_onto_image
+                else pred
+            )
+            draw.text((x, text_y), label, fill="green", font=font)
 
         return pil_img
 
@@ -532,19 +550,18 @@ class ImageTranslatorApp:
 
                         # Annotate the *original* (un-thresholded) page
                         annotated_pil = self._annotate_gray_array(
-                            gray, boxes, preds, ocr
+                            gray, boxes, preds, ocr,
+                            translate_onto_image=self.translate_onto_image.get(),
                         )
 
                         if variant_name not in variant_pages:
                             variant_pages[variant_name] = []
                         variant_pages[variant_name].append(annotated_pil)
 
-                        # Collect text if requested
+                        # ── Translated text file (existing option) ────────
                         if self.generate_text_files.get() and preds:
                             page_text = ocr.generate_text_from_boxes(
-                                boxes,
-                                preds,
-                                gray.shape,
+                                boxes, preds, gray.shape,
                                 self.translate_to_modern.get(),
                             )
                             if page_text:
@@ -552,6 +569,19 @@ class ImageTranslatorApp:
                                 if variant_name not in variant_texts:
                                     variant_texts[variant_name] = []
                                 variant_texts[variant_name].append(entry)
+
+                        # ── Original-script text file (new option) ────────
+                        if self.generate_original_text.get() and preds:
+                            orig_text = ocr.generate_text_from_boxes(
+                                boxes, preds, gray.shape,
+                                translate_text=False,
+                            )
+                            if orig_text:
+                                entry = f"=== Page {page_idx + 1} ===\n{orig_text}"
+                                key = variant_name + "__original"
+                                if key not in variant_texts:
+                                    variant_texts[key] = []
+                                variant_texts[key].append(entry)
 
                     except Exception as e:
                         self.ui.log_message(
@@ -561,7 +591,7 @@ class ImageTranslatorApp:
 
             doc.close()
 
-            # ── Save one PDF (and optionally one .txt) per variant ────────
+            # ── Save one PDF (and optionally text files) per variant ─────
             saved_pdfs = 0
             for variant_name, pages in variant_pages.items():
                 if not pages:
@@ -582,15 +612,30 @@ class ImageTranslatorApp:
                 )
                 saved_pdfs += 1
 
-                # Optional text file for this variant
+                # Translated text file (existing option)
                 if self.generate_text_files.get() and variant_name in variant_texts:
                     txt_name = (
-                        f"{ocr_name.lower()}_text_{base_filename}_{variant_name}.txt"
+                        f"{ocr_name.lower()}_text_{base_filename}_{variant_name}_translated.txt"
                     )
                     txt_out = os.path.join(ocr.output_dir, txt_name)
                     with open(txt_out, "w", encoding="utf-8") as fh:
                         fh.write("\n\n".join(variant_texts[variant_name]))
-                    self.ui.log_message(f"  ✓ Saved text [{variant_name}]: {txt_name}")
+                    self.ui.log_message(
+                        f"  ✓ Saved translated text [{variant_name}]: {txt_name}"
+                    )
+
+                # Original-script text file (new option)
+                orig_key = variant_name + "__original"
+                if self.generate_original_text.get() and orig_key in variant_texts:
+                    txt_name = (
+                        f"{ocr_name.lower()}_text_{base_filename}_{variant_name}_original.txt"
+                    )
+                    txt_out = os.path.join(ocr.output_dir, txt_name)
+                    with open(txt_out, "w", encoding="utf-8") as fh:
+                        fh.write("\n\n".join(variant_texts[orig_key]))
+                    self.ui.log_message(
+                        f"  ✓ Saved original text [{variant_name}]: {txt_name}"
+                    )
 
             self.ui.log_message(
                 f"✓ PDF processing complete: {saved_pdfs} variant PDF(s) saved "
@@ -634,6 +679,8 @@ class ImageTranslatorApp:
             "translation_source": self.translation_source.get(),
             "generate_text_files": self.generate_text_files.get(),
             "translate_to_modern": self.translate_to_modern.get(),
+            "translate_onto_image": self.translate_onto_image.get(),
+            "generate_original_text": self.generate_original_text.get(),
         }
         try:
             with open(self.settings_file, "w") as f:
@@ -656,6 +703,12 @@ class ImageTranslatorApp:
                     )
                     self.translate_to_modern.set(
                         settings.get("translate_to_modern", False)
+                    )
+                    self.translate_onto_image.set(
+                        settings.get("translate_onto_image", False)
+                    )
+                    self.generate_original_text.set(
+                        settings.get("generate_original_text", False)
                     )
         except Exception:
             pass  # Use defaults if loading fails

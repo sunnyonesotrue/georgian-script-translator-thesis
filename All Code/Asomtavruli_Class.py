@@ -242,9 +242,15 @@ class AsomtavruliOCR:
         
         return "\n".join(text_lines)
 
-    def save_text_file(self, text: str, base_filename: str, variant_name: str) -> str:
-        """Save OCR text to a file."""
-        text_filename = f"asomtavruli_text_{base_filename}_{variant_name}.txt"
+    def save_text_file(self, text: str, base_filename: str, variant_name: str,
+                       label: str = "") -> str:
+        """Save OCR text to a file.
+        
+        label  — optional suffix appended before .txt, e.g. 'original' or
+                 'translated'.  Empty string keeps the old naming convention.
+        """
+        suffix = f"_{label}" if label else ""
+        text_filename = f"asomtavruli_text_{base_filename}_{variant_name}{suffix}.txt"
         text_path = os.path.join(self.output_dir, text_filename)
         
         with open(text_path, 'w', encoding='utf-8') as f:
@@ -275,8 +281,13 @@ class AsomtavruliOCR:
         name_suffix: str,
         skip_labels: Optional[set] = None,
         show: bool = False,
+        translate_onto_image: bool = False,
     ) -> str:
-        """Draw boxes + labels and save to output_dir. Returns saved path."""
+        """Draw boxes + labels and save to output_dir. Returns saved path.
+        
+        When translate_onto_image is True the drawn label is the modern
+        Georgian equivalent rather than the original Asomtavruli character.
+        """
         skip_labels = skip_labels or set([","])
 
         rgb = cv2.cvtColor(base_img, cv2.COLOR_GRAY2RGB) if base_img.ndim == 2 else base_img
@@ -289,7 +300,12 @@ class AsomtavruliOCR:
                 continue
             draw.rectangle([x, y, x + w, y + h], outline="red", width=1)
             text_y = y - 15 if y - 15 >= 0 else y + h + 2
-            draw.text((x, text_y), pred, fill="green", font=font)
+            label = (
+                self.asomtavruli_to_modern.get(pred, pred)
+                if translate_onto_image
+                else pred
+            )
+            draw.text((x, text_y), label, fill="green", font=font)
 
         out_path = os.path.join(self.output_dir, f"ocr_result_{name_suffix}.png")
         pil.save(out_path)
@@ -320,10 +336,16 @@ class AsomtavruliOCR:
         return out_path
 
     def run_on_all_thresholds(self, image_path: str, *, show: bool = False, 
-                              generate_text: bool = False, translate_text: bool = False) -> List[str]:
+                              generate_text: bool = False, translate_text: bool = False,
+                              translate_onto_image: bool = False,
+                              generate_original_text: bool = False) -> List[str]:
         """
         Apply all threshold variants and render each result.
-        Optionally generate text files with OCR results.
+        
+        generate_text          → save a translated (or raw) text file per variant
+        translate_text         → when True, text files contain Modern Georgian
+        translate_onto_image   → when True, images show Modern Georgian labels
+        generate_original_text → save a text file with original script chars per variant
         """
         if TM is None:
             raise ImportError("ThresholdManager could not be imported.")
@@ -357,17 +379,25 @@ class AsomtavruliOCR:
         for variant, name in zip(variants, names):
             boxes, preds = self.run_on_array(variant)
             
-            # Generate text file if requested
+            # Translated text file
             if generate_text and preds:
                 text_content = self.generate_text_from_boxes(boxes, preds, variant.shape, translate_text)
                 if text_content:
-                    text_path = self.save_text_file(text_content, base_filename, name)
+                    text_path = self.save_text_file(text_content, base_filename, name, label="translated" if translate_text else "")
                     print(f"[INFO] {name}: saved text file {os.path.basename(text_path)}")
             
-            # Draw visualization
+            # Original-script text file (new)
+            if generate_original_text and preds:
+                orig_content = self.generate_text_from_boxes(boxes, preds, variant.shape, translate_text=False)
+                if orig_content:
+                    orig_path = self.save_text_file(orig_content, base_filename, name, label="original")
+                    print(f"[INFO] {name}: saved original text file {os.path.basename(orig_path)}")
+            
+            # Draw visualization (optionally with translated labels)
             out_path = self.draw_predictions(variant, boxes, preds, 
                                             name_suffix=f"{base_filename}_{name}", 
-                                            show=show)
+                                            show=show,
+                                            translate_onto_image=translate_onto_image)
             saved_paths.append(out_path)
             
         return saved_paths
